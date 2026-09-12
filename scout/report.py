@@ -239,6 +239,29 @@ DASH_COLS = ["ticker", "name", "sector", "industry", "cik", "price", "market_cap
              "insider_buy_value", "insider_buyers", "flag_text"]
 
 
+def write_alert_feed(d: pd.DataFrame, screens: dict, meta):
+    """Small file the Cloudflare alert worker reads: today's top stocks, newcomers, fresh insider buying."""
+    path = DOCS_DIR / "alerts.json"
+    prev = json.loads(path.read_text()) if path.exists() else {}
+    prev_top = {s["ticker"] for s in prev.get("top", [])} if prev.get("date") != meta["date"] else \
+               set(prev.get("prev_top", []))
+    top = screens["top"].head(10)
+    recent = str((pd.Timestamp(meta["date"]) - pd.Timedelta(days=5)).date())
+    ins = screens["insider_buying"]
+    ins = ins[ins["insider_last_buy"].fillna("") >= recent]
+    feed = {
+        "date": meta["date"], "scanned": meta["scanned"],
+        "top": [{"rank": i + 1, "ticker": r["ticker"], "name": r["name"], "score": round(r["composite"]),
+                 "price": round(r["price"], 2), "flags": r["flag_text"] if isinstance(r["flag_text"], str) else ""}
+                for i, (_, r) in enumerate(top.iterrows())],
+        "new_top": [t for t in top["ticker"] if prev_top and t not in prev_top],
+        "prev_top": sorted(prev_top),
+        "insider": [{"ticker": r["ticker"], "name": r["name"], "value": round(r["insider_buy_value"]),
+                     "buyers": int(r["insider_buyers"]), "last": r["insider_last_buy"]} for _, r in ins.iterrows()],
+    }
+    path.write_text(json.dumps(feed, ensure_ascii=False, indent=1))
+
+
 def write_data(d: pd.DataFrame, screens: dict, macro, market, perf, meta):
     DATA_DIR.mkdir(exist_ok=True)
     d.to_csv(DATA_DIR / "latest.csv", index=False)
@@ -252,6 +275,7 @@ def write_data(d: pd.DataFrame, screens: dict, macro, market, perf, meta):
                "track_record": json.loads(perf.to_json(orient="records")) if not perf.empty else [],
                "stocks": records}
     DOCS_DIR.mkdir(exist_ok=True)
+    write_alert_feed(d, screens, meta)
     # One stock per line so the daily git commit stores only changed lines, not a new 2 MB blob
     stocks = payload.pop("stocks")
     head = json.dumps(payload, separators=(",", ":"))[:-1]

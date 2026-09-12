@@ -1,0 +1,10 @@
+# Stocks for the live alerts to watch (edit this on GitHub — changes apply within a minute).
+# One per line:
+#   TICKER                 alert when it moves 5%+ in a day (and again at 10%+)
+#   TICKER below 300       also alert when the price drops to $300 or lower
+#   TICKER above 250       also alert when the price rises to $250 or higher
+# The top 10 stocks from each day's scan are watched automatically as well.
+
+AAPL
+NVDA
+MSFT

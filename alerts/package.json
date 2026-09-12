@@ -1,0 +1,13 @@
+{
+  "name": "stock-scout-alerts",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev --test-scheduled"
+  },
+  "type": "module",
+  "devDependencies": {
+    "wrangler": "^4.131.1"
+  },
+  "private": "true"
+}

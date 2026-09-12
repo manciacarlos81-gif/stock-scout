@@ -64,6 +64,31 @@ has done against the S&P 500 — so you can see which screens actually work inst
    (free Pages needs a **public** repo; private repos still get the reports, just no hosted dashboard).
 4. Actions tab → daily-scan → **Run workflow** to do the first run now.
 
+## Live Telegram alerts (Cloudflare, free)
+
+`alerts/` is a small Cloudflare Worker that runs on Cloudflare's servers on a timer — your laptop can be off.
+
+- **Every 15 minutes while the US market is open** it checks the stocks in [`watchlist.txt`](watchlist.txt) plus
+  the day's top 10 from the scan, and messages you when one moves **5%+** in a day (again at 10%+) or hits a
+  price target you set (`AAPL below 300`). Each alert is sent once per day, not every 15 minutes.
+- **Once a day after the scan** it sends a summary: top 5, newcomers to the top list, fresh insider buying.
+  If the GitHub scan failed to publish, it warns you instead.
+- Edit `watchlist.txt` on GitHub (phone works too) — the worker picks up changes within a minute.
+
+Setup (once):
+
+```bash
+cd alerts && npm install
+npx wrangler login                          # opens Cloudflare in your browser (free account)
+npx wrangler deploy
+npx wrangler secret put TELEGRAM_BOT_TOKEN   # paste your bot token when asked
+npx wrangler secret put TELEGRAM_CHAT_ID     # paste your chat id when asked
+```
+
+Check it's alive: open the `https://stock-scout-alerts.<your-subdomain>.workers.dev` URL `deploy` prints — it shows
+the last price check and summary times. Live logs: `npx wrangler tail`. Tune the move size and how many
+top stocks to watch in `alerts/wrangler.jsonc` (`MOVE_PCT`, `AUTO_WATCH_TOP`), then `npx wrangler deploy` again.
+
 ## Use it in Obsidian
 
 Open the repo folder as a vault (or clone it inside your vault). `reports/latest.md` links to every stock note;

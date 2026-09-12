@@ -1,5 +1,8 @@
 venv/
 .claude/
+alerts/node_modules/
+alerts/.wrangler/
+alerts/.dev.vars
 cache/
 data/latest.csv
 __pycache__/

@@ -1,0 +1,118 @@
+{
+ "date": "2026-09-12",
+ "scanned": 2622,
+ "top": [
+  {
+   "rank": 1,
+   "ticker": "ECPG",
+   "name": "Encore Capital Group Inc",
+   "score": 82,
+   "price": 98.56,
+   "flags": "heavy debt"
+  },
+  {
+   "rank": 2,
+   "ticker": "SNDK",
+   "name": "Sandisk Corporation",
+   "score": 82,
+   "price": 1633.35,
+   "flags": ""
+  },
+  {
+   "rank": 3,
+   "ticker": "CDNA",
+   "name": "CareDx Inc.",
+   "score": 81,
+   "price": 50.26,
+   "flags": ""
+  },
+  {
+   "rank": 4,
+   "ticker": "NUTX",
+   "name": "Nutex Health Inc.",
+   "score": 81,
+   "price": 200.24,
+   "flags": "shares up 17% in a year"
+  },
+  {
+   "rank": 5,
+   "ticker": "INSW",
+   "name": "International Seaways Inc.",
+   "score": 80,
+   "price": 103.65,
+   "flags": ""
+  },
+  {
+   "rank": 6,
+   "ticker": "INCY",
+   "name": "Incyte Corp.",
+   "score": 80,
+   "price": 121.47,
+   "flags": ""
+  },
+  {
+   "rank": 7,
+   "ticker": "LPG",
+   "name": "Dorian LPG Ltd.",
+   "score": 79,
+   "price": 55.18,
+   "flags": ""
+  },
+  {
+   "rank": 8,
+   "ticker": "BFH",
+   "name": "Bread Financial Holdings Inc.",
+   "score": 79,
+   "price": 106.37,
+   "flags": ""
+  },
+  {
+   "rank": 9,
+   "ticker": "KNSA",
+   "name": "Kiniksa Pharmaceuticals International plc",
+   "score": 78,
+   "price": 76.27,
+   "flags": ""
+  },
+  {
+   "rank": 10,
+   "ticker": "EXEL",
+   "name": "Exelixis Inc.",
+   "score": 77,
+   "price": 56.12,
+   "flags": ""
+  }
+ ],
+ "new_top": [],
+ "prev_top": [],
+ "insider": [
+  {
+   "ticker": "BWFG",
+   "name": "Bankwell Financial Group Inc.",
+   "value": 1261216,
+   "buyers": 4,
+   "last": "2026-09-08"
+  },
+  {
+   "ticker": "INBX",
+   "name": "Inhibrx Biosciences Inc.",
+   "value": 3499596,
+   "buyers": 3,
+   "last": "2026-09-08"
+  },
+  {
+   "ticker": "OPFI",
+   "name": "OppFi Inc.",
+   "value": 1447280,
+   "buyers": 1,
+   "last": "2026-09-10"
+  },
+  {
+   "ticker": "GME",
+   "name": "GameStop Corporation",
+   "value": 21605932,
+   "buyers": 3,
+   "last": "2026-09-10"
+  }
+ ]
+}
