@@ -13,7 +13,7 @@ momentum: 93
 health: 69
 pe: 7.6
 piotroski: 7
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/NUTX
 - Full deep dive: run `python scout.py stock NUTX` → `research/NUTX.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

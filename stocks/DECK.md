@@ -13,7 +13,7 @@ momentum: 11
 health: 76
 pe: 10.9
 piotroski: 7
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -78,4 +78,4 @@ Consumer Discretionary · Shoe Manufacturing
 - Insider trades: http://openinsider.com/DECK
 - Full deep dive: run `python scout.py stock DECK` → `research/DECK.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

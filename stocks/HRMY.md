@@ -13,7 +13,7 @@ momentum: 72
 health: 71
 pe: 13.3
 piotroski: 5
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/HRMY
 - Full deep dive: run `python scout.py stock HRMY` → `research/HRMY.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

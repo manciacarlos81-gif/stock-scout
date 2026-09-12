@@ -13,7 +13,7 @@ momentum: 64
 health: 67
 pe: 8.1
 piotroski: 8
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -74,4 +74,4 @@ Industrials · Agricultural Chemicals
 - Insider trades: http://openinsider.com/CF
 - Full deep dive: run `python scout.py stock CF` → `research/CF.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

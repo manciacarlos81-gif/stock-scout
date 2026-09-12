@@ -13,7 +13,7 @@ momentum: 90
 health: 60
 pe: 7.3
 piotroski: 7
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/LPG
 - Full deep dive: run `python scout.py stock LPG` → `research/LPG.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

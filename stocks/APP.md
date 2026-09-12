@@ -13,7 +13,7 @@ momentum: 4
 health: 56
 pe: 24.6
 piotroski: 9
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/APP
 - Full deep dive: run `python scout.py stock APP` → `research/APP.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

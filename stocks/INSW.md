@@ -13,7 +13,7 @@ momentum: 94
 health: 73
 pe: 6.6
 piotroski: 6
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/INSW
 - Full deep dive: run `python scout.py stock INSW` → `research/INSW.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

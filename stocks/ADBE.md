@@ -13,7 +13,7 @@ momentum: 24
 health: 64
 pe: 13.9
 piotroski: 7
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -76,4 +76,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADBE
 - Full deep dive: run `python scout.py stock ADBE` → `research/ADBE.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

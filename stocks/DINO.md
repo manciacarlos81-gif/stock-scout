@@ -13,7 +13,7 @@ momentum: 93
 health: 66
 pe: 10.0
 piotroski: 7
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -75,4 +75,4 @@ Energy · Natural Gas Distribution
 - Insider trades: http://openinsider.com/DINO
 - Full deep dive: run `python scout.py stock DINO` → `research/DINO.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

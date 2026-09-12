@@ -13,7 +13,7 @@ momentum: 83
 health: 63
 pe: 24.8
 piotroski: 9
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -75,4 +75,4 @@ Finance · Finance: Consumer Services
 - Insider trades: http://openinsider.com/SEZL
 - Full deep dive: run `python scout.py stock SEZL` → `research/SEZL.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

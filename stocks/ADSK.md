@@ -13,7 +13,7 @@ momentum: 15
 health: 54
 pe: 27.0
 piotroski: 8
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -75,4 +75,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADSK
 - Full deep dive: run `python scout.py stock ADSK` → `research/ADSK.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

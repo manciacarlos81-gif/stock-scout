@@ -13,7 +13,7 @@ momentum: 66
 health: 47
 pe: 7.2
 piotroski: 6
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -74,4 +74,4 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Insider trades: http://openinsider.com/KSS
 - Full deep dive: run `python scout.py stock KSS` → `research/KSS.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

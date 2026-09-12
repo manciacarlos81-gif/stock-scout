@@ -13,7 +13,7 @@ momentum: 28
 health: 60
 pe: 20.0
 piotroski: 6
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/CHCT
 - Full deep dive: run `python scout.py stock CHCT` → `research/CHCT.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

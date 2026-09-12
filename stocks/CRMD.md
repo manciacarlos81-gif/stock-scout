@@ -13,7 +13,7 @@ momentum: 33
 health: 59
 pe: 3.3
 piotroski: 6
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/CRMD
 - Full deep dive: run `python scout.py stock CRMD` → `research/CRMD.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

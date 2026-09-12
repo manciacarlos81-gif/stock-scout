@@ -13,7 +13,7 @@ momentum: 42
 health: 63
 pe: 8.4
 piotroski: 3
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -74,4 +74,4 @@ Finance · Investment Managers
 - Insider trades: http://openinsider.com/VRTS
 - Full deep dive: run `python scout.py stock VRTS` → `research/VRTS.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

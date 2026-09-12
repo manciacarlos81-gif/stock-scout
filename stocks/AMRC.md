@@ -13,7 +13,7 @@ momentum: 25
 health: 34
 pe: 20.0
 piotroski: 5
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -78,4 +78,4 @@ Consumer Discretionary · Engineering & Construction
 - Insider trades: http://openinsider.com/AMRC
 - Full deep dive: run `python scout.py stock AMRC` → `research/AMRC.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

@@ -13,7 +13,7 @@ momentum: 22
 health: 69
 pe: 19.2
 piotroski: 6
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -74,4 +74,4 @@ Finance · Investment Managers
 - Insider trades: http://openinsider.com/HLNE
 - Full deep dive: run `python scout.py stock HLNE` → `research/HLNE.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

@@ -13,7 +13,7 @@ momentum: 67
 health: 66
 pe: 15.5
 piotroski: 9
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -74,4 +74,4 @@ Basic Materials · Precious Metals
 - Insider trades: http://openinsider.com/NEM
 - Full deep dive: run `python scout.py stock NEM` → `research/NEM.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

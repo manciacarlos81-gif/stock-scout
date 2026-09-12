@@ -13,7 +13,7 @@ momentum: 45
 health: 48
 pe: 9.4
 piotroski: 9
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -75,4 +75,4 @@ Industrials · Diversified Commercial Services
 - Insider trades: http://openinsider.com/PYPL
 - Full deep dive: run `python scout.py stock PYPL` → `research/PYPL.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

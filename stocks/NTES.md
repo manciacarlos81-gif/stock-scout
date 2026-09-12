@@ -13,7 +13,7 @@ momentum: 23
 health: 83
 pe: 14.8
 piotroski: 8
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -78,4 +78,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/NTES
 - Full deep dive: run `python scout.py stock NTES` → `research/NTES.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

@@ -13,7 +13,7 @@ momentum: 33
 health: 45
 pe: 7.3
 piotroski: 6
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -74,4 +74,4 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 - Insider trades: http://openinsider.com/ABG
 - Full deep dive: run `python scout.py stock ABG` → `research/ABG.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

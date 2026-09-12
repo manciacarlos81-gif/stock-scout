@@ -13,7 +13,7 @@ momentum: 15
 health: 64
 pe: 14.5
 piotroski: 6
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -74,4 +74,4 @@ Industrials · Homebuilding
 - Insider trades: http://openinsider.com/THO
 - Full deep dive: run `python scout.py stock THO` → `research/THO.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

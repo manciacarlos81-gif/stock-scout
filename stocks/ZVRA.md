@@ -13,7 +13,7 @@ momentum: 70
 health: 80
 pe: 12.2
 piotroski: 6
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -80,4 +80,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ZVRA
 - Full deep dive: run `python scout.py stock ZVRA` → `research/ZVRA.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

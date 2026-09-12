@@ -13,7 +13,7 @@ momentum: 73
 health: 38
 pe: 15.8
 piotroski: 9
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -73,4 +73,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/FSBC
 - Full deep dive: run `python scout.py stock FSBC` → `research/FSBC.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

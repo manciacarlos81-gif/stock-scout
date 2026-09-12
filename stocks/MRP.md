@@ -13,7 +13,7 @@ momentum: 39
 health: 89
 pe: 10.4
 piotroski: 9
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -74,4 +74,4 @@ Finance · Real Estate
 - Insider trades: http://openinsider.com/MRP
 - Full deep dive: run `python scout.py stock MRP` → `research/MRP.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

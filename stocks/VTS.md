@@ -13,7 +13,7 @@ momentum: 27
 health: 41
 pe: null
 piotroski: 8
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -79,4 +79,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/VTS
 - Full deep dive: run `python scout.py stock VTS` → `research/VTS.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

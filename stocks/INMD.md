@@ -13,7 +13,7 @@ momentum: 43
 health: 84
 pe: 9.1
 piotroski: 4
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 - Insider trades: http://openinsider.com/INMD
 - Full deep dive: run `python scout.py stock INMD` → `research/INMD.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

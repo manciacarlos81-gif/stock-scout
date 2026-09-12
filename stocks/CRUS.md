@@ -13,7 +13,7 @@ momentum: 24
 health: 86
 pe: 13.8
 piotroski: 8
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -75,4 +75,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/CRUS
 - Full deep dive: run `python scout.py stock CRUS` → `research/CRUS.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

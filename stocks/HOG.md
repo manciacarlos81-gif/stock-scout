@@ -13,7 +13,7 @@ momentum: 63
 health: 57
 pe: 14.3
 piotroski: 8
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -75,4 +75,4 @@ Consumer Discretionary · Motor Vehicles
 - Insider trades: http://openinsider.com/HOG
 - Full deep dive: run `python scout.py stock HOG` → `research/HOG.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

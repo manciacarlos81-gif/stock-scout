@@ -13,7 +13,7 @@ momentum: 53
 health: 50
 pe: 27.8
 piotroski: 8
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/GRND
 - Full deep dive: run `python scout.py stock GRND` → `research/GRND.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

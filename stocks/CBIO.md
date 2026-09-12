@@ -13,7 +13,7 @@ momentum: 80
 health: 73
 pe: null
 piotroski: 4
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -80,4 +80,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/CBIO
 - Full deep dive: run `python scout.py stock CBIO` → `research/CBIO.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

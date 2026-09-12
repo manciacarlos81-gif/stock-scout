@@ -13,7 +13,7 @@ momentum: 59
 health: 55
 pe: 9.4
 piotroski: 6
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -75,4 +75,4 @@ Consumer Discretionary · Clothing/Shoe/Accessory Stores
 - Insider trades: http://openinsider.com/GCO
 - Full deep dive: run `python scout.py stock GCO` → `research/GCO.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

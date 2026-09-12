@@ -13,7 +13,7 @@ momentum: 72
 health: 84
 pe: null
 piotroski: 2
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -81,4 +81,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/CGON
 - Full deep dive: run `python scout.py stock CGON` → `research/CGON.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_

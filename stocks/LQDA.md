@@ -13,7 +13,7 @@ momentum: 94
 health: 72
 pe: 43.1
 piotroski: 5
-updated: "2026-09-13"
+updated: "2026-09-12"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/LQDA
 - Full deep dive: run `python scout.py stock LQDA` → `research/LQDA.md`
 
-_Updated 2026-09-13 · [latest report](../reports/latest.md)_
+_Updated 2026-09-12 · [latest report](../reports/latest.md)_
