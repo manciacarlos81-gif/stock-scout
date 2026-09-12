@@ -1,0 +1,8 @@
+venv/
+.claude/
+cache/
+data/latest.csv
+__pycache__/
+*.pyc
+.DS_Store
+.obsidian/workspace*.json

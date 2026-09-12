@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Stock Scout</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔭</text></svg>">
+<style>
+:root{--bg:#f7f7f5;--panel:#fff;--ink:#1b1d21;--muted:#6b7079;--line:#e4e4e0;--accent:#2f6fde;--good:#1d8a4e;--bad:#c2412d;--chip:#eef1f6;--hi:#f1f6ff}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#121316;--panel:#1b1d21;--ink:#e8e9ec;--muted:#9097a3;--line:#2c2f35;--accent:#6ea0ff;--good:#4cc285;--bad:#ff7a66;--chip:#252932;--hi:#1f2633}}
+:root[data-theme=dark]{--bg:#121316;--panel:#1b1d21;--ink:#e8e9ec;--muted:#9097a3;--line:#2c2f35;--accent:#6ea0ff;--good:#4cc285;--bad:#ff7a66;--chip:#252932;--hi:#1f2633}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+header{padding:20px 24px 8px;display:flex;flex-wrap:wrap;gap:8px 24px;align-items:baseline}
+h1{font-size:22px;margin:0}
+.sub{color:var(--muted)}
+.warn{margin:0 24px 12px;padding:8px 12px;border-left:3px solid var(--bad);background:var(--panel);color:var(--muted);font-size:13px}
+.strip{display:flex;gap:10px;overflow-x:auto;padding:4px 24px 12px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 12px;min-width:150px;flex:0 0 auto}
+.card .k{color:var(--muted);font-size:12px}.card .v{font-size:17px;font-weight:600}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;padding:0 24px 10px}
+.tab{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:999px;padding:6px 12px;cursor:pointer;font:inherit}
+.tab.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.why{padding:0 24px 10px;color:var(--muted);max-width:900px}
+.controls{display:flex;gap:8px;flex-wrap:wrap;padding:0 24px 10px}
+input,select{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--ink)}
+.wrap{overflow-x:auto;margin:0 24px 24px;border:1px solid var(--line);border-radius:8px;background:var(--panel)}
+table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums}
+th,td{padding:7px 10px;border-bottom:1px solid var(--line);white-space:nowrap;text-align:right}
+th{position:sticky;top:0;background:var(--panel);cursor:pointer;font-weight:600;color:var(--muted);font-size:12px;user-select:none}
+th:nth-child(-n+3),td:nth-child(-n+3){text-align:left}
+tbody tr{cursor:pointer}tbody tr:hover{background:var(--hi)}
+td.name{max-width:220px;overflow:hidden;text-overflow:ellipsis}
+.sc{display:inline-block;min-width:30px;padding:1px 6px;border-radius:4px;text-align:center;font-weight:600}
+.pos{color:var(--good)}.neg{color:var(--bad)}
+.flag{color:var(--bad);font-size:12px;text-align:left;white-space:normal;min-width:160px}
+#detail{position:fixed;right:0;top:0;bottom:0;width:min(440px,100%);background:var(--panel);border-left:1px solid var(--line);padding:20px;overflow-y:auto;box-shadow:-8px 0 24px rgba(0,0,0,.12)}
+#detail h2{margin:0 0 4px}#detail .close{float:right;cursor:pointer;border:0;background:none;color:var(--muted);font-size:20px}
+.kv{display:grid;grid-template-columns:1fr auto;gap:4px 12px;margin:12px 0}.kv div:nth-child(odd){color:var(--muted)}
+.bars div{display:grid;grid-template-columns:80px 1fr 34px;gap:8px;align-items:center;margin:4px 0}
+.bar{height:8px;background:var(--chip);border-radius:4px;overflow:hidden}.bar i{display:block;height:100%;background:var(--accent)}
+a{color:var(--accent)}
+</style>
+</head>
+<body>
+<header><h1>🔭 Stock Scout</h1><span class="sub" id="meta">Loading…</span></header>
+<div class="warn">Automatic screen of public data (SEC filings, Yahoo prices, insider trades, FRED). Not financial advice — a starting point for research.</div>
+<div class="strip" id="strip"></div>
+<div class="tabs" id="tabs"></div>
+<div class="why" id="why"></div>
+<div class="controls">
+  <input id="q" placeholder="Search ticker or company" size="24">
+  <select id="sector"><option value="">All sectors</option></select>
+  <select id="minScore"><option value="0">Any score</option><option value="60">Score ≥ 60</option><option value="70">Score ≥ 70</option><option value="80">Score ≥ 80</option></select>
+</div>
+<div class="wrap"><table><thead id="th"></thead><tbody id="tb"></tbody></table></div>
+<aside id="detail" hidden></aside>
+<script>
+const $=s=>document.querySelector(s);
+const pct=(v,s)=>v==null?'–':(s&&v>0?'+':'')+(v*100).toFixed(1)+'%';
+const money=v=>{if(v==null)return'–';const a=Math.abs(v);for(const[d,u]of[[1e12,'T'],[1e9,'B'],[1e6,'M'],[1e3,'K']])if(a>=d)return(v<0?'-':'')+'$'+(a/d).toFixed(1)+u;return'$'+v.toFixed(0)};
+const num=(v,d=1)=>v==null?'–':v.toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
+const sc=v=>{if(v==null)return'–';const h=Math.round(v*1.2);return`<span class="sc" style="background:hsl(${h} 70% 50% / .18)">${v.toFixed(0)}</span>`};
+const sg=v=>`<span class="${v>0?'pos':v<0?'neg':''}">${pct(v,1)}</span>`;
+const COLS=[['ticker','Ticker',v=>`<b>${v}</b>`],['name','Company',v=>v],['sector','Sector',v=>v],['price','Price',v=>'$'+num(v,2)],['market_cap','Mkt cap',money],
+ ['composite','Score',sc],['value','Value',sc],['quality','Quality',sc],['growth','Growth',sc],['momentum','Momentum',sc],['health','Health',sc],
+ ['pe','P/E',v=>num(v)],['fcf_yield','FCF yield',v=>pct(v)],['rev_growth','Sales growth',sg],['ret_12m','12m return',sg],['flag_text','Watch out',v=>v||'']];
+let D,view='all',sortKey='composite',sortDir=-1;
+fetch('data.json').then(r=>r.json()).then(d=>{D=d;init()}).catch(()=>$('#meta').textContent='No data yet — run python scout.py scan');
+function init(){
+  const m=D.meta;$('#meta').textContent=`${m.scanned.toLocaleString()} stocks scored · prices as of ${m.price_date} · updated ${m.date}`;
+  const cards=D.market.indexes.map(i=>[i.label,`${pct(i.ret_12m,1)} <span class="sub" style="font-size:12px">12m</span>`])
+    .concat(D.macro.map(x=>[x.label.split(' (')[0],x.kind==='num'?num(x.value,1):num(x.value,2)+'%']));
+  $('#strip').innerHTML=cards.map(([k,v])=>`<div class="card"><div class="k">${k}</div><div class="v">${v}</div></div>`).join('');
+  const tabs=[{key:'all',title:'📋 All stocks',why:'Every stock that passed the size and trading filters, ranked by overall score. Click a row for details.'}].concat(D.screens);
+  $('#tabs').innerHTML=tabs.map(t=>`<button class="tab" data-k="${t.key}">${t.title} <span class="sub">${t.tickers?t.tickers.length:''}</span></button>`).join('');
+  $('#tabs').onclick=e=>{const b=e.target.closest('.tab');if(!b)return;view=b.dataset.k;render()};
+  [...new Set(D.stocks.map(s=>s.sector))].sort().forEach(s=>$('#sector').insertAdjacentHTML('beforeend',`<option>${s}</option>`));
+  ['#q','#sector','#minScore'].forEach(s=>$(s).oninput=render);
+  $('#th').innerHTML='<tr>'+COLS.map(c=>`<th data-k="${c[0]}">${c[1]}</th>`).join('')+'</tr>';
+  $('#th').onclick=e=>{const k=e.target.dataset.k;if(!k)return;sortDir=sortKey===k?-sortDir:-1;sortKey=k;render()};
+  $('#tb').onclick=e=>{const tr=e.target.closest('tr');if(tr)show(tr.dataset.t)};
+  render();
+}
+function render(){
+  document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('on',b.dataset.k===view));
+  const scr=D.screens.find(s=>s.key===view);
+  $('#why').textContent=scr?scr.why:'Every stock that passed the size and trading filters, ranked by overall score. Click a row for details.';
+  const q=$('#q').value.toLowerCase(),sec=$('#sector').value,min=+$('#minScore').value;
+  let rows=D.stocks;
+  if(scr){const order=new Map(scr.tickers.map((t,i)=>[t,i]));rows=rows.filter(s=>order.has(s.ticker));if(sortKey==='composite'&&sortDir===-1)rows.sort((a,b)=>order.get(a.ticker)-order.get(b.ticker));else rows=sorted(rows)}
+  else rows=sorted(rows);
+  rows=rows.filter(s=>(!q||s.ticker.toLowerCase().includes(q)||(s.name||'').toLowerCase().includes(q))&&(!sec||s.sector===sec)&&((s.composite??0)>=min));
+  $('#tb').innerHTML=rows.slice(0,500).map(s=>`<tr data-t="${s.ticker}">`+COLS.map(([k,,f])=>`<td class="${k==='name'?'name':k==='flag_text'?'flag':''}">${f(s[k])??'–'}</td>`).join('')+'</tr>').join('');
+}
+function noteUrl(t){ // on GitHub Pages (user.github.io/repo/) link to the note in the repo; locally, the relative file
+  const h=location.hostname;
+  if(h.endsWith('.github.io'))return`https://github.com/${h.split('.')[0]}/${location.pathname.split('/')[1]}/blob/main/stocks/${t}.md`;
+  return`../stocks/${t}.md`;
+}
+function sorted(rows){return[...rows].sort((a,b)=>{const x=a[sortKey],y=b[sortKey];if(x==null)return 1;if(y==null)return-1;return(x>y?1:x<y?-1:0)*sortDir})}
+function show(t){
+  const s=D.stocks.find(x=>x.ticker===t),inS=D.screens.filter(x=>x.tickers.includes(t)).map(x=>x.title);
+  const bars=['composite','value','quality','growth','momentum','health'].map(k=>`<div><span>${k==='composite'?'Overall':k[0].toUpperCase()+k.slice(1)}</span><span class="bar"><i style="width:${s[k]??0}%"></i></span><b>${s[k]==null?'–':s[k].toFixed(0)}</b></div>`).join('');
+  const kv=[['Price','$'+num(s.price,2)],['Market value',money(s.market_cap)],['P/E',num(s.pe)],['Price/Sales',num(s.ps,2)],['Price/Book',num(s.pb,2)],
+   ['Free-cash-flow yield',pct(s.fcf_yield)],['Dividend yield',pct(s.dividend_yield)],['Return on equity',pct(s.roe)],['Operating margin',pct(s.op_margin)],
+   ['Sales growth (12m)',pct(s.rev_growth,1)],['Profit growth (12m)',pct(s.ni_growth,1)],['Debt / equity',num(s.debt_to_equity,2)],['Piotroski F-score',s.piotroski==null?'–':s.piotroski+'/9'],
+   ['Altman Z',num(s.altman_z,2)],['Return 1m / 6m / 12m',`${pct(s.ret_1m,1)} / ${pct(s.ret_6m,1)} / ${pct(s.ret_12m,1)}`],['Below 52-week high',pct(s.pct_below_high)],
+   ['RSI (14d)',num(s.rsi14,0)],['Insider buying (90d)',s.insider_buy_value?money(s.insider_buy_value)+` · ${s.insider_buyers} people`:'–']];
+  $('#detail').innerHTML=`<button class="close" onclick="this.parentNode.hidden=true">✕</button><h2>${s.ticker}</h2><div>${s.name}</div><div class="sub">${s.sector} · ${s.industry||''}</div>
+   ${inS.length?`<p>In: ${inS.join(', ')}</p>`:''}<div class="bars">${bars}</div>
+   <div class="kv">${kv.map(([k,v])=>`<div>${k}</div><div>${v}</div>`).join('')}</div>
+   ${s.flag_text?`<p class="neg">⚠️ ${s.flag_text}</p>`:''}
+   <p><a href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${s.cik}" target="_blank" rel="noopener">SEC filings</a> ·
+   <a href="https://finance.yahoo.com/quote/${s.ticker}" target="_blank" rel="noopener">Yahoo Finance</a> ·
+   <a href="http://openinsider.com/${s.ticker}" target="_blank" rel="noopener">Insider trades</a> ·
+   <a href="${noteUrl(s.ticker)}" target="_blank" rel="noopener">Full note</a></p>`;
+  $('#detail').hidden=false;
+}
+</script>
+</body>
+</html>
