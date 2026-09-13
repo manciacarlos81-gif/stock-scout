@@ -16,6 +16,11 @@ export default {
   },
   // Visiting the worker's URL shows when it last ran (handy to confirm it's alive)
   async fetch(request, env) {
+    // ?quote=AAPL shows what Yahoo returns from Cloudflare's servers (read-only, sends nothing)
+    const t = new URL(request.url).searchParams.get("quote");
+    if (t && /^[A-Za-z.\-]{1,8}$/.test(t)) {
+      return Response.json({ ticker: t.toUpperCase(), quote: await quote(t.toUpperCase()) });
+    }
     const [prices, digest] = await Promise.all([env.STATE.get("last_price_check"), env.STATE.get("last_digest")]);
     const body = { ok: true, last_price_check: JSON.parse(prices || "null"), last_digest: JSON.parse(digest || "null") };
     return new Response(JSON.stringify(body, null, 2), { headers: { "content-type": "application/json" } });

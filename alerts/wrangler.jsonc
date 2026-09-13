@@ -1,26 +1,29 @@
 {
-  "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "stock-scout-alerts",
-  "main": "src/index.js",
-  "compatibility_date": "2026-06-05",
-  "workers_dev": true,
-
-  // Remembers which alerts were already sent so you don't get the same one every 15 minutes.
-  // No id: Cloudflare creates the storage automatically on first deploy.
-  "kv_namespaces": [{ "binding": "STATE" }],
-
-  "triggers": {
-    "crons": [
-      "*/15 13-21 * * MON-FRI",  // every 15 min over US market hours (the code skips times the market is closed)
-      "15 23 * * MON-FRI"        // daily summary, after the GitHub scan (22:30 UTC) has published
-    ]
-  },
-
-  "vars": {
-    "DIGEST_CRON": "15 23 * * MON-FRI", // must match the second cron above
-    "MOVE_PCT": "5",                     // alert on daily moves of 5%+ (and again at double that)
-    "AUTO_WATCH_TOP": "10"               // also watch the top N stocks from the latest scan
-  },
-
-  "observability": { "enabled": true }
+	"$schema": "./node_modules/wrangler/config-schema.json",
+	"name": "stock-scout-alerts",
+	"main": "src/index.js",
+	"compatibility_date": "2026-06-05",
+	"workers_dev": true,
+	// Remembers which alerts were already sent so you don't get the same one every 15 minutes.
+	// No id: Cloudflare creates the storage automatically on first deploy.
+	"kv_namespaces": [
+		{
+			"binding": "STATE",
+			"id": "8c90dc8566be49a6ba01fa9af2870fa3"
+		}
+	],
+	"triggers": {
+		"crons": [
+			"*/15 13-21 * * MON-FRI", // every 15 min over US market hours (the code skips times the market is closed)
+			"15 23 * * MON-FRI" // daily summary, after the GitHub scan (22:30 UTC) has published
+		]
+	},
+	"vars": {
+		"DIGEST_CRON": "15 23 * * MON-FRI", // must match the second cron above
+		"MOVE_PCT": "5", // alert on daily moves of 5%+ (and again at double that)
+		"AUTO_WATCH_TOP": "10" // also watch the top N stocks from the latest scan
+	},
+	"observability": {
+		"enabled": true
+	}
 }
