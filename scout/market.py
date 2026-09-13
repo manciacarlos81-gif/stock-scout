@@ -58,10 +58,26 @@ def universe() -> pd.DataFrame:
     return df.reset_index(drop=True)
 
 
+def _field(df: pd.DataFrame, field: str, tickers: list[str]) -> pd.DataFrame:
+    """One column per ticker for ``field``, whatever shape yfinance handed back.
+
+    For a multi-ticker request the columns are a (field, ticker) MultiIndex and
+    ``df[field]`` is already ticker-keyed. For a request of a single ticker the
+    columns are flat, so ``df[field]`` is a Series named after the field — left
+    alone it would enter the scan as a column literally called "Close" while the
+    ticker itself vanished. Name it after the ticker instead.
+    """
+    part = df[field]
+    if isinstance(part, pd.Series):
+        return part.to_frame(name=tickers[0])
+    return part
+
+
 def download_prices(tickers: list[str], period="2y", chunk=200) -> tuple[pd.DataFrame, pd.DataFrame]:
     """Daily adjusted closes and volumes, one column per ticker."""
     logging.getLogger("yfinance").setLevel(logging.CRITICAL)
     closes, vols = [], []
+    failed = 0
     for i in range(0, len(tickers), chunk):
         part = tickers[i:i + chunk]
         for attempt in range(3):
@@ -73,13 +89,24 @@ def download_prices(tickers: list[str], period="2y", chunk=200) -> tuple[pd.Data
                 print(f"  price download retry ({e.__class__.__name__})")
                 time.sleep(20 * (attempt + 1))
         else:
+            failed += len(part)
             continue
         if df.empty:
+            failed += len(part)
             continue
-        closes.append(df["Close"])
-        vols.append(df["Volume"])
+        closes.append(_field(df, "Close", part))
+        vols.append(_field(df, "Volume", part))
         print(f"  prices {min(i + chunk, len(tickers))}/{len(tickers)}", end="\r")
     print()
+    if not closes:
+        # Without prices every downstream metric is nan and the scan would write
+        # an empty report over yesterday's good one. Stop here instead.
+        raise RuntimeError(
+            f"no price data for any of the {len(tickers)} tickers "
+            "(Yahoo Finance unreachable or rate-limiting); scan aborted"
+        )
+    if failed:
+        print(f"  warning: no prices for {failed} of {len(tickers)} tickers")
     close = pd.concat(closes, axis=1)
     vol = pd.concat(vols, axis=1)
     close = close.loc[:, ~close.columns.duplicated()].sort_index()

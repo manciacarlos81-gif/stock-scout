@@ -153,7 +153,8 @@ def write_report(d, screens, macro, market, perf, meta) -> str:
     md = "\n\n".join(parts) + "\n"
     REPORTS_DIR.mkdir(exist_ok=True)
     (REPORTS_DIR / f"{today}.md").write_text(md)
-    (REPORTS_DIR / "latest.md").write_text(md.replace("](../stocks/", "](../stocks/"))
+    # latest.md sits in reports/ alongside the dated copy, so its relative links match.
+    (REPORTS_DIR / "latest.md").write_text(md)
     return md
 
 
