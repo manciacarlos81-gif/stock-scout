@@ -25,6 +25,11 @@ export default {
         `hours and a daily summary after each scan.\n<a href="${SITE}/">Dashboard</a>`);
       return Response.json({ sent: true, telegram: result });
     }
+    // ?send=digest sends the latest daily summary now (safe to expose: each report is only ever sent once)
+    if (params.get("send") === "digest") {
+      await dailyDigest(env);
+      return Response.json({ last_digest: JSON.parse((await env.STATE.get("last_digest")) || "null") });
+    }
     const t = params.get("quote");
     if (t && /^[A-Za-z.\-]{1,8}$/.test(t)) {
       return Response.json({ ticker: t.toUpperCase(), quote: await quote(t.toUpperCase()) });
