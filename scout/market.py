@@ -31,7 +31,9 @@ def universe() -> pd.DataFrame:
         raw = pd.DataFrame(r.json()["data"]["rows"])
         df = pd.DataFrame({
             "ticker": raw["symbol"].str.strip().str.upper().str.replace("/", "-", regex=False),
-            "name": raw["name"].str.strip(),
+            # Downstream (report rendering, sector labels) treats "name" as always a
+            # string; a null company name from the screener must become "", not NaN.
+            "name": raw["name"].fillna("").str.strip(),
             "sector": raw["sector"].replace("", "Other").fillna("Other"),
             "industry": raw["industry"].fillna(""),
             "country": raw["country"].fillna(""),
@@ -45,7 +47,12 @@ def universe() -> pd.DataFrame:
         print(f"  Nasdaq stock list unavailable ({e.__class__.__name__}); using saved copy")
         df = pd.read_csv(path)
 
-    df = df[~df["ticker"].str.contains(r"[\^\s]", regex=True) & ~df["name"].str.contains(NOT_COMMON)]
+    # na=False: a null ticker or name (the Nasdaq screener occasionally ships one)
+    # must not match these masks, not crash them — `~` on a `str.contains` result
+    # that contains a bare None/NaN (object-dtype column, no match to report)
+    # raises TypeError, which would take down the whole scan over one bad row.
+    df = df[~df["ticker"].str.contains(r"[\^\s]", regex=True, na=False)
+            & ~df["name"].str.contains(NOT_COMMON, na=False)]
     df = df[df["industry"] != "Blank Checks"]
     df["name"] = df["name"].str.replace(
         r"\s+(?:Class [A-Z] )?(?:Common Stock|Ordinary Shares|Common Shares|Capital Stock|"

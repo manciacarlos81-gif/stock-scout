@@ -108,3 +108,45 @@ def test_price_metrics_survive_a_short_history():
     assert np.isnan(m.loc["NEW", "ret_12m"])
     assert np.isnan(m.loc["NEW", "sma200"])
     assert m.loc["NEW", "price"] == pytest.approx(close["NEW"].iloc[-1])
+
+
+class _FakeResponse:
+    def __init__(self, payload):
+        self._payload = payload
+
+    def raise_for_status(self):
+        pass
+
+    def json(self):
+        return self._payload
+
+
+def test_universe_survives_a_null_company_name(monkeypatch, tmp_path):
+    """A blank/null name from the Nasdaq screener used to crash the whole scan.
+
+    ``~series.str.contains(...)`` raises TypeError the moment the underlying
+    object-dtype column holds a bare None/NaN for a row that pattern never
+    matched, because there is nothing to negate. One bad row on a public,
+    uncontrolled feed took the entire scan down with it.
+    """
+    monkeypatch.setattr(market, "DATA_DIR", tmp_path)  # never touch the committed data/ copy
+    rows = [
+        {"symbol": "AAA", "name": None, "sector": "Tech", "industry": "Software",
+         "country": "US", "marketCap": "1000000000", "lastsale": "$10.00", "volume": "100000"},
+        {"symbol": "BBB", "name": "Beta Inc Common Stock", "sector": "Tech", "industry": "Software",
+         "country": "US", "marketCap": "2000000000", "lastsale": "$5.00", "volume": "200000"},
+        {"symbol": "WWW", "name": "Gamma Warrants", "sector": "Tech", "industry": "Software",
+         "country": "US", "marketCap": "500000000", "lastsale": "$1.00", "volume": "50000"},
+    ]
+    monkeypatch.setattr(
+        market.requests, "get",
+        lambda *a, **kw: _FakeResponse({"data": {"rows": rows}}),
+    )
+    monkeypatch.setattr(
+        market.sec, "ticker_map",
+        lambda: pd.DataFrame({"ticker": ["AAA", "BBB", "WWW"],
+                              "cik": [1, 2, 3], "exchange": ["Q", "Q", "Q"]}),
+    )
+    df = market.universe()  # must not raise
+    assert set(df["ticker"]) == {"AAA", "BBB"}  # the warrants row is excluded, the null-name row survives
+    assert df.loc[df["ticker"] == "AAA", "name"].iloc[0] == ""
