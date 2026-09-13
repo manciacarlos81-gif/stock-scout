@@ -17,7 +17,15 @@ export default {
   // Visiting the worker's URL shows when it last ran (handy to confirm it's alive)
   async fetch(request, env) {
     // ?quote=AAPL shows what Yahoo returns from Cloudflare's servers (read-only, sends nothing)
-    const t = new URL(request.url).searchParams.get("quote");
+    const params = new URL(request.url).searchParams;
+    // ?test=telegram sends one test message (at most once an hour, so the public URL can't be used to spam you)
+    if (params.get("test") === "telegram") {
+      if (!(await once(env, "telegram-test", 3600))) return Response.json({ sent: false, reason: "already sent in the last hour" });
+      const result = await telegram(env, "✅ <b>Stock Scout alerts are connected.</b>\nYou'll get price alerts during US market " +
+        `hours and a daily summary after each scan.\n<a href="${SITE}/">Dashboard</a>`);
+      return Response.json({ sent: true, telegram: result });
+    }
+    const t = params.get("quote");
     if (t && /^[A-Za-z.\-]{1,8}$/.test(t)) {
       return Response.json({ ticker: t.toUpperCase(), quote: await quote(t.toUpperCase()) });
     }
@@ -149,7 +157,9 @@ async function telegram(env, html) {
     headers: { "content-type": "application/json" },
     body: JSON.stringify({ chat_id: env.TELEGRAM_CHAT_ID, text: html, parse_mode: "HTML", disable_web_page_preview: true }),
   });
-  if (!r.ok) console.log("Telegram error", r.status, await r.text());
+  const res = await r.json().catch(() => ({}));
+  if (!r.ok) console.log("Telegram error", r.status, res.description);
+  return { ok: r.ok, status: r.status, error: res.description || null };
 }
 
 // true the first time a key is seen (then remembered for ttl seconds) — stops repeat alerts
