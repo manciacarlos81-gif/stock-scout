@@ -9,11 +9,11 @@ score: 46
 value: 53
 quality: 46
 growth: 51
-momentum: 23
+momentum: 22
 health: 61
 pe: 16.2
 piotroski: 5
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,13 +30,13 @@ Consumer Discretionary · Professional Services
 - Cheaper than about 53% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 46% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price down 10% over 12 months (21% below its 52-week high).
+- Share price down 9% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **46** | 53 | 46 | 51 | 23 | 61 |
+| **46** | 53 | 46 | 51 | 22 | 61 |
 
 ## Key numbers
 
@@ -61,7 +61,7 @@ Consumer Discretionary · Professional Services
 | Piotroski F-score | 5/9 |
 | Altman Z | 3.44 |
 | Share count change (1y) | -13.6% |
-| Return 1m / 6m / 12m | -3.5% / -8.6% / -9.9% |
+| Return 1m / 6m / 12m | -2.5% / -9.4% / -9.2% |
 | vs. 200-day average | -9.9% |
 | RSI (14d) | 39 |
 | Volatility (1y) | 29.4% |
@@ -74,4 +74,4 @@ Consumer Discretionary · Professional Services
 - Insider trades: http://openinsider.com/FCN
 - Full deep dive: run `python scout.py stock FCN` → `research/FCN.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

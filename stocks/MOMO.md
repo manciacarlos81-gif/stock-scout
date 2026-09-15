@@ -13,7 +13,7 @@ momentum: 14
 health: 78
 pe: 6.3
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,7 +31,7 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 97% of stocks in Technology (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 31% over 12 months (33% below its 52-week high).
+- Share price down 32% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -62,8 +62,8 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 7/9 |
 | Altman Z | 3.60 |
 | Share count change (1y) | -9.4% |
-| Return 1m / 6m / 12m | -13.9% / -14.0% / -30.7% |
-| vs. 200-day average | -17.9% |
+| Return 1m / 6m / 12m | -13.9% / -13.6% / -32.0% |
+| vs. 200-day average | -17.8% |
 | RSI (14d) | 27 |
 | Volatility (1y) | 28.7% |
 | Financials as of | 2025-12-31 |
@@ -79,4 +79,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/MOMO
 - Full deep dive: run `python scout.py stock MOMO` → `research/MOMO.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 73
 value: 89
 quality: 84
 growth: 44
-momentum: 60
+momentum: 59
 health: 74
 pe: 13.4
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,13 +30,13 @@ Technology · Industrial Machinery/Components
 - Cheaper than about 89% of stocks in Technology (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price down 11% over 12 months (14% below its 52-week high).
+- Share price down 10% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 89 | 84 | 44 | 60 | 74 |
+| **73** | 89 | 84 | 44 | 59 | 74 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Technology · Industrial Machinery/Components
 | Piotroski F-score | 8/9 |
 | Altman Z | 5.74 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -5.2% / +40.9% / -11.2% |
-| vs. 200-day average | +23.7% |
+| Return 1m / 6m / 12m | -2.4% / +39.2% / -10.4% |
+| vs. 200-day average | +23.5% |
 | RSI (14d) | 54 |
 | Volatility (1y) | 44.3% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Technology · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/CRCT
 - Full deep dive: run `python scout.py stock CRCT` → `research/CRCT.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

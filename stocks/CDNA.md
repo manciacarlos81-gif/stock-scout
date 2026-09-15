@@ -13,7 +13,7 @@ momentum: 99
 health: 83
 pe: 23.4
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,7 +31,7 @@ Health Care · Medical Specialities
 - Cheaper than about 68% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 271% over 12 months (4% below its 52-week high).
+- Share price up 258% over 12 months (4% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -62,8 +62,8 @@ Health Care · Medical Specialities
 | Piotroski F-score | 6/9 |
 | Altman Z | 15.48 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +6.1% / +190.2% / +271.5% |
-| vs. 200-day average | +93.9% |
+| Return 1m / 6m / 12m | +10.9% / +185.6% / +258.5% |
+| vs. 200-day average | +92.6% |
 | RSI (14d) | 62 |
 | Volatility (1y) | 71.4% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CDNA
 - Full deep dive: run `python scout.py stock CDNA` → `research/CDNA.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

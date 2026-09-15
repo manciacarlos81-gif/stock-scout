@@ -5,15 +5,15 @@ sector: "Finance"
 industry: "Investment Managers"
 price: 147.41
 market_cap: "$976.3M"
-score: 53
+score: 52
 value: 85
 quality: 41
 growth: 21
-momentum: 42
-health: 63
+momentum: 40
+health: 64
 pe: 8.4
 piotroski: 3
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,13 +30,13 @@ Finance · Investment Managers
 - Cheaper than about 85% of stocks in Finance (value score).
 - Business quality ranks above 41% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price down 21% over 12 months (20% below its 52-week high).
+- Share price down 20% over 12 months (19% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 85 | 41 | 21 | 42 | 63 |
+| **52** | 85 | 41 | 21 | 40 | 64 |
 
 ## Key numbers
 
@@ -61,7 +61,7 @@ Finance · Investment Managers
 | Piotroski F-score | 3/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -13.4% / +21.3% / -20.9% |
+| Return 1m / 6m / 12m | -12.8% / +15.6% / -19.5% |
 | vs. 200-day average | -0.2% |
 | RSI (14d) | 28 |
 | Volatility (1y) | 34.7% |
@@ -74,4 +74,4 @@ Finance · Investment Managers
 - Insider trades: http://openinsider.com/VRTS
 - Full deep dive: run `python scout.py stock VRTS` → `research/VRTS.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

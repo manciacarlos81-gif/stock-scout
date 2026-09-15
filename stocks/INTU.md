@@ -9,11 +9,11 @@ score: 60
 value: 77
 quality: 87
 growth: 62
-momentum: 6
+momentum: 5
 health: 56
 pe: 18.8
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,7 +36,7 @@ Technology · Computer Software: Prepackaged Software
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 77 | 87 | 62 | 6 | 56 |
+| **60** | 77 | 87 | 62 | 5 | 56 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 8/9 |
 | Altman Z | 4.90 |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -10.2% / -28.4% / -49.7% |
-| vs. 200-day average | -22.5% |
+| Return 1m / 6m / 12m | -7.0% / -29.5% / -50.1% |
+| vs. 200-day average | -22.2% |
 | RSI (14d) | 44 |
 | Volatility (1y) | 48.7% |
 | Financials as of | 2026-07-31 |
@@ -78,4 +78,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/INTU
 - Full deep dive: run `python scout.py stock INTU` → `research/INTU.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

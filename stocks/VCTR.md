@@ -13,7 +13,7 @@ momentum: 89
 health: 85
 pe: 14.7
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,7 +30,7 @@ Finance · Investment Managers
 - Cheaper than about 51% of stocks in Finance (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 52% over the last 12 months.
-- Share price up 65% over 12 months (9% below its 52-week high).
+- Share price up 66% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,10 +61,10 @@ Finance · Investment Managers
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -6.2% / +65.4% / +64.8% |
-| vs. 200-day average | +36.4% |
+| Return 1m / 6m / 12m | -6.3% / +62.3% / +65.9% |
+| vs. 200-day average | +36.0% |
 | RSI (14d) | 47 |
-| Volatility (1y) | 31.4% |
+| Volatility (1y) | 31.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Finance · Investment Managers
 - Insider trades: http://openinsider.com/VCTR
 - Full deep dive: run `python scout.py stock VCTR` → `research/VCTR.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

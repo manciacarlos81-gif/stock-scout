@@ -9,11 +9,11 @@ score: 44
 value: 50
 quality: 63
 growth: 27
-momentum: 27
+momentum: 28
 health: 41
 pe: null
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,14 +30,14 @@ Energy · Oil & Gas Production
 - Cheaper than about 50% of stocks in Energy (value score).
 - Business quality ranks above 63% of all stocks scanned.
 - Sales grew 9% over the last 12 months.
-- Share price down 18% over 12 months (18% below its 52-week high).
+- Share price down 16% over 12 months (18% below its 52-week high).
 - Insiders bought $660.5K of shares recently (Steinberg Joseph S (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **44** | 50 | 63 | 27 | 27 | 41 |
+| **44** | 50 | 63 | 27 | 28 | 41 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 8/9 |
 | Altman Z | 1.95 |
 | Share count change (1y) | +4.6% |
-| Return 1m / 6m / 12m | +15.8% / -0.4% / -17.6% |
+| Return 1m / 6m / 12m | +15.7% / +0.2% / -16.2% |
 | vs. 200-day average | +4.7% |
 | RSI (14d) | 80 |
-| Volatility (1y) | 31.5% |
+| Volatility (1y) | 31.4% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/VTS
 - Full deep dive: run `python scout.py stock VTS` → `research/VTS.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

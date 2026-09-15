@@ -9,11 +9,11 @@ score: 52
 value: 29
 quality: 88
 growth: 74
-momentum: 11
+momentum: 10
 health: 62
 pe: 26.1
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,13 +30,13 @@ Consumer Discretionary · Business Services
 - More expensive than about 71% of Consumer Discretionary peers (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price down 36% over 12 months (48% below its 52-week high).
+- Share price down 37% over 12 months (48% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 29 | 88 | 74 | 11 | 62 |
+| **52** | 29 | 88 | 74 | 10 | 62 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 8.92 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -11.3% / -15.2% / -36.2% |
-| vs. 200-day average | -23.1% |
+| Return 1m / 6m / 12m | -9.2% / -17.9% / -36.6% |
+| vs. 200-day average | -22.9% |
 | RSI (14d) | 40 |
 | Volatility (1y) | 56.9% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/FICO
 - Full deep dive: run `python scout.py stock FICO` → `research/FICO.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

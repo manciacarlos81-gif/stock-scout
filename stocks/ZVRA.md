@@ -5,15 +5,15 @@ sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
 price: 12.01
 market_cap: "$713.2M"
-score: 74
+score: 75
 value: 75
 quality: 65
 growth: 88
-momentum: 70
+momentum: 73
 health: 80
 pe: 12.2
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,13 +30,13 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 75% of stocks in Health Care (value score).
 - Business quality ranks above 65% of all stocks scanned.
 - Sales grew 119% over the last 12 months.
-- Share price up 55% over 12 months (19% below its 52-week high).
+- Share price up 66% over 12 months (19% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 75 | 65 | 88 | 70 | 80 |
+| **75** | 75 | 65 | 88 | 73 | 80 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 6/9 |
 | Altman Z | 5.45 |
 | Share count change (1y) | +8.9% |
-| Return 1m / 6m / 12m | +7.4% / +21.7% / +55.0% |
-| vs. 200-day average | +15.8% |
+| Return 1m / 6m / 12m | +6.1% / +21.3% / +66.1% |
+| vs. 200-day average | +15.6% |
 | RSI (14d) | 51 |
 | Volatility (1y) | 62.9% |
 | Financials as of | 2026-06-30 |
@@ -80,4 +80,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ZVRA
 - Full deep dive: run `python scout.py stock ZVRA` → `research/ZVRA.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

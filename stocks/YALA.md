@@ -13,7 +13,7 @@ momentum: 14
 health: 81
 pe: 5.6
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 94% of stocks in Technology (value score).
 - Business quality ranks above 67% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price down 26% over 12 months (30% below its 52-week high).
+- Share price down 28% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 6/9 |
 | Altman Z | 7.90 |
 | Share count change (1y) | -1.7% |
-| Return 1m / 6m / 12m | +1.5% / -14.3% / -26.3% |
-| vs. 200-day average | -12.8% |
+| Return 1m / 6m / 12m | +0.4% / -12.8% / -28.0% |
+| vs. 200-day average | -12.7% |
 | RSI (14d) | 52 |
 | Volatility (1y) | 31.8% |
 | Financials as of | 2025-12-31 |
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/YALA
 - Full deep dive: run `python scout.py stock YALA` → `research/YALA.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

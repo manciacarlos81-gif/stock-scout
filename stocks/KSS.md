@@ -9,11 +9,11 @@ score: 63
 value: 98
 quality: 53
 growth: 35
-momentum: 66
+momentum: 64
 health: 47
 pe: 7.2
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,13 +30,13 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Cheaper than about 98% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 16% over 12 months (28% below its 52-week high).
+- Share price up 11% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 98 | 53 | 35 | 66 | 47 |
+| **63** | 98 | 53 | 35 | 64 | 47 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Consumer Discretionary · Department/Specialty Retail Stores
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.5% |
-| Return 1m / 6m / 12m | -11.6% / +35.4% / +16.0% |
-| vs. 200-day average | +1.4% |
+| Return 1m / 6m / 12m | -9.7% / +39.1% / +10.6% |
+| vs. 200-day average | +1.6% |
 | RSI (14d) | 43 |
-| Volatility (1y) | 74.0% |
+| Volatility (1y) | 73.9% |
 | Financials as of | 2026-08-01 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Insider trades: http://openinsider.com/KSS
 - Full deep dive: run `python scout.py stock KSS` → `research/KSS.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

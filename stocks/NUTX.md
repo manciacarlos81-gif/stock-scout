@@ -9,11 +9,11 @@ score: 81
 value: 82
 quality: 87
 growth: 62
-momentum: 93
+momentum: 94
 health: 69
 pe: 7.6
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,13 +31,13 @@ Consumer Discretionary · Business Services
 - Cheaper than about 82% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 106% over 12 months (0% below its 52-week high).
+- Share price up 109% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **81** | 82 | 87 | 62 | 93 | 69 |
+| **81** | 82 | 87 | 62 | 94 | 69 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 4.25 |
 | Share count change (1y) | +17.1% |
-| Return 1m / 6m / 12m | +7.2% / +116.0% / +106.0% |
-| vs. 200-day average | +40.2% |
+| Return 1m / 6m / 12m | +6.8% / +113.0% / +109.3% |
+| vs. 200-day average | +39.7% |
 | RSI (14d) | 62 |
-| Volatility (1y) | 92.1% |
+| Volatility (1y) | 91.7% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/NUTX
 - Full deep dive: run `python scout.py stock NUTX` → `research/NUTX.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

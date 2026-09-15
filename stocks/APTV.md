@@ -6,14 +6,14 @@ industry: "Auto Parts:O.E.M."
 price: 45.54
 market_cap: "$9.5B"
 score: 46
-value: 72
+value: 71
 quality: 55
 growth: 41
 momentum: 4
 health: 47
 pe: 43.0
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,7 +27,7 @@ Consumer Discretionary · Auto Parts:O.E.M.
 
 ## In plain English
 
-- Cheaper than about 72% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 71% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 17% over the last 12 months.
 - Share price down 45% over 12 months (49% below its 52-week high).
@@ -37,7 +37,7 @@ Consumer Discretionary · Auto Parts:O.E.M.
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **46** | 72 | 55 | 41 | 4 | 47 |
+| **46** | 71 | 55 | 41 | 4 | 47 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Auto Parts:O.E.M.
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.61 |
 | Share count change (1y) | -2.8% |
-| Return 1m / 6m / 12m | -7.4% / -36.4% / -45.0% |
-| vs. 200-day average | -30.6% |
+| Return 1m / 6m / 12m | -8.1% / -36.8% / -45.0% |
+| vs. 200-day average | -30.4% |
 | RSI (14d) | 40 |
 | Volatility (1y) | 43.2% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Auto Parts:O.E.M.
 - Insider trades: http://openinsider.com/APTV
 - Full deep dive: run `python scout.py stock APTV` → `research/APTV.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

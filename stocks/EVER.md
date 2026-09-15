@@ -13,7 +13,7 @@ momentum: 62
 health: 65
 pe: 7.4
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 90% of stocks in Technology (value score).
 - Business quality ranks above 69% of all stocks scanned.
 - Sales grew 23% over the last 12 months.
-- Share price down 2% over 12 months (14% below its 52-week high).
+- Share price down 1% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 7/9 |
 | Altman Z | 9.54 |
 | Share count change (1y) | -4.9% |
-| Return 1m / 6m / 12m | -2.2% / +52.5% / -2.2% |
-| vs. 200-day average | +12.3% |
+| Return 1m / 6m / 12m | -1.8% / +50.5% / -1.2% |
+| vs. 200-day average | +12.4% |
 | RSI (14d) | 44 |
 | Volatility (1y) | 81.7% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/EVER
 - Full deep dive: run `python scout.py stock EVER` → `research/EVER.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

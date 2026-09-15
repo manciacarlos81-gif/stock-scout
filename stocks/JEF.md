@@ -9,11 +9,11 @@ score: 58
 value: 78
 quality: null
 growth: 63
-momentum: 48
+momentum: 47
 health: 47
 pe: 11.7
 piotroski: 4
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -36,7 +36,7 @@ Finance · Investment Bankers/Brokers/Service
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 78 | – | 63 | 48 | 47 |
+| **58** | 78 | – | 63 | 47 | 47 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Finance · Investment Bankers/Brokers/Service
 | Piotroski F-score | 4/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.4% |
-| Return 1m / 6m / 12m | -6.3% / +43.4% / -19.7% |
-| vs. 200-day average | -1.6% |
+| Return 1m / 6m / 12m | -5.1% / +38.5% / -20.0% |
+| vs. 200-day average | -1.5% |
 | RSI (14d) | 41 |
 | Volatility (1y) | 43.0% |
 | Financials as of | 2026-05-31 |
@@ -74,4 +74,4 @@ Finance · Investment Bankers/Brokers/Service
 - Insider trades: http://openinsider.com/JEF
 - Full deep dive: run `python scout.py stock JEF` → `research/JEF.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

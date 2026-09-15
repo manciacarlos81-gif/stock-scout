@@ -13,7 +13,7 @@ momentum: 59
 health: 66
 pe: 23.5
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -61,8 +61,8 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 6.97 |
 | Share count change (1y) | -11.5% |
-| Return 1m / 6m / 12m | -2.7% / +25.7% / +5.1% |
-| vs. 200-day average | +14.6% |
+| Return 1m / 6m / 12m | -0.3% / +27.7% / +5.1% |
+| vs. 200-day average | +14.5% |
 | RSI (14d) | 49 |
 | Volatility (1y) | 43.7% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/CART
 - Full deep dive: run `python scout.py stock CART` → `research/CART.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

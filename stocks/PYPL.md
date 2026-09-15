@@ -13,7 +13,7 @@ momentum: 45
 health: 48
 pe: 9.4
 piotroski: 9
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -31,7 +31,6 @@ Industrials · Diversified Commercial Services
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
 - Share price down 19% over 12 months (29% below its 52-week high).
-- Insiders bought $254.5K of shares recently (Miller Jamie S (Chief Fin, Op Officer)).
 
 ## Scores (0–100, higher is better)
 
@@ -62,8 +61,8 @@ Industrials · Diversified Commercial Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 1.87 |
 | Share count change (1y) | -9.7% |
-| Return 1m / 6m / 12m | -11.1% / +19.0% / -18.8% |
-| vs. 200-day average | +6.4% |
+| Return 1m / 6m / 12m | -12.7% / +17.1% / -19.1% |
+| vs. 200-day average | +6.5% |
 | RSI (14d) | 43 |
 | Volatility (1y) | 44.1% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +74,4 @@ Industrials · Diversified Commercial Services
 - Insider trades: http://openinsider.com/PYPL
 - Full deep dive: run `python scout.py stock PYPL` → `research/PYPL.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

@@ -5,7 +5,7 @@ sector: "Health Care"
 industry: "Precision Instruments"
 price: 71.25
 market_cap: "$14.4B"
-score: 61
+score: 60
 value: 66
 quality: 83
 growth: 53
@@ -13,7 +13,7 @@ momentum: 27
 health: 67
 pe: 28.5
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,13 +30,13 @@ Health Care · Precision Instruments
 - Cheaper than about 66% of stocks in Health Care (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 7% over 12 months (32% below its 52-week high).
+- Share price up 6% over 12 months (32% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 66 | 83 | 53 | 27 | 67 |
+| **60** | 66 | 83 | 53 | 27 | 67 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Health Care · Precision Instruments
 | Piotroski F-score | 8/9 |
 | Altman Z | 7.84 |
 | Share count change (1y) | +0.5% |
-| Return 1m / 6m / 12m | -7.1% / -16.1% / +7.4% |
-| vs. 200-day average | -15.6% |
+| Return 1m / 6m / 12m | -7.8% / -16.7% / +6.2% |
+| vs. 200-day average | -15.5% |
 | RSI (14d) | 28 |
 | Volatility (1y) | 42.4% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Health Care · Precision Instruments
 - Insider trades: http://openinsider.com/ULS
 - Full deep dive: run `python scout.py stock ULS` → `research/ULS.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

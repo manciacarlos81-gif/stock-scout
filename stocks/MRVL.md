@@ -13,7 +13,7 @@ momentum: 98
 health: 67
 pe: 78.4
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -61,8 +61,8 @@ Technology · Semiconductors
 | Piotroski F-score | 7/9 |
 | Altman Z | 14.61 |
 | Share count change (1y) | +5.8% |
-| Return 1m / 6m / 12m | +6.3% / +158.0% / +251.3% |
-| vs. 200-day average | +51.3% |
+| Return 1m / 6m / 12m | +6.3% / +160.2% / +250.9% |
+| vs. 200-day average | +50.6% |
 | RSI (14d) | 56 |
 | Volatility (1y) | 79.0% |
 | Financials as of | 2026-08-01 |
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MRVL
 - Full deep dive: run `python scout.py stock MRVL` → `research/MRVL.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

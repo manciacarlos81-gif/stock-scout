@@ -5,7 +5,7 @@ sector: "Health Care"
 industry: "Biotechnology: Commercial Physical & Biological Resarch"
 price: 121.47
 market_cap: "$24.6B"
-score: 80
+score: 79
 value: 81
 quality: 81
 growth: 75
@@ -13,7 +13,7 @@ momentum: 75
 health: 86
 pe: 15.3
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -36,7 +36,7 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 81 | 81 | 75 | 75 | 86 |
+| **79** | 81 | 81 | 75 | 75 | 86 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 | Piotroski F-score | 7/9 |
 | Altman Z | 12.07 |
 | Share count change (1y) | +4.8% |
-| Return 1m / 6m / 12m | +0.8% / +30.6% / +46.2% |
-| vs. 200-day average | +15.5% |
+| Return 1m / 6m / 12m | +1.1% / +28.9% / +46.1% |
+| vs. 200-day average | +15.4% |
 | RSI (14d) | 44 |
 | Volatility (1y) | 33.1% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 - Insider trades: http://openinsider.com/INCY
 - Full deep dive: run `python scout.py stock INCY` → `research/INCY.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

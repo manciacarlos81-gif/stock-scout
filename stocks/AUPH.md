@@ -13,7 +13,7 @@ momentum: 52
 health: 83
 pe: 6.8
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -61,7 +61,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 7/9 |
 | Altman Z | 7.91 |
 | Share count change (1y) | -2.9% |
-| Return 1m / 6m / 12m | +6.1% / +12.5% / +26.4% |
+| Return 1m / 6m / 12m | +4.1% / +11.3% / +25.7% |
 | vs. 200-day average | +3.9% |
 | RSI (14d) | 51 |
 | Volatility (1y) | 41.1% |
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/AUPH
 - Full deep dive: run `python scout.py stock AUPH` → `research/AUPH.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 42
 value: 23
 quality: 11
 growth: 71
-momentum: 92
+momentum: 91
 health: 27
 pe: null
 piotroski: 2
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,14 +30,14 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - More expensive than about 77% of Health Care peers (value score).
 - Business quality ranks above 11% of all stocks scanned.
 - Sales grew 550% over the last 12 months.
-- Share price up 297% over 12 months (23% below its 52-week high).
+- Share price up 302% over 12 months (23% below its 52-week high).
 - Insiders bought $3.5M of shares recently (Kayyem Jon Faiz (Dir); Forsyth Douglas (Dir); Lappe Mark (CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **42** | 23 | 11 | 71 | 92 | 27 |
+| **42** | 23 | 11 | 71 | 91 | 27 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 2/9 |
 | Altman Z | -0.05 |
 | Share count change (1y) | +1.3% |
-| Return 1m / 6m / 12m | +12.6% / +57.8% / +297.1% |
-| vs. 200-day average | +21.6% |
+| Return 1m / 6m / 12m | +23.7% / +56.7% / +301.9% |
+| vs. 200-day average | +21.4% |
 | RSI (14d) | 49 |
 | Volatility (1y) | 129.9% |
 | Financials as of | 2025-12-31 |
@@ -83,4 +83,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/INBX
 - Full deep dive: run `python scout.py stock INBX` → `research/INBX.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

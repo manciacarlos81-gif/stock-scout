@@ -5,15 +5,15 @@ sector: "Consumer Discretionary"
 industry: "Other Consumer Services"
 price: 21.28
 market_cap: "$1.2B"
-score: 57
+score: 56
 value: 88
 quality: 81
 growth: 33
-momentum: 16
+momentum: 15
 health: 41
 pe: 9.1
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,13 +30,13 @@ Consumer Discretionary · Other Consumer Services
 - Cheaper than about 88% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 81% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 31% over 12 months (37% below its 52-week high).
+- Share price down 32% over 12 months (37% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 88 | 81 | 33 | 16 | 41 |
+| **56** | 88 | 81 | 33 | 15 | 41 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Consumer Discretionary · Other Consumer Services
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.22 |
 | Share count change (1y) | -15.2% |
-| Return 1m / 6m / 12m | -12.8% / -10.0% / -31.2% |
-| vs. 200-day average | -16.7% |
+| Return 1m / 6m / 12m | -13.8% / -12.5% / -32.4% |
+| vs. 200-day average | -16.6% |
 | RSI (14d) | 37 |
 | Volatility (1y) | 43.3% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Consumer Discretionary · Other Consumer Services
 - Insider trades: http://openinsider.com/YELP
 - Full deep dive: run `python scout.py stock YELP` → `research/YELP.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

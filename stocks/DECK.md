@@ -13,7 +13,7 @@ momentum: 11
 health: 76
 pe: 10.9
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Shoe Manufacturing
 - Cheaper than about 72% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price down 31% over 12 months (33% below its 52-week high).
+- Share price down 32% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,7 +61,7 @@ Consumer Discretionary · Shoe Manufacturing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.4% |
-| Return 1m / 6m / 12m | -12.9% / -20.1% / -31.4% |
+| Return 1m / 6m / 12m | -12.7% / -22.4% / -31.5% |
 | vs. 200-day average | -20.8% |
 | RSI (14d) | 33 |
 | Volatility (1y) | 44.9% |
@@ -78,4 +78,4 @@ Consumer Discretionary · Shoe Manufacturing
 - Insider trades: http://openinsider.com/DECK
 - Full deep dive: run `python scout.py stock DECK` → `research/DECK.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

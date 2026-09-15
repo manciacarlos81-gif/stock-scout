@@ -7,13 +7,13 @@ price: 1633.35
 market_cap: "$239.2B"
 score: 82
 value: 61
-quality: 85
+quality: 84
 growth: 91
 momentum: 99
 health: 80
 pe: 20.9
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -30,15 +30,15 @@ Technology · Electronic Components
 ## In plain English
 
 - Cheaper than about 61% of stocks in Technology (value score).
-- Business quality ranks above 85% of all stocks scanned.
+- Business quality ranks above 84% of all stocks scanned.
 - Sales grew 175% over the last 12 months.
-- Share price up 1796% over 12 months (30% below its 52-week high).
+- Share price up 1713% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **82** | 61 | 85 | 91 | 99 | 80 |
+| **82** | 61 | 84 | 91 | 99 | 80 |
 
 ## Key numbers
 
@@ -63,8 +63,8 @@ Technology · Electronic Components
 | Piotroski F-score | 7/9 |
 | Altman Z | 24.89 |
 | Share count change (1y) | +6.9% |
-| Return 1m / 6m / 12m | +6.9% / +132.1% / +1796.4% |
-| vs. 200-day average | +55.9% |
+| Return 1m / 6m / 12m | -0.5% / +126.8% / +1713.0% |
+| vs. 200-day average | +54.9% |
 | RSI (14d) | 53 |
 | Volatility (1y) | 116.0% |
 | Financials as of | 2026-07-03 |
@@ -76,4 +76,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/SNDK
 - Full deep dive: run `python scout.py stock SNDK` → `research/SNDK.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

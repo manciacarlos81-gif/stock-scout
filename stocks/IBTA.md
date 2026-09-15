@@ -13,7 +13,7 @@ momentum: 85
 health: 58
 pe: null
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Advertising
 - More expensive than about 71% of Consumer Discretionary peers (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price up 55% over 12 months (0% below its 52-week high).
+- Share price up 57% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Consumer Discretionary · Advertising
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.92 |
 | Share count change (1y) | -23.5% |
-| Return 1m / 6m / 12m | +7.8% / +66.6% / +54.5% |
-| vs. 200-day average | +40.8% |
+| Return 1m / 6m / 12m | +5.9% / +59.5% / +56.5% |
+| vs. 200-day average | +40.3% |
 | RSI (14d) | 67 |
 | Volatility (1y) | 81.8% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/IBTA
 - Full deep dive: run `python scout.py stock IBTA` → `research/IBTA.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

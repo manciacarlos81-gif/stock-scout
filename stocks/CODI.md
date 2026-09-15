@@ -9,11 +9,11 @@ score: 43
 value: 27
 quality: 30
 growth: 52
-momentum: 89
+momentum: 90
 health: 20
 pe: null
 piotroski: 5
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -37,7 +37,7 @@ Consumer Discretionary · Home Furnishings
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **43** | 27 | 30 | 52 | 89 | 20 |
+| **43** | 27 | 30 | 52 | 90 | 20 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Consumer Discretionary · Home Furnishings
 | Piotroski F-score | 5/9 |
 | Altman Z | 0.49 |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | -10.3% / +82.0% / +57.1% |
-| vs. 200-day average | +23.7% |
+| Return 1m / 6m / 12m | -13.4% / +83.5% / +56.8% |
+| vs. 200-day average | +23.4% |
 | RSI (14d) | 43 |
-| Volatility (1y) | 69.3% |
+| Volatility (1y) | 69.2% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -82,4 +82,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/CODI
 - Full deep dive: run `python scout.py stock CODI` → `research/CODI.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

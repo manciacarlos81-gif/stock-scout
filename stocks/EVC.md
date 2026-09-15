@@ -13,7 +13,7 @@ momentum: 98
 health: 19
 pe: 190.0
 piotroski: 5
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Industrials · Broadcasting
 - More expensive than about 69% of Industrials peers (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 71% over the last 12 months.
-- Share price up 268% over 12 months (36% below its 52-week high).
+- Share price up 253% over 12 months (36% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Industrials · Broadcasting
 | Piotroski F-score | 5/9 |
 | Altman Z | 0.95 |
 | Share count change (1y) | +13.1% |
-| Return 1m / 6m / 12m | -3.0% / +191.5% / +267.7% |
-| vs. 200-day average | +40.8% |
+| Return 1m / 6m / 12m | -4.4% / +171.4% / +253.5% |
+| vs. 200-day average | +40.1% |
 | RSI (14d) | 45 |
 | Volatility (1y) | 121.4% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Industrials · Broadcasting
 - Insider trades: http://openinsider.com/EVC
 - Full deep dive: run `python scout.py stock EVC` → `research/EVC.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

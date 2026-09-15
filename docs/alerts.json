@@ -1,6 +1,6 @@
 {
- "date": "2026-09-12",
- "scanned": 2622,
+ "date": "2026-09-15",
+ "scanned": 2620,
  "top": [
   {
    "rank": 1,
@@ -20,19 +20,19 @@
   },
   {
    "rank": 3,
-   "ticker": "CDNA",
-   "name": "CareDx Inc.",
-   "score": 81,
-   "price": 50.26,
-   "flags": ""
-  },
-  {
-   "rank": 4,
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 81,
    "price": 200.24,
    "flags": "shares up 17% in a year"
+  },
+  {
+   "rank": 4,
+   "ticker": "CDNA",
+   "name": "CareDx Inc.",
+   "score": 81,
+   "price": 50.26,
+   "flags": ""
   },
   {
    "rank": 5,
@@ -46,7 +46,7 @@
    "rank": 6,
    "ticker": "INCY",
    "name": "Incyte Corp.",
-   "score": 80,
+   "score": 79,
    "price": 121.47,
    "flags": ""
   },
@@ -70,7 +70,7 @@
    "rank": 9,
    "ticker": "KNSA",
    "name": "Kiniksa Pharmaceuticals International plc",
-   "score": 78,
+   "score": 77,
    "price": 76.27,
    "flags": ""
   },
@@ -84,22 +84,19 @@
   }
  ],
  "new_top": [],
- "prev_top": [],
+ "prev_top": [
+  "BFH",
+  "CDNA",
+  "ECPG",
+  "EXEL",
+  "INCY",
+  "INSW",
+  "KNSA",
+  "LPG",
+  "NUTX",
+  "SNDK"
+ ],
  "insider": [
-  {
-   "ticker": "BWFG",
-   "name": "Bankwell Financial Group Inc.",
-   "value": 1261216,
-   "buyers": 4,
-   "last": "2026-09-08"
-  },
-  {
-   "ticker": "INBX",
-   "name": "Inhibrx Biosciences Inc.",
-   "value": 3499596,
-   "buyers": 3,
-   "last": "2026-09-08"
-  },
   {
    "ticker": "OPFI",
    "name": "OppFi Inc.",

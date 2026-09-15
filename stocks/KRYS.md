@@ -7,13 +7,13 @@ price: 347.0
 market_cap: "$10.3B"
 score: 74
 value: 57
-quality: 77
+quality: 78
 growth: 72
-momentum: 86
+momentum: 84
 health: 86
 pe: 42.5
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -28,15 +28,15 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 ## In plain English
 
 - Cheaper than about 57% of stocks in Health Care (value score).
-- Business quality ranks above 77% of all stocks scanned.
+- Business quality ranks above 78% of all stocks scanned.
 - Sales grew 23% over the last 12 months.
-- Share price up 142% over 12 months (8% below its 52-week high).
+- Share price up 123% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 57 | 77 | 72 | 86 | 86 |
+| **74** | 57 | 78 | 72 | 84 | 86 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 7/9 |
 | Altman Z | 30.00 |
 | Share count change (1y) | +3.1% |
-| Return 1m / 6m / 12m | +5.7% / +38.7% / +141.5% |
-| vs. 200-day average | +17.9% |
+| Return 1m / 6m / 12m | +4.4% / +35.4% / +122.9% |
+| vs. 200-day average | +17.7% |
 | RSI (14d) | 48 |
 | Volatility (1y) | 37.9% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/KRYS
 - Full deep dive: run `python scout.py stock KRYS` → `research/KRYS.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

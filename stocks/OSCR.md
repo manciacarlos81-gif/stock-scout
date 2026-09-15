@@ -5,15 +5,15 @@ sector: "Health Care"
 industry: "Medical Specialities"
 price: 32.77
 market_cap: "$10.1B"
-score: 75
-value: 87
+score: 76
+value: 86
 quality: 58
 growth: 87
-momentum: 92
+momentum: 93
 health: 52
 pe: 18.4
 piotroski: 3
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,16 +28,16 @@ Health Care · Medical Specialities
 
 ## In plain English
 
-- Cheaper than about 87% of stocks in Health Care (value score).
+- Cheaper than about 86% of stocks in Health Care (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 43% over the last 12 months.
-- Share price up 70% over 12 months (1% below its 52-week high).
+- Share price up 75% over 12 months (1% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 87 | 58 | 87 | 92 | 52 |
+| **76** | 86 | 58 | 87 | 93 | 52 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Health Care · Medical Specialities
 | Piotroski F-score | 3/9 |
 | Altman Z | 2.00 |
 | Share count change (1y) | +30.5% |
-| Return 1m / 6m / 12m | +6.5% / +146.8% / +69.5% |
-| vs. 200-day average | +56.3% |
+| Return 1m / 6m / 12m | +0.0% / +142.6% / +75.0% |
+| vs. 200-day average | +55.7% |
 | RSI (14d) | 58 |
-| Volatility (1y) | 70.5% |
+| Volatility (1y) | 70.4% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/OSCR
 - Full deep dive: run `python scout.py stock OSCR` → `research/OSCR.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

@@ -5,15 +5,15 @@ sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
 price: 3.8
 market_cap: "$958.0M"
-score: 69
+score: 70
 value: 97
 quality: 60
 growth: 77
-momentum: 52
+momentum: 53
 health: 56
 pe: 8.1
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -37,7 +37,7 @@ Technology · Computer Software: Programming Data Processing
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 97 | 60 | 77 | 52 | 56 |
+| **70** | 97 | 60 | 77 | 53 | 56 |
 
 ## Key numbers
 
@@ -62,7 +62,7 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -3.6% / +23.4% / +13.4% |
+| Return 1m / 6m / 12m | -6.2% / +22.6% / +13.4% |
 | vs. 200-day average | -8.0% |
 | RSI (14d) | 42 |
 | Volatility (1y) | 55.8% |
@@ -75,4 +75,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/TBLA
 - Full deep dive: run `python scout.py stock TBLA` → `research/TBLA.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

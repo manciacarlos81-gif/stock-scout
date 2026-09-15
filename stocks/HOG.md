@@ -9,11 +9,11 @@ score: 59
 value: 80
 quality: 49
 growth: 34
-momentum: 63
+momentum: 64
 health: 57
 pe: 14.3
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -37,7 +37,7 @@ Consumer Discretionary · Motor Vehicles
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **59** | 80 | 49 | 34 | 63 | 57 |
+| **59** | 80 | 49 | 34 | 64 | 57 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Motor Vehicles
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -11.2% |
-| Return 1m / 6m / 12m | +0.1% / +57.6% / -4.3% |
-| vs. 200-day average | +21.5% |
+| Return 1m / 6m / 12m | +0.3% / +60.4% / -4.2% |
+| vs. 200-day average | +21.4% |
 | RSI (14d) | 55 |
 | Volatility (1y) | 38.4% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Consumer Discretionary · Motor Vehicles
 - Insider trades: http://openinsider.com/HOG
 - Full deep dive: run `python scout.py stock HOG` → `research/HOG.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

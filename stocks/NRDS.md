@@ -5,15 +5,15 @@ sector: "Technology"
 industry: "EDP Services"
 price: 9.43
 market_cap: "$602.8M"
-score: 71
+score: 70
 value: 95
 quality: 79
 growth: 74
-momentum: 24
+momentum: 22
 health: 75
 pe: 9.3
 piotroski: 9
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -31,13 +31,13 @@ Technology · EDP Services
 - Cheaper than about 95% of stocks in Technology (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price down 11% over 12 months (41% below its 52-week high).
+- Share price down 15% over 12 months (41% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **71** | 95 | 79 | 74 | 24 | 75 |
+| **70** | 95 | 79 | 74 | 22 | 75 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Technology · EDP Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 6.19 |
 | Share count change (1y) | -14.1% |
-| Return 1m / 6m / 12m | -5.7% / -6.5% / -10.6% |
-| vs. 200-day average | -11.2% |
+| Return 1m / 6m / 12m | -4.2% / -7.2% / -14.7% |
+| vs. 200-day average | -10.9% |
 | RSI (14d) | 44 |
 | Volatility (1y) | 46.6% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/NRDS
 - Full deep dive: run `python scout.py stock NRDS` → `research/NRDS.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

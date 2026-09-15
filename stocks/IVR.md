@@ -13,7 +13,7 @@ momentum: 34
 health: 41
 pe: 6.1
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -60,7 +60,7 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +43.8% |
-| Return 1m / 6m / 12m | -7.6% / -8.5% / +10.6% |
+| Return 1m / 6m / 12m | -7.6% / -9.7% / +10.9% |
 | vs. 200-day average | -9.6% |
 | RSI (14d) | 25 |
 | Volatility (1y) | 22.2% |
@@ -77,4 +77,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/IVR
 - Full deep dive: run `python scout.py stock IVR` → `research/IVR.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

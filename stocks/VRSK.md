@@ -13,7 +13,7 @@ momentum: 15
 health: 63
 pe: 25.9
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · EDP Services
 - Cheaper than about 59% of stocks in Technology (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price down 32% over 12 months (30% below its 52-week high).
+- Share price down 30% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Technology · EDP Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 6.66 |
 | Share count change (1y) | -6.8% |
-| Return 1m / 6m / 12m | -5.2% / -13.7% / -32.2% |
-| vs. 200-day average | -8.5% |
+| Return 1m / 6m / 12m | -3.0% / -13.3% / -30.4% |
+| vs. 200-day average | -8.4% |
 | RSI (14d) | 38 |
 | Volatility (1y) | 35.0% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/VRSK
 - Full deep dive: run `python scout.py stock VRSK` → `research/VRSK.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 59
 value: 61
 quality: 88
 growth: 74
-momentum: 15
+momentum: 14
 health: 54
 pe: 27.0
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,14 +30,14 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 61% of stocks in Technology (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 18% over the last 12 months.
-- Share price down 33% over 12 months (35% below its 52-week high).
-- Insiders bought $1.4M of shares recently (Cahill John T (Dir); Anagnost Andrew (Pres, CEO); Moorjani Janesh (EVP, CFO)).
+- Share price down 34% over 12 months (35% below its 52-week high).
+- Insiders bought $876.9K of shares recently (Cahill John T (Dir); Anagnost Andrew (Pres, CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **59** | 61 | 88 | 74 | 15 | 54 |
+| **59** | 61 | 88 | 74 | 14 | 54 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -17.7% / -15.0% / -33.4% |
-| vs. 200-day average | -13.2% |
+| Return 1m / 6m / 12m | -15.6% / -16.0% / -33.8% |
+| vs. 200-day average | -13.1% |
 | RSI (14d) | 36 |
 | Volatility (1y) | 37.1% |
 | Financials as of | 2026-07-31 |
@@ -75,4 +75,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADSK
 - Full deep dive: run `python scout.py stock ADSK` → `research/ADSK.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

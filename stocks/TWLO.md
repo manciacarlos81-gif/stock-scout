@@ -13,7 +13,7 @@ momentum: 94
 health: 75
 pe: 30.4
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 50% of stocks in Technology (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 18% over the last 12 months.
-- Share price up 122% over 12 months (11% below its 52-week high).
+- Share price up 118% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,10 +61,10 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 6/9 |
 | Altman Z | 11.22 |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | -8.8% / +80.0% / +122.2% |
-| vs. 200-day average | +36.8% |
+| Return 1m / 6m / 12m | -4.6% / +79.2% / +117.6% |
+| vs. 200-day average | +36.4% |
 | RSI (14d) | 50 |
-| Volatility (1y) | 61.7% |
+| Volatility (1y) | 61.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/TWLO
 - Full deep dive: run `python scout.py stock TWLO` → `research/TWLO.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

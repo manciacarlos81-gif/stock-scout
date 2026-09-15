@@ -6,14 +6,14 @@ industry: "Books"
 price: 35.01
 market_cap: "$664.0M"
 score: 54
-value: 65
+value: 64
 quality: 47
 growth: 49
-momentum: 53
+momentum: 54
 health: 52
 pe: 11.7
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,16 +27,16 @@ Consumer Discretionary · Books
 
 ## In plain English
 
-- Cheaper than about 65% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 64% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 30% over 12 months (26% below its 52-week high).
+- Share price up 32% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 65 | 47 | 49 | 53 | 52 |
+| **54** | 64 | 47 | 49 | 54 | 52 |
 
 ## Key numbers
 
@@ -61,7 +61,7 @@ Consumer Discretionary · Books
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -12.3% |
-| Return 1m / 6m / 12m | -15.3% / +4.4% / +30.3% |
+| Return 1m / 6m / 12m | -15.0% / +5.1% / +32.5% |
 | vs. 200-day average | -6.6% |
 | RSI (14d) | 26 |
 | Volatility (1y) | 36.7% |
@@ -74,4 +74,4 @@ Consumer Discretionary · Books
 - Insider trades: http://openinsider.com/SCHL
 - Full deep dive: run `python scout.py stock SCHL` → `research/SCHL.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

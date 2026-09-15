@@ -9,11 +9,11 @@ score: 73
 value: 51
 quality: 73
 growth: 88
-momentum: 97
+momentum: 99
 health: 62
 pe: 128.6
 piotroski: 5
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,13 +30,13 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 51% of stocks in Health Care (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 223% over 12 months (11% below its 52-week high).
+- Share price up 221% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 51 | 73 | 88 | 97 | 62 |
+| **73** | 51 | 73 | 88 | 99 | 62 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 5/9 |
 | Altman Z | 14.56 |
 | Share count change (1y) | +21.9% |
-| Return 1m / 6m / 12m | +39.9% / +200.3% / +223.4% |
-| vs. 200-day average | +94.1% |
+| Return 1m / 6m / 12m | -3.0% / +201.7% / +221.0% |
+| vs. 200-day average | +92.8% |
 | RSI (14d) | 52 |
 | Volatility (1y) | 70.9% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ETON
 - Full deep dive: run `python scout.py stock ETON` → `research/ETON.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

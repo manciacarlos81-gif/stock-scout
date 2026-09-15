@@ -13,7 +13,7 @@ momentum: 4
 health: 56
 pe: 24.6
 piotroski: 9
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 54% of stocks in Technology (value score).
 - Business quality ranks above 95% of all stocks scanned.
 - Sales grew 76% over the last 12 months.
-- Share price down 44% over 12 months (56% below its 52-week high).
+- Share price down 45% over 12 months (56% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 9/9 |
 | Altman Z | 16.73 |
 | Share count change (1y) | -1.5% |
-| Return 1m / 6m / 12m | +3.6% / -28.5% / -44.3% |
-| vs. 200-day average | -32.5% |
+| Return 1m / 6m / 12m | +2.7% / -29.4% / -45.4% |
+| vs. 200-day average | -32.4% |
 | RSI (14d) | 46 |
 | Volatility (1y) | 73.3% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/APP
 - Full deep dive: run `python scout.py stock APP` → `research/APP.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

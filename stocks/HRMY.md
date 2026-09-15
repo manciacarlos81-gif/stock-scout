@@ -9,11 +9,11 @@ score: 75
 value: 90
 quality: 77
 growth: 55
-momentum: 72
+momentum: 71
 health: 71
 pe: 13.3
 piotroski: 5
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -37,7 +37,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 90 | 77 | 55 | 72 | 71 |
+| **75** | 90 | 77 | 55 | 71 | 71 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 5/9 |
 | Altman Z | 5.92 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | +7.8% / +49.0% / +28.2% |
-| vs. 200-day average | +20.7% |
+| Return 1m / 6m / 12m | +8.9% / +46.4% / +27.8% |
+| vs. 200-day average | +20.6% |
 | RSI (14d) | 60 |
 | Volatility (1y) | 44.2% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/HRMY
 - Full deep dive: run `python scout.py stock HRMY` → `research/HRMY.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

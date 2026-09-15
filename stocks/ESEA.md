@@ -9,11 +9,11 @@ score: 72
 value: 88
 quality: 85
 growth: 54
-momentum: 58
+momentum: 57
 health: 60
 pe: 3.8
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,14 +30,14 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 88% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 22% over 12 months (5% below its 52-week high).
+- Share price up 23% over 12 months (5% below its 52-week high).
 - Insiders bought $56.9K of shares recently (Pittas Aristeidis P (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 88 | 85 | 54 | 58 | 60 |
+| **72** | 88 | 85 | 54 | 57 | 60 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 8/9 |
 | Altman Z | 3.03 |
 | Share count change (1y) | -0.2% |
-| Return 1m / 6m / 12m | +2.4% / +14.6% / +22.0% |
-| vs. 200-day average | +15.3% |
+| Return 1m / 6m / 12m | +2.1% / +11.2% / +22.7% |
+| vs. 200-day average | +15.1% |
 | RSI (14d) | 50 |
-| Volatility (1y) | 43.2% |
+| Volatility (1y) | 43.1% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/ESEA
 - Full deep dive: run `python scout.py stock ESEA` → `research/ESEA.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

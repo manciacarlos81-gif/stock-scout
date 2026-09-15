@@ -9,11 +9,11 @@ score: 53
 value: 94
 quality: 42
 growth: 41
-momentum: 15
+momentum: 16
 health: 64
 pe: 14.5
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -36,7 +36,7 @@ Industrials · Homebuilding
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 94 | 42 | 41 | 15 | 64 |
+| **53** | 94 | 42 | 41 | 16 | 64 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Industrials · Homebuilding
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -7.6% / -11.6% / -29.0% |
-| vs. 200-day average | -16.2% |
+| Return 1m / 6m / 12m | -7.8% / -9.0% / -28.9% |
+| vs. 200-day average | -16.1% |
 | RSI (14d) | 39 |
 | Volatility (1y) | 37.2% |
 | Financials as of | 2026-04-30 |
@@ -74,4 +74,4 @@ Industrials · Homebuilding
 - Insider trades: http://openinsider.com/THO
 - Full deep dive: run `python scout.py stock THO` → `research/THO.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

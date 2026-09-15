@@ -5,15 +5,15 @@ sector: "Technology"
 industry: "EDP Services"
 price: 157.77
 market_cap: "$30.4B"
-score: 63
+score: 62
 value: 47
 quality: 82
 growth: 89
-momentum: 28
+momentum: 27
 health: 76
 pe: 34.8
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,13 +30,13 @@ Technology · EDP Services
 - More expensive than about 53% of Technology peers (value score).
 - Business quality ranks above 82% of all stocks scanned.
 - Sales grew 67% over the last 12 months.
-- Share price down 38% over 12 months (42% below its 52-week high).
+- Share price down 40% over 12 months (42% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 47 | 82 | 89 | 28 | 76 |
+| **62** | 47 | 82 | 89 | 27 | 76 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Technology · EDP Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 30.00 |
 | Share count change (1y) | +1.3% |
-| Return 1m / 6m / 12m | -0.2% / +12.7% / -38.0% |
-| vs. 200-day average | -9.0% |
+| Return 1m / 6m / 12m | -11.4% / +9.3% / -40.2% |
+| vs. 200-day average | -8.8% |
 | RSI (14d) | 51 |
 | Volatility (1y) | 71.3% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/RDDT
 - Full deep dive: run `python scout.py stock RDDT` → `research/RDDT.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

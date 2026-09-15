@@ -13,7 +13,7 @@ momentum: 93
 health: 61
 pe: 4.9
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,7 +30,7 @@ Energy · Oil & Gas Production
 - Cheaper than about 79% of stocks in Energy (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 158% over 12 months (2% below its 52-week high).
+- Share price up 154% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,10 +61,10 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 7/9 |
 | Altman Z | 4.37 |
 | Share count change (1y) | -2.7% |
-| Return 1m / 6m / 12m | +3.1% / +59.4% / +157.9% |
-| vs. 200-day average | +48.4% |
+| Return 1m / 6m / 12m | +5.4% / +59.9% / +153.5% |
+| vs. 200-day average | +47.9% |
 | RSI (14d) | 63 |
-| Volatility (1y) | 58.0% |
+| Volatility (1y) | 57.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/PARR
 - Full deep dive: run `python scout.py stock PARR` → `research/PARR.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 68
 value: 95
 quality: null
 growth: 77
-momentum: 37
-health: 87
+momentum: 36
+health: 88
 pe: 5.7
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -28,14 +28,14 @@ Finance · Finance/Investors Services
 ## In plain English
 
 - Cheaper than about 95% of stocks in Finance (value score).
-- Share price down 1% over 12 months (5% below its 52-week high).
-- Insiders bought $122.1K of shares recently (Marks Nataly Michelle (Dir); Hyzak Dwayne L. (CEO, SMD); Meserve Nicholas (MD)).
+- Share price up 1% over 12 months (5% below its 52-week high).
+- Insiders bought $110.4K of shares recently (Marks Nataly Michelle (Dir); Hyzak Dwayne L. (CEO, SMD); Meserve Nicholas (MD)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 95 | – | 77 | 37 | 87 |
+| **68** | 95 | – | 77 | 36 | 88 |
 
 ## Key numbers
 
@@ -60,7 +60,7 @@ Finance · Finance/Investors Services
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.6% |
-| Return 1m / 6m / 12m | +1.4% / +3.9% / -0.9% |
+| Return 1m / 6m / 12m | +1.3% / +1.0% / +0.8% |
 | vs. 200-day average | +3.6% |
 | RSI (14d) | 56 |
 | Volatility (1y) | 27.1% |
@@ -73,4 +73,4 @@ Finance · Finance/Investors Services
 - Insider trades: http://openinsider.com/MSIF
 - Full deep dive: run `python scout.py stock MSIF` → `research/MSIF.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 65
 value: 97
 quality: 70
 growth: null
-momentum: 32
+momentum: 33
 health: 60
 pe: 6.8
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -34,7 +34,7 @@ Industrials · Broadcasting
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 97 | 70 | – | 32 | 60 |
+| **65** | 97 | 70 | – | 33 | 60 |
 
 ## Key numbers
 
@@ -59,10 +59,10 @@ Industrials · Broadcasting
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.0% |
-| Return 1m / 6m / 12m | -4.4% / -0.1% / – |
+| Return 1m / 6m / 12m | -6.2% / +0.0% / – |
 | vs. 200-day average | – |
 | RSI (14d) | 42 |
-| Volatility (1y) | 42.5% |
+| Volatility (1y) | 42.4% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -72,4 +72,4 @@ Industrials · Broadcasting
 - Insider trades: http://openinsider.com/VSNT
 - Full deep dive: run `python scout.py stock VSNT` → `research/VSNT.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

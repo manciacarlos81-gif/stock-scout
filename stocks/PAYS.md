@@ -13,7 +13,7 @@ momentum: 97
 health: 48
 pe: 46.6
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · EDP Services
 - Cheaper than about 54% of stocks in Technology (value score).
 - Business quality ranks above 71% of all stocks scanned.
 - Sales grew 47% over the last 12 months.
-- Share price up 135% over 12 months (8% below its 52-week high).
+- Share price up 127% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Technology · EDP Services
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.46 |
 | Share count change (1y) | +7.1% |
-| Return 1m / 6m / 12m | -0.1% / +268.6% / +135.3% |
-| vs. 200-day average | +90.4% |
+| Return 1m / 6m / 12m | -1.2% / +282.6% / +127.1% |
+| vs. 200-day average | +89.4% |
 | RSI (14d) | 56 |
 | Volatility (1y) | 70.0% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PAYS
 - Full deep dive: run `python scout.py stock PAYS` → `research/PAYS.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

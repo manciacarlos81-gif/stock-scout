@@ -9,11 +9,11 @@ score: 51
 value: 22
 quality: 46
 growth: 55
-momentum: 79
+momentum: 80
 health: 66
 pe: null
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,13 +30,13 @@ Consumer Discretionary · Business Services
 - More expensive than about 78% of Consumer Discretionary peers (value score).
 - Business quality ranks above 46% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price up 32% over 12 months (12% below its 52-week high).
+- Share price up 34% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 22 | 46 | 55 | 79 | 66 |
+| **51** | 22 | 46 | 55 | 80 | 66 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 6/9 |
 | Altman Z | 4.07 |
 | Share count change (1y) | -7.9% |
-| Return 1m / 6m / 12m | -5.6% / +43.6% / +32.4% |
-| vs. 200-day average | +24.7% |
+| Return 1m / 6m / 12m | -6.9% / +41.6% / +33.6% |
+| vs. 200-day average | +24.6% |
 | RSI (14d) | 51 |
-| Volatility (1y) | 40.5% |
+| Volatility (1y) | 40.4% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/RSKD
 - Full deep dive: run `python scout.py stock RSKD` → `research/RSKD.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

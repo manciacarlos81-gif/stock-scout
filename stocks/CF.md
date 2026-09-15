@@ -13,7 +13,7 @@ momentum: 64
 health: 67
 pe: 8.1
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -61,8 +61,8 @@ Industrials · Agricultural Chemicals
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.6% |
-| Return 1m / 6m / 12m | +14.3% / +9.8% / +58.6% |
-| vs. 200-day average | +22.3% |
+| Return 1m / 6m / 12m | +12.5% / +8.9% / +59.1% |
+| vs. 200-day average | +21.9% |
 | RSI (14d) | 57 |
 | Volatility (1y) | 42.9% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Industrials · Agricultural Chemicals
 - Insider trades: http://openinsider.com/CF
 - Full deep dive: run `python scout.py stock CF` → `research/CF.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

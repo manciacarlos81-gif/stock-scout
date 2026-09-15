@@ -9,11 +9,11 @@ score: 64
 value: 78
 quality: 90
 growth: 55
-momentum: 24
+momentum: 23
 health: 64
 pe: 13.9
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -31,14 +31,14 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 78% of stocks in Technology (value score).
 - Business quality ranks above 90% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price down 28% over 12 months (31% below its 52-week high).
+- Share price down 27% over 12 months (31% below its 52-week high).
 - Insiders bought $1.9M of shares recently (Ricks David A (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 78 | 90 | 55 | 24 | 64 |
+| **64** | 78 | 90 | 55 | 23 | 64 |
 
 ## Key numbers
 
@@ -63,8 +63,8 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 7/9 |
 | Altman Z | 7.27 |
 | Share count change (1y) | -6.2% |
-| Return 1m / 6m / 12m | -6.8% / +0.1% / -27.8% |
-| vs. 200-day average | -5.2% |
+| Return 1m / 6m / 12m | -4.5% / -0.8% / -27.3% |
+| vs. 200-day average | -5.0% |
 | RSI (14d) | 42 |
 | Volatility (1y) | 40.2% |
 | Financials as of | 2026-05-29 |
@@ -76,4 +76,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADBE
 - Full deep dive: run `python scout.py stock ADBE` → `research/ADBE.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

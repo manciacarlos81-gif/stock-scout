@@ -5,15 +5,15 @@ sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
 price: 76.27
 market_cap: "$6.0B"
-score: 78
+score: 77
 value: 58
 quality: 80
 growth: 89
 momentum: 92
-health: 75
+health: 76
 pe: 73.8
 piotroski: 8
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,13 +31,13 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 58% of stocks in Health Care (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Sales grew 59% over the last 12 months.
-- Share price up 106% over 12 months (6% below its 52-week high).
+- Share price up 109% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **78** | 58 | 80 | 89 | 92 | 75 |
+| **77** | 58 | 80 | 89 | 92 | 76 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 8/9 |
 | Altman Z | 16.08 |
 | Share count change (1y) | +7.0% |
-| Return 1m / 6m / 12m | -2.0% / +64.0% / +105.6% |
-| vs. 200-day average | +41.7% |
+| Return 1m / 6m / 12m | -0.6% / +62.2% / +108.6% |
+| vs. 200-day average | +41.3% |
 | RSI (14d) | 48 |
-| Volatility (1y) | 49.8% |
+| Volatility (1y) | 49.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/KNSA
 - Full deep dive: run `python scout.py stock KNSA` → `research/KNSA.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_

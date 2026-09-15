@@ -9,11 +9,11 @@ score: 58
 value: 43
 quality: 83
 growth: 33
-momentum: 47
+momentum: 46
 health: 81
 pe: 34.2
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,7 +36,7 @@ Industrials · Trucking Freight/Courier Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 43 | 83 | 33 | 47 | 81 |
+| **58** | 43 | 83 | 33 | 46 | 81 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Industrials · Trucking Freight/Courier Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 21.78 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -16.5% / -1.2% / +24.9% |
-| vs. 200-day average | -9.1% |
+| Return 1m / 6m / 12m | -14.6% / -2.2% / +24.5% |
+| vs. 200-day average | -9.2% |
 | RSI (14d) | 24 |
 | Volatility (1y) | 37.9% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Industrials · Trucking Freight/Courier Services
 - Insider trades: http://openinsider.com/ODFL
 - Full deep dive: run `python scout.py stock ODFL` → `research/ODFL.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-15 · [latest report](../reports/latest.md)_
