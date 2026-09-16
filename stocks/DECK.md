@@ -3,17 +3,17 @@ ticker: "DECK"
 company: "Deckers Outdoor Corporation"
 sector: "Consumer Discretionary"
 industry: "Shoe Manufacturing"
-price: 81.27
-market_cap: "$11.1B"
+price: 80.54
+market_cap: "$11.0B"
 score: 60
 value: 72
 quality: 84
 growth: 47
-momentum: 11
+momentum: 10
 health: 76
-pe: 10.9
+pe: 10.8
 piotroski: 7
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,18 +36,18 @@ Consumer Discretionary · Shoe Manufacturing
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 72 | 84 | 47 | 11 | 76 |
+| **60** | 72 | 84 | 47 | 10 | 76 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $81.27 |
-| Market value | $11.1B |
-| P/E | 10.9 |
-| Price/Sales | 2.01 |
-| Price/Book | 4.82 |
-| Free-cash-flow yield | 9.9% |
+| Price | $80.54 |
+| Market value | $11.0B |
+| P/E | 10.8 |
+| Price/Sales | 1.99 |
+| Price/Book | 4.77 |
+| Free-cash-flow yield | 10.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.5B |
 | Sales growth | +7.9% |
@@ -61,9 +61,9 @@ Consumer Discretionary · Shoe Manufacturing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.4% |
-| Return 1m / 6m / 12m | -12.7% / -22.4% / -31.5% |
-| vs. 200-day average | -20.8% |
-| RSI (14d) | 33 |
+| Return 1m / 6m / 12m | -10.6% / -23.0% / -32.1% |
+| vs. 200-day average | -21.5% |
+| RSI (14d) | 32 |
 | Volatility (1y) | 44.9% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Shoe Manufacturing
 - Insider trades: http://openinsider.com/DECK
 - Full deep dive: run `python scout.py stock DECK` → `research/DECK.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

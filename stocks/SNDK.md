@@ -3,17 +3,17 @@ ticker: "SNDK"
 company: "Sandisk Corporation"
 sector: "Technology"
 industry: "Electronic Components"
-price: 1633.35
-market_cap: "$239.2B"
+price: 1551.99
+market_cap: "$227.2B"
 score: 82
-value: 61
+value: 62
 quality: 84
 growth: 91
-momentum: 99
+momentum: 98
 health: 80
-pe: 20.9
+pe: 19.9
 piotroski: 7
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -29,27 +29,27 @@ Technology · Electronic Components
 
 ## In plain English
 
-- Cheaper than about 61% of stocks in Technology (value score).
+- Cheaper than about 62% of stocks in Technology (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 175% over the last 12 months.
-- Share price up 1713% over 12 months (30% below its 52-week high).
+- Share price up 1595% over 12 months (34% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **82** | 61 | 84 | 91 | 99 | 80 |
+| **82** | 62 | 84 | 91 | 98 | 80 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $1,633.35 |
-| Market value | $239.2B |
-| P/E | 20.9 |
-| Price/Sales | 11.81 |
-| Price/Book | 15.20 |
-| Free-cash-flow yield | 4.8% |
+| Price | $1,551.99 |
+| Market value | $227.2B |
+| P/E | 19.9 |
+| Price/Sales | 11.22 |
+| Price/Book | 14.44 |
+| Free-cash-flow yield | 5.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $20.2B |
 | Sales growth | +175.3% |
@@ -61,12 +61,12 @@ Technology · Electronic Components
 | Debt / equity | 0.00 |
 | Current ratio | 2.29 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 24.89 |
+| Altman Z | 23.84 |
 | Share count change (1y) | +6.9% |
-| Return 1m / 6m / 12m | -0.5% / +126.8% / +1713.0% |
-| vs. 200-day average | +54.9% |
-| RSI (14d) | 53 |
-| Volatility (1y) | 116.0% |
+| Return 1m / 6m / 12m | -13.1% / +105.9% / +1595.2% |
+| vs. 200-day average | +46.3% |
+| RSI (14d) | 48 |
+| Volatility (1y) | 116.2% |
 | Financials as of | 2026-07-03 |
 
 ## Dig deeper
@@ -76,4 +76,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/SNDK
 - Full deep dive: run `python scout.py stock SNDK` → `research/SNDK.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

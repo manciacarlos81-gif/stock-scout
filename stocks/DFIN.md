@@ -3,7 +3,7 @@ ticker: "DFIN"
 company: "Donnelley Financial Solutions Inc."
 sector: "Consumer Discretionary"
 industry: "Other Consumer Services"
-price: 47.95
+price: 48.44
 market_cap: "$1.2B"
 score: 54
 value: 60
@@ -11,9 +11,9 @@ quality: 72
 growth: 38
 momentum: 35
 health: 56
-pe: 33.5
+pe: 33.8
 piotroski: 7
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🕵️ Insiders buying"
   - "💵 Dividends & buybacks"
@@ -31,7 +31,7 @@ Consumer Discretionary · Other Consumer Services
 - Cheaper than about 60% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price down 11% over 12 months (14% below its 52-week high).
+- Share price down 9% over 12 months (13% below its 52-week high).
 - Insiders bought $1000.0K of shares recently (Binz Joseph Leo (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -44,11 +44,11 @@ Consumer Discretionary · Other Consumer Services
 
 | | |
 |---|---:|
-| Price | $47.95 |
+| Price | $48.44 |
 | Market value | $1.2B |
-| P/E | 33.5 |
-| Price/Sales | 1.52 |
-| Price/Book | 3.04 |
+| P/E | 33.8 |
+| Price/Sales | 1.53 |
+| Price/Book | 3.07 |
 | Free-cash-flow yield | 9.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $777.5M |
@@ -61,11 +61,11 @@ Consumer Discretionary · Other Consumer Services
 | Debt / equity | 0.53 |
 | Current ratio | 1.33 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.24 |
+| Altman Z | 4.26 |
 | Share count change (1y) | -10.3% |
-| Return 1m / 6m / 12m | -2.1% / +4.2% / -11.0% |
-| vs. 200-day average | +2.5% |
-| RSI (14d) | 47 |
+| Return 1m / 6m / 12m | +1.5% / +5.0% / -9.3% |
+| vs. 200-day average | +3.6% |
+| RSI (14d) | 50 |
 | Volatility (1y) | 46.6% |
 | Financials as of | 2026-06-30 |
 
@@ -76,4 +76,4 @@ Consumer Discretionary · Other Consumer Services
 - Insider trades: http://openinsider.com/DFIN
 - Full deep dive: run `python scout.py stock DFIN` → `research/DFIN.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

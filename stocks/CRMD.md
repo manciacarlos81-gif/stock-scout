@@ -3,17 +3,17 @@ ticker: "CRMD"
 company: "CorMedix Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 7.83
-market_cap: "$610.3M"
-score: 71
+price: 7.89
+market_cap: "$615.0M"
+score: 72
 value: 97
 quality: 78
 growth: 81
-momentum: 34
+momentum: 37
 health: 59
 pe: 3.3
 piotroski: 6
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 - Cheaper than about 97% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
-- Share price down 38% over 12 months (38% below its 52-week high).
+- Share price down 32% over 12 months (38% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **71** | 97 | 78 | 81 | 34 | 59 |
+| **72** | 97 | 78 | 81 | 37 | 59 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $7.83 |
-| Market value | $610.3M |
+| Price | $7.89 |
+| Market value | $615.0M |
 | P/E | 3.3 |
-| Price/Sales | 1.32 |
-| Price/Book | 1.32 |
-| Free-cash-flow yield | 28.3% |
+| Price/Sales | 1.33 |
+| Price/Book | 1.33 |
+| Free-cash-flow yield | 28.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $462.2M |
 | Sales growth | – |
@@ -61,10 +61,10 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.35 |
 | Share count change (1y) | +28.6% |
-| Return 1m / 6m / 12m | +3.8% / +21.2% / -38.1% |
-| vs. 200-day average | -4.4% |
-| RSI (14d) | 43 |
-| Volatility (1y) | 62.1% |
+| Return 1m / 6m / 12m | +2.9% / +23.9% / -31.9% |
+| vs. 200-day average | -3.6% |
+| RSI (14d) | 44 |
+| Volatility (1y) | 62.0% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/CRMD
 - Full deep dive: run `python scout.py stock CRMD` → `research/CRMD.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

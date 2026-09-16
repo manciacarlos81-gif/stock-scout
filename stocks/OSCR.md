@@ -3,17 +3,17 @@ ticker: "OSCR"
 company: "Oscar Health Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 32.77
-market_cap: "$10.1B"
-score: 76
+price: 33.81
+market_cap: "$10.4B"
+score: 75
 value: 86
 quality: 58
 growth: 87
-momentum: 93
+momentum: 94
 health: 52
-pe: 18.4
+pe: 18.9
 piotroski: 3
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,24 +31,24 @@ Health Care · Medical Specialities
 - Cheaper than about 86% of stocks in Health Care (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 43% over the last 12 months.
-- Share price up 75% over 12 months (1% below its 52-week high).
+- Share price up 89% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 86 | 58 | 87 | 93 | 52 |
+| **75** | 86 | 58 | 87 | 94 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $32.77 |
-| Market value | $10.1B |
-| P/E | 18.4 |
-| Price/Sales | 0.66 |
-| Price/Book | 4.93 |
-| Free-cash-flow yield | 10.8% |
+| Price | $33.81 |
+| Market value | $10.4B |
+| P/E | 18.9 |
+| Price/Sales | 0.68 |
+| Price/Book | 5.09 |
+| Free-cash-flow yield | 10.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $15.3B |
 | Sales growth | +42.8% |
@@ -60,11 +60,11 @@ Health Care · Medical Specialities
 | Debt / equity | 0.21 |
 | Current ratio | 1.08 |
 | Piotroski F-score | 3/9 |
-| Altman Z | 2.00 |
+| Altman Z | 2.02 |
 | Share count change (1y) | +30.5% |
-| Return 1m / 6m / 12m | +0.0% / +142.6% / +75.0% |
-| vs. 200-day average | +55.7% |
-| RSI (14d) | 58 |
+| Return 1m / 6m / 12m | +7.2% / +149.3% / +88.6% |
+| vs. 200-day average | +60.0% |
+| RSI (14d) | 63 |
 | Volatility (1y) | 70.4% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/OSCR
 - Full deep dive: run `python scout.py stock OSCR` → `research/OSCR.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "CRUS"
 company: "Cirrus Logic Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 118.79
-market_cap: "$6.0B"
+price: 116.34
+market_cap: "$5.8B"
 score: 67
-value: 85
+value: 86
 quality: 82
 growth: 49
-momentum: 24
+momentum: 22
 health: 86
-pe: 13.8
+pe: 13.5
 piotroski: 8
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -28,27 +28,27 @@ Technology · Semiconductors
 
 ## In plain English
 
-- Cheaper than about 85% of stocks in Technology (value score).
+- Cheaper than about 86% of stocks in Technology (value score).
 - Business quality ranks above 82% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price up 2% over 12 months (34% below its 52-week high).
+- Share price down 2% over 12 months (35% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 85 | 82 | 49 | 24 | 86 |
+| **67** | 86 | 82 | 49 | 22 | 86 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $118.79 |
-| Market value | $6.0B |
-| P/E | 13.8 |
-| Price/Sales | 2.90 |
-| Price/Book | 2.72 |
-| Free-cash-flow yield | 10.7% |
+| Price | $116.34 |
+| Market value | $5.8B |
+| P/E | 13.5 |
+| Price/Sales | 2.84 |
+| Price/Book | 2.66 |
+| Free-cash-flow yield | 10.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +6.2% |
@@ -62,10 +62,10 @@ Technology · Semiconductors
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.8% |
-| Return 1m / 6m / 12m | -1.9% / -12.6% / +1.9% |
-| vs. 200-day average | -15.3% |
-| RSI (14d) | 52 |
-| Volatility (1y) | 36.5% |
+| Return 1m / 6m / 12m | -2.9% / -13.2% / -2.0% |
+| vs. 200-day average | -17.0% |
+| RSI (14d) | 47 |
+| Volatility (1y) | 36.6% |
 | Financials as of | 2026-06-27 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/CRUS
 - Full deep dive: run `python scout.py stock CRUS` → `research/CRUS.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

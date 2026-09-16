@@ -3,19 +3,19 @@ ticker: "STX"
 company: "Seagate Technology Holdings PLC"
 sector: "Technology"
 industry: "Electronic Components"
-price: 830.17
-market_cap: "$189.9B"
+price: 805.55
+market_cap: "$184.2B"
 score: 69
-value: 34
+value: 35
 quality: 85
 growth: 81
-momentum: 97
+momentum: 96
 health: 54
-pe: 59.6
+pe: 57.9
 piotroski: 8
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
-  - "🚀 Growth + momentum"
+  - "🎯 Quality on sale"
 tags: [stock]
 ---
 
@@ -23,31 +23,31 @@ tags: [stock]
 
 Technology · Electronic Components
 
-**In screens today:** 🚀 Growth + momentum
+**In screens today:** 🎯 Quality on sale
 
 ## In plain English
 
-- More expensive than about 66% of Technology peers (value score).
+- More expensive than about 65% of Technology peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 296% over 12 months (24% below its 52-week high).
+- Share price up 285% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 34 | 85 | 81 | 97 | 54 |
+| **69** | 35 | 85 | 81 | 96 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $830.17 |
-| Market value | $189.9B |
-| P/E | 59.6 |
-| Price/Sales | 15.57 |
-| Price/Book | 87.62 |
-| Free-cash-flow yield | 1.6% |
+| Price | $805.55 |
+| Market value | $184.2B |
+| P/E | 57.9 |
+| Price/Sales | 15.11 |
+| Price/Book | 85.02 |
+| Free-cash-flow yield | 1.7% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $12.2B |
 | Sales growth | +34.1% |
@@ -59,12 +59,12 @@ Technology · Electronic Components
 | Debt / equity | 1.65 |
 | Current ratio | 1.67 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 16.60 |
+| Altman Z | 16.16 |
 | Share count change (1y) | +5.5% |
-| Return 1m / 6m / 12m | -14.7% / +97.6% / +296.5% |
-| vs. 200-day average | +35.2% |
-| RSI (14d) | 47 |
-| Volatility (1y) | 74.6% |
+| Return 1m / 6m / 12m | -19.0% / +98.5% / +284.7% |
+| vs. 200-day average | +30.7% |
+| RSI (14d) | 44 |
+| Volatility (1y) | 74.7% |
 | Financials as of | 2026-07-03 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/STX
 - Full deep dive: run `python scout.py stock STX` → `research/STX.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

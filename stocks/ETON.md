@@ -3,7 +3,7 @@ ticker: "ETON"
 company: "Eton Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 57.08
+price: 57.62
 market_cap: "$1.6B"
 score: 73
 value: 51
@@ -11,9 +11,9 @@ quality: 73
 growth: 88
 momentum: 99
 health: 62
-pe: 128.6
+pe: 129.8
 piotroski: 5
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 51% of stocks in Health Care (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 221% over 12 months (11% below its 52-week high).
+- Share price up 228% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $57.08 |
+| Price | $57.62 |
 | Market value | $1.6B |
-| P/E | 128.6 |
-| Price/Sales | 15.45 |
-| Price/Book | 35.02 |
+| P/E | 129.8 |
+| Price/Sales | 15.60 |
+| Price/Book | 35.35 |
 | Free-cash-flow yield | 0.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $105.6M |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.60 |
 | Current ratio | 1.52 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 14.56 |
+| Altman Z | 14.69 |
 | Share count change (1y) | +21.9% |
-| Return 1m / 6m / 12m | -3.0% / +201.7% / +221.0% |
-| vs. 200-day average | +92.8% |
-| RSI (14d) | 52 |
+| Return 1m / 6m / 12m | -6.7% / +202.9% / +228.1% |
+| vs. 200-day average | +93.2% |
+| RSI (14d) | 54 |
 | Volatility (1y) | 70.9% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ETON
 - Full deep dive: run `python scout.py stock ETON` → `research/ETON.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

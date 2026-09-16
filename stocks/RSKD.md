@@ -3,17 +3,17 @@ ticker: "RSKD"
 company: "Riskified Ltd."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 6.09
-market_cap: "$828.0M"
+price: 6.29
+market_cap: "$855.2M"
 score: 51
-value: 22
+value: 21
 quality: 46
 growth: 55
-momentum: 80
-health: 66
+momentum: 81
+health: 67
 pe: null
 piotroski: 6
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Business Services
 
 ## In plain English
 
-- More expensive than about 78% of Consumer Discretionary peers (value score).
+- More expensive than about 79% of Consumer Discretionary peers (value score).
 - Business quality ranks above 46% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price up 34% over 12 months (12% below its 52-week high).
+- Share price up 40% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 22 | 46 | 55 | 80 | 66 |
+| **51** | 21 | 46 | 55 | 81 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.09 |
-| Market value | $828.0M |
+| Price | $6.29 |
+| Market value | $855.2M |
 | P/E | – |
-| Price/Sales | 2.40 |
-| Price/Book | 2.81 |
-| Free-cash-flow yield | 4.0% |
+| Price/Sales | 2.48 |
+| Price/Book | 2.90 |
+| Free-cash-flow yield | 3.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $344.6M |
 | Sales growth | +5.2% |
@@ -59,12 +59,12 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 5.03 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.07 |
+| Altman Z | 4.21 |
 | Share count change (1y) | -7.9% |
-| Return 1m / 6m / 12m | -6.9% / +41.6% / +33.6% |
-| vs. 200-day average | +24.6% |
-| RSI (14d) | 51 |
-| Volatility (1y) | 40.4% |
+| Return 1m / 6m / 12m | -0.2% / +45.9% / +40.4% |
+| vs. 200-day average | +28.5% |
+| RSI (14d) | 56 |
+| Volatility (1y) | 40.5% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/RSKD
 - Full deep dive: run `python scout.py stock RSKD` → `research/RSKD.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

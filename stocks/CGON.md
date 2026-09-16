@@ -3,17 +3,17 @@ ticker: "CGON"
 company: "CG Oncology Inc. Common stock"
 sector: "Health Care"
 industry: "Biotechnology: Biological Products (No Diagnostic Substances)"
-price: 72.35
-market_cap: "$6.4B"
-score: 45
+price: 73.79
+market_cap: "$6.5B"
+score: 46
 value: 39
 quality: 9
 growth: 44
-momentum: 69
+momentum: 74
 health: 84
 pe: null
 piotroski: 2
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,25 +30,25 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - More expensive than about 61% of Health Care peers (value score).
 - Business quality ranks above 9% of all stocks scanned.
 - Sales grew 1030% over the last 12 months.
-- Share price up 109% over 12 months (10% below its 52-week high).
+- Share price up 106% over 12 months (9% below its 52-week high).
 - Insiders bought $24.8M of shares recently (Liu Brian Guan-Chyun (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **45** | 39 | 9 | 44 | 69 | 84 |
+| **46** | 39 | 9 | 44 | 74 | 84 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $72.35 |
-| Market value | $6.4B |
+| Price | $73.79 |
+| Market value | $6.5B |
 | P/E | – |
-| Price/Sales | 1,029.73 |
-| Price/Book | 6.23 |
-| Free-cash-flow yield | -2.1% |
+| Price/Sales | 1,050.22 |
+| Price/Book | 6.36 |
+| Free-cash-flow yield | -2.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $6.2M |
 | Sales growth | +1030.3% |
@@ -62,10 +62,10 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 2/9 |
 | Altman Z | 30.00 |
 | Share count change (1y) | +15.7% |
-| Return 1m / 6m / 12m | -3.6% / +5.4% / +109.1% |
-| vs. 200-day average | +16.5% |
-| RSI (14d) | 43 |
-| Volatility (1y) | 56.3% |
+| Return 1m / 6m / 12m | -4.3% / +14.5% / +106.3% |
+| vs. 200-day average | +18.5% |
+| RSI (14d) | 48 |
+| Volatility (1y) | 56.1% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -81,4 +81,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/CGON
 - Full deep dive: run `python scout.py stock CGON` → `research/CGON.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "INGM"
 company: "Ingram Micro Holding Corporation"
 sector: "Technology"
 industry: "Retail: Computer Software & Peripheral Equipment"
-price: 27.55
-market_cap: "$6.4B"
+price: 26.85
+market_cap: "$6.2B"
 score: 62
-value: 93
+value: 94
 quality: 36
 growth: 65
-momentum: 67
-health: 43
-pe: 14.8
+momentum: 66
+health: 42
+pe: 14.4
 piotroski: 6
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,28 +27,28 @@ Technology · Retail: Computer Software & Peripheral Equipment
 
 ## In plain English
 
-- Cheaper than about 93% of stocks in Technology (value score).
+- Cheaper than about 94% of stocks in Technology (value score).
 - Business quality ranks above 36% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price up 32% over 12 months (13% below its 52-week high).
+- Share price up 31% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **62** | 93 | 36 | 65 | 67 | 43 |
+| **62** | 94 | 36 | 65 | 66 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $27.55 |
-| Market value | $6.4B |
-| P/E | 14.8 |
+| Price | $26.85 |
+| Market value | $6.2B |
+| P/E | 14.4 |
 | Price/Sales | 0.11 |
-| Price/Book | 1.48 |
-| Free-cash-flow yield | 12.4% |
-| Dividend yield | 1.2% |
+| Price/Book | 1.45 |
+| Free-cash-flow yield | 12.7% |
+| Dividend yield | 1.3% |
 | Sales (12m) | $56.0B |
 | Sales growth | +11.5% |
 | Net profit (12m) | $430.6M |
@@ -61,10 +61,10 @@ Technology · Retail: Computer Software & Peripheral Equipment
 | Piotroski F-score | 6/9 |
 | Altman Z | 3.33 |
 | Share count change (1y) | -1.1% |
-| Return 1m / 6m / 12m | -3.5% / +24.0% / +31.6% |
-| vs. 200-day average | +8.6% |
-| RSI (14d) | 47 |
-| Volatility (1y) | 43.2% |
+| Return 1m / 6m / 12m | -4.1% / +24.4% / +31.4% |
+| vs. 200-day average | +5.7% |
+| RSI (14d) | 43 |
+| Volatility (1y) | 43.3% |
 | Financials as of | 2026-06-27 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Retail: Computer Software & Peripheral Equipment
 - Insider trades: http://openinsider.com/INGM
 - Full deep dive: run `python scout.py stock INGM` → `research/INGM.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

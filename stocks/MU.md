@@ -3,17 +3,17 @@ ticker: "MU"
 company: "Micron Technology Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 975.26
-market_cap: "$1.1T"
+price: 924.03
+market_cap: "$1.0T"
 score: 76
-value: 49
+value: 50
 quality: 73
 growth: 92
 momentum: 98
 health: 80
-pe: 21.8
+pe: 20.7
 piotroski: 7
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,28 +28,28 @@ Technology · Semiconductors
 
 ## In plain English
 
-- More expensive than about 51% of Technology peers (value score).
+- Cheaper than about 50% of stocks in Technology (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 167% over the last 12 months.
-- Share price up 519% over 12 months (20% below its 52-week high).
+- Share price up 483% over 12 months (24% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 49 | 73 | 92 | 98 | 80 |
+| **76** | 50 | 73 | 92 | 98 | 80 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $975.26 |
-| Market value | $1.1T |
-| P/E | 21.8 |
-| Price/Sales | 12.20 |
-| Price/Book | 10.94 |
+| Price | $924.03 |
+| Market value | $1.0T |
+| P/E | 20.7 |
+| Price/Sales | 11.56 |
+| Price/Book | 10.36 |
 | Free-cash-flow yield | 0.2% |
-| Dividend yield | 0.0% |
+| Dividend yield | 0.1% |
 | Sales (12m) | $90.3B |
 | Sales growth | +167.0% |
 | Net profit (12m) | $50.5B |
@@ -60,12 +60,12 @@ Technology · Semiconductors
 | Debt / equity | 0.06 |
 | Current ratio | 3.42 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 23.34 |
+| Altman Z | 22.30 |
 | Share count change (1y) | +1.8% |
-| Return 1m / 6m / 12m | +0.4% / +111.4% / +519.1% |
-| vs. 200-day average | +54.3% |
-| RSI (14d) | 53 |
-| Volatility (1y) | 81.4% |
+| Return 1m / 6m / 12m | -8.7% / +100.2% / +482.7% |
+| vs. 200-day average | +45.4% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 81.6% |
 | Financials as of | 2026-05-28 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MU
 - Full deep dive: run `python scout.py stock MU` → `research/MU.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

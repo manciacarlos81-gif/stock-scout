@@ -3,17 +3,17 @@ ticker: "SENEA"
 company: "Seneca Foods Corp."
 sector: "Consumer Staples"
 industry: "Packaged Foods"
-price: 190.62
+price: 186.35
 market_cap: "$1.3B"
 score: 76
 value: 80
 quality: 70
 growth: 84
-momentum: 84
+momentum: 81
 health: 62
-pe: 10.8
+pe: 10.6
 piotroski: 8
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -29,24 +29,24 @@ Consumer Staples · Packaged Foods
 
 - Cheaper than about 80% of stocks in Consumer Staples (value score).
 - Business quality ranks above 70% of all stocks scanned.
-- Share price up 77% over 12 months (8% below its 52-week high).
+- Share price up 74% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 80 | 70 | 84 | 84 | 62 |
+| **76** | 80 | 70 | 84 | 81 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $190.62 |
+| Price | $186.35 |
 | Market value | $1.3B |
-| P/E | 10.8 |
-| Price/Sales | 0.80 |
-| Price/Book | 1.67 |
-| Free-cash-flow yield | 23.1% |
+| P/E | 10.6 |
+| Price/Sales | 0.78 |
+| Price/Book | 1.63 |
+| Free-cash-flow yield | 23.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.6B |
 | Sales growth | – |
@@ -58,12 +58,12 @@ Consumer Staples · Packaged Foods
 | Debt / equity | 0.30 |
 | Current ratio | 3.77 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 4.72 |
+| Altman Z | 4.68 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -0.6% / +33.0% / +77.1% |
-| vs. 200-day average | +29.3% |
-| RSI (14d) | 50 |
-| Volatility (1y) | 40.7% |
+| Return 1m / 6m / 12m | -1.7% / +29.4% / +73.8% |
+| vs. 200-day average | +26.2% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 40.8% |
 | Financials as of | 2025-12-27 |
 
 ## Watch out
@@ -77,4 +77,4 @@ Consumer Staples · Packaged Foods
 - Insider trades: http://openinsider.com/SENEA
 - Full deep dive: run `python scout.py stock SENEA` → `research/SENEA.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

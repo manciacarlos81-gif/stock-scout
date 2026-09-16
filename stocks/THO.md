@@ -3,17 +3,17 @@ ticker: "THO"
 company: "Thor Industries Inc."
 sector: "Industrials"
 industry: "Homebuilding"
-price: 72.86
+price: 73.48
 market_cap: "$3.8B"
 score: 53
 value: 94
 quality: 42
 growth: 41
-momentum: 16
+momentum: 18
 health: 64
-pe: 14.5
+pe: 14.6
 piotroski: 6
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Industrials · Homebuilding
 - Cheaper than about 94% of stocks in Industrials (value score).
 - Business quality ranks above 42% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 29% over 12 months (39% below its 52-week high).
+- Share price down 29% over 12 months (38% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 94 | 42 | 41 | 16 | 64 |
+| **53** | 94 | 42 | 41 | 18 | 64 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $72.86 |
+| Price | $73.48 |
 | Market value | $3.8B |
-| P/E | 14.5 |
+| P/E | 14.6 |
 | Price/Sales | 0.39 |
-| Price/Book | 0.88 |
-| Free-cash-flow yield | 15.2% |
+| Price/Book | 0.89 |
+| Free-cash-flow yield | 15.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $9.8B |
 | Sales growth | +2.4% |
@@ -61,9 +61,9 @@ Industrials · Homebuilding
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -7.8% / -9.0% / -28.9% |
-| vs. 200-day average | -16.1% |
-| RSI (14d) | 39 |
+| Return 1m / 6m / 12m | -5.4% / -4.5% / -28.9% |
+| vs. 200-day average | -15.2% |
+| RSI (14d) | 41 |
 | Volatility (1y) | 37.2% |
 | Financials as of | 2026-04-30 |
 
@@ -74,4 +74,4 @@ Industrials · Homebuilding
 - Insider trades: http://openinsider.com/THO
 - Full deep dive: run `python scout.py stock THO` → `research/THO.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

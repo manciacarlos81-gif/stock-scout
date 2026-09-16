@@ -3,17 +3,17 @@ ticker: "AMD"
 company: "Advanced Micro Devices Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 516.13
-market_cap: "$842.6B"
+price: 493.41
+market_cap: "$805.5B"
 score: 65
 value: 28
 quality: 59
 growth: 84
-momentum: 98
+momentum: 97
 health: 73
-pe: 131.0
+pe: 125.2
 piotroski: 7
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,23 +30,23 @@ Technology · Semiconductors
 - More expensive than about 72% of Technology peers (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales grew 40% over the last 12 months.
-- Share price up 220% over 12 months (11% below its 52-week high).
+- Share price up 207% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 28 | 59 | 84 | 98 | 73 |
+| **65** | 28 | 59 | 84 | 97 | 73 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $516.13 |
-| Market value | $842.6B |
-| P/E | 131.0 |
-| Price/Sales | 20.40 |
-| Price/Book | 12.53 |
+| Price | $493.41 |
+| Market value | $805.5B |
+| P/E | 125.2 |
+| Price/Sales | 19.50 |
+| Price/Book | 11.98 |
 | Free-cash-flow yield | 0.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $41.3B |
@@ -61,10 +61,10 @@ Technology · Semiconductors
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +1.8% |
-| Return 1m / 6m / 12m | +0.3% / +162.9% / +220.3% |
-| vs. 200-day average | +47.0% |
-| RSI (14d) | 58 |
-| Volatility (1y) | 71.8% |
+| Return 1m / 6m / 12m | -2.5% / +147.4% / +207.5% |
+| vs. 200-day average | +40.1% |
+| RSI (14d) | 52 |
+| Volatility (1y) | 72.0% |
 | Financials as of | 2026-06-27 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/AMD
 - Full deep dive: run `python scout.py stock AMD` → `research/AMD.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 61
 value: 100
 quality: 73
 growth: 53
-momentum: 3
-health: 64
+momentum: 4
+health: 65
 pe: 1.2
 piotroski: 6
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -37,7 +37,7 @@ Finance · Finance: Consumer Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 100 | 73 | 53 | 3 | 64 |
+| **61** | 100 | 73 | 53 | 4 | 65 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Finance · Finance: Consumer Services
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -10.3% |
-| Return 1m / 6m / 12m | -27.2% / -34.4% / -67.1% |
-| vs. 200-day average | -36.5% |
+| Return 1m / 6m / 12m | -25.2% / -28.3% / -67.2% |
+| vs. 200-day average | -36.3% |
 | RSI (14d) | 31 |
-| Volatility (1y) | 59.2% |
+| Volatility (1y) | 58.8% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -80,4 +80,4 @@ Finance · Finance: Consumer Services
 - Insider trades: http://openinsider.com/QFIN
 - Full deep dive: run `python scout.py stock QFIN` → `research/QFIN.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

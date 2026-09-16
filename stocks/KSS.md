@@ -3,17 +3,17 @@ ticker: "KSS"
 company: "Kohl's Corporation"
 sector: "Consumer Discretionary"
 industry: "Department/Specialty Retail Stores"
-price: 17.23
-market_cap: "$2.0B"
+price: 17.17
+market_cap: "$1.9B"
 score: 63
 value: 98
 quality: 53
 growth: 35
-momentum: 64
+momentum: 63
 health: 47
 pe: 7.2
 piotroski: 6
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Cheaper than about 98% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 11% over 12 months (28% below its 52-week high).
+- Share price up 6% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 98 | 53 | 35 | 64 | 47 |
+| **63** | 98 | 53 | 35 | 63 | 47 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $17.23 |
-| Market value | $2.0B |
+| Price | $17.17 |
+| Market value | $1.9B |
 | P/E | 7.2 |
 | Price/Sales | 0.13 |
 | Price/Book | 0.47 |
-| Free-cash-flow yield | 70.6% |
+| Free-cash-flow yield | 70.9% |
 | Dividend yield | 2.9% |
 | Sales (12m) | $15.4B |
 | Sales growth | -2.9% |
@@ -61,10 +61,10 @@ Consumer Discretionary · Department/Specialty Retail Stores
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.5% |
-| Return 1m / 6m / 12m | -9.7% / +39.1% / +10.6% |
-| vs. 200-day average | +1.6% |
+| Return 1m / 6m / 12m | -10.3% / +44.8% / +6.2% |
+| vs. 200-day average | +1.4% |
 | RSI (14d) | 43 |
-| Volatility (1y) | 73.9% |
+| Volatility (1y) | 73.8% |
 | Financials as of | 2026-08-01 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Insider trades: http://openinsider.com/KSS
 - Full deep dive: run `python scout.py stock KSS` → `research/KSS.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

@@ -3,7 +3,7 @@ ticker: "VIPS"
 company: "Vipshop Holdings Limited"
 sector: "Consumer Discretionary"
 industry: "Catalog/Specialty Distribution"
-price: 12.47
+price: 12.44
 market_cap: "$6.0B"
 score: 53
 value: 93
@@ -13,7 +13,7 @@ momentum: 13
 health: 66
 pe: 5.8
 piotroski: 6
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -43,10 +43,10 @@ Consumer Discretionary · Catalog/Specialty Distribution
 
 | | |
 |---|---:|
-| Price | $12.47 |
+| Price | $12.44 |
 | Market value | $6.0B |
 | P/E | 5.8 |
-| Price/Sales | 0.40 |
+| Price/Sales | 0.39 |
 | Price/Book | 1.02 |
 | Free-cash-flow yield | 13.1% |
 | Dividend yield | 4.3% |
@@ -62,10 +62,10 @@ Consumer Discretionary · Catalog/Specialty Distribution
 | Piotroski F-score | 6/9 |
 | Altman Z | 3.41 |
 | Share count change (1y) | -5.1% |
-| Return 1m / 6m / 12m | -12.1% / -18.3% / -28.6% |
+| Return 1m / 6m / 12m | -11.4% / -16.2% / -29.4% |
 | vs. 200-day average | -18.8% |
 | RSI (14d) | 26 |
-| Volatility (1y) | 32.6% |
+| Volatility (1y) | 32.4% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Catalog/Specialty Distribution
 - Insider trades: http://openinsider.com/VIPS
 - Full deep dive: run `python scout.py stock VIPS` → `research/VIPS.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

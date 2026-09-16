@@ -3,17 +3,17 @@ ticker: "ODFL"
 company: "Old Dominion Freight Line Inc."
 sector: "Industrials"
 industry: "Trucking Freight/Courier Services"
-price: 179.79
-market_cap: "$37.3B"
+price: 181.91
+market_cap: "$37.7B"
 score: 58
-value: 43
+value: 42
 quality: 83
 growth: 33
-momentum: 46
+momentum: 47
 health: 81
-pe: 34.2
+pe: 34.6
 piotroski: 7
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Industrials · Trucking Freight/Courier Services
 
 ## In plain English
 
-- More expensive than about 57% of Industrials peers (value score).
+- More expensive than about 58% of Industrials peers (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales fell 1% over the last 12 months.
-- Share price up 25% over 12 months (28% below its 52-week high).
+- Share price up 25% over 12 months (27% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 43 | 83 | 33 | 46 | 81 |
+| **58** | 42 | 83 | 33 | 47 | 81 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $179.79 |
-| Market value | $37.3B |
-| P/E | 34.2 |
-| Price/Sales | 6.65 |
-| Price/Book | 8.20 |
-| Free-cash-flow yield | 3.7% |
+| Price | $181.91 |
+| Market value | $37.7B |
+| P/E | 34.6 |
+| Price/Sales | 6.73 |
+| Price/Book | 8.29 |
+| Free-cash-flow yield | 3.6% |
 | Dividend yield | 0.6% |
 | Sales (12m) | $5.6B |
 | Sales growth | -0.6% |
@@ -59,12 +59,12 @@ Industrials · Trucking Freight/Courier Services
 | Debt / equity | 0.00 |
 | Current ratio | 1.89 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 21.78 |
+| Altman Z | 22.00 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -14.6% / -2.2% / +24.5% |
-| vs. 200-day average | -9.2% |
-| RSI (14d) | 24 |
-| Volatility (1y) | 37.9% |
+| Return 1m / 6m / 12m | -14.0% / -0.1% / +24.5% |
+| vs. 200-day average | -8.2% |
+| RSI (14d) | 29 |
+| Volatility (1y) | 37.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Industrials · Trucking Freight/Courier Services
 - Insider trades: http://openinsider.com/ODFL
 - Full deep dive: run `python scout.py stock ODFL` → `research/ODFL.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

@@ -1,37 +1,37 @@
 {
- "date": "2026-09-15",
+ "date": "2026-09-16",
  "scanned": 2620,
  "top": [
   {
    "rank": 1,
-   "ticker": "ECPG",
-   "name": "Encore Capital Group Inc",
-   "score": 82,
-   "price": 98.56,
-   "flags": "heavy debt"
-  },
-  {
-   "rank": 2,
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 82,
-   "price": 1633.35,
+   "price": 1551.99,
    "flags": ""
+  },
+  {
+   "rank": 2,
+   "ticker": "ECPG",
+   "name": "Encore Capital Group Inc",
+   "score": 82,
+   "price": 99.74,
+   "flags": "heavy debt"
   },
   {
    "rank": 3,
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 81,
-   "price": 200.24,
+   "price": 217.02,
    "flags": "shares up 17% in a year"
   },
   {
    "rank": 4,
    "ticker": "CDNA",
    "name": "CareDx Inc.",
-   "score": 81,
-   "price": 50.26,
+   "score": 80,
+   "price": 52.37,
    "flags": ""
   },
   {
@@ -39,15 +39,15 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 103.65,
+   "price": 105.84,
    "flags": ""
   },
   {
    "rank": 6,
    "ticker": "INCY",
    "name": "Incyte Corp.",
-   "score": 79,
-   "price": 121.47,
+   "score": 80,
+   "price": 122.19,
    "flags": ""
   },
   {
@@ -55,7 +55,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 79,
-   "price": 55.18,
+   "price": 55.38,
    "flags": ""
   },
   {
@@ -63,23 +63,23 @@
    "ticker": "BFH",
    "name": "Bread Financial Holdings Inc.",
    "score": 79,
-   "price": 106.37,
+   "price": 109.23,
    "flags": ""
   },
   {
    "rank": 9,
    "ticker": "KNSA",
    "name": "Kiniksa Pharmaceuticals International plc",
-   "score": 77,
-   "price": 76.27,
+   "score": 78,
+   "price": 76.58,
    "flags": ""
   },
   {
    "rank": 10,
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
-   "score": 77,
-   "price": 56.12,
+   "score": 78,
+   "price": 56.21,
    "flags": ""
   }
  ],
@@ -100,16 +100,16 @@
   {
    "ticker": "OPFI",
    "name": "OppFi Inc.",
-   "value": 1447280,
+   "value": 1488685,
    "buyers": 1,
-   "last": "2026-09-10"
+   "last": "2026-09-11"
   },
   {
-   "ticker": "GME",
-   "name": "GameStop Corporation",
-   "value": 21605932,
-   "buyers": 3,
-   "last": "2026-09-10"
+   "ticker": "GIII",
+   "name": "G-III Apparel Group LTD.",
+   "value": 1117600,
+   "buyers": 1,
+   "last": "2026-09-14"
   }
  ]
 }

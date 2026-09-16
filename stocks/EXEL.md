@@ -3,9 +3,9 @@ ticker: "EXEL"
 company: "Exelixis Inc."
 sector: "Health Care"
 industry: "Biotechnology: Biological Products (No Diagnostic Substances)"
-price: 56.12
+price: 56.21
 market_cap: "$13.9B"
-score: 77
+score: 78
 value: 77
 quality: 87
 growth: 65
@@ -13,7 +13,7 @@ momentum: 73
 health: 80
 pe: 16.2
 piotroski: 7
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -36,17 +36,17 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 77 | 87 | 65 | 73 | 80 |
+| **78** | 77 | 87 | 65 | 73 | 80 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $56.12 |
+| Price | $56.21 |
 | Market value | $13.9B |
 | P/E | 16.2 |
-| Price/Sales | 5.71 |
-| Price/Book | 7.54 |
+| Price/Sales | 5.72 |
+| Price/Book | 7.55 |
 | Free-cash-flow yield | 6.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.4B |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Debt / equity | – |
 | Current ratio | 3.46 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 15.37 |
+| Altman Z | 15.39 |
 | Share count change (1y) | -8.7% |
-| Return 1m / 6m / 12m | +9.5% / +34.2% / +43.9% |
+| Return 1m / 6m / 12m | +7.4% / +36.2% / +43.6% |
 | vs. 200-day average | +16.6% |
-| RSI (14d) | 50 |
-| Volatility (1y) | 37.0% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 36.8% |
 | Financials as of | 2026-07-03 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/EXEL
 - Full deep dive: run `python scout.py stock EXEL` → `research/EXEL.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

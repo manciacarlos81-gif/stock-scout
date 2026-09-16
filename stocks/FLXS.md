@@ -3,17 +3,17 @@ ticker: "FLXS"
 company: "Flexsteel Industries Inc."
 sector: "Consumer Discretionary"
 industry: "Home Furnishings"
-price: 81.4
-market_cap: "$333.1M"
+price: 81.9
+market_cap: "$335.1M"
 score: 76
 value: 83
 quality: 73
 growth: 61
-momentum: 89
+momentum: 88
 health: 71
 pe: 10.1
 piotroski: 8
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Home Furnishings
 - Cheaper than about 83% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price up 71% over 12 months (3% below its 52-week high).
+- Share price up 75% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 83 | 73 | 61 | 89 | 71 |
+| **76** | 83 | 73 | 61 | 88 | 71 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $81.40 |
-| Market value | $333.1M |
+| Price | $81.90 |
+| Market value | $335.1M |
 | P/E | 10.1 |
 | Price/Sales | 0.73 |
-| Price/Book | 2.49 |
-| Free-cash-flow yield | 14.3% |
+| Price/Book | 2.51 |
+| Free-cash-flow yield | 14.2% |
 | Dividend yield | 1.3% |
 | Sales (12m) | $459.2M |
 | Sales growth | +4.1% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Home Furnishings
 | Debt / equity | – |
 | Current ratio | 2.09 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 5.62 |
+| Altman Z | 5.63 |
 | Share count change (1y) | -3.9% |
-| Return 1m / 6m / 12m | +10.3% / +79.8% / +70.7% |
-| vs. 200-day average | +43.9% |
-| RSI (14d) | 56 |
+| Return 1m / 6m / 12m | +15.6% / +82.8% / +75.4% |
+| vs. 200-day average | +44.2% |
+| RSI (14d) | 57 |
 | Volatility (1y) | 50.6% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/FLXS
 - Full deep dive: run `python scout.py stock FLXS` → `research/FLXS.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

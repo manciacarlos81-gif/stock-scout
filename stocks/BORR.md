@@ -3,17 +3,17 @@ ticker: "BORR"
 company: "Borr Drilling Limited"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 4.27
+price: 4.12
 market_cap: "$1.3B"
-score: 47
+score: 46
 value: 69
 quality: 58
 growth: 21
-momentum: 39
+momentum: 37
 health: 25
-pe: 29.2
+pe: 28.2
 piotroski: 6
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,25 +30,25 @@ Energy · Oil & Gas Production
 - Cheaper than about 69% of stocks in Energy (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 40% over 12 months (35% below its 52-week high).
+- Share price up 30% over 12 months (38% below its 52-week high).
 - Insiders bought $12.1M of shares recently (Troim Tor Olav (Dir); Currie Jeffrey (Dir); Schorn Patrick (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **47** | 69 | 58 | 21 | 39 | 25 |
+| **46** | 69 | 58 | 21 | 37 | 25 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $4.27 |
+| Price | $4.12 |
 | Market value | $1.3B |
-| P/E | 29.2 |
-| Price/Sales | 1.29 |
-| Price/Book | 1.37 |
-| Free-cash-flow yield | 19.2% |
+| P/E | 28.2 |
+| Price/Sales | 1.24 |
+| Price/Book | 1.32 |
+| Free-cash-flow yield | 19.9% |
 | Dividend yield | 0.4% |
 | Sales (12m) | $1.0B |
 | Sales growth | +1.0% |
@@ -60,11 +60,11 @@ Energy · Oil & Gas Production
 | Debt / equity | 2.58 |
 | Current ratio | 2.53 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 0.40 |
+| Altman Z | 0.39 |
 | Share count change (1y) | +12.2% |
-| Return 1m / 6m / 12m | -3.6% / -14.9% / +40.5% |
-| vs. 200-day average | -12.0% |
-| RSI (14d) | 45 |
+| Return 1m / 6m / 12m | -8.4% / -15.4% / +30.0% |
+| vs. 200-day average | -15.1% |
+| RSI (14d) | 41 |
 | Volatility (1y) | 54.2% |
 | Financials as of | 2025-12-31 |
 
@@ -82,4 +82,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/BORR
 - Full deep dive: run `python scout.py stock BORR` → `research/BORR.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_

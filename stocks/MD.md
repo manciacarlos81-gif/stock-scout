@@ -3,17 +3,17 @@ ticker: "MD"
 company: "Pediatrix Medical Group Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 26.77
+price: 26.91
 market_cap: "$2.2B"
 score: 73
 value: 91
-quality: 76
+quality: 75
 growth: 53
 momentum: 80
 health: 48
-pe: 12.4
+pe: 12.5
 piotroski: 8
-updated: "2026-09-15"
+updated: "2026-09-16"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -28,26 +28,26 @@ Health Care · Hospital/Nursing Management
 ## In plain English
 
 - Cheaper than about 91% of stocks in Health Care (value score).
-- Business quality ranks above 76% of all stocks scanned.
+- Business quality ranks above 75% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 62% over 12 months (2% below its 52-week high).
+- Share price up 67% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 91 | 76 | 53 | 80 | 48 |
+| **73** | 91 | 75 | 53 | 80 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $26.77 |
+| Price | $26.91 |
 | Market value | $2.2B |
-| P/E | 12.4 |
+| P/E | 12.5 |
 | Price/Sales | 1.12 |
-| Price/Book | 2.47 |
-| Free-cash-flow yield | 12.5% |
+| Price/Book | 2.48 |
+| Free-cash-flow yield | 12.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +0.5% |
@@ -59,11 +59,11 @@ Health Care · Hospital/Nursing Management
 | Debt / equity | 0.45 |
 | Current ratio | 1.32 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.37 |
+| Altman Z | 2.38 |
 | Share count change (1y) | -4.8% |
-| Return 1m / 6m / 12m | +0.6% / +36.4% / +61.6% |
-| vs. 200-day average | +16.0% |
-| RSI (14d) | 53 |
+| Return 1m / 6m / 12m | +2.2% / +35.7% / +66.8% |
+| vs. 200-day average | +16.6% |
+| RSI (14d) | 55 |
 | Volatility (1y) | 42.3% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/MD
 - Full deep dive: run `python scout.py stock MD` → `research/MD.md`
 
-_Updated 2026-09-15 · [latest report](../reports/latest.md)_
+_Updated 2026-09-16 · [latest report](../reports/latest.md)_
