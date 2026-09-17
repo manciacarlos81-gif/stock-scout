@@ -3,17 +3,17 @@ ticker: "ARI"
 company: "Apollo Commercial Real Estate Finance Inc"
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 6.57
-market_cap: "$842.4M"
+price: 6.51
+market_cap: "$834.7M"
 score: 66
 value: 88
 quality: 64
 growth: 50
-momentum: 36
+momentum: 37
 health: 91
-pe: 6.4
+pe: 6.3
 piotroski: 8
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 88% of stocks in Real Estate (value score).
 - Business quality ranks above 64% of all stocks scanned.
 - Sales fell 15% over the last 12 months.
-- Share price up 4% over 12 months (9% below its 52-week high).
+- Share price up 4% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 88 | 64 | 50 | 36 | 91 |
+| **66** | 88 | 64 | 50 | 37 | 91 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.57 |
-| Market value | $842.4M |
-| P/E | 6.4 |
-| Price/Sales | 3.54 |
+| Price | $6.51 |
+| Market value | $834.7M |
+| P/E | 6.3 |
+| Price/Sales | 3.51 |
 | Price/Book | 0.67 |
-| Free-cash-flow yield | 16.9% |
-| Dividend yield | 16.8% |
+| Free-cash-flow yield | 17.1% |
+| Dividend yield | 16.9% |
 | Sales (12m) | $237.9M |
 | Sales growth | -14.7% |
 | Net profit (12m) | $132.0M |
@@ -61,10 +61,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | -3.8% / +0.4% / +4.4% |
-| vs. 200-day average | -2.1% |
-| RSI (14d) | 35 |
-| Volatility (1y) | 20.0% |
+| Return 1m / 6m / 12m | -4.5% / -0.5% / +3.6% |
+| vs. 200-day average | -3.1% |
+| RSI (14d) | 32 |
+| Volatility (1y) | 19.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/ARI
 - Full deep dive: run `python scout.py stock ARI` → `research/ARI.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

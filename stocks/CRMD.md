@@ -3,17 +3,17 @@ ticker: "CRMD"
 company: "CorMedix Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 7.89
-market_cap: "$615.0M"
+price: 7.76
+market_cap: "$604.8M"
 score: 72
-value: 97
+value: 96
 quality: 78
 growth: 81
-momentum: 37
+momentum: 38
 health: 59
-pe: 3.3
+pe: 3.2
 piotroski: 6
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -28,26 +28,26 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- Cheaper than about 97% of stocks in Health Care (value score).
+- Cheaper than about 96% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
-- Share price down 32% over 12 months (38% below its 52-week high).
+- Share price down 30% over 12 months (39% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 97 | 78 | 81 | 37 | 59 |
+| **72** | 96 | 78 | 81 | 38 | 59 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $7.89 |
-| Market value | $615.0M |
-| P/E | 3.3 |
-| Price/Sales | 1.33 |
-| Price/Book | 1.33 |
-| Free-cash-flow yield | 28.1% |
+| Price | $7.76 |
+| Market value | $604.8M |
+| P/E | 3.2 |
+| Price/Sales | 1.31 |
+| Price/Book | 1.31 |
+| Free-cash-flow yield | 28.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $462.2M |
 | Sales growth | – |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 2.56 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.35 |
+| Altman Z | 2.34 |
 | Share count change (1y) | +28.6% |
-| Return 1m / 6m / 12m | +2.9% / +23.9% / -31.9% |
-| vs. 200-day average | -3.6% |
-| RSI (14d) | 44 |
-| Volatility (1y) | 62.0% |
+| Return 1m / 6m / 12m | -5.0% / +23.2% / -30.2% |
+| vs. 200-day average | -5.1% |
+| RSI (14d) | 42 |
+| Volatility (1y) | 61.8% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/CRMD
 - Full deep dive: run `python scout.py stock CRMD` → `research/CRMD.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "COKE"
 company: "Coca-Cola Consolidated Inc."
 sector: "Consumer Staples"
 industry: "Beverages (Production/Distribution)"
-price: 200.67
-market_cap: "$13.4B"
+price: 198.63
+market_cap: "$13.2B"
 score: 55
-value: 44
+value: 45
 quality: 71
 growth: 47
-momentum: 56
-health: 51
-pe: 24.3
+momentum: 57
+health: 52
+pe: 24.0
 piotroski: 6
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Staples · Beverages (Production/Distribution)
 
 ## In plain English
 
-- More expensive than about 56% of Consumer Staples peers (value score).
+- More expensive than about 55% of Consumer Staples peers (value score).
 - Business quality ranks above 71% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price up 71% over 12 months (7% below its 52-week high).
+- Share price up 69% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 44 | 71 | 47 | 56 | 51 |
+| **55** | 45 | 71 | 47 | 57 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $200.67 |
-| Market value | $13.4B |
-| P/E | 24.3 |
-| Price/Sales | 1.74 |
+| Price | $198.63 |
+| Market value | $13.2B |
+| P/E | 24.0 |
+| Price/Sales | 1.72 |
 | Price/Book | – |
-| Free-cash-flow yield | 4.6% |
-| Dividend yield | 0.6% |
+| Free-cash-flow yield | 4.7% |
+| Dividend yield | 0.7% |
 | Sales (12m) | $7.7B |
 | Sales growth | +10.7% |
 | Net profit (12m) | $550.0M |
@@ -59,12 +59,12 @@ Consumer Staples · Beverages (Production/Distribution)
 | Debt / equity | – |
 | Current ratio | 1.21 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 3.99 |
+| Altman Z | 3.97 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | +7.8% / -5.5% / +71.4% |
-| vs. 200-day average | +11.3% |
-| RSI (14d) | 62 |
-| Volatility (1y) | 36.4% |
+| Return 1m / 6m / 12m | +5.3% / -5.4% / +68.6% |
+| vs. 200-day average | +10.1% |
+| RSI (14d) | 59 |
+| Volatility (1y) | 36.0% |
 | Financials as of | 2026-07-03 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Staples · Beverages (Production/Distribution)
 - Insider trades: http://openinsider.com/COKE
 - Full deep dive: run `python scout.py stock COKE` → `research/COKE.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

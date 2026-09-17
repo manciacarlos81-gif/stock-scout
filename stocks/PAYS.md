@@ -3,17 +3,17 @@ ticker: "PAYS"
 company: "Paysign Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 12.83
-market_cap: "$724.4M"
-score: 70
-value: 54
+price: 12.17
+market_cap: "$687.1M"
+score: 71
+value: 56
 quality: 71
 growth: 84
-momentum: 97
-health: 48
-pe: 45.9
+momentum: 98
+health: 47
+pe: 43.6
 piotroski: 6
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · EDP Services
 
 ## In plain English
 
-- Cheaper than about 54% of stocks in Technology (value score).
+- Cheaper than about 56% of stocks in Technology (value score).
 - Business quality ranks above 71% of all stocks scanned.
 - Sales grew 47% over the last 12 months.
-- Share price up 124% over 12 months (9% below its 52-week high).
+- Share price up 113% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **70** | 54 | 71 | 84 | 97 | 48 |
+| **71** | 56 | 71 | 84 | 98 | 47 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.83 |
-| Market value | $724.4M |
-| P/E | 45.9 |
-| Price/Sales | 7.20 |
-| Price/Book | 12.04 |
-| Free-cash-flow yield | 7.1% |
+| Price | $12.17 |
+| Market value | $687.1M |
+| P/E | 43.6 |
+| Price/Sales | 6.83 |
+| Price/Book | 11.42 |
+| Free-cash-flow yield | 7.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $100.6M |
 | Sales growth | +46.8% |
@@ -59,12 +59,12 @@ Technology · EDP Services
 | Debt / equity | 0.09 |
 | Current ratio | 1.14 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.44 |
+| Altman Z | 2.35 |
 | Share count change (1y) | +7.1% |
-| Return 1m / 6m / 12m | -1.3% / +298.4% / +123.5% |
-| vs. 200-day average | +85.7% |
-| RSI (14d) | 54 |
-| Volatility (1y) | 70.0% |
+| Return 1m / 6m / 12m | -10.0% / +282.7% / +112.8% |
+| vs. 200-day average | +75.4% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 70.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PAYS
 - Full deep dive: run `python scout.py stock PAYS` → `research/PAYS.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

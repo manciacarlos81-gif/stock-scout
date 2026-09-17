@@ -3,17 +3,17 @@ ticker: "SNDK"
 company: "Sandisk Corporation"
 sector: "Technology"
 industry: "Electronic Components"
-price: 1551.99
-market_cap: "$227.2B"
+price: 1530.9
+market_cap: "$224.2B"
 score: 82
 value: 62
 quality: 84
 growth: 91
 momentum: 98
 health: 80
-pe: 19.9
+pe: 19.6
 piotroski: 7
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -32,7 +32,7 @@ Technology · Electronic Components
 - Cheaper than about 62% of stocks in Technology (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 175% over the last 12 months.
-- Share price up 1595% over 12 months (34% below its 52-week high).
+- Share price up 1529% over 12 months (34% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -44,11 +44,11 @@ Technology · Electronic Components
 
 | | |
 |---|---:|
-| Price | $1,551.99 |
-| Market value | $227.2B |
-| P/E | 19.9 |
-| Price/Sales | 11.22 |
-| Price/Book | 14.44 |
+| Price | $1,530.90 |
+| Market value | $224.2B |
+| P/E | 19.6 |
+| Price/Sales | 11.07 |
+| Price/Book | 14.24 |
 | Free-cash-flow yield | 5.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $20.2B |
@@ -61,12 +61,12 @@ Technology · Electronic Components
 | Debt / equity | 0.00 |
 | Current ratio | 2.29 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 23.84 |
+| Altman Z | 23.56 |
 | Share count change (1y) | +6.9% |
-| Return 1m / 6m / 12m | -13.1% / +105.9% / +1595.2% |
-| vs. 200-day average | +46.3% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 116.2% |
+| Return 1m / 6m / 12m | -5.8% / +98.3% / +1529.1% |
+| vs. 200-day average | +43.4% |
+| RSI (14d) | 47 |
+| Volatility (1y) | 116.1% |
 | Financials as of | 2026-07-03 |
 
 ## Dig deeper
@@ -76,4 +76,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/SNDK
 - Full deep dive: run `python scout.py stock SNDK` → `research/SNDK.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

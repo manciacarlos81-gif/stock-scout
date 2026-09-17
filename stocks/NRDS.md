@@ -3,17 +3,17 @@ ticker: "NRDS"
 company: "NerdWallet Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 9.5
-market_cap: "$607.3M"
+price: 9.52
+market_cap: "$608.5M"
 score: 70
-value: 96
+value: 95
 quality: 79
 growth: 74
-momentum: 21
+momentum: 23
 health: 75
-pe: 9.3
+pe: 9.4
 piotroski: 9
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -28,27 +28,27 @@ Technology · EDP Services
 
 ## In plain English
 
-- Cheaper than about 96% of stocks in Technology (value score).
+- Cheaper than about 95% of stocks in Technology (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price down 13% over 12 months (40% below its 52-week high).
+- Share price down 14% over 12 months (40% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **70** | 96 | 79 | 74 | 21 | 75 |
+| **70** | 95 | 79 | 74 | 23 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $9.50 |
-| Market value | $607.3M |
-| P/E | 9.3 |
+| Price | $9.52 |
+| Market value | $608.5M |
+| P/E | 9.4 |
 | Price/Sales | 0.71 |
-| Price/Book | 1.86 |
-| Free-cash-flow yield | 21.5% |
+| Price/Book | 1.87 |
+| Free-cash-flow yield | 21.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $860.0M |
 | Sales growth | +11.5% |
@@ -62,9 +62,9 @@ Technology · EDP Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 6.22 |
 | Share count change (1y) | -14.1% |
-| Return 1m / 6m / 12m | -1.0% / -6.7% / -13.4% |
-| vs. 200-day average | -10.0% |
-| RSI (14d) | 46 |
+| Return 1m / 6m / 12m | -4.3% / -7.3% / -14.2% |
+| vs. 200-day average | -9.6% |
+| RSI (14d) | 47 |
 | Volatility (1y) | 46.6% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/NRDS
 - Full deep dive: run `python scout.py stock NRDS` → `research/NRDS.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

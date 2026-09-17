@@ -3,17 +3,17 @@ ticker: "XRN"
 company: "Chiron Real Estate Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 36.27
-market_cap: "$480.1M"
+price: 36.14
+market_cap: "$478.4M"
 score: 65
 value: 87
 quality: 58
 growth: 67
 momentum: 44
 health: 67
-pe: 7.7
+pe: 7.6
 piotroski: 6
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -43,12 +43,12 @@ Real Estate · Real Estate Investment Trusts
 
 | | |
 |---|---:|
-| Price | $36.27 |
-| Market value | $480.1M |
-| P/E | 7.7 |
-| Price/Sales | 3.13 |
+| Price | $36.14 |
+| Market value | $478.4M |
+| P/E | 7.6 |
+| Price/Sales | 3.12 |
 | Price/Book | 0.73 |
-| Free-cash-flow yield | 15.3% |
+| Free-cash-flow yield | 15.4% |
 | Dividend yield | 1.2% |
 | Sales (12m) | $153.4M |
 | Sales growth | +8.0% |
@@ -62,9 +62,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.1% |
-| Return 1m / 6m / 12m | +0.2% / +10.1% / +3.0% |
-| vs. 200-day average | +4.2% |
-| RSI (14d) | 46 |
+| Return 1m / 6m / 12m | +0.5% / +9.0% / +2.9% |
+| vs. 200-day average | +3.8% |
+| RSI (14d) | 45 |
 | Volatility (1y) | 29.2% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/XRN
 - Full deep dive: run `python scout.py stock XRN` → `research/XRN.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "IBTA"
 company: "Ibotta Inc."
 sector: "Consumer Discretionary"
 industry: "Advertising"
-price: 42.4
-market_cap: "$982.4M"
+price: 42.05
+market_cap: "$974.3M"
 score: 48
 value: 28
 quality: 55
 growth: 16
-momentum: 81
+momentum: 82
 health: 58
 pe: null
 piotroski: 6
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Advertising
 - More expensive than about 72% of Consumer Discretionary peers (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price up 58% over 12 months (0% below its 52-week high).
+- Share price up 57% over 12 months (1% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **48** | 28 | 55 | 16 | 81 | 58 |
+| **48** | 28 | 55 | 16 | 82 | 58 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $42.40 |
-| Market value | $982.4M |
+| Price | $42.05 |
+| Market value | $974.3M |
 | P/E | – |
-| Price/Sales | 2.86 |
-| Price/Book | 4.07 |
-| Free-cash-flow yield | 7.6% |
+| Price/Sales | 2.84 |
+| Price/Book | 4.03 |
+| Free-cash-flow yield | 7.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $343.2M |
 | Sales growth | -6.6% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Advertising
 | Debt / equity | 0.00 |
 | Current ratio | 1.71 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.99 |
+| Altman Z | 2.97 |
 | Share count change (1y) | -23.5% |
-| Return 1m / 6m / 12m | +18.0% / +61.4% / +57.5% |
-| vs. 200-day average | +44.1% |
-| RSI (14d) | 70 |
+| Return 1m / 6m / 12m | +14.0% / +51.9% / +57.3% |
+| vs. 200-day average | +42.5% |
+| RSI (14d) | 68 |
 | Volatility (1y) | 81.8% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/IBTA
 - Full deep dive: run `python scout.py stock IBTA` → `research/IBTA.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

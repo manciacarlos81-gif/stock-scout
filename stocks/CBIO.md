@@ -3,17 +3,17 @@ ticker: "CBIO"
 company: "Crescent Biopharma Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 19.68
-market_cap: "$731.0M"
-score: 43
+price: 18.8
+market_cap: "$698.3M"
+score: 42
 value: 28
 quality: 12
 growth: 33
-momentum: 84
-health: 73
+momentum: 79
+health: 72
 pe: null
 piotroski: 4
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -29,25 +29,25 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 - More expensive than about 72% of Health Care peers (value score).
 - Business quality ranks above 12% of all stocks scanned.
-- Share price up 57% over 12 months (27% below its 52-week high).
+- Share price up 47% over 12 months (30% below its 52-week high).
 - Insiders bought $12.4M of shares recently (Fairmount Funds Management LLC (Dir, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **43** | 28 | 12 | 33 | 84 | 73 |
+| **42** | 28 | 12 | 33 | 79 | 72 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $19.68 |
-| Market value | $731.0M |
+| Price | $18.80 |
+| Market value | $698.3M |
 | P/E | – |
-| Price/Sales | 61.52 |
-| Price/Book | 4.48 |
-| Free-cash-flow yield | -9.9% |
+| Price/Sales | 58.77 |
+| Price/Book | 4.28 |
+| Free-cash-flow yield | -10.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $11.9M |
 | Sales growth | – |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 9.66 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 18.88 |
+| Altman Z | 17.87 |
 | Share count change (1y) | +1.8% |
-| Return 1m / 6m / 12m | +12.6% / +90.1% / +57.4% |
-| vs. 200-day average | +25.3% |
-| RSI (14d) | 59 |
-| Volatility (1y) | 78.9% |
+| Return 1m / 6m / 12m | +12.6% / +77.0% / +46.9% |
+| vs. 200-day average | +19.5% |
+| RSI (14d) | 52 |
+| Volatility (1y) | 79.1% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -80,4 +80,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/CBIO
 - Full deep dive: run `python scout.py stock CBIO` → `research/CBIO.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

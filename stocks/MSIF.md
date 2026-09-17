@@ -3,17 +3,17 @@ ticker: "MSIF"
 company: "MSC Income Fund Inc."
 sector: "Finance"
 industry: "Finance/Investors Services"
-price: 12.4
-market_cap: "$562.3M"
+price: 12.31
+market_cap: "$558.2M"
 score: 68
-value: 95
+value: 96
 quality: null
 growth: 77
-momentum: 33
+momentum: 34
 health: 87
-pe: 5.7
+pe: 5.6
 piotroski: 6
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,7 +27,7 @@ Finance · Finance/Investors Services
 
 ## In plain English
 
-- Cheaper than about 95% of stocks in Finance (value score).
+- Cheaper than about 96% of stocks in Finance (value score).
 - Share price down 1% over 12 months (6% below its 52-week high).
 - Insiders bought $110.4K of shares recently (Marks Nataly Michelle (Dir); Hyzak Dwayne L. (CEO, SMD); Meserve Nicholas (MD)).
 
@@ -35,19 +35,19 @@ Finance · Finance/Investors Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 95 | – | 77 | 33 | 87 |
+| **68** | 96 | – | 77 | 34 | 87 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.40 |
-| Market value | $562.3M |
-| P/E | 5.7 |
+| Price | $12.31 |
+| Market value | $558.2M |
+| P/E | 5.6 |
 | Price/Sales | – |
 | Price/Book | 0.75 |
 | Free-cash-flow yield | – |
-| Dividend yield | 12.0% |
+| Dividend yield | 12.1% |
 | Sales (12m) | – |
 | Sales growth | – |
 | Net profit (12m) | $99.1M |
@@ -60,9 +60,9 @@ Finance · Finance/Investors Services
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.6% |
-| Return 1m / 6m / 12m | +2.4% / -1.5% / -1.2% |
-| vs. 200-day average | +2.9% |
-| RSI (14d) | 52 |
+| Return 1m / 6m / 12m | -0.0% / -3.2% / -1.4% |
+| vs. 200-day average | +2.1% |
+| RSI (14d) | 49 |
 | Volatility (1y) | 27.1% |
 | Financials as of | 2026-06-30 |
 
@@ -73,4 +73,4 @@ Finance · Finance/Investors Services
 - Insider trades: http://openinsider.com/MSIF
 - Full deep dive: run `python scout.py stock MSIF` → `research/MSIF.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

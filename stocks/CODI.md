@@ -3,8 +3,8 @@ ticker: "CODI"
 company: "D/B/A Compass Diversified Holdings Shares of Beneficial Interest"
 sector: "Consumer Discretionary"
 industry: "Home Furnishings"
-price: 11.31
-market_cap: "$850.9M"
+price: 11.1
+market_cap: "$835.1M"
 score: 43
 value: 27
 quality: 30
@@ -13,7 +13,7 @@ momentum: 89
 health: 20
 pe: null
 piotroski: 5
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Home Furnishings
 - More expensive than about 73% of Consumer Discretionary peers (value score).
 - Business quality ranks above 30% of all stocks scanned.
 - Sales fell 5% over the last 12 months.
-- Share price up 55% over 12 months (11% below its 52-week high).
+- Share price up 55% over 12 months (13% below its 52-week high).
 - Insiders bought $2.4M of shares recently (Kim Eugene L. (See Remarks (a)); Sawtelle Zachary T. (See Remark (a)); Richter Glenn R (See Remarks (a))).
 
 ## Scores (0–100, higher is better)
@@ -43,12 +43,12 @@ Consumer Discretionary · Home Furnishings
 
 | | |
 |---|---:|
-| Price | $11.31 |
-| Market value | $850.9M |
+| Price | $11.10 |
+| Market value | $835.1M |
 | P/E | – |
 | Price/Sales | 0.47 |
-| Price/Book | 1.80 |
-| Free-cash-flow yield | -6.0% |
+| Price/Book | 1.77 |
+| Free-cash-flow yield | -6.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.8B |
 | Sales growth | -4.8% |
@@ -62,9 +62,9 @@ Consumer Discretionary · Home Furnishings
 | Piotroski F-score | 5/9 |
 | Altman Z | 0.49 |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | -6.5% / +95.0% / +54.9% |
-| vs. 200-day average | +26.4% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | -6.6% / +95.4% / +55.0% |
+| vs. 200-day average | +23.8% |
+| RSI (14d) | 46 |
 | Volatility (1y) | 69.2% |
 | Financials as of | 2026-06-30 |
 
@@ -82,4 +82,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/CODI
 - Full deep dive: run `python scout.py stock CODI` → `research/CODI.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

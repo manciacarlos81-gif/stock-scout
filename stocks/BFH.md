@@ -3,17 +3,17 @@ ticker: "BFH"
 company: "Bread Financial Holdings Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 109.23
-market_cap: "$4.2B"
+price: 107.65
+market_cap: "$4.1B"
 score: 79
 value: 94
 quality: 82
 growth: 85
-momentum: 87
+momentum: 86
 health: 33
-pe: 7.4
+pe: 7.3
 piotroski: 9
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -29,24 +29,24 @@ Consumer Discretionary · Business Services
 
 - Cheaper than about 94% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 82% of all stocks scanned.
-- Share price up 75% over 12 months (3% below its 52-week high).
+- Share price up 76% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **79** | 94 | 82 | 85 | 87 | 33 |
+| **79** | 94 | 82 | 85 | 86 | 33 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $109.23 |
-| Market value | $4.2B |
-| P/E | 7.4 |
+| Price | $107.65 |
+| Market value | $4.1B |
+| P/E | 7.3 |
 | Price/Sales | – |
-| Price/Book | 1.25 |
-| Free-cash-flow yield | 49.9% |
+| Price/Book | 1.23 |
+| Free-cash-flow yield | 50.6% |
 | Dividend yield | 1.0% |
 | Sales (12m) | – |
 | Sales growth | – |
@@ -60,10 +60,10 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -13.8% |
-| Return 1m / 6m / 12m | -1.6% / +54.0% / +75.4% |
-| vs. 200-day average | +25.4% |
-| RSI (14d) | 55 |
-| Volatility (1y) | 39.9% |
+| Return 1m / 6m / 12m | -2.9% / +47.1% / +76.1% |
+| vs. 200-day average | +23.3% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 39.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/BFH
 - Full deep dive: run `python scout.py stock BFH` → `research/BFH.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

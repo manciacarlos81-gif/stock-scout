@@ -3,17 +3,17 @@ ticker: "INBX"
 company: "Inhibrx Biosciences Inc."
 sector: "Health Care"
 industry: "Biotechnology: Biological Products (No Diagnostic Substances)"
-price: 110.47
+price: 105.61
 market_cap: "$1.6B"
-score: 42
-value: 23
+score: 41
+value: 22
 quality: 11
 growth: 71
-momentum: 92
-health: 27
+momentum: 91
+health: 26
 pe: null
 piotroski: 2
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,28 +27,28 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 
 ## In plain English
 
-- More expensive than about 77% of Health Care peers (value score).
+- More expensive than about 78% of Health Care peers (value score).
 - Business quality ranks above 11% of all stocks scanned.
 - Sales grew 550% over the last 12 months.
-- Share price up 316% over 12 months (22% below its 52-week high).
+- Share price up 298% over 12 months (26% below its 52-week high).
 - Insiders bought $3.5M of shares recently (Kayyem Jon Faiz (Dir); Forsyth Douglas (Dir); Lappe Mark (CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **42** | 23 | 11 | 71 | 92 | 27 |
+| **41** | 22 | 11 | 71 | 91 | 26 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $110.47 |
+| Price | $105.61 |
 | Market value | $1.6B |
 | P/E | – |
-| Price/Sales | 1,250.66 |
+| Price/Sales | 1,195.64 |
 | Price/Book | – |
-| Free-cash-flow yield | -8.0% |
+| Free-cash-flow yield | -8.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.3M |
 | Sales growth | +550.0% |
@@ -60,12 +60,12 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Debt / equity | – |
 | Current ratio | 5.07 |
 | Piotroski F-score | 2/9 |
-| Altman Z | -0.00 |
+| Altman Z | -0.21 |
 | Share count change (1y) | +1.3% |
-| Return 1m / 6m / 12m | +20.1% / +60.8% / +315.8% |
-| vs. 200-day average | +22.5% |
-| RSI (14d) | 51 |
-| Volatility (1y) | 129.9% |
+| Return 1m / 6m / 12m | +11.6% / +62.8% / +298.0% |
+| vs. 200-day average | +17.0% |
+| RSI (14d) | 45 |
+| Volatility (1y) | 130.0% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -83,4 +83,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/INBX
 - Full deep dive: run `python scout.py stock INBX` → `research/INBX.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

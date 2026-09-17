@@ -3,17 +3,17 @@ ticker: "JEF"
 company: "Jefferies Financial Group Inc."
 sector: "Finance"
 industry: "Investment Bankers/Brokers/Service"
-price: 50.1
-market_cap: "$9.7B"
+price: 48.83
+market_cap: "$9.5B"
 score: 58
-value: 81
+value: 82
 quality: null
 growth: 63
-momentum: 44
+momentum: 42
 health: 47
-pe: 11.2
+pe: 11.0
 piotroski: 4
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,28 +27,28 @@ Finance · Investment Bankers/Brokers/Service
 
 ## In plain English
 
-- Cheaper than about 81% of stocks in Finance (value score).
+- Cheaper than about 82% of stocks in Finance (value score).
 - Sales grew 14% over the last 12 months.
-- Share price down 22% over 12 months (27% below its 52-week high).
+- Share price down 24% over 12 months (29% below its 52-week high).
 - Insiders bought $995.3M of shares recently (Sumitomo Mitsui Financial Group, Inc. (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 81 | – | 63 | 44 | 47 |
+| **58** | 82 | – | 63 | 42 | 47 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $50.10 |
-| Market value | $9.7B |
-| P/E | 11.2 |
-| Price/Sales | 0.82 |
-| Price/Book | 0.92 |
+| Price | $48.83 |
+| Market value | $9.5B |
+| P/E | 11.0 |
+| Price/Sales | 0.80 |
+| Price/Book | 0.90 |
 | Free-cash-flow yield | – |
-| Dividend yield | 3.9% |
+| Dividend yield | 4.0% |
 | Sales (12m) | $11.8B |
 | Sales growth | +13.8% |
 | Net profit (12m) | $863.1M |
@@ -61,10 +61,10 @@ Finance · Investment Bankers/Brokers/Service
 | Piotroski F-score | 4/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.4% |
-| Return 1m / 6m / 12m | -7.5% / +33.9% / -22.3% |
-| vs. 200-day average | -5.0% |
-| RSI (14d) | 34 |
-| Volatility (1y) | 43.2% |
+| Return 1m / 6m / 12m | -9.3% / +29.7% / -24.4% |
+| vs. 200-day average | -7.3% |
+| RSI (14d) | 31 |
+| Volatility (1y) | 42.9% |
 | Financials as of | 2026-05-31 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Finance · Investment Bankers/Brokers/Service
 - Insider trades: http://openinsider.com/JEF
 - Full deep dive: run `python scout.py stock JEF` → `research/JEF.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

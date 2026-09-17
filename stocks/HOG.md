@@ -3,7 +3,7 @@ ticker: "HOG"
 company: "Harley-Davidson Inc."
 sector: "Consumer Discretionary"
 industry: "Motor Vehicles"
-price: 27.59
+price: 27.57
 market_cap: "$2.9B"
 score: 59
 value: 80
@@ -13,7 +13,7 @@ momentum: 63
 health: 57
 pe: 14.2
 piotroski: 8
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Motor Vehicles
 - Cheaper than about 80% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 49% of all stocks scanned.
 - Sales fell 5% over the last 12 months.
-- Share price down 6% over 12 months (5% below its 52-week high).
+- Share price down 4% over 12 months (4% below its 52-week high).
 - Insiders bought $1.4M of shares recently (Littleton Gayle (CLO, CCO, CAO, Corp Sec); Starrs Artie (Pres, CEO); Nova Daniel J (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -43,7 +43,7 @@ Consumer Discretionary · Motor Vehicles
 
 | | |
 |---|---:|
-| Price | $27.59 |
+| Price | $27.57 |
 | Market value | $2.9B |
 | P/E | 14.2 |
 | Price/Sales | 0.68 |
@@ -62,9 +62,9 @@ Consumer Discretionary · Motor Vehicles
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -11.2% |
-| Return 1m / 6m / 12m | +2.1% / +61.7% / -5.8% |
-| vs. 200-day average | +20.1% |
-| RSI (14d) | 52 |
+| Return 1m / 6m / 12m | +1.9% / +58.9% / -4.3% |
+| vs. 200-day average | +20.7% |
+| RSI (14d) | 54 |
 | Volatility (1y) | 38.4% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Motor Vehicles
 - Insider trades: http://openinsider.com/HOG
 - Full deep dive: run `python scout.py stock HOG` → `research/HOG.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

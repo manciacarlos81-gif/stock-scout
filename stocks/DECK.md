@@ -3,17 +3,17 @@ ticker: "DECK"
 company: "Deckers Outdoor Corporation"
 sector: "Consumer Discretionary"
 industry: "Shoe Manufacturing"
-price: 80.54
-market_cap: "$11.0B"
-score: 60
-value: 72
+price: 77.51
+market_cap: "$10.6B"
+score: 59
+value: 73
 quality: 84
 growth: 47
-momentum: 10
+momentum: 9
 health: 76
-pe: 10.8
+pe: 10.4
 piotroski: 7
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Shoe Manufacturing
 
 ## In plain English
 
-- Cheaper than about 72% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 73% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price down 32% over 12 months (33% below its 52-week high).
+- Share price down 35% over 12 months (36% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 72 | 84 | 47 | 10 | 76 |
+| **59** | 73 | 84 | 47 | 9 | 76 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $80.54 |
-| Market value | $11.0B |
-| P/E | 10.8 |
-| Price/Sales | 1.99 |
-| Price/Book | 4.77 |
-| Free-cash-flow yield | 10.0% |
+| Price | $77.51 |
+| Market value | $10.6B |
+| P/E | 10.4 |
+| Price/Sales | 1.91 |
+| Price/Book | 4.59 |
+| Free-cash-flow yield | 10.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.5B |
 | Sales growth | +7.9% |
@@ -61,10 +61,10 @@ Consumer Discretionary · Shoe Manufacturing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.4% |
-| Return 1m / 6m / 12m | -10.6% / -23.0% / -32.1% |
-| vs. 200-day average | -21.5% |
-| RSI (14d) | 32 |
-| Volatility (1y) | 44.9% |
+| Return 1m / 6m / 12m | -13.4% / -26.1% / -34.7% |
+| vs. 200-day average | -24.4% |
+| RSI (14d) | 28 |
+| Volatility (1y) | 45.0% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Shoe Manufacturing
 - Insider trades: http://openinsider.com/DECK
 - Full deep dive: run `python scout.py stock DECK` → `research/DECK.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

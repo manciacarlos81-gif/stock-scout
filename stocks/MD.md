@@ -3,7 +3,7 @@ ticker: "MD"
 company: "Pediatrix Medical Group Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 26.91
+price: 26.69
 market_cap: "$2.2B"
 score: 73
 value: 91
@@ -11,9 +11,9 @@ quality: 75
 growth: 53
 momentum: 80
 health: 48
-pe: 12.5
+pe: 12.4
 piotroski: 8
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Hospital/Nursing Management
 - Cheaper than about 91% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 67% over 12 months (2% below its 52-week high).
+- Share price up 65% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Health Care · Hospital/Nursing Management
 
 | | |
 |---|---:|
-| Price | $26.91 |
+| Price | $26.69 |
 | Market value | $2.2B |
-| P/E | 12.5 |
-| Price/Sales | 1.12 |
-| Price/Book | 2.48 |
-| Free-cash-flow yield | 12.4% |
+| P/E | 12.4 |
+| Price/Sales | 1.11 |
+| Price/Book | 2.46 |
+| Free-cash-flow yield | 12.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +0.5% |
@@ -59,12 +59,12 @@ Health Care · Hospital/Nursing Management
 | Debt / equity | 0.45 |
 | Current ratio | 1.32 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.38 |
+| Altman Z | 2.37 |
 | Share count change (1y) | -4.8% |
-| Return 1m / 6m / 12m | +2.2% / +35.7% / +66.8% |
-| vs. 200-day average | +16.6% |
-| RSI (14d) | 55 |
-| Volatility (1y) | 42.3% |
+| Return 1m / 6m / 12m | +0.5% / +34.2% / +65.0% |
+| vs. 200-day average | +15.6% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 42.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/MD
 - Full deep dive: run `python scout.py stock MD` → `research/MD.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

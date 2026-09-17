@@ -3,17 +3,17 @@ ticker: "RSKD"
 company: "Riskified Ltd."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 6.29
-market_cap: "$855.2M"
+price: 6.2
+market_cap: "$843.0M"
 score: 51
 value: 21
 quality: 46
 growth: 55
-momentum: 81
-health: 67
+momentum: 79
+health: 66
 pe: null
 piotroski: 6
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,23 +30,23 @@ Consumer Discretionary · Business Services
 - More expensive than about 79% of Consumer Discretionary peers (value score).
 - Business quality ranks above 46% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price up 40% over 12 months (9% below its 52-week high).
+- Share price up 35% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 21 | 46 | 55 | 81 | 67 |
+| **51** | 21 | 46 | 55 | 79 | 66 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.29 |
-| Market value | $855.2M |
+| Price | $6.20 |
+| Market value | $843.0M |
 | P/E | – |
-| Price/Sales | 2.48 |
-| Price/Book | 2.90 |
+| Price/Sales | 2.45 |
+| Price/Book | 2.86 |
 | Free-cash-flow yield | 3.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $344.6M |
@@ -59,12 +59,12 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 5.03 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.21 |
+| Altman Z | 4.15 |
 | Share count change (1y) | -7.9% |
-| Return 1m / 6m / 12m | -0.2% / +45.9% / +40.4% |
-| vs. 200-day average | +28.5% |
-| RSI (14d) | 56 |
-| Volatility (1y) | 40.5% |
+| Return 1m / 6m / 12m | +0.6% / +45.9% / +35.4% |
+| vs. 200-day average | +26.5% |
+| RSI (14d) | 53 |
+| Volatility (1y) | 40.4% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/RSKD
 - Full deep dive: run `python scout.py stock RSKD` → `research/RSKD.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

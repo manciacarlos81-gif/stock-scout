@@ -3,17 +3,17 @@ ticker: "LPG"
 company: "Dorian LPG Ltd."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 55.38
+price: 56.82
 market_cap: "$2.4B"
 score: 79
-value: 74
+value: 73
 quality: 80
 growth: 92
-momentum: 90
+momentum: 91
 health: 61
-pe: 7.4
+pe: 7.6
 piotroski: 7
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,28 +28,28 @@ Consumer Discretionary · Marine Transportation
 
 ## In plain English
 
-- Cheaper than about 74% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 73% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 87% over 12 months (0% below its 52-week high).
+- Share price up 95% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **79** | 74 | 80 | 92 | 90 | 61 |
+| **79** | 73 | 80 | 92 | 91 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $55.38 |
+| Price | $56.82 |
 | Market value | $2.4B |
-| P/E | 7.4 |
-| Price/Sales | 4.05 |
-| Price/Book | 1.92 |
-| Free-cash-flow yield | 8.9% |
-| Dividend yield | 4.4% |
+| P/E | 7.6 |
+| Price/Sales | 4.15 |
+| Price/Book | 1.97 |
+| Free-cash-flow yield | 8.6% |
+| Dividend yield | 4.3% |
 | Sales (12m) | $585.2M |
 | Sales growth | +81.1% |
 | Net profit (12m) | $321.9M |
@@ -60,11 +60,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.41 |
 | Current ratio | 3.26 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.71 |
+| Altman Z | 3.76 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | +14.4% / +77.0% / +87.3% |
-| vs. 200-day average | +53.1% |
-| RSI (14d) | 70 |
+| Return 1m / 6m / 12m | +16.6% / +76.3% / +94.8% |
+| vs. 200-day average | +56.3% |
+| RSI (14d) | 73 |
 | Volatility (1y) | 41.6% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/LPG
 - Full deep dive: run `python scout.py stock LPG` → `research/LPG.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "VCTR"
 company: "Victory Capital Holdings Inc."
 sector: "Finance"
 industry: "Investment Managers"
-price: 109.08
-market_cap: "$6.7B"
+price: 105.57
+market_cap: "$6.5B"
 score: 74
-value: 51
+value: 52
 quality: 73
 growth: 84
 momentum: 89
 health: 85
-pe: 14.6
+pe: 14.1
 piotroski: 6
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,28 +27,28 @@ Finance · Investment Managers
 
 ## In plain English
 
-- Cheaper than about 51% of stocks in Finance (value score).
+- Cheaper than about 52% of stocks in Finance (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 52% over the last 12 months.
-- Share price up 64% over 12 months (10% below its 52-week high).
+- Share price up 61% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 51 | 73 | 84 | 89 | 85 |
+| **74** | 52 | 73 | 84 | 89 | 85 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $109.08 |
-| Market value | $6.7B |
-| P/E | 14.6 |
-| Price/Sales | 4.30 |
-| Price/Book | 2.82 |
+| Price | $105.57 |
+| Market value | $6.5B |
+| P/E | 14.1 |
+| Price/Sales | 4.17 |
+| Price/Book | 2.73 |
 | Free-cash-flow yield | – |
-| Dividend yield | 2.3% |
+| Dividend yield | 2.4% |
 | Sales (12m) | $1.6B |
 | Sales growth | +51.5% |
 | Net profit (12m) | $460.9M |
@@ -61,10 +61,10 @@ Finance · Investment Managers
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -7.8% / +64.4% / +63.6% |
-| vs. 200-day average | +34.1% |
-| RSI (14d) | 45 |
-| Volatility (1y) | 31.4% |
+| Return 1m / 6m / 12m | -10.0% / +57.0% / +60.9% |
+| vs. 200-day average | +29.4% |
+| RSI (14d) | 38 |
+| Volatility (1y) | 31.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Finance · Investment Managers
 - Insider trades: http://openinsider.com/VCTR
 - Full deep dive: run `python scout.py stock VCTR` → `research/VCTR.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

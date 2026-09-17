@@ -3,17 +3,17 @@ ticker: "EVC"
 company: "Entravision Communications Corporation"
 sector: "Industrials"
 industry: "Broadcasting"
-price: 8.32
-market_cap: "$767.8M"
+price: 8.12
+market_cap: "$749.4M"
 score: 54
 value: 31
 quality: 47
 growth: 82
-momentum: 98
+momentum: 97
 health: 19
-pe: 183.6
+pe: 179.2
 piotroski: 5
-updated: "2026-09-16"
+updated: "2026-09-17"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,23 +30,23 @@ Industrials · Broadcasting
 - More expensive than about 69% of Industrials peers (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 71% over the last 12 months.
-- Share price up 247% over 12 months (38% below its 52-week high).
+- Share price up 247% over 12 months (40% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 31 | 47 | 82 | 98 | 19 |
+| **54** | 31 | 47 | 82 | 97 | 19 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $8.32 |
-| Market value | $767.8M |
-| P/E | 183.6 |
-| Price/Sales | 1.13 |
-| Price/Book | 9.19 |
+| Price | $8.12 |
+| Market value | $749.4M |
+| P/E | 179.2 |
+| Price/Sales | 1.10 |
+| Price/Book | 8.97 |
 | Free-cash-flow yield | 0.5% |
 | Dividend yield | 2.4% |
 | Sales (12m) | $679.9M |
@@ -59,11 +59,11 @@ Industrials · Broadcasting
 | Debt / equity | 1.88 |
 | Current ratio | 1.48 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 0.90 |
+| Altman Z | 0.87 |
 | Share count change (1y) | +13.1% |
-| Return 1m / 6m / 12m | -6.4% / +174.3% / +247.1% |
-| vs. 200-day average | +34.8% |
-| RSI (14d) | 40 |
+| Return 1m / 6m / 12m | -3.6% / +168.6% / +247.1% |
+| vs. 200-day average | +31.0% |
+| RSI (14d) | 37 |
 | Volatility (1y) | 121.4% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Industrials · Broadcasting
 - Insider trades: http://openinsider.com/EVC
 - Full deep dive: run `python scout.py stock EVC` → `research/EVC.md`
 
-_Updated 2026-09-16 · [latest report](../reports/latest.md)_
+_Updated 2026-09-17 · [latest report](../reports/latest.md)_

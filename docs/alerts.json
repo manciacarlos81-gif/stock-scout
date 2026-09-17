@@ -1,21 +1,21 @@
 {
- "date": "2026-09-16",
- "scanned": 2620,
+ "date": "2026-09-17",
+ "scanned": 2610,
  "top": [
   {
    "rank": 1,
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 82,
-   "price": 1551.99,
+   "price": 1530.9,
    "flags": ""
   },
   {
    "rank": 2,
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
-   "score": 82,
-   "price": 99.74,
+   "score": 81,
+   "price": 98.8,
    "flags": "heavy debt"
   },
   {
@@ -23,7 +23,7 @@
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 81,
-   "price": 217.02,
+   "price": 215.33,
    "flags": "shares up 17% in a year"
   },
   {
@@ -31,7 +31,7 @@
    "ticker": "CDNA",
    "name": "CareDx Inc.",
    "score": 80,
-   "price": 52.37,
+   "price": 52.64,
    "flags": ""
   },
   {
@@ -39,7 +39,7 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 105.84,
+   "price": 107.74,
    "flags": ""
   },
   {
@@ -47,7 +47,7 @@
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 80,
-   "price": 122.19,
+   "price": 121.74,
    "flags": ""
   },
   {
@@ -55,7 +55,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 79,
-   "price": 55.38,
+   "price": 56.82,
    "flags": ""
   },
   {
@@ -63,7 +63,7 @@
    "ticker": "BFH",
    "name": "Bread Financial Holdings Inc.",
    "score": 79,
-   "price": 109.23,
+   "price": 107.65,
    "flags": ""
   },
   {
@@ -71,7 +71,7 @@
    "ticker": "KNSA",
    "name": "Kiniksa Pharmaceuticals International plc",
    "score": 78,
-   "price": 76.58,
+   "price": 75.15,
    "flags": ""
   },
   {
@@ -79,7 +79,7 @@
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
    "score": 78,
-   "price": 56.21,
+   "price": 56.9,
    "flags": ""
   }
  ],
@@ -98,11 +98,18 @@
  ],
  "insider": [
   {
-   "ticker": "OPFI",
-   "name": "OppFi Inc.",
-   "value": 1488685,
+   "ticker": "AAT",
+   "name": "American Assets Trust Inc.",
+   "value": 20059590,
    "buyers": 1,
-   "last": "2026-09-11"
+   "last": "2026-09-14"
+  },
+  {
+   "ticker": "AVBC",
+   "name": "Avidia Bancorp Inc.",
+   "value": 643776,
+   "buyers": 6,
+   "last": "2026-09-14"
   },
   {
    "ticker": "GIII",
@@ -110,6 +117,13 @@
    "value": 1117600,
    "buyers": 1,
    "last": "2026-09-14"
+  },
+  {
+   "ticker": "LMB",
+   "name": "Limbach Holdings Inc.",
+   "value": 515920,
+   "buyers": 3,
+   "last": "2026-09-15"
   }
  ]
 }
