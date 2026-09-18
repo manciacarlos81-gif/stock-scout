@@ -3,17 +3,17 @@ ticker: "VRTS"
 company: "Virtus Investment Partners Inc."
 sector: "Finance"
 industry: "Investment Managers"
-price: 137.88
-market_cap: "$913.1M"
-score: 52
-value: 88
+price: 130.76
+market_cap: "$866.0M"
+score: 51
+value: 89
 quality: 41
 growth: 21
-momentum: 36
+momentum: 30
 health: 63
-pe: 7.9
+pe: 7.5
 piotroski: 3
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,28 +27,28 @@ Finance · Investment Managers
 
 ## In plain English
 
-- Cheaper than about 88% of stocks in Finance (value score).
+- Cheaper than about 89% of stocks in Finance (value score).
 - Business quality ranks above 41% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price down 23% over 12 months (25% below its 52-week high).
+- Share price down 29% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 88 | 41 | 21 | 36 | 63 |
+| **51** | 89 | 41 | 21 | 30 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $137.88 |
-| Market value | $913.1M |
-| P/E | 7.9 |
-| Price/Sales | 1.11 |
-| Price/Book | 0.97 |
+| Price | $130.76 |
+| Market value | $866.0M |
+| P/E | 7.5 |
+| Price/Sales | 1.05 |
+| Price/Book | 0.92 |
 | Free-cash-flow yield | – |
-| Dividend yield | 7.1% |
+| Dividend yield | 7.5% |
 | Sales (12m) | $825.3M |
 | Sales growth | -7.2% |
 | Net profit (12m) | $116.0M |
@@ -61,10 +61,10 @@ Finance · Investment Managers
 | Piotroski F-score | 3/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -17.3% / +10.2% / -23.3% |
-| vs. 200-day average | -6.5% |
-| RSI (14d) | 21 |
-| Volatility (1y) | 35.0% |
+| Return 1m / 6m / 12m | -21.5% / +6.6% / -28.6% |
+| vs. 200-day average | -11.3% |
+| RSI (14d) | 17 |
+| Volatility (1y) | 35.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Finance · Investment Managers
 - Insider trades: http://openinsider.com/VRTS
 - Full deep dive: run `python scout.py stock VRTS` → `research/VRTS.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

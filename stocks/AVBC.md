@@ -3,17 +3,17 @@ ticker: "AVBC"
 company: "Avidia Bancorp Inc."
 sector: "Finance"
 industry: "Banks"
-price: 21.92
-market_cap: "$437.7M"
+price: 22.29
+market_cap: "$445.1M"
 score: 53
-value: 43
+value: 41
 quality: null
 growth: null
-momentum: 66
+momentum: 69
 health: 62
-pe: 24.9
+pe: 25.3
 piotroski: null
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,25 +27,25 @@ Finance · Banks
 
 ## In plain English
 
-- More expensive than about 57% of Finance peers (value score).
-- Share price up 40% over 12 months (2% below its 52-week high).
+- More expensive than about 59% of Finance peers (value score).
+- Share price up 41% over 12 months (0% below its 52-week high).
 - Insiders bought $643.8K of shares recently (Murphy Michael Dennis (Chairman of the Board); Nelson Jonathan Michael (CFO, Treasurer); Grimaldo Joseph F (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 43 | – | – | 66 | 62 |
+| **53** | 41 | – | – | 69 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $21.92 |
-| Market value | $437.7M |
-| P/E | 24.9 |
+| Price | $22.29 |
+| Market value | $445.1M |
+| P/E | 25.3 |
 | Price/Sales | – |
-| Price/Book | 1.12 |
+| Price/Book | 1.14 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | – |
@@ -60,9 +60,9 @@ Finance · Banks
 | Piotroski F-score | – |
 | Altman Z | – |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -0.8% / +15.6% / +40.3% |
-| vs. 200-day average | +12.4% |
-| RSI (14d) | 52 |
+| Return 1m / 6m / 12m | +1.3% / +18.9% / +41.1% |
+| vs. 200-day average | +14.1% |
+| RSI (14d) | 58 |
 | Volatility (1y) | 24.8% |
 | Financials as of | 2026-06-30 |
 
@@ -73,4 +73,4 @@ Finance · Banks
 - Insider trades: http://openinsider.com/AVBC
 - Full deep dive: run `python scout.py stock AVBC` → `research/AVBC.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

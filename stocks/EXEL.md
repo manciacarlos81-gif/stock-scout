@@ -3,17 +3,17 @@ ticker: "EXEL"
 company: "Exelixis Inc."
 sector: "Health Care"
 industry: "Biotechnology: Biological Products (No Diagnostic Substances)"
-price: 56.9
+price: 56.78
 market_cap: "$14.1B"
 score: 78
 value: 76
 quality: 87
 growth: 65
-momentum: 74
+momentum: 76
 health: 80
-pe: 16.4
+pe: 16.3
 piotroski: 7
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,23 +30,23 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Cheaper than about 76% of stocks in Health Care (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 9% over the last 12 months.
-- Share price up 41% over 12 months (4% below its 52-week high).
+- Share price up 40% over 12 months (4% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **78** | 76 | 87 | 65 | 74 | 80 |
+| **78** | 76 | 87 | 65 | 76 | 80 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $56.90 |
+| Price | $56.78 |
 | Market value | $14.1B |
-| P/E | 16.4 |
-| Price/Sales | 5.79 |
-| Price/Book | 7.65 |
+| P/E | 16.3 |
+| Price/Sales | 5.78 |
+| Price/Book | 7.63 |
 | Free-cash-flow yield | 6.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.4B |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Debt / equity | – |
 | Current ratio | 3.46 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 15.55 |
+| Altman Z | 15.52 |
 | Share count change (1y) | -8.7% |
-| Return 1m / 6m / 12m | +7.1% / +37.9% / +40.7% |
-| vs. 200-day average | +17.9% |
-| RSI (14d) | 54 |
+| Return 1m / 6m / 12m | +4.4% / +37.6% / +40.4% |
+| vs. 200-day average | +17.5% |
+| RSI (14d) | 53 |
 | Volatility (1y) | 36.8% |
 | Financials as of | 2026-07-03 |
 
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/EXEL
 - Full deep dive: run `python scout.py stock EXEL` → `research/EXEL.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

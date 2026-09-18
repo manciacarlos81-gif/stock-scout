@@ -3,17 +3,17 @@ ticker: "SCHL"
 company: "Scholastic Corporation"
 sector: "Consumer Discretionary"
 industry: "Books"
-price: 35.05
-market_cap: "$664.7M"
-score: 53
+price: 35.01
+market_cap: "$664.0M"
+score: 52
 value: 64
 quality: 47
 growth: 49
-momentum: 53
-health: 52
+momentum: 47
+health: 53
 pe: 11.7
 piotroski: 8
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,23 +30,23 @@ Consumer Discretionary · Books
 - Cheaper than about 64% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 32% over 12 months (25% below its 52-week high).
+- Share price up 30% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 64 | 47 | 49 | 53 | 52 |
+| **52** | 64 | 47 | 49 | 47 | 53 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $35.05 |
-| Market value | $664.7M |
+| Price | $35.01 |
+| Market value | $664.0M |
 | P/E | 11.7 |
 | Price/Sales | 0.42 |
-| Price/Book | 0.89 |
+| Price/Book | 0.88 |
 | Free-cash-flow yield | 7.7% |
 | Dividend yield | 3.0% |
 | Sales (12m) | $1.6B |
@@ -61,10 +61,10 @@ Consumer Discretionary · Books
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -12.3% |
-| Return 1m / 6m / 12m | -14.6% / +3.5% / +31.9% |
-| vs. 200-day average | -6.7% |
+| Return 1m / 6m / 12m | -13.4% / -4.9% / +30.2% |
+| vs. 200-day average | -6.9% |
 | RSI (14d) | 28 |
-| Volatility (1y) | 36.7% |
+| Volatility (1y) | 34.6% |
 | Financials as of | 2026-05-31 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Books
 - Insider trades: http://openinsider.com/SCHL
 - Full deep dive: run `python scout.py stock SCHL` → `research/SCHL.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "GCO"
 company: "Genesco Inc."
 sector: "Consumer Discretionary"
 industry: "Clothing/Shoe/Accessory Stores"
-price: 34.25
-market_cap: "$370.6M"
-score: 65
+price: 33.39
+market_cap: "$361.3M"
+score: 64
 value: 94
 quality: 49
 growth: 62
-momentum: 56
+momentum: 55
 health: 55
-pe: 9.0
+pe: 8.7
 piotroski: 6
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Clothing/Shoe/Accessory Stores
 - Cheaper than about 94% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 49% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price down 1% over 12 months (20% below its 52-week high).
+- Share price down 5% over 12 months (22% below its 52-week high).
 - Insiders bought $100.0K of shares recently (Sandfort Gregory A (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 94 | 49 | 62 | 56 | 55 |
+| **64** | 94 | 49 | 62 | 55 | 55 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $34.25 |
-| Market value | $370.6M |
-| P/E | 9.0 |
+| Price | $33.39 |
+| Market value | $361.3M |
+| P/E | 8.7 |
 | Price/Sales | 0.15 |
-| Price/Book | 0.67 |
-| Free-cash-flow yield | 22.6% |
+| Price/Book | 0.65 |
+| Free-cash-flow yield | 23.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.4B |
 | Sales growth | +3.0% |
@@ -62,10 +62,10 @@ Consumer Discretionary · Clothing/Shoe/Accessory Stores
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.39 |
 | Share count change (1y) | +6.1% |
-| Return 1m / 6m / 12m | -1.6% / +33.6% / -1.0% |
-| vs. 200-day average | +6.4% |
-| RSI (14d) | 47 |
-| Volatility (1y) | 61.2% |
+| Return 1m / 6m / 12m | -4.7% / +34.4% / -5.3% |
+| vs. 200-day average | +3.8% |
+| RSI (14d) | 43 |
+| Volatility (1y) | 60.9% |
 | Financials as of | 2026-08-01 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Discretionary · Clothing/Shoe/Accessory Stores
 - Insider trades: http://openinsider.com/GCO
 - Full deep dive: run `python scout.py stock GCO` → `research/GCO.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

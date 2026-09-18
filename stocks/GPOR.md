@@ -3,19 +3,20 @@ ticker: "GPOR"
 company: "Gulfport Energy Corporation"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 175.95
-market_cap: "$3.1B"
+price: 162.25
+market_cap: "$2.9B"
 score: 68
-value: 81
+value: 83
 quality: 84
 growth: 90
-momentum: 25
-health: 55
-pe: 6.3
+momentum: 21
+health: 54
+pe: 5.8
 piotroski: 8
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "💎 Quality at a fair price"
+  - "🎯 Quality on sale"
 tags: [stock]
 ---
 
@@ -23,32 +24,32 @@ tags: [stock]
 
 Energy · Oil & Gas Production
 
-**In screens today:** 💎 Quality at a fair price
+**In screens today:** 💎 Quality at a fair price, 🎯 Quality on sale
 
 ## In plain English
 
-- Cheaper than about 81% of stocks in Energy (value score).
+- Cheaper than about 83% of stocks in Energy (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 35% over the last 12 months.
-- Share price up 1% over 12 months (21% below its 52-week high).
+- Share price down 6% over 12 months (27% below its 52-week high).
 - Insiders bought $257.0K of shares recently (Dell'Osso Domenic J Jr (Pres, CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 81 | 84 | 90 | 25 | 55 |
+| **68** | 83 | 84 | 90 | 21 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $175.95 |
-| Market value | $3.1B |
-| P/E | 6.3 |
-| Price/Sales | 2.02 |
-| Price/Book | 1.70 |
-| Free-cash-flow yield | 25.8% |
+| Price | $162.25 |
+| Market value | $2.9B |
+| P/E | 5.8 |
+| Price/Sales | 1.86 |
+| Price/Book | 1.57 |
+| Free-cash-flow yield | 28.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.5B |
 | Sales growth | +35.2% |
@@ -60,12 +61,12 @@ Energy · Oil & Gas Production
 | Debt / equity | 0.50 |
 | Current ratio | 0.58 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 3.34 |
+| Altman Z | 3.23 |
 | Share count change (1y) | +0.2% |
-| Return 1m / 6m / 12m | +2.9% / -13.7% / +1.2% |
-| vs. 200-day average | -5.0% |
-| RSI (14d) | 54 |
-| Volatility (1y) | 32.6% |
+| Return 1m / 6m / 12m | -6.3% / -20.8% / -6.4% |
+| vs. 200-day average | -12.2% |
+| RSI (14d) | 35 |
+| Volatility (1y) | 33.4% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +76,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/GPOR
 - Full deep dive: run `python scout.py stock GPOR` → `research/GPOR.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

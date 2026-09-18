@@ -3,17 +3,17 @@ ticker: "OPFI"
 company: "OppFi Inc."
 sector: "Finance"
 industry: "Finance: Consumer Services"
-price: 7.22
-market_cap: "$615.2M"
-score: 56
+price: 7.03
+market_cap: "$599.0M"
+score: 55
 value: 86
 quality: null
 growth: 54
-momentum: 12
+momentum: 11
 health: 74
-pe: 6.0
+pe: 5.9
 piotroski: 8
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,26 +28,26 @@ Finance · Finance: Consumer Services
 ## In plain English
 
 - Cheaper than about 86% of stocks in Finance (value score).
-- Share price down 38% over 12 months (41% below its 52-week high).
+- Share price down 42% over 12 months (43% below its 52-week high).
 - Insiders bought $1.5M of shares recently (Schwartz Todd G. (CEO, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 86 | – | 54 | 12 | 74 |
+| **55** | 86 | – | 54 | 11 | 74 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $7.22 |
-| Market value | $615.2M |
-| P/E | 6.0 |
+| Price | $7.03 |
+| Market value | $599.0M |
+| P/E | 5.9 |
 | Price/Sales | – |
-| Price/Book | 1.49 |
+| Price/Book | 1.45 |
 | Free-cash-flow yield | – |
-| Dividend yield | 1.0% |
+| Dividend yield | 1.1% |
 | Sales (12m) | – |
 | Sales growth | – |
 | Net profit (12m) | $101.7M |
@@ -60,15 +60,16 @@ Finance · Finance: Consumer Services
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +223.3% |
-| Return 1m / 6m / 12m | +3.1% / -10.9% / -38.4% |
-| vs. 200-day average | -19.2% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | -2.1% / -11.7% / -41.9% |
+| vs. 200-day average | -21.2% |
+| RSI (14d) | 40 |
 | Volatility (1y) | 49.4% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
 
 - shares up 223% in a year
+- well below 200-day average
 
 ## Dig deeper
 
@@ -77,4 +78,4 @@ Finance · Finance: Consumer Services
 - Insider trades: http://openinsider.com/OPFI
 - Full deep dive: run `python scout.py stock OPFI` → `research/OPFI.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

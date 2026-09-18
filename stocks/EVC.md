@@ -3,17 +3,17 @@ ticker: "EVC"
 company: "Entravision Communications Corporation"
 sector: "Industrials"
 industry: "Broadcasting"
-price: 8.12
-market_cap: "$749.4M"
+price: 7.89
+market_cap: "$728.2M"
 score: 54
 value: 31
 quality: 47
 growth: 82
 momentum: 97
 health: 19
-pe: 179.2
+pe: 174.1
 piotroski: 5
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Industrials · Broadcasting
 - More expensive than about 69% of Industrials peers (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 71% over the last 12 months.
-- Share price up 247% over 12 months (40% below its 52-week high).
+- Share price up 229% over 12 months (41% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,13 +42,13 @@ Industrials · Broadcasting
 
 | | |
 |---|---:|
-| Price | $8.12 |
-| Market value | $749.4M |
-| P/E | 179.2 |
-| Price/Sales | 1.10 |
-| Price/Book | 8.97 |
+| Price | $7.89 |
+| Market value | $728.2M |
+| P/E | 174.1 |
+| Price/Sales | 1.07 |
+| Price/Book | 8.71 |
 | Free-cash-flow yield | 0.5% |
-| Dividend yield | 2.4% |
+| Dividend yield | 2.5% |
 | Sales (12m) | $679.9M |
 | Sales growth | +71.4% |
 | Net profit (12m) | $4.2M |
@@ -59,12 +59,12 @@ Industrials · Broadcasting
 | Debt / equity | 1.88 |
 | Current ratio | 1.48 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 0.87 |
+| Altman Z | 0.84 |
 | Share count change (1y) | +13.1% |
-| Return 1m / 6m / 12m | -3.6% / +168.6% / +247.1% |
-| vs. 200-day average | +31.0% |
-| RSI (14d) | 37 |
-| Volatility (1y) | 121.4% |
+| Return 1m / 6m / 12m | -5.8% / +166.1% / +228.5% |
+| vs. 200-day average | +27.5% |
+| RSI (14d) | 35 |
+| Volatility (1y) | 121.5% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Industrials · Broadcasting
 - Insider trades: http://openinsider.com/EVC
 - Full deep dive: run `python scout.py stock EVC` → `research/EVC.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

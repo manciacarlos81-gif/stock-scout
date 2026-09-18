@@ -3,17 +3,17 @@ ticker: "SENEA"
 company: "Seneca Foods Corp."
 sector: "Consumer Staples"
 industry: "Packaged Foods"
-price: 179.66
-market_cap: "$1.2B"
+price: 186.31
+market_cap: "$1.3B"
 score: 76
-value: 83
+value: 80
 quality: 70
 growth: 84
-momentum: 79
-health: 61
-pe: 10.2
+momentum: 83
+health: 62
+pe: 10.6
 piotroski: 8
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,26 +27,26 @@ Consumer Staples · Packaged Foods
 
 ## In plain English
 
-- Cheaper than about 83% of stocks in Consumer Staples (value score).
+- Cheaper than about 80% of stocks in Consumer Staples (value score).
 - Business quality ranks above 70% of all stocks scanned.
-- Share price up 70% over 12 months (13% below its 52-week high).
+- Share price up 80% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 83 | 70 | 84 | 79 | 61 |
+| **76** | 80 | 70 | 84 | 83 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $179.66 |
-| Market value | $1.2B |
-| P/E | 10.2 |
-| Price/Sales | 0.75 |
-| Price/Book | 1.57 |
-| Free-cash-flow yield | 24.5% |
+| Price | $186.31 |
+| Market value | $1.3B |
+| P/E | 10.6 |
+| Price/Sales | 0.78 |
+| Price/Book | 1.63 |
+| Free-cash-flow yield | 23.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.6B |
 | Sales growth | – |
@@ -58,12 +58,12 @@ Consumer Staples · Packaged Foods
 | Debt / equity | 0.30 |
 | Current ratio | 3.77 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 4.62 |
+| Altman Z | 4.68 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -6.6% / +25.1% / +69.8% |
-| vs. 200-day average | +21.4% |
-| RSI (14d) | 40 |
-| Volatility (1y) | 40.9% |
+| Return 1m / 6m / 12m | -3.1% / +32.4% / +80.1% |
+| vs. 200-day average | +25.6% |
+| RSI (14d) | 47 |
+| Volatility (1y) | 41.0% |
 | Financials as of | 2025-12-27 |
 
 ## Watch out
@@ -77,4 +77,4 @@ Consumer Staples · Packaged Foods
 - Insider trades: http://openinsider.com/SENEA
 - Full deep dive: run `python scout.py stock SENEA` → `research/SENEA.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

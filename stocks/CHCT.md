@@ -3,17 +3,17 @@ ticker: "CHCT"
 company: "Community Healthcare Trust Incorporated"
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 14.65
-market_cap: "$419.8M"
-score: 55
+price: 14.66
+market_cap: "$420.1M"
+score: 56
 value: 75
 quality: 51
 growth: 59
-momentum: 31
+momentum: 33
 health: 60
 pe: 20.0
 piotroski: 6
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,23 +30,23 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 75% of stocks in Real Estate (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price up 8% over 12 months (21% below its 52-week high).
+- Share price up 6% over 12 months (21% below its 52-week high).
 - Insiders bought $273.0K of shares recently (Dupuy David H. (CEO, Pres); Hensley Robert Z (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 75 | 51 | 59 | 31 | 60 |
+| **56** | 75 | 51 | 59 | 33 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $14.65 |
-| Market value | $419.8M |
+| Price | $14.66 |
+| Market value | $420.1M |
 | P/E | 20.0 |
-| Price/Sales | 3.36 |
+| Price/Sales | 3.37 |
 | Price/Book | 1.01 |
 | Free-cash-flow yield | 13.4% |
 | Dividend yield | 12.8% |
@@ -62,10 +62,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | +1.3% / -5.5% / +7.5% |
-| vs. 200-day average | -8.9% |
+| Return 1m / 6m / 12m | -0.9% / -0.8% / +6.1% |
+| vs. 200-day average | -8.8% |
 | RSI (14d) | 39 |
-| Volatility (1y) | 27.2% |
+| Volatility (1y) | 27.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/CHCT
 - Full deep dive: run `python scout.py stock CHCT` → `research/CHCT.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "HRMY"
 company: "Harmony Biosciences Holdings Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 42.17
+price: 42.21
 market_cap: "$2.5B"
-score: 75
-value: 89
+score: 76
+value: 90
 quality: 77
 growth: 55
-momentum: 74
+momentum: 75
 health: 71
-pe: 13.5
+pe: 13.6
 piotroski: 5
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -28,24 +28,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- Cheaper than about 89% of stocks in Health Care (value score).
+- Cheaper than about 90% of stocks in Health Care (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price up 32% over 12 months (2% below its 52-week high).
+- Share price up 29% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 89 | 77 | 55 | 74 | 71 |
+| **76** | 90 | 77 | 55 | 75 | 71 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $42.17 |
+| Price | $42.21 |
 | Market value | $2.5B |
-| P/E | 13.5 |
+| P/E | 13.6 |
 | Price/Sales | 2.56 |
 | Price/Book | 2.46 |
 | Free-cash-flow yield | 14.2% |
@@ -62,7 +62,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 5/9 |
 | Altman Z | 5.98 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | +8.6% / +51.6% / +31.5% |
+| Return 1m / 6m / 12m | +5.7% / +52.3% / +29.4% |
 | vs. 200-day average | +22.3% |
 | RSI (14d) | 63 |
 | Volatility (1y) | 44.1% |
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/HRMY
 - Full deep dive: run `python scout.py stock HRMY` → `research/HRMY.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

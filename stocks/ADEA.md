@@ -3,17 +3,17 @@ ticker: "ADEA"
 company: "Adeia Inc."
 sector: "Telecommunications"
 industry: "Cable & Other Pay Television Services"
-price: 24.98
-market_cap: "$2.8B"
+price: 24.92
+market_cap: "$2.7B"
 score: 65
 value: 54
 quality: 84
 growth: 73
-momentum: 62
+momentum: 61
 health: 50
-pe: 22.5
+pe: 22.4
 piotroski: 8
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,23 +30,23 @@ Telecommunications · Cable & Other Pay Television Services
 - Cheaper than about 54% of stocks in Telecommunications (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price up 61% over 12 months (25% below its 52-week high).
+- Share price up 52% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 54 | 84 | 73 | 62 | 50 |
+| **65** | 54 | 84 | 73 | 61 | 50 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $24.98 |
-| Market value | $2.8B |
-| P/E | 22.5 |
-| Price/Sales | 5.85 |
-| Price/Book | 5.77 |
+| Price | $24.92 |
+| Market value | $2.7B |
+| P/E | 22.4 |
+| Price/Sales | 5.84 |
+| Price/Book | 5.76 |
 | Free-cash-flow yield | 5.7% |
 | Dividend yield | 0.8% |
 | Sales (12m) | $470.9M |
@@ -61,8 +61,8 @@ Telecommunications · Cable & Other Pay Television Services
 | Piotroski F-score | 8/9 |
 | Altman Z | 4.59 |
 | Share count change (1y) | +2.0% |
-| Return 1m / 6m / 12m | -10.7% / +6.9% / +60.7% |
-| vs. 200-day average | +2.6% |
+| Return 1m / 6m / 12m | -9.2% / +7.8% / +51.8% |
+| vs. 200-day average | +2.1% |
 | RSI (14d) | 42 |
 | Volatility (1y) | 66.7% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Telecommunications · Cable & Other Pay Television Services
 - Insider trades: http://openinsider.com/ADEA
 - Full deep dive: run `python scout.py stock ADEA` → `research/ADEA.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

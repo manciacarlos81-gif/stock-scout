@@ -3,17 +3,17 @@ ticker: "SNDK"
 company: "Sandisk Corporation"
 sector: "Technology"
 industry: "Electronic Components"
-price: 1530.9
-market_cap: "$224.2B"
+price: 1519.97
+market_cap: "$222.6B"
 score: 82
 value: 62
 quality: 84
 growth: 91
 momentum: 98
 health: 80
-pe: 19.6
+pe: 19.5
 piotroski: 7
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -32,7 +32,7 @@ Technology · Electronic Components
 - Cheaper than about 62% of stocks in Technology (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 175% over the last 12 months.
-- Share price up 1529% over 12 months (34% below its 52-week high).
+- Share price up 1437% over 12 months (35% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -44,12 +44,12 @@ Technology · Electronic Components
 
 | | |
 |---|---:|
-| Price | $1,530.90 |
-| Market value | $224.2B |
-| P/E | 19.6 |
-| Price/Sales | 11.07 |
-| Price/Book | 14.24 |
-| Free-cash-flow yield | 5.1% |
+| Price | $1,519.97 |
+| Market value | $222.6B |
+| P/E | 19.5 |
+| Price/Sales | 10.99 |
+| Price/Book | 14.14 |
+| Free-cash-flow yield | 5.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $20.2B |
 | Sales growth | +175.3% |
@@ -61,11 +61,11 @@ Technology · Electronic Components
 | Debt / equity | 0.00 |
 | Current ratio | 2.29 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 23.56 |
+| Altman Z | 23.42 |
 | Share count change (1y) | +6.9% |
-| Return 1m / 6m / 12m | -5.8% / +98.3% / +1529.1% |
-| vs. 200-day average | +43.4% |
-| RSI (14d) | 47 |
+| Return 1m / 6m / 12m | -3.1% / +114.2% / +1437.3% |
+| vs. 200-day average | +41.5% |
+| RSI (14d) | 46 |
 | Volatility (1y) | 116.1% |
 | Financials as of | 2026-07-03 |
 
@@ -76,4 +76,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/SNDK
 - Full deep dive: run `python scout.py stock SNDK` → `research/SNDK.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

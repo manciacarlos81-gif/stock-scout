@@ -3,17 +3,17 @@ ticker: "INSW"
 company: "International Seaways Inc."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 107.74
-market_cap: "$5.3B"
+price: 109.38
+market_cap: "$5.4B"
 score: 80
-value: 70
+value: 69
 quality: 78
 growth: 88
 momentum: 94
 health: 73
-pe: 6.8
+pe: 7.0
 piotroski: 6
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,27 +28,27 @@ Consumer Discretionary · Marine Transportation
 
 ## In plain English
 
-- Cheaper than about 70% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 69% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 57% over the last 12 months.
-- Share price up 156% over 12 months (0% below its 52-week high).
+- Share price up 161% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 70 | 78 | 88 | 94 | 73 |
+| **80** | 69 | 78 | 88 | 94 | 73 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $107.74 |
-| Market value | $5.3B |
-| P/E | 6.8 |
-| Price/Sales | 4.25 |
-| Price/Book | 2.36 |
-| Free-cash-flow yield | 7.1% |
+| Price | $109.38 |
+| Market value | $5.4B |
+| P/E | 7.0 |
+| Price/Sales | 4.31 |
+| Price/Book | 2.39 |
+| Free-cash-flow yield | 7.0% |
 | Dividend yield | 2.7% |
 | Sales (12m) | $1.3B |
 | Sales growth | +57.4% |
@@ -60,12 +60,12 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.29 |
 | Current ratio | 5.94 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 6.16 |
+| Altman Z | 6.23 |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | +14.6% / +72.7% / +156.2% |
-| vs. 200-day average | +54.5% |
-| RSI (14d) | 78 |
-| Volatility (1y) | 38.4% |
+| Return 1m / 6m / 12m | +15.3% / +79.5% / +161.2% |
+| vs. 200-day average | +56.1% |
+| RSI (14d) | 80 |
+| Volatility (1y) | 38.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/INSW
 - Full deep dive: run `python scout.py stock INSW` → `research/INSW.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

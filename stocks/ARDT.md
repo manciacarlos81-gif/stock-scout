@@ -3,7 +3,7 @@ ticker: "ARDT"
 company: "Ardent Health Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 10.69
+price: 10.72
 market_cap: "$1.5B"
 score: 56
 value: 94
@@ -13,7 +13,7 @@ momentum: 48
 health: 42
 pe: 19.3
 piotroski: 6
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Hospital/Nursing Management
 - Cheaper than about 94% of stocks in Health Care (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price down 17% over 12 months (30% below its 52-week high).
+- Share price down 19% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Health Care · Hospital/Nursing Management
 
 | | |
 |---|---:|
-| Price | $10.69 |
+| Price | $10.72 |
 | Market value | $1.5B |
 | P/E | 19.3 |
 | Price/Sales | 0.24 |
 | Price/Book | 1.12 |
-| Free-cash-flow yield | 31.2% |
+| Free-cash-flow yield | 31.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $6.4B |
 | Sales growth | +3.3% |
@@ -61,10 +61,10 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +1.1% |
-| Return 1m / 6m / 12m | -2.2% / +22.9% / -16.6% |
-| vs. 200-day average | +11.2% |
+| Return 1m / 6m / 12m | +0.9% / +26.6% / -19.5% |
+| vs. 200-day average | +11.4% |
 | RSI (14d) | 46 |
-| Volatility (1y) | 54.0% |
+| Volatility (1y) | 53.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/ARDT
 - Full deep dive: run `python scout.py stock ARDT` → `research/ARDT.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

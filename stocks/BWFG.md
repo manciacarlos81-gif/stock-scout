@@ -3,17 +3,17 @@ ticker: "BWFG"
 company: "Bankwell Financial Group Inc."
 sector: "Finance"
 industry: "Major Banks"
-price: 67.5
-market_cap: "$538.1M"
+price: 66.69
+market_cap: "$531.7M"
 score: 56
 value: 41
 quality: null
-growth: 75
-momentum: 83
+growth: 74
+momentum: 81
 health: 39
-pe: 12.6
+pe: 12.4
 piotroski: 6
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -29,24 +29,24 @@ Finance · Major Banks
 
 - More expensive than about 59% of Finance peers (value score).
 - Sales grew 23% over the last 12 months.
-- Share price up 52% over 12 months (2% below its 52-week high).
+- Share price up 47% over 12 months (3% below its 52-week high).
 - Insiders bought $1.3M of shares recently (Seidman Lawrence B (Dir, 10%); Dale Eric J (Dir); Dunne Jeffrey R (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 41 | – | 75 | 83 | 39 |
+| **56** | 41 | – | 74 | 81 | 39 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $67.50 |
-| Market value | $538.1M |
-| P/E | 12.6 |
-| Price/Sales | 179.67 |
-| Price/Book | 1.66 |
+| Price | $66.69 |
+| Market value | $531.7M |
+| P/E | 12.4 |
+| Price/Sales | 177.51 |
+| Price/Book | 1.64 |
 | Free-cash-flow yield | – |
 | Dividend yield | 1.2% |
 | Sales (12m) | $3.0M |
@@ -61,9 +61,9 @@ Finance · Major Banks
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +2.1% |
-| Return 1m / 6m / 12m | +0.1% / +46.5% / +52.1% |
-| vs. 200-day average | +25.5% |
-| RSI (14d) | 57 |
+| Return 1m / 6m / 12m | +1.6% / +44.5% / +47.4% |
+| vs. 200-day average | +23.8% |
+| RSI (14d) | 52 |
 | Volatility (1y) | 25.1% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/BWFG
 - Full deep dive: run `python scout.py stock BWFG` → `research/BWFG.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

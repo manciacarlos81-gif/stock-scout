@@ -3,17 +3,17 @@ ticker: "MSIF"
 company: "MSC Income Fund Inc."
 sector: "Finance"
 industry: "Finance/Investors Services"
-price: 12.31
-market_cap: "$558.2M"
+price: 12.35
+market_cap: "$560.0M"
 score: 68
-value: 96
+value: 95
 quality: null
 growth: 77
-momentum: 34
+momentum: 35
 health: 87
-pe: 5.6
+pe: 5.7
 piotroski: 6
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,23 +27,23 @@ Finance · Finance/Investors Services
 
 ## In plain English
 
-- Cheaper than about 96% of stocks in Finance (value score).
-- Share price down 1% over 12 months (6% below its 52-week high).
+- Cheaper than about 95% of stocks in Finance (value score).
+- Share price down 2% over 12 months (6% below its 52-week high).
 - Insiders bought $110.4K of shares recently (Marks Nataly Michelle (Dir); Hyzak Dwayne L. (CEO, SMD); Meserve Nicholas (MD)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 96 | – | 77 | 34 | 87 |
+| **68** | 95 | – | 77 | 35 | 87 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.31 |
-| Market value | $558.2M |
-| P/E | 5.6 |
+| Price | $12.35 |
+| Market value | $560.0M |
+| P/E | 5.7 |
 | Price/Sales | – |
 | Price/Book | 0.75 |
 | Free-cash-flow yield | – |
@@ -60,9 +60,9 @@ Finance · Finance/Investors Services
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.6% |
-| Return 1m / 6m / 12m | -0.0% / -3.2% / -1.4% |
-| vs. 200-day average | +2.1% |
-| RSI (14d) | 49 |
+| Return 1m / 6m / 12m | -0.8% / -0.8% / -2.2% |
+| vs. 200-day average | +2.7% |
+| RSI (14d) | 51 |
 | Volatility (1y) | 27.1% |
 | Financials as of | 2026-06-30 |
 
@@ -73,4 +73,4 @@ Finance · Finance/Investors Services
 - Insider trades: http://openinsider.com/MSIF
 - Full deep dive: run `python scout.py stock MSIF` → `research/MSIF.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

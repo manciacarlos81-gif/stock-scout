@@ -3,17 +3,17 @@ ticker: "PYPL"
 company: "PayPal Holdings Inc."
 sector: "Industrials"
 industry: "Diversified Commercial Services"
-price: 53.81
-market_cap: "$46.0B"
-score: 65
+price: 52.71
+market_cap: "$45.1B"
+score: 64
 value: 88
 quality: 78
 growth: 44
-momentum: 47
+momentum: 46
 health: 48
-pe: 9.4
+pe: 9.2
 piotroski: 9
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,24 +30,24 @@ Industrials · Diversified Commercial Services
 - Cheaper than about 88% of stocks in Industrials (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price down 21% over 12 months (29% below its 52-week high).
+- Share price down 22% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 88 | 78 | 44 | 47 | 48 |
+| **64** | 88 | 78 | 44 | 46 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $53.81 |
-| Market value | $46.0B |
-| P/E | 9.4 |
-| Price/Sales | 1.35 |
-| Price/Book | 2.32 |
-| Free-cash-flow yield | 12.1% |
+| Price | $52.71 |
+| Market value | $45.1B |
+| P/E | 9.2 |
+| Price/Sales | 1.32 |
+| Price/Book | 2.28 |
+| Free-cash-flow yield | 12.3% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $34.1B |
 | Sales growth | +5.7% |
@@ -59,12 +59,12 @@ Industrials · Diversified Commercial Services
 | Debt / equity | 0.68 |
 | Current ratio | 1.29 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 1.87 |
+| Altman Z | 1.86 |
 | Share count change (1y) | -9.7% |
-| Return 1m / 6m / 12m | -10.7% / +22.5% / -20.7% |
-| vs. 200-day average | +6.8% |
-| RSI (14d) | 43 |
-| Volatility (1y) | 44.0% |
+| Return 1m / 6m / 12m | -13.7% / +20.5% / -22.2% |
+| vs. 200-day average | +4.8% |
+| RSI (14d) | 40 |
+| Volatility (1y) | 44.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Industrials · Diversified Commercial Services
 - Insider trades: http://openinsider.com/PYPL
 - Full deep dive: run `python scout.py stock PYPL` → `research/PYPL.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_

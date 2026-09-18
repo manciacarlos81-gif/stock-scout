@@ -3,17 +3,17 @@ ticker: "IBTA"
 company: "Ibotta Inc."
 sector: "Consumer Discretionary"
 industry: "Advertising"
-price: 42.05
-market_cap: "$974.3M"
-score: 48
-value: 28
+price: 41.58
+market_cap: "$963.4M"
+score: 49
+value: 29
 quality: 55
 growth: 16
-momentum: 82
+momentum: 84
 health: 58
 pe: null
 piotroski: 6
-updated: "2026-09-17"
+updated: "2026-09-18"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Advertising
 
 ## In plain English
 
-- More expensive than about 72% of Consumer Discretionary peers (value score).
+- More expensive than about 71% of Consumer Discretionary peers (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price up 57% over 12 months (1% below its 52-week high).
+- Share price up 56% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **48** | 28 | 55 | 16 | 82 | 58 |
+| **49** | 29 | 55 | 16 | 84 | 58 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $42.05 |
-| Market value | $974.3M |
+| Price | $41.58 |
+| Market value | $963.4M |
 | P/E | – |
-| Price/Sales | 2.84 |
-| Price/Book | 4.03 |
-| Free-cash-flow yield | 7.7% |
+| Price/Sales | 2.81 |
+| Price/Book | 3.99 |
+| Free-cash-flow yield | 7.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $343.2M |
 | Sales growth | -6.6% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Advertising
 | Debt / equity | 0.00 |
 | Current ratio | 1.71 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.97 |
+| Altman Z | 2.94 |
 | Share count change (1y) | -23.5% |
-| Return 1m / 6m / 12m | +14.0% / +51.9% / +57.3% |
-| vs. 200-day average | +42.5% |
-| RSI (14d) | 68 |
+| Return 1m / 6m / 12m | +9.7% / +51.6% / +56.4% |
+| vs. 200-day average | +40.5% |
+| RSI (14d) | 65 |
 | Volatility (1y) | 81.8% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/IBTA
 - Full deep dive: run `python scout.py stock IBTA` → `research/IBTA.md`
 
-_Updated 2026-09-17 · [latest report](../reports/latest.md)_
+_Updated 2026-09-18 · [latest report](../reports/latest.md)_
