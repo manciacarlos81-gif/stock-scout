@@ -3,7 +3,7 @@ ticker: "GRND"
 company: "Grindr Inc."
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 15.53
+price: 15.45
 market_cap: "$2.7B"
 score: 68
 value: 59
@@ -11,9 +11,9 @@ quality: 87
 growth: 87
 momentum: 54
 health: 50
-pe: 28.2
+pe: 28.1
 piotroski: 8
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 59% of stocks in Technology (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 32% over the last 12 months.
-- Share price down 2% over 12 months (13% below its 52-week high).
+- Share price down 3% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,10 +42,10 @@ Technology · Computer Software: Programming Data Processing
 
 | | |
 |---|---:|
-| Price | $15.53 |
+| Price | $15.45 |
 | Market value | $2.7B |
-| P/E | 28.2 |
-| Price/Sales | 5.29 |
+| P/E | 28.1 |
+| Price/Sales | 5.27 |
 | Price/Book | – |
 | Free-cash-flow yield | 5.2% |
 | Dividend yield | 0.0% |
@@ -59,11 +59,11 @@ Technology · Computer Software: Programming Data Processing
 | Debt / equity | – |
 | Current ratio | 1.10 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 5.46 |
+| Altman Z | 5.44 |
 | Share count change (1y) | -10.4% |
-| Return 1m / 6m / 12m | -0.4% / +23.7% / -2.1% |
-| vs. 200-day average | +15.3% |
-| RSI (14d) | 49 |
+| Return 1m / 6m / 12m | -1.3% / +22.2% / -3.4% |
+| vs. 200-day average | +14.6% |
+| RSI (14d) | 48 |
 | Volatility (1y) | 48.6% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/GRND
 - Full deep dive: run `python scout.py stock GRND` → `research/GRND.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

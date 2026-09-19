@@ -3,17 +3,17 @@ ticker: "DFIN"
 company: "Donnelley Financial Solutions Inc."
 sector: "Consumer Discretionary"
 industry: "Other Consumer Services"
-price: 48.91
+price: 48.02
 market_cap: "$1.2B"
 score: 54
 value: 59
 quality: 72
 growth: 38
-momentum: 36
+momentum: 35
 health: 56
-pe: 34.2
+pe: 33.5
 piotroski: 7
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Other Consumer Services
 - Cheaper than about 59% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price down 8% over 12 months (12% below its 52-week high).
+- Share price down 10% over 12 months (14% below its 52-week high).
 - Insiders bought $1000.0K of shares recently (Binz Joseph Leo (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 59 | 72 | 38 | 36 | 56 |
+| **54** | 59 | 72 | 38 | 35 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $48.91 |
+| Price | $48.02 |
 | Market value | $1.2B |
-| P/E | 34.2 |
-| Price/Sales | 1.55 |
-| Price/Book | 3.10 |
-| Free-cash-flow yield | 9.0% |
+| P/E | 33.5 |
+| Price/Sales | 1.52 |
+| Price/Book | 3.05 |
+| Free-cash-flow yield | 9.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $777.5M |
 | Sales growth | +3.0% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Other Consumer Services
 | Debt / equity | 0.53 |
 | Current ratio | 1.33 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.28 |
+| Altman Z | 4.25 |
 | Share count change (1y) | -10.3% |
-| Return 1m / 6m / 12m | +0.3% / +5.2% / -8.5% |
-| vs. 200-day average | +4.6% |
-| RSI (14d) | 53 |
+| Return 1m / 6m / 12m | -1.0% / +2.3% / -9.7% |
+| vs. 200-day average | +2.7% |
+| RSI (14d) | 48 |
 | Volatility (1y) | 46.6% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Other Consumer Services
 - Insider trades: http://openinsider.com/DFIN
 - Full deep dive: run `python scout.py stock DFIN` → `research/DFIN.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

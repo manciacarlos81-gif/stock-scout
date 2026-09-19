@@ -3,17 +3,17 @@ ticker: "UHS"
 company: "Universal Health Services Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 181.21
+price: 180.75
 market_cap: "$10.7B"
-score: 63
+score: 64
 value: 94
-quality: 67
+quality: 68
 growth: 58
 momentum: 30
 health: 56
 pe: 7.0
 piotroski: 8
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -28,21 +28,21 @@ Health Care · Hospital/Nursing Management
 ## In plain English
 
 - Cheaper than about 94% of stocks in Health Care (value score).
-- Business quality ranks above 67% of all stocks scanned.
+- Business quality ranks above 68% of all stocks scanned.
 - Sales grew 10% over the last 12 months.
-- Share price down 3% over 12 months (25% below its 52-week high).
+- Share price down 4% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 94 | 67 | 58 | 30 | 56 |
+| **64** | 94 | 68 | 58 | 30 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $181.21 |
+| Price | $180.75 |
 | Market value | $10.7B |
 | P/E | 7.0 |
 | Price/Sales | 0.59 |
@@ -61,10 +61,10 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.8% |
-| Return 1m / 6m / 12m | +5.3% / -2.2% / -3.2% |
-| vs. 200-day average | -0.7% |
-| RSI (14d) | 65 |
-| Volatility (1y) | 32.2% |
+| Return 1m / 6m / 12m | +4.7% / -3.7% / -3.8% |
+| vs. 200-day average | -0.8% |
+| RSI (14d) | 64 |
+| Volatility (1y) | 32.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/UHS
 - Full deep dive: run `python scout.py stock UHS` → `research/UHS.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

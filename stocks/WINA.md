@@ -3,7 +3,7 @@ ticker: "WINA"
 company: "Winmark Corporation"
 sector: "Consumer Discretionary"
 industry: "Other Specialty Stores"
-price: 294.87
+price: 294.67
 market_cap: "$1.1B"
 score: 48
 value: 31
@@ -13,7 +13,7 @@ momentum: 8
 health: 74
 pe: 26.0
 piotroski: 7
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Other Specialty Stores
 - More expensive than about 69% of Consumer Discretionary peers (value score).
 - Business quality ranks above 90% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 41% over 12 months (41% below its 52-week high).
+- Share price down 40% over 12 months (41% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,10 +42,10 @@ Consumer Discretionary · Other Specialty Stores
 
 | | |
 |---|---:|
-| Price | $294.87 |
+| Price | $294.67 |
 | Market value | $1.1B |
 | P/E | 26.0 |
-| Price/Sales | 12.24 |
+| Price/Sales | 12.23 |
 | Price/Book | – |
 | Free-cash-flow yield | 4.2% |
 | Dividend yield | 4.6% |
@@ -61,8 +61,8 @@ Consumer Discretionary · Other Specialty Stores
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -16.8% / -26.4% / -40.8% |
-| vs. 200-day average | -25.5% |
+| Return 1m / 6m / 12m | -14.1% / -27.9% / -39.7% |
+| vs. 200-day average | -25.4% |
 | RSI (14d) | 25 |
 | Volatility (1y) | 37.7% |
 | Financials as of | 2026-06-27 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Other Specialty Stores
 - Insider trades: http://openinsider.com/WINA
 - Full deep dive: run `python scout.py stock WINA` → `research/WINA.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

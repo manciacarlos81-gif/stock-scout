@@ -3,17 +3,17 @@ ticker: "EVC"
 company: "Entravision Communications Corporation"
 sector: "Industrials"
 industry: "Broadcasting"
-price: 7.89
-market_cap: "$728.2M"
+price: 7.77
+market_cap: "$717.1M"
 score: 54
-value: 31
+value: 32
 quality: 47
 growth: 82
-momentum: 97
+momentum: 96
 health: 19
-pe: 174.1
+pe: 171.5
 piotroski: 5
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,26 +27,26 @@ Industrials · Broadcasting
 
 ## In plain English
 
-- More expensive than about 69% of Industrials peers (value score).
+- More expensive than about 68% of Industrials peers (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 71% over the last 12 months.
-- Share price up 229% over 12 months (41% below its 52-week high).
+- Share price up 225% over 12 months (42% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 31 | 47 | 82 | 97 | 19 |
+| **54** | 32 | 47 | 82 | 96 | 19 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $7.89 |
-| Market value | $728.2M |
-| P/E | 174.1 |
-| Price/Sales | 1.07 |
-| Price/Book | 8.71 |
+| Price | $7.77 |
+| Market value | $717.1M |
+| P/E | 171.5 |
+| Price/Sales | 1.05 |
+| Price/Book | 8.58 |
 | Free-cash-flow yield | 0.5% |
 | Dividend yield | 2.5% |
 | Sales (12m) | $679.9M |
@@ -59,11 +59,11 @@ Industrials · Broadcasting
 | Debt / equity | 1.88 |
 | Current ratio | 1.48 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 0.84 |
+| Altman Z | 0.82 |
 | Share count change (1y) | +13.1% |
-| Return 1m / 6m / 12m | -5.8% / +166.1% / +228.5% |
-| vs. 200-day average | +27.5% |
-| RSI (14d) | 35 |
+| Return 1m / 6m / 12m | -2.6% / +152.8% / +224.8% |
+| vs. 200-day average | +25.1% |
+| RSI (14d) | 33 |
 | Volatility (1y) | 121.5% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Industrials · Broadcasting
 - Insider trades: http://openinsider.com/EVC
 - Full deep dive: run `python scout.py stock EVC` → `research/EVC.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

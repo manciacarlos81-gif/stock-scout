@@ -3,17 +3,17 @@ ticker: "SPB"
 company: "Spectrum Brands Holdings Inc."
 sector: "Miscellaneous"
 industry: "Industrial Machinery/Components"
-price: 86.56
+price: 86.93
 market_cap: "$2.0B"
 score: 60
-value: 75
+value: 76
 quality: 47
 growth: 38
-momentum: 76
-health: 59
-pe: 25.1
+momentum: 75
+health: 58
+pe: 25.2
 piotroski: 5
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,25 +27,25 @@ Miscellaneous · Industrial Machinery/Components
 
 ## In plain English
 
-- Cheaper than about 75% of stocks in Miscellaneous (value score).
+- Cheaper than about 76% of stocks in Miscellaneous (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 63% over 12 months (4% below its 52-week high).
+- Share price up 69% over 12 months (4% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 75 | 47 | 38 | 76 | 59 |
+| **60** | 76 | 47 | 38 | 75 | 58 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $86.56 |
+| Price | $86.93 |
 | Market value | $2.0B |
-| P/E | 25.1 |
-| Price/Sales | 0.69 |
+| P/E | 25.2 |
+| Price/Sales | 0.70 |
 | Price/Book | 1.08 |
 | Free-cash-flow yield | 8.3% |
 | Dividend yield | 2.4% |
@@ -61,9 +61,9 @@ Miscellaneous · Industrial Machinery/Components
 | Piotroski F-score | 5/9 |
 | Altman Z | 2.79 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -2.0% / +25.5% / +63.1% |
-| vs. 200-day average | +12.5% |
-| RSI (14d) | 48 |
+| Return 1m / 6m / 12m | +1.4% / +21.1% / +69.5% |
+| vs. 200-day average | +12.8% |
+| RSI (14d) | 49 |
 | Volatility (1y) | 33.6% |
 | Financials as of | 2026-06-28 |
 
@@ -74,4 +74,4 @@ Miscellaneous · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/SPB
 - Full deep dive: run `python scout.py stock SPB` → `research/SPB.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "THO"
 company: "Thor Industries Inc."
 sector: "Industrials"
 industry: "Homebuilding"
-price: 69.74
+price: 68.84
 market_cap: "$3.6B"
 score: 53
 value: 94
 quality: 42
 growth: 41
-momentum: 17
+momentum: 14
 health: 64
-pe: 13.8
+pe: 13.7
 piotroski: 6
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Industrials · Homebuilding
 - Cheaper than about 94% of stocks in Industrials (value score).
 - Business quality ranks above 42% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 31% over 12 months (41% below its 52-week high).
+- Share price down 31% over 12 months (42% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 94 | 42 | 41 | 17 | 64 |
+| **53** | 94 | 42 | 41 | 14 | 64 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $69.74 |
+| Price | $68.84 |
 | Market value | $3.6B |
-| P/E | 13.8 |
-| Price/Sales | 0.37 |
-| Price/Book | 0.84 |
-| Free-cash-flow yield | 15.9% |
+| P/E | 13.7 |
+| Price/Sales | 0.36 |
+| Price/Book | 0.83 |
+| Free-cash-flow yield | 16.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $9.8B |
 | Sales growth | +2.4% |
@@ -61,11 +61,15 @@ Industrials · Homebuilding
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -12.9% / -6.0% / -31.1% |
-| vs. 200-day average | -19.2% |
-| RSI (14d) | 33 |
+| Return 1m / 6m / 12m | -12.6% / -13.3% / -31.4% |
+| vs. 200-day average | -20.1% |
+| RSI (14d) | 31 |
 | Volatility (1y) | 37.4% |
 | Financials as of | 2026-04-30 |
+
+## Watch out
+
+- well below 200-day average
 
 ## Dig deeper
 
@@ -74,4 +78,4 @@ Industrials · Homebuilding
 - Insider trades: http://openinsider.com/THO
 - Full deep dive: run `python scout.py stock THO` → `research/THO.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

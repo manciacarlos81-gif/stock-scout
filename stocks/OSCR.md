@@ -3,17 +3,17 @@ ticker: "OSCR"
 company: "Oscar Health Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 32.34
-market_cap: "$10.0B"
+price: 31.98
+market_cap: "$9.9B"
 score: 76
 value: 87
 quality: 58
 growth: 87
 momentum: 93
 health: 52
-pe: 18.1
+pe: 17.9
 piotroski: 3
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,7 +31,7 @@ Health Care · Medical Specialities
 - Cheaper than about 87% of stocks in Health Care (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 43% over the last 12 months.
-- Share price up 69% over 12 months (4% below its 52-week high).
+- Share price up 69% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Health Care · Medical Specialities
 
 | | |
 |---|---:|
-| Price | $32.34 |
-| Market value | $10.0B |
-| P/E | 18.1 |
-| Price/Sales | 0.65 |
-| Price/Book | 4.86 |
-| Free-cash-flow yield | 11.0% |
+| Price | $31.98 |
+| Market value | $9.9B |
+| P/E | 17.9 |
+| Price/Sales | 0.64 |
+| Price/Book | 4.81 |
+| Free-cash-flow yield | 11.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $15.3B |
 | Sales growth | +42.8% |
@@ -62,9 +62,9 @@ Health Care · Medical Specialities
 | Piotroski F-score | 3/9 |
 | Altman Z | 1.99 |
 | Share count change (1y) | +30.5% |
-| Return 1m / 6m / 12m | +0.1% / +156.1% / +69.2% |
-| vs. 200-day average | +52.0% |
-| RSI (14d) | 54 |
+| Return 1m / 6m / 12m | +1.3% / +161.9% / +68.6% |
+| vs. 200-day average | +49.8% |
+| RSI (14d) | 52 |
 | Volatility (1y) | 70.2% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/OSCR
 - Full deep dive: run `python scout.py stock OSCR` → `research/OSCR.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "MU"
 company: "Micron Technology Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 926.55
-market_cap: "$1.0T"
+price: 977.5
+market_cap: "$1.1T"
 score: 76
-value: 50
+value: 49
 quality: 73
 growth: 92
 momentum: 98
 health: 80
-pe: 20.7
+pe: 21.9
 piotroski: 7
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,26 +28,26 @@ Technology · Semiconductors
 
 ## In plain English
 
-- Cheaper than about 50% of stocks in Technology (value score).
+- More expensive than about 51% of Technology peers (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 167% over the last 12 months.
-- Share price up 449% over 12 months (24% below its 52-week high).
+- Share price up 502% over 12 months (19% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 50 | 73 | 92 | 98 | 80 |
+| **76** | 49 | 73 | 92 | 98 | 80 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $926.55 |
-| Market value | $1.0T |
-| P/E | 20.7 |
-| Price/Sales | 11.59 |
-| Price/Book | 10.39 |
+| Price | $977.50 |
+| Market value | $1.1T |
+| P/E | 21.9 |
+| Price/Sales | 12.23 |
+| Price/Book | 10.96 |
 | Free-cash-flow yield | 0.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $90.3B |
@@ -60,12 +60,12 @@ Technology · Semiconductors
 | Debt / equity | 0.06 |
 | Current ratio | 3.42 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 22.35 |
+| Altman Z | 23.38 |
 | Share count change (1y) | +1.8% |
-| Return 1m / 6m / 12m | -1.1% / +119.2% / +449.5% |
-| vs. 200-day average | +44.2% |
-| RSI (14d) | 46 |
-| Volatility (1y) | 81.3% |
+| Return 1m / 6m / 12m | +0.3% / +141.9% / +501.7% |
+| vs. 200-day average | +51.2% |
+| RSI (14d) | 54 |
+| Volatility (1y) | 81.5% |
 | Financials as of | 2026-05-28 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MU
 - Full deep dive: run `python scout.py stock MU` → `research/MU.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

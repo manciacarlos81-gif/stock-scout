@@ -3,17 +3,17 @@ ticker: "LPG"
 company: "Dorian LPG Ltd."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 57.86
+price: 58.31
 market_cap: "$2.5B"
 score: 79
-value: 73
+value: 72
 quality: 80
 growth: 92
-momentum: 91
+momentum: 92
 health: 61
 pe: 7.7
 piotroski: 7
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,27 +28,27 @@ Consumer Discretionary · Marine Transportation
 
 ## In plain English
 
-- Cheaper than about 73% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 72% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 97% over 12 months (0% below its 52-week high).
+- Share price up 101% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **79** | 73 | 80 | 92 | 91 | 61 |
+| **79** | 72 | 80 | 92 | 92 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $57.86 |
+| Price | $58.31 |
 | Market value | $2.5B |
 | P/E | 7.7 |
-| Price/Sales | 4.23 |
-| Price/Book | 2.00 |
-| Free-cash-flow yield | 8.5% |
+| Price/Sales | 4.26 |
+| Price/Book | 2.02 |
+| Free-cash-flow yield | 8.4% |
 | Dividend yield | 4.2% |
 | Sales (12m) | $585.2M |
 | Sales growth | +81.1% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.41 |
 | Current ratio | 3.26 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.80 |
+| Altman Z | 3.82 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | +16.6% / +84.9% / +96.8% |
-| vs. 200-day average | +58.4% |
-| RSI (14d) | 75 |
+| Return 1m / 6m / 12m | +17.4% / +83.4% / +101.0% |
+| vs. 200-day average | +58.9% |
+| RSI (14d) | 76 |
 | Volatility (1y) | 41.6% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/LPG
 - Full deep dive: run `python scout.py stock LPG` → `research/LPG.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

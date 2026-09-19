@@ -3,17 +3,17 @@ ticker: "MOMO"
 company: "Hello Group Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 4.93
-market_cap: "$728.4M"
+price: 4.9
+market_cap: "$724.0M"
 score: 56
 value: 97
 quality: 51
 growth: 33
-momentum: 15
+momentum: 14
 health: 78
 pe: 6.3
 piotroski: 7
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -37,14 +37,14 @@ Technology · Computer Software: Prepackaged Software
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 97 | 51 | 33 | 15 | 78 |
+| **56** | 97 | 51 | 33 | 14 | 78 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $4.93 |
-| Market value | $728.4M |
+| Price | $4.90 |
+| Market value | $724.0M |
 | P/E | 6.3 |
 | Price/Sales | 0.49 |
 | Price/Book | 0.46 |
@@ -60,11 +60,11 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.00 |
 | Current ratio | 4.68 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.60 |
+| Altman Z | 3.59 |
 | Share count change (1y) | -9.4% |
-| Return 1m / 6m / 12m | -14.2% / -12.3% / -32.3% |
-| vs. 200-day average | -17.7% |
-| RSI (14d) | 28 |
+| Return 1m / 6m / 12m | -14.0% / -14.5% / -31.7% |
+| vs. 200-day average | -18.1% |
+| RSI (14d) | 27 |
 | Volatility (1y) | 28.7% |
 | Financials as of | 2025-12-31 |
 
@@ -79,4 +79,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/MOMO
 - Full deep dive: run `python scout.py stock MOMO` → `research/MOMO.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

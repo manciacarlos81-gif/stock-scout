@@ -3,19 +3,18 @@ ticker: "HRTG"
 company: "Heritage Insurance Holdings Inc."
 sector: "Finance"
 industry: "Property-Casualty Insurers"
-price: 34.96
-market_cap: "$1.0B"
-score: 75
+price: 35.42
+market_cap: "$1.1B"
+score: 74
 value: 85
 quality: 87
 growth: 60
-momentum: 76
+momentum: 70
 health: 55
-pe: 4.8
+pe: 4.9
 piotroski: 8
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
-  - "🏆 Top overall"
   - "💎 Quality at a fair price"
 tags: [stock]
 ---
@@ -24,30 +23,30 @@ tags: [stock]
 
 Finance · Property-Casualty Insurers
 
-**In screens today:** 🏆 Top overall, 💎 Quality at a fair price
+**In screens today:** 💎 Quality at a fair price
 
 ## In plain English
 
 - Cheaper than about 85% of stocks in Finance (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price up 37% over 12 months (1% below its 52-week high).
+- Share price up 25% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 85 | 87 | 60 | 76 | 55 |
+| **74** | 85 | 87 | 60 | 70 | 55 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $34.96 |
-| Market value | $1.0B |
-| P/E | 4.8 |
-| Price/Sales | 1.22 |
-| Price/Book | 1.83 |
+| Price | $35.42 |
+| Market value | $1.1B |
+| P/E | 4.9 |
+| Price/Sales | 1.23 |
+| Price/Book | 1.85 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | $854.6M |
@@ -62,10 +61,10 @@ Finance · Property-Casualty Insurers
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | +4.9% / +36.3% / +37.5% |
-| vs. 200-day average | +26.9% |
-| RSI (14d) | 62 |
-| Volatility (1y) | 54.5% |
+| Return 1m / 6m / 12m | +5.3% / +32.3% / +24.7% |
+| vs. 200-day average | +28.4% |
+| RSI (14d) | 65 |
+| Volatility (1y) | 54.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +74,4 @@ Finance · Property-Casualty Insurers
 - Insider trades: http://openinsider.com/HRTG
 - Full deep dive: run `python scout.py stock HRTG` → `research/HRTG.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

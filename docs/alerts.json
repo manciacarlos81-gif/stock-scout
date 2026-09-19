@@ -1,13 +1,13 @@
 {
- "date": "2026-09-18",
- "scanned": 2607,
+ "date": "2026-09-19",
+ "scanned": 2622,
  "top": [
   {
    "rank": 1,
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 82,
-   "price": 1519.97,
+   "price": 1614.39,
    "flags": ""
   },
   {
@@ -15,31 +15,31 @@
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 99.76,
+   "price": 100.18,
    "flags": "heavy debt"
   },
   {
    "rank": 3,
-   "ticker": "NUTX",
-   "name": "Nutex Health Inc.",
-   "score": 81,
-   "price": 217.32,
-   "flags": "shares up 17% in a year"
-  },
-  {
-   "rank": 4,
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 80,
-   "price": 124.75,
+   "price": 127.62,
    "flags": ""
+  },
+  {
+   "rank": 4,
+   "ticker": "NUTX",
+   "name": "Nutex Health Inc.",
+   "score": 80,
+   "price": 214.32,
+   "flags": "shares up 17% in a year"
   },
   {
    "rank": 5,
    "ticker": "CDNA",
    "name": "CareDx Inc.",
    "score": 80,
-   "price": 53.55,
+   "price": 54.28,
    "flags": ""
   },
   {
@@ -47,7 +47,7 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 109.38,
+   "price": 110.53,
    "flags": ""
   },
   {
@@ -55,7 +55,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 79,
-   "price": 57.86,
+   "price": 58.31,
    "flags": ""
   },
   {
@@ -63,37 +63,35 @@
    "ticker": "BFH",
    "name": "Bread Financial Holdings Inc.",
    "score": 79,
-   "price": 107.85,
+   "price": 108.21,
    "flags": ""
   },
   {
    "rank": 9,
+   "ticker": "EXEL",
+   "name": "Exelixis Inc.",
+   "score": 78,
+   "price": 58.49,
+   "flags": ""
+  },
+  {
+   "rank": 10,
    "ticker": "AUPH",
    "name": "Aurinia Pharmaceuticals Inc",
    "score": 78,
    "price": 16.96,
    "flags": "profits not backed by cash"
-  },
-  {
-   "rank": 10,
-   "ticker": "EXEL",
-   "name": "Exelixis Inc.",
-   "score": 78,
-   "price": 56.78,
-   "flags": ""
   }
  ],
- "new_top": [
-  "AUPH"
- ],
+ "new_top": [],
  "prev_top": [
+  "AUPH",
   "BFH",
   "CDNA",
   "ECPG",
   "EXEL",
   "INCY",
   "INSW",
-  "KNSA",
   "LPG",
   "NUTX",
   "SNDK"
@@ -109,9 +107,9 @@
   {
    "ticker": "BORR",
    "name": "Borr Drilling Limited",
-   "value": 16354408,
+   "value": 17011333,
    "buyers": 4,
-   "last": "2026-09-16"
+   "last": "2026-09-17"
   },
   {
    "ticker": "INBX",
@@ -140,6 +138,13 @@
    "value": 1117600,
    "buyers": 1,
    "last": "2026-09-14"
+  },
+  {
+   "ticker": "LMB",
+   "name": "Limbach Holdings Inc.",
+   "value": 515920,
+   "buyers": 3,
+   "last": "2026-09-15"
   }
  ]
 }

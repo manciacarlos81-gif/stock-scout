@@ -13,7 +13,7 @@ momentum: 64
 health: 83
 pe: 7.2
 piotroski: 7
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 81% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 32% over 12 months (9% below its 52-week high).
+- Share price up 30% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,7 +61,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 7/9 |
 | Altman Z | 8.30 |
 | Share count change (1y) | -2.9% |
-| Return 1m / 6m / 12m | +4.9% / +21.0% / +31.6% |
+| Return 1m / 6m / 12m | -1.8% / +16.5% / +30.5% |
 | vs. 200-day average | +9.3% |
 | RSI (14d) | 62 |
 | Volatility (1y) | 41.1% |
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/AUPH
 - Full deep dive: run `python scout.py stock AUPH` → `research/AUPH.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

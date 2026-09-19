@@ -3,17 +3,17 @@ ticker: "NUTX"
 company: "Nutex Health Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 217.32
+price: 214.32
 market_cap: "$1.5B"
-score: 81
+score: 80
 value: 80
 quality: 87
 growth: 62
-momentum: 96
+momentum: 94
 health: 69
-pe: 8.3
+pe: 8.2
 piotroski: 7
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,24 +31,24 @@ Consumer Discretionary · Business Services
 - Cheaper than about 80% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 134% over 12 months (0% below its 52-week high).
+- Share price up 123% over 12 months (1% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **81** | 80 | 87 | 62 | 96 | 69 |
+| **80** | 80 | 87 | 62 | 94 | 69 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $217.32 |
+| Price | $214.32 |
 | Market value | $1.5B |
-| P/E | 8.3 |
-| Price/Sales | 1.76 |
-| Price/Book | 3.77 |
-| Free-cash-flow yield | 16.5% |
+| P/E | 8.2 |
+| Price/Sales | 1.73 |
+| Price/Book | 3.72 |
+| Free-cash-flow yield | 16.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $846.7M |
 | Sales growth | +6.9% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Business Services
 | Debt / equity | 0.10 |
 | Current ratio | 5.00 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.41 |
+| Altman Z | 4.38 |
 | Share count change (1y) | +17.1% |
-| Return 1m / 6m / 12m | +14.0% / +144.2% / +133.8% |
-| vs. 200-day average | +50.1% |
-| RSI (14d) | 70 |
+| Return 1m / 6m / 12m | +13.7% / +125.6% / +123.0% |
+| vs. 200-day average | +47.6% |
+| RSI (14d) | 66 |
 | Volatility (1y) | 91.9% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/NUTX
 - Full deep dive: run `python scout.py stock NUTX` → `research/NUTX.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

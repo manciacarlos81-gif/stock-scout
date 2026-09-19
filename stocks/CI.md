@@ -3,17 +3,17 @@ ticker: "CI"
 company: "The Cigna Group"
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 280.45
-market_cap: "$74.1B"
-score: 61
+price: 276.0
+market_cap: "$72.9B"
+score: 60
 value: 95
 quality: 60
 growth: 53
-momentum: 39
-health: 42
-pe: 11.6
+momentum: 38
+health: 41
+pe: 11.4
 piotroski: 7
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Medical Specialities
 - Cheaper than about 95% of stocks in Health Care (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price down 2% over 12 months (8% below its 52-week high).
+- Share price down 3% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 95 | 60 | 53 | 39 | 42 |
+| **60** | 95 | 60 | 53 | 38 | 41 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $280.45 |
-| Market value | $74.1B |
-| P/E | 11.6 |
+| Price | $276.00 |
+| Market value | $72.9B |
+| P/E | 11.4 |
 | Price/Sales | 0.26 |
-| Price/Book | 1.74 |
-| Free-cash-flow yield | 13.0% |
+| Price/Book | 1.71 |
+| Free-cash-flow yield | 13.2% |
 | Dividend yield | 2.2% |
 | Sales (12m) | $282.4B |
 | Sales growth | +7.8% |
@@ -59,11 +59,11 @@ Health Care · Medical Specialities
 | Debt / equity | 0.75 |
 | Current ratio | 0.85 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 2.78 |
+| Altman Z | 2.77 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +1.6% / +7.9% / -2.4% |
-| vs. 200-day average | +1.2% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | +1.1% / +6.8% / -2.8% |
+| vs. 200-day average | -0.4% |
+| RSI (14d) | 45 |
 | Volatility (1y) | 32.8% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CI
 - Full deep dive: run `python scout.py stock CI` → `research/CI.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

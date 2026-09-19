@@ -3,17 +3,17 @@ ticker: "ADEA"
 company: "Adeia Inc."
 sector: "Telecommunications"
 industry: "Cable & Other Pay Television Services"
-price: 24.92
+price: 24.81
 market_cap: "$2.7B"
-score: 65
+score: 64
 value: 54
-quality: 84
+quality: 83
 growth: 73
-momentum: 61
+momentum: 57
 health: 50
-pe: 22.4
+pe: 22.3
 piotroski: 8
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -28,25 +28,25 @@ Telecommunications · Cable & Other Pay Television Services
 ## In plain English
 
 - Cheaper than about 54% of stocks in Telecommunications (value score).
-- Business quality ranks above 84% of all stocks scanned.
+- Business quality ranks above 83% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price up 52% over 12 months (26% below its 52-week high).
+- Share price up 51% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 54 | 84 | 73 | 61 | 50 |
+| **64** | 54 | 83 | 73 | 57 | 50 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $24.92 |
+| Price | $24.81 |
 | Market value | $2.7B |
-| P/E | 22.4 |
-| Price/Sales | 5.84 |
-| Price/Book | 5.76 |
+| P/E | 22.3 |
+| Price/Sales | 5.81 |
+| Price/Book | 5.73 |
 | Free-cash-flow yield | 5.7% |
 | Dividend yield | 0.8% |
 | Sales (12m) | $470.9M |
@@ -59,11 +59,11 @@ Telecommunications · Cable & Other Pay Television Services
 | Debt / equity | 0.81 |
 | Current ratio | 3.25 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 4.59 |
+| Altman Z | 4.57 |
 | Share count change (1y) | +2.0% |
-| Return 1m / 6m / 12m | -9.2% / +7.8% / +51.8% |
-| vs. 200-day average | +2.1% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | -7.8% / +1.7% / +50.6% |
+| vs. 200-day average | +1.3% |
+| RSI (14d) | 41 |
 | Volatility (1y) | 66.7% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Telecommunications · Cable & Other Pay Television Services
 - Insider trades: http://openinsider.com/ADEA
 - Full deep dive: run `python scout.py stock ADEA` → `research/ADEA.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

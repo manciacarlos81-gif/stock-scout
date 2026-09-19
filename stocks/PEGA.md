@@ -3,17 +3,17 @@ ticker: "PEGA"
 company: "Pegasystems Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 36.84
-market_cap: "$6.1B"
+price: 36.07
+market_cap: "$5.9B"
 score: 56
-value: 67
+value: 68
 quality: 85
 growth: 42
-momentum: 12
+momentum: 11
 health: 62
-pe: 18.7
+pe: 18.3
 piotroski: 9
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · EDP Services
 
 ## In plain English
 
-- Cheaper than about 67% of stocks in Technology (value score).
+- Cheaper than about 68% of stocks in Technology (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 38% over 12 months (44% below its 52-week high).
+- Share price down 39% over 12 months (46% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 67 | 85 | 42 | 12 | 62 |
+| **56** | 68 | 85 | 42 | 11 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $36.84 |
-| Market value | $6.1B |
-| P/E | 18.7 |
-| Price/Sales | 3.49 |
-| Price/Book | 10.81 |
-| Free-cash-flow yield | 8.1% |
+| Price | $36.07 |
+| Market value | $5.9B |
+| P/E | 18.3 |
+| Price/Sales | 3.42 |
+| Price/Book | 10.58 |
+| Free-cash-flow yield | 8.3% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $1.7B |
 | Sales growth | +3.6% |
@@ -59,12 +59,12 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 1.06 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 6.62 |
+| Altman Z | 6.53 |
 | Share count change (1y) | -5.7% |
-| Return 1m / 6m / 12m | +8.9% / -14.8% / -37.9% |
-| vs. 200-day average | -9.1% |
-| RSI (14d) | 57 |
-| Volatility (1y) | 52.6% |
+| Return 1m / 6m / 12m | +7.3% / -18.3% / -39.2% |
+| vs. 200-day average | -10.8% |
+| RSI (14d) | 53 |
+| Volatility (1y) | 52.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PEGA
 - Full deep dive: run `python scout.py stock PEGA` → `research/PEGA.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

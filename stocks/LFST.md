@@ -3,17 +3,17 @@ ticker: "LFST"
 company: "LifeStance Health Group Inc."
 sector: "Health Care"
 industry: "Medical/Nursing Services"
-price: 12.79
-market_cap: "$4.9B"
-score: 72
-value: 64
+price: 12.61
+market_cap: "$4.8B"
+score: 73
+value: 65
 quality: 63
 growth: 85
-momentum: 96
+momentum: 95
 health: 59
-pe: 96.6
+pe: 95.2
 piotroski: 9
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,26 +27,26 @@ Health Care · Medical/Nursing Services
 
 ## In plain English
 
-- Cheaper than about 64% of stocks in Health Care (value score).
+- Cheaper than about 65% of stocks in Health Care (value score).
 - Business quality ranks above 63% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 138% over 12 months (4% below its 52-week high).
+- Share price up 141% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 64 | 63 | 85 | 96 | 59 |
+| **73** | 65 | 63 | 85 | 95 | 59 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.79 |
-| Market value | $4.9B |
-| P/E | 96.6 |
-| Price/Sales | 3.08 |
-| Price/Book | 3.31 |
+| Price | $12.61 |
+| Market value | $4.8B |
+| P/E | 95.2 |
+| Price/Sales | 3.04 |
+| Price/Book | 3.26 |
 | Free-cash-flow yield | 2.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.6B |
@@ -59,12 +59,12 @@ Health Care · Medical/Nursing Services
 | Debt / equity | 0.19 |
 | Current ratio | 1.38 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 4.57 |
+| Altman Z | 4.51 |
 | Share count change (1y) | +0.1% |
-| Return 1m / 6m / 12m | -0.3% / +99.8% / +138.2% |
-| vs. 200-day average | +49.9% |
-| RSI (14d) | 56 |
-| Volatility (1y) | 53.0% |
+| Return 1m / 6m / 12m | -0.3% / +93.1% / +141.1% |
+| vs. 200-day average | +47.3% |
+| RSI (14d) | 53 |
+| Volatility (1y) | 52.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Medical/Nursing Services
 - Insider trades: http://openinsider.com/LFST
 - Full deep dive: run `python scout.py stock LFST` → `research/LFST.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "VRSK"
 company: "Verisk Analytics Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 181.75
-market_cap: "$23.7B"
-score: 55
-value: 57
+price: 176.48
+market_cap: "$23.0B"
+score: 56
+value: 59
 quality: 86
 growth: 42
-momentum: 19
+momentum: 18
 health: 63
-pe: 26.7
+pe: 25.9
 piotroski: 7
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · EDP Services
 
 ## In plain English
 
-- Cheaper than about 57% of stocks in Technology (value score).
+- Cheaper than about 59% of stocks in Technology (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price down 25% over 12 months (27% below its 52-week high).
+- Share price down 27% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 57 | 86 | 42 | 19 | 63 |
+| **56** | 59 | 86 | 42 | 18 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $181.75 |
-| Market value | $23.7B |
-| P/E | 26.7 |
-| Price/Sales | 7.54 |
+| Price | $176.48 |
+| Market value | $23.0B |
+| P/E | 25.9 |
+| Price/Sales | 7.32 |
 | Price/Book | – |
-| Free-cash-flow yield | 5.0% |
+| Free-cash-flow yield | 5.2% |
 | Dividend yield | 1.1% |
 | Sales (12m) | $3.1B |
 | Sales growth | +5.0% |
@@ -59,12 +59,12 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 1.01 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 6.74 |
+| Altman Z | 6.67 |
 | Share count change (1y) | -6.8% |
-| Return 1m / 6m / 12m | -2.3% / -9.4% / -25.2% |
-| vs. 200-day average | -5.0% |
-| RSI (14d) | 47 |
-| Volatility (1y) | 35.7% |
+| Return 1m / 6m / 12m | -5.7% / -11.2% / -26.8% |
+| vs. 200-day average | -7.6% |
+| RSI (14d) | 42 |
+| Volatility (1y) | 35.8% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/VRSK
 - Full deep dive: run `python scout.py stock VRSK` → `research/VRSK.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_

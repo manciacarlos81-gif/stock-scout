@@ -3,17 +3,17 @@ ticker: "VRTS"
 company: "Virtus Investment Partners Inc."
 sector: "Finance"
 industry: "Investment Managers"
-price: 130.76
-market_cap: "$866.0M"
+price: 128.47
+market_cap: "$850.8M"
 score: 51
 value: 89
 quality: 41
 growth: 21
-momentum: 30
+momentum: 29
 health: 63
-pe: 7.5
+pe: 7.3
 piotroski: 3
-updated: "2026-09-18"
+updated: "2026-09-19"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Finance · Investment Managers
 - Cheaper than about 89% of stocks in Finance (value score).
 - Business quality ranks above 41% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price down 29% over 12 months (28% below its 52-week high).
+- Share price down 28% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 89 | 41 | 21 | 30 | 63 |
+| **51** | 89 | 41 | 21 | 29 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $130.76 |
-| Market value | $866.0M |
-| P/E | 7.5 |
-| Price/Sales | 1.05 |
-| Price/Book | 0.92 |
+| Price | $128.47 |
+| Market value | $850.8M |
+| P/E | 7.3 |
+| Price/Sales | 1.03 |
+| Price/Book | 0.90 |
 | Free-cash-flow yield | – |
-| Dividend yield | 7.5% |
+| Dividend yield | 7.6% |
 | Sales (12m) | $825.3M |
 | Sales growth | -7.2% |
 | Net profit (12m) | $116.0M |
@@ -61,9 +61,9 @@ Finance · Investment Managers
 | Piotroski F-score | 3/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -21.5% / +6.6% / -28.6% |
-| vs. 200-day average | -11.3% |
-| RSI (14d) | 17 |
+| Return 1m / 6m / 12m | -23.6% / +2.0% / -28.4% |
+| vs. 200-day average | -12.7% |
+| RSI (14d) | 16 |
 | Volatility (1y) | 35.3% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Finance · Investment Managers
 - Insider trades: http://openinsider.com/VRTS
 - Full deep dive: run `python scout.py stock VRTS` → `research/VRTS.md`
 
-_Updated 2026-09-18 · [latest report](../reports/latest.md)_
+_Updated 2026-09-19 · [latest report](../reports/latest.md)_
