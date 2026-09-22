@@ -3,17 +3,17 @@ ticker: "CHCT"
 company: "Community Healthcare Trust Incorporated"
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 14.42
-market_cap: "$413.2M"
+price: 14.17
+market_cap: "$406.0M"
 score: 56
 value: 75
 quality: 51
 growth: 59
-momentum: 33
+momentum: 32
 health: 60
-pe: 19.7
+pe: 19.4
 piotroski: 6
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,26 +30,26 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 75% of stocks in Real Estate (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price up 7% over 12 months (22% below its 52-week high).
+- Share price up 5% over 12 months (24% below its 52-week high).
 - Insiders bought $273.0K of shares recently (Dupuy David H. (CEO, Pres); Hensley Robert Z (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 75 | 51 | 59 | 33 | 60 |
+| **56** | 75 | 51 | 59 | 32 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $14.42 |
-| Market value | $413.2M |
-| P/E | 19.7 |
-| Price/Sales | 3.31 |
-| Price/Book | 1.00 |
-| Free-cash-flow yield | 13.7% |
-| Dividend yield | 13.0% |
+| Price | $14.17 |
+| Market value | $406.0M |
+| P/E | 19.4 |
+| Price/Sales | 3.25 |
+| Price/Book | 0.98 |
+| Free-cash-flow yield | 13.9% |
+| Dividend yield | 13.2% |
 | Sales (12m) | $124.8M |
 | Sales growth | +5.7% |
 | Net profit (12m) | $21.0M |
@@ -62,10 +62,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | -3.0% / -5.2% / +7.3% |
-| vs. 200-day average | -10.3% |
-| RSI (14d) | 35 |
-| Volatility (1y) | 27.1% |
+| Return 1m / 6m / 12m | -4.7% / -6.1% / +4.9% |
+| vs. 200-day average | -11.8% |
+| RSI (14d) | 31 |
+| Volatility (1y) | 27.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/CHCT
 - Full deep dive: run `python scout.py stock CHCT` → `research/CHCT.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

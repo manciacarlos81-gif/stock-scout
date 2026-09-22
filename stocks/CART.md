@@ -3,17 +3,17 @@ ticker: "CART"
 company: "Maplebear Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 45.43
+price: 45.37
 market_cap: "$10.5B"
 score: 64
 value: 50
 quality: 83
 growth: 56
-momentum: 61
+momentum: 62
 health: 65
 pe: 21.9
 piotroski: 7
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,23 +30,23 @@ Consumer Discretionary · Business Services
 - Cheaper than about 50% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 9% over 12 months (12% below its 52-week high).
+- Share price up 7% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 50 | 83 | 56 | 61 | 65 |
+| **64** | 50 | 83 | 56 | 62 | 65 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $45.43 |
+| Price | $45.37 |
 | Market value | $10.5B |
 | P/E | 21.9 |
 | Price/Sales | 2.63 |
-| Price/Book | 4.53 |
+| Price/Book | 4.52 |
 | Free-cash-flow yield | 8.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $4.0B |
@@ -59,10 +59,10 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 2.28 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 6.51 |
+| Altman Z | 6.50 |
 | Share count change (1y) | -11.5% |
-| Return 1m / 6m / 12m | -11.0% / +19.2% / +9.5% |
-| vs. 200-day average | +6.5% |
+| Return 1m / 6m / 12m | -9.0% / +25.0% / +7.4% |
+| vs. 200-day average | +6.4% |
 | RSI (14d) | 38 |
 | Volatility (1y) | 43.2% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/CART
 - Full deep dive: run `python scout.py stock CART` → `research/CART.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

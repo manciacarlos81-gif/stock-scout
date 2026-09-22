@@ -3,17 +3,17 @@ ticker: "HRMY"
 company: "Harmony Biosciences Holdings Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 42.74
-market_cap: "$2.5B"
+price: 42.02
+market_cap: "$2.4B"
 score: 75
 value: 90
 quality: 77
 growth: 55
 momentum: 73
 health: 71
-pe: 13.7
+pe: 13.5
 piotroski: 5
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,7 +31,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 90% of stocks in Health Care (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price up 31% over 12 months (0% below its 52-week high).
+- Share price up 30% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $42.74 |
-| Market value | $2.5B |
-| P/E | 13.7 |
-| Price/Sales | 2.59 |
-| Price/Book | 2.49 |
-| Free-cash-flow yield | 14.0% |
+| Price | $42.02 |
+| Market value | $2.4B |
+| P/E | 13.5 |
+| Price/Sales | 2.55 |
+| Price/Book | 2.45 |
+| Free-cash-flow yield | 14.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $959.9M |
 | Sales growth | +24.3% |
@@ -60,11 +60,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.15 |
 | Current ratio | 3.48 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 6.03 |
+| Altman Z | 5.96 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | +12.3% / +54.9% / +31.3% |
-| vs. 200-day average | +23.7% |
-| RSI (14d) | 66 |
+| Return 1m / 6m / 12m | +10.1% / +55.1% / +29.6% |
+| vs. 200-day average | +21.6% |
+| RSI (14d) | 60 |
 | Volatility (1y) | 44.2% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/HRMY
 - Full deep dive: run `python scout.py stock HRMY` → `research/HRMY.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

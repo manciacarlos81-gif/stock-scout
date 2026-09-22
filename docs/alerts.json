@@ -1,29 +1,29 @@
 {
- "date": "2026-09-19",
- "scanned": 2622,
+ "date": "2026-09-22",
+ "scanned": 2623,
  "top": [
   {
    "rank": 1,
-   "ticker": "SNDK",
-   "name": "Sandisk Corporation",
-   "score": 82,
-   "price": 1614.39,
-   "flags": ""
-  },
-  {
-   "rank": 2,
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 100.18,
+   "price": 99.54,
    "flags": "heavy debt"
+  },
+  {
+   "rank": 2,
+   "ticker": "SNDK",
+   "name": "Sandisk Corporation",
+   "score": 81,
+   "price": 1791.82,
+   "flags": ""
   },
   {
    "rank": 3,
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 80,
-   "price": 127.62,
+   "price": 125.31,
    "flags": ""
   },
   {
@@ -31,7 +31,7 @@
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 214.32,
+   "price": 208.79,
    "flags": "shares up 17% in a year"
   },
   {
@@ -39,7 +39,7 @@
    "ticker": "CDNA",
    "name": "CareDx Inc.",
    "score": 80,
-   "price": 54.28,
+   "price": 53.83,
    "flags": ""
   },
   {
@@ -47,7 +47,7 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 110.53,
+   "price": 111.15,
    "flags": ""
   },
   {
@@ -55,7 +55,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 79,
-   "price": 58.31,
+   "price": 58.15,
    "flags": ""
   },
   {
@@ -63,7 +63,7 @@
    "ticker": "BFH",
    "name": "Bread Financial Holdings Inc.",
    "score": 79,
-   "price": 108.21,
+   "price": 108.53,
    "flags": ""
   },
   {
@@ -71,7 +71,7 @@
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
    "score": 78,
-   "price": 58.49,
+   "price": 58.36,
    "flags": ""
   },
   {
@@ -79,7 +79,7 @@
    "ticker": "AUPH",
    "name": "Aurinia Pharmaceuticals Inc",
    "score": 78,
-   "price": 16.96,
+   "price": 16.9,
    "flags": "profits not backed by cash"
   }
  ],
@@ -98,53 +98,25 @@
  ],
  "insider": [
   {
-   "ticker": "AAT",
-   "name": "American Assets Trust Inc.",
-   "value": 20059590,
-   "buyers": 1,
-   "last": "2026-09-14"
-  },
-  {
    "ticker": "BORR",
    "name": "Borr Drilling Limited",
-   "value": 17011333,
+   "value": 14763033,
+   "buyers": 3,
+   "last": "2026-09-18"
+  },
+  {
+   "ticker": "GME",
+   "name": "GameStop Corporation",
+   "value": 48401613,
    "buyers": 4,
-   "last": "2026-09-17"
+   "last": "2026-09-21"
   },
   {
-   "ticker": "INBX",
-   "name": "Inhibrx Biosciences Inc.",
-   "value": 3999596,
-   "buyers": 3,
-   "last": "2026-09-16"
-  },
-  {
-   "ticker": "SBLK",
-   "name": "Star Bulk Carriers Corp.",
-   "value": 6920496,
-   "buyers": 8,
-   "last": "2026-09-15"
-  },
-  {
-   "ticker": "AVBC",
-   "name": "Avidia Bancorp Inc.",
-   "value": 643776,
-   "buyers": 6,
-   "last": "2026-09-14"
-  },
-  {
-   "ticker": "GIII",
-   "name": "G-III Apparel Group LTD.",
-   "value": 1117600,
+   "ticker": "GSAT",
+   "name": "Globalstar Inc.",
+   "value": 29839232,
    "buyers": 1,
-   "last": "2026-09-14"
-  },
-  {
-   "ticker": "LMB",
-   "name": "Limbach Holdings Inc.",
-   "value": 515920,
-   "buyers": 3,
-   "last": "2026-09-15"
+   "last": "2026-09-18"
   }
  ]
 }

@@ -3,17 +3,17 @@ ticker: "CI"
 company: "The Cigna Group"
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 276.0
-market_cap: "$72.9B"
+price: 275.28
+market_cap: "$72.7B"
 score: 60
 value: 95
 quality: 60
 growth: 53
 momentum: 38
-health: 41
-pe: 11.4
+health: 42
+pe: 11.3
 piotroski: 7
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,21 +30,21 @@ Health Care · Medical Specialities
 - Cheaper than about 95% of stocks in Health Care (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price down 3% over 12 months (9% below its 52-week high).
+- Share price down 2% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 95 | 60 | 53 | 38 | 41 |
+| **60** | 95 | 60 | 53 | 38 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $276.00 |
-| Market value | $72.9B |
-| P/E | 11.4 |
+| Price | $275.28 |
+| Market value | $72.7B |
+| P/E | 11.3 |
 | Price/Sales | 0.26 |
 | Price/Book | 1.71 |
 | Free-cash-flow yield | 13.2% |
@@ -61,8 +61,8 @@ Health Care · Medical Specialities
 | Piotroski F-score | 7/9 |
 | Altman Z | 2.77 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +1.1% / +6.8% / -2.8% |
-| vs. 200-day average | -0.4% |
+| Return 1m / 6m / 12m | -0.3% / +4.7% / -2.5% |
+| vs. 200-day average | -0.7% |
 | RSI (14d) | 45 |
 | Volatility (1y) | 32.8% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CI
 - Full deep dive: run `python scout.py stock CI` → `research/CI.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

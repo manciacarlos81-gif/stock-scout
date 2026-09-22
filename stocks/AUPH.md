@@ -3,8 +3,8 @@ ticker: "AUPH"
 company: "Aurinia Pharmaceuticals Inc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 16.96
-market_cap: "$2.3B"
+price: 16.9
+market_cap: "$2.2B"
 score: 78
 value: 81
 quality: 78
@@ -13,7 +13,7 @@ momentum: 64
 health: 83
 pe: 7.2
 piotroski: 7
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 81% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 30% over 12 months (9% below its 52-week high).
+- Share price up 29% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $16.96 |
-| Market value | $2.3B |
+| Price | $16.90 |
+| Market value | $2.2B |
 | P/E | 7.2 |
-| Price/Sales | 7.24 |
-| Price/Book | 3.67 |
+| Price/Sales | 7.22 |
+| Price/Book | 3.66 |
 | Free-cash-flow yield | 6.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $311.5M |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 5.42 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 8.30 |
+| Altman Z | 8.27 |
 | Share count change (1y) | -2.9% |
-| Return 1m / 6m / 12m | -1.8% / +16.5% / +30.5% |
-| vs. 200-day average | +9.3% |
-| RSI (14d) | 62 |
+| Return 1m / 6m / 12m | +1.5% / +18.9% / +29.3% |
+| vs. 200-day average | +8.8% |
+| RSI (14d) | 61 |
 | Volatility (1y) | 41.1% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/AUPH
 - Full deep dive: run `python scout.py stock AUPH` → `research/AUPH.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

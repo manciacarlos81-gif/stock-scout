@@ -3,17 +3,17 @@ ticker: "PEGA"
 company: "Pegasystems Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 36.07
-market_cap: "$5.9B"
+price: 35.05
+market_cap: "$5.8B"
 score: 56
 value: 68
 quality: 85
 growth: 42
 momentum: 11
 health: 62
-pe: 18.3
+pe: 17.8
 piotroski: 9
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · EDP Services
 - Cheaper than about 68% of stocks in Technology (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 39% over 12 months (46% below its 52-week high).
+- Share price down 41% over 12 months (47% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Technology · EDP Services
 
 | | |
 |---|---:|
-| Price | $36.07 |
-| Market value | $5.9B |
-| P/E | 18.3 |
-| Price/Sales | 3.42 |
-| Price/Book | 10.58 |
-| Free-cash-flow yield | 8.3% |
+| Price | $35.05 |
+| Market value | $5.8B |
+| P/E | 17.8 |
+| Price/Sales | 3.32 |
+| Price/Book | 10.28 |
+| Free-cash-flow yield | 8.5% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $1.7B |
 | Sales growth | +3.6% |
@@ -59,11 +59,11 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 1.06 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 6.53 |
+| Altman Z | 6.41 |
 | Share count change (1y) | -5.7% |
-| Return 1m / 6m / 12m | +7.3% / -18.3% / -39.2% |
-| vs. 200-day average | -10.8% |
-| RSI (14d) | 53 |
+| Return 1m / 6m / 12m | +4.4% / -16.1% / -41.3% |
+| vs. 200-day average | -13.1% |
+| RSI (14d) | 49 |
 | Volatility (1y) | 52.7% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PEGA
 - Full deep dive: run `python scout.py stock PEGA` → `research/PEGA.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

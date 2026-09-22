@@ -3,17 +3,17 @@ ticker: "MLAB"
 company: "Mesa Laboratories Inc."
 sector: "Industrials"
 industry: "Industrial Machinery/Components"
-price: 127.14
-market_cap: "$711.5M"
+price: 126.54
+market_cap: "$708.1M"
 score: 60
 value: 45
 quality: 64
 growth: 60
-momentum: 87
+momentum: 88
 health: 44
-pe: 148.2
+pe: 147.5
 piotroski: 8
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,24 +30,24 @@ Industrials · Industrial Machinery/Components
 - More expensive than about 55% of Industrials peers (value score).
 - Business quality ranks above 64% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price up 75% over 12 months (3% below its 52-week high).
+- Share price up 72% over 12 months (3% below its 52-week high).
 - Insiders bought $902.4K of shares recently (Kadia Siddhartha (Pres, CEO); Tripeny R Tony (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 45 | 64 | 60 | 87 | 44 |
+| **60** | 45 | 64 | 60 | 88 | 44 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $127.14 |
-| Market value | $711.5M |
-| P/E | 148.2 |
-| Price/Sales | 2.85 |
-| Price/Book | 3.77 |
+| Price | $126.54 |
+| Market value | $708.1M |
+| P/E | 147.5 |
+| Price/Sales | 2.84 |
+| Price/Book | 3.75 |
 | Free-cash-flow yield | 5.6% |
 | Dividend yield | 0.5% |
 | Sales (12m) | $249.7M |
@@ -60,12 +60,12 @@ Industrials · Industrial Machinery/Components
 | Debt / equity | 0.35 |
 | Current ratio | 1.79 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.14 |
+| Altman Z | 2.13 |
 | Share count change (1y) | +3.7% |
-| Return 1m / 6m / 12m | +6.8% / +54.7% / +75.0% |
-| vs. 200-day average | +31.2% |
-| RSI (14d) | 61 |
-| Volatility (1y) | 54.1% |
+| Return 1m / 6m / 12m | +1.6% / +56.4% / +72.1% |
+| vs. 200-day average | +30.2% |
+| RSI (14d) | 59 |
+| Volatility (1y) | 53.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Industrials · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/MLAB
 - Full deep dive: run `python scout.py stock MLAB` → `research/MLAB.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

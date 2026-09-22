@@ -3,7 +3,7 @@ ticker: "FSBC"
 company: "Five Star Bancorp"
 sector: "Finance"
 industry: "Major Banks"
-price: 44.71
+price: 44.47
 market_cap: "$1.1B"
 score: 50
 value: 37
@@ -13,7 +13,7 @@ momentum: 68
 health: 38
 pe: 15.2
 piotroski: 9
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,7 +28,7 @@ Finance · Major Banks
 ## In plain English
 
 - More expensive than about 63% of Finance peers (value score).
-- Share price up 39% over 12 months (10% below its 52-week high).
+- Share price up 38% over 12 months (10% below its 52-week high).
 - Insiders bought $6.3M of shares recently (Allbaugh Larry Eugene (Dir, 10%); Perry-Smith Robert Truxtun (Dir); Deary-Bell Shannon (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -41,11 +41,11 @@ Finance · Major Banks
 
 | | |
 |---|---:|
-| Price | $44.71 |
+| Price | $44.47 |
 | Market value | $1.1B |
 | P/E | 15.2 |
 | Price/Sales | – |
-| Price/Book | 2.32 |
+| Price/Book | 2.30 |
 | Free-cash-flow yield | – |
 | Dividend yield | 1.6% |
 | Sales (12m) | – |
@@ -60,9 +60,9 @@ Finance · Major Banks
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.3% |
-| Return 1m / 6m / 12m | -0.7% / +20.5% / +38.9% |
-| vs. 200-day average | +7.8% |
-| RSI (14d) | 37 |
+| Return 1m / 6m / 12m | -1.5% / +19.9% / +37.7% |
+| vs. 200-day average | +7.1% |
+| RSI (14d) | 35 |
 | Volatility (1y) | 24.1% |
 | Financials as of | 2026-06-30 |
 
@@ -73,4 +73,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/FSBC
 - Full deep dive: run `python scout.py stock FSBC` → `research/FSBC.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

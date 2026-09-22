@@ -3,17 +3,17 @@ ticker: "CRTO"
 company: "Criteo S.A."
 sector: "Consumer Discretionary"
 industry: "Advertising"
-price: 16.9
-market_cap: "$828.1M"
+price: 16.7
+market_cap: "$818.3M"
 score: 58
 value: 95
 quality: 72
 growth: 26
-momentum: 22
+momentum: 21
 health: 54
-pe: 7.6
+pe: 7.5
 piotroski: 9
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,24 +31,24 @@ Consumer Discretionary · Advertising
 - Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales fell 4% over the last 12 months.
-- Share price down 23% over 12 months (27% below its 52-week high).
+- Share price down 25% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 95 | 72 | 26 | 22 | 54 |
+| **58** | 95 | 72 | 26 | 21 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $16.90 |
-| Market value | $828.1M |
-| P/E | 7.6 |
+| Price | $16.70 |
+| Market value | $818.3M |
+| P/E | 7.5 |
 | Price/Sales | 0.44 |
 | Price/Book | 0.73 |
-| Free-cash-flow yield | 37.6% |
+| Free-cash-flow yield | 38.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.9B |
 | Sales growth | -4.2% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Advertising
 | Debt / equity | – |
 | Current ratio | 1.29 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 2.30 |
+| Altman Z | 2.29 |
 | Share count change (1y) | -8.3% |
-| Return 1m / 6m / 12m | -3.3% / -2.9% / -22.9% |
-| vs. 200-day average | -10.3% |
-| RSI (14d) | 39 |
+| Return 1m / 6m / 12m | -4.2% / -5.3% / -25.2% |
+| vs. 200-day average | -11.3% |
+| RSI (14d) | 37 |
 | Volatility (1y) | 55.5% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/CRTO
 - Full deep dive: run `python scout.py stock CRTO` → `research/CRTO.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

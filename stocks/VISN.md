@@ -3,17 +3,17 @@ ticker: "VISN"
 company: "Vistance Networks Inc."
 sector: "Technology"
 industry: "Radio And Television Broadcasting And Communications Equipment"
-price: 6.45
+price: 6.57
 market_cap: "$1.5B"
-score: 73
-value: 93
+score: 72
+value: 92
 quality: 56
 growth: 89
-momentum: 73
+momentum: 72
 health: 51
 pe: 0.2
 piotroski: 7
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,28 +27,28 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 
 ## In plain English
 
-- Cheaper than about 93% of stocks in Technology (value score).
+- Cheaper than about 92% of stocks in Technology (value score).
 - Business quality ranks above 56% of all stocks scanned.
 - Sales grew 1333% over the last 12 months.
-- Share price up 41% over 12 months (12% below its 52-week high).
+- Share price up 39% over 12 months (11% below its 52-week high).
 - Insiders bought $107.5K of shares recently (Gilstrap Charles A (SVP, Treasury, Tax, CAO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 93 | 56 | 89 | 73 | 51 |
+| **72** | 92 | 56 | 89 | 72 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.45 |
+| Price | $6.57 |
 | Market value | $1.5B |
 | P/E | 0.2 |
-| Price/Sales | 0.74 |
-| Price/Book | 0.59 |
-| Free-cash-flow yield | 17.0% |
+| Price/Sales | 0.75 |
+| Price/Book | 0.60 |
+| Free-cash-flow yield | 16.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +1333.2% |
@@ -60,12 +60,12 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 | Debt / equity | 0.00 |
 | Current ratio | 2.57 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 2.09 |
+| Altman Z | 2.11 |
 | Share count change (1y) | +7.2% |
-| Return 1m / 6m / 12m | +0.0% / +30.9% / +41.0% |
-| vs. 200-day average | +8.1% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 48.6% |
+| Return 1m / 6m / 12m | +2.8% / +30.1% / +39.0% |
+| vs. 200-day average | +10.0% |
+| RSI (14d) | 52 |
+| Volatility (1y) | 48.4% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 - Insider trades: http://openinsider.com/VISN
 - Full deep dive: run `python scout.py stock VISN` → `research/VISN.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

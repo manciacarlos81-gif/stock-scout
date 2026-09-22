@@ -3,17 +3,17 @@ ticker: "CODI"
 company: "D/B/A Compass Diversified Holdings Shares of Beneficial Interest"
 sector: "Consumer Discretionary"
 industry: "Home Furnishings"
-price: 11.08
-market_cap: "$833.6M"
+price: 11.03
+market_cap: "$829.9M"
 score: 43
 value: 27
 quality: 30
 growth: 52
-momentum: 88
+momentum: 87
 health: 20
 pe: null
 piotroski: 5
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Home Furnishings
 - More expensive than about 73% of Consumer Discretionary peers (value score).
 - Business quality ranks above 30% of all stocks scanned.
 - Sales fell 5% over the last 12 months.
-- Share price up 54% over 12 months (13% below its 52-week high).
+- Share price up 55% over 12 months (13% below its 52-week high).
 - Insiders bought $2.4M of shares recently (Kim Eugene L. (See Remarks (a)); Sawtelle Zachary T. (See Remark (a)); Richter Glenn R (See Remarks (a))).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **43** | 27 | 30 | 52 | 88 | 20 |
+| **43** | 27 | 30 | 52 | 87 | 20 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $11.08 |
-| Market value | $833.6M |
+| Price | $11.03 |
+| Market value | $829.9M |
 | P/E | – |
-| Price/Sales | 0.47 |
+| Price/Sales | 0.46 |
 | Price/Book | 1.76 |
-| Free-cash-flow yield | -6.1% |
+| Free-cash-flow yield | -6.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.8B |
 | Sales growth | -4.8% |
@@ -62,9 +62,9 @@ Consumer Discretionary · Home Furnishings
 | Piotroski F-score | 5/9 |
 | Altman Z | 0.49 |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | -4.2% / +81.6% / +53.9% |
-| vs. 200-day average | +23.1% |
-| RSI (14d) | 46 |
+| Return 1m / 6m / 12m | -5.6% / +64.6% / +54.9% |
+| vs. 200-day average | +22.3% |
+| RSI (14d) | 45 |
 | Volatility (1y) | 69.2% |
 | Financials as of | 2026-06-30 |
 
@@ -82,4 +82,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/CODI
 - Full deep dive: run `python scout.py stock CODI` → `research/CODI.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

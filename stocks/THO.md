@@ -3,17 +3,17 @@ ticker: "THO"
 company: "Thor Industries Inc."
 sector: "Industrials"
 industry: "Homebuilding"
-price: 68.84
-market_cap: "$3.6B"
+price: 67.77
+market_cap: "$3.5B"
 score: 53
-value: 94
+value: 95
 quality: 42
 growth: 41
-momentum: 14
+momentum: 13
 health: 64
-pe: 13.7
+pe: 13.4
 piotroski: 6
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,27 +27,27 @@ Industrials · Homebuilding
 
 ## In plain English
 
-- Cheaper than about 94% of stocks in Industrials (value score).
+- Cheaper than about 95% of stocks in Industrials (value score).
 - Business quality ranks above 42% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 31% over 12 months (42% below its 52-week high).
+- Share price down 32% over 12 months (43% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 94 | 42 | 41 | 14 | 64 |
+| **53** | 95 | 42 | 41 | 13 | 64 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $68.84 |
-| Market value | $3.6B |
-| P/E | 13.7 |
+| Price | $67.77 |
+| Market value | $3.5B |
+| P/E | 13.4 |
 | Price/Sales | 0.36 |
-| Price/Book | 0.83 |
-| Free-cash-flow yield | 16.1% |
+| Price/Book | 0.82 |
+| Free-cash-flow yield | 16.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $9.8B |
 | Sales growth | +2.4% |
@@ -61,9 +61,9 @@ Industrials · Homebuilding
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -12.6% / -13.3% / -31.4% |
-| vs. 200-day average | -20.1% |
-| RSI (14d) | 31 |
+| Return 1m / 6m / 12m | -14.7% / -17.3% / -31.8% |
+| vs. 200-day average | -21.2% |
+| RSI (14d) | 29 |
 | Volatility (1y) | 37.4% |
 | Financials as of | 2026-04-30 |
 
@@ -78,4 +78,4 @@ Industrials · Homebuilding
 - Insider trades: http://openinsider.com/THO
 - Full deep dive: run `python scout.py stock THO` → `research/THO.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

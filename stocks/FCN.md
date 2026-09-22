@@ -3,17 +3,17 @@ ticker: "FCN"
 company: "FTI Consulting Inc."
 sector: "Consumer Discretionary"
 industry: "Professional Services"
-price: 141.0
+price: 141.18
 market_cap: "$3.9B"
 score: 46
-value: 55
+value: 54
 quality: 46
 growth: 51
-momentum: 19
+momentum: 21
 health: 61
 pe: 15.4
 piotroski: 5
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,22 +27,22 @@ Consumer Discretionary · Professional Services
 
 ## In plain English
 
-- Cheaper than about 55% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 54% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 46% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price down 13% over 12 months (25% below its 52-week high).
+- Share price down 12% over 12 months (25% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **46** | 55 | 46 | 51 | 19 | 61 |
+| **46** | 54 | 46 | 51 | 21 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $141.00 |
+| Price | $141.18 |
 | Market value | $3.9B |
 | P/E | 15.4 |
 | Price/Sales | 0.99 |
@@ -61,8 +61,8 @@ Consumer Discretionary · Professional Services
 | Piotroski F-score | 5/9 |
 | Altman Z | 3.38 |
 | Share count change (1y) | -13.6% |
-| Return 1m / 6m / 12m | -8.1% / -18.0% / -12.8% |
-| vs. 200-day average | -14.0% |
+| Return 1m / 6m / 12m | -9.3% / -17.5% / -11.5% |
+| vs. 200-day average | -13.8% |
 | RSI (14d) | 31 |
 | Volatility (1y) | 29.6% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Consumer Discretionary · Professional Services
 - Insider trades: http://openinsider.com/FCN
 - Full deep dive: run `python scout.py stock FCN` → `research/FCN.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "ARI"
 company: "Apollo Commercial Real Estate Finance Inc"
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 6.45
-market_cap: "$827.0M"
+price: 6.42
+market_cap: "$823.1M"
 score: 66
 value: 88
 quality: 64
 growth: 50
 momentum: 37
 health: 91
-pe: 6.3
+pe: 6.2
 piotroski: 8
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -42,13 +42,13 @@ Real Estate · Real Estate Investment Trusts
 
 | | |
 |---|---:|
-| Price | $6.45 |
-| Market value | $827.0M |
-| P/E | 6.3 |
-| Price/Sales | 3.48 |
+| Price | $6.42 |
+| Market value | $823.1M |
+| P/E | 6.2 |
+| Price/Sales | 3.46 |
 | Price/Book | 0.66 |
-| Free-cash-flow yield | 17.2% |
-| Dividend yield | 17.1% |
+| Free-cash-flow yield | 17.3% |
+| Dividend yield | 17.2% |
 | Sales (12m) | $237.9M |
 | Sales growth | -14.7% |
 | Net profit (12m) | $132.0M |
@@ -61,9 +61,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | -7.1% / -1.3% / +2.2% |
-| vs. 200-day average | -4.0% |
-| RSI (14d) | 29 |
+| Return 1m / 6m / 12m | -7.4% / -2.5% / +2.3% |
+| vs. 200-day average | -4.5% |
+| RSI (14d) | 28 |
 | Volatility (1y) | 19.9% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/ARI
 - Full deep dive: run `python scout.py stock ARI` → `research/ARI.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

@@ -3,8 +3,8 @@ ticker: "RSKD"
 company: "Riskified Ltd."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 6.31
-market_cap: "$857.9M"
+price: 6.21
+market_cap: "$844.4M"
 score: 50
 value: 21
 quality: 46
@@ -13,7 +13,7 @@ momentum: 77
 health: 67
 pe: null
 piotroski: 6
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Business Services
 - More expensive than about 79% of Consumer Discretionary peers (value score).
 - Business quality ranks above 46% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price up 32% over 12 months (9% below its 52-week high).
+- Share price up 31% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Consumer Discretionary · Business Services
 
 | | |
 |---|---:|
-| Price | $6.31 |
-| Market value | $857.9M |
+| Price | $6.21 |
+| Market value | $844.4M |
 | P/E | – |
-| Price/Sales | 2.49 |
-| Price/Book | 2.91 |
+| Price/Sales | 2.45 |
+| Price/Book | 2.86 |
 | Free-cash-flow yield | 3.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $344.6M |
@@ -59,11 +59,11 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 5.03 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.23 |
+| Altman Z | 4.16 |
 | Share count change (1y) | -7.9% |
-| Return 1m / 6m / 12m | +6.1% / +50.6% / +32.3% |
-| vs. 200-day average | +28.3% |
-| RSI (14d) | 56 |
+| Return 1m / 6m / 12m | +5.3% / +54.1% / +31.0% |
+| vs. 200-day average | +26.1% |
+| RSI (14d) | 53 |
 | Volatility (1y) | 40.4% |
 | Financials as of | 2025-12-31 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/RSKD
 - Full deep dive: run `python scout.py stock RSKD` → `research/RSKD.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_

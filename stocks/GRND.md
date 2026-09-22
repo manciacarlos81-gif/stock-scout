@@ -3,17 +3,17 @@ ticker: "GRND"
 company: "Grindr Inc."
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 15.45
+price: 15.4
 market_cap: "$2.7B"
 score: 68
 value: 59
 quality: 87
 growth: 87
-momentum: 54
+momentum: 56
 health: 50
-pe: 28.1
+pe: 28.0
 piotroski: 8
-updated: "2026-09-19"
+updated: "2026-09-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 59% of stocks in Technology (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 32% over the last 12 months.
-- Share price down 3% over 12 months (14% below its 52-week high).
+- Share price down 4% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 59 | 87 | 87 | 54 | 50 |
+| **68** | 59 | 87 | 87 | 56 | 50 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.45 |
+| Price | $15.40 |
 | Market value | $2.7B |
-| P/E | 28.1 |
-| Price/Sales | 5.27 |
+| P/E | 28.0 |
+| Price/Sales | 5.25 |
 | Price/Book | – |
-| Free-cash-flow yield | 5.2% |
+| Free-cash-flow yield | 5.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $509.8M |
 | Sales growth | +32.4% |
@@ -59,10 +59,10 @@ Technology · Computer Software: Programming Data Processing
 | Debt / equity | – |
 | Current ratio | 1.10 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 5.44 |
+| Altman Z | 5.43 |
 | Share count change (1y) | -10.4% |
-| Return 1m / 6m / 12m | -1.3% / +22.2% / -3.4% |
-| vs. 200-day average | +14.6% |
+| Return 1m / 6m / 12m | -0.8% / +27.5% / -4.4% |
+| vs. 200-day average | +14.2% |
 | RSI (14d) | 48 |
 | Volatility (1y) | 48.6% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/GRND
 - Full deep dive: run `python scout.py stock GRND` → `research/GRND.md`
 
-_Updated 2026-09-19 · [latest report](../reports/latest.md)_
+_Updated 2026-09-22 · [latest report](../reports/latest.md)_
