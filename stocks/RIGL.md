@@ -3,17 +3,17 @@ ticker: "RIGL"
 company: "Rigel Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 46.64
-market_cap: "$871.2M"
+price: 47.09
+market_cap: "$879.6M"
 score: 74
-value: 90
+value: 89
 quality: 75
 growth: 43
 momentum: 82
 health: 63
 pe: 2.7
 piotroski: 6
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -27,27 +27,27 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- Cheaper than about 90% of stocks in Health Care (value score).
+- Cheaper than about 89% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price up 35% over 12 months (8% below its 52-week high).
+- Share price up 38% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 90 | 75 | 43 | 82 | 63 |
+| **74** | 89 | 75 | 43 | 82 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $46.64 |
-| Market value | $871.2M |
+| Price | $47.09 |
+| Market value | $879.6M |
 | P/E | 2.7 |
-| Price/Sales | 3.15 |
-| Price/Book | 2.05 |
-| Free-cash-flow yield | 8.7% |
+| Price/Sales | 3.18 |
+| Price/Book | 2.07 |
+| Free-cash-flow yield | 8.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $276.8M |
 | Sales growth | +3.3% |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.11 |
 | Current ratio | 1.94 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.08 |
+| Altman Z | 4.13 |
 | Share count change (1y) | +7.8% |
-| Return 1m / 6m / 12m | +1.6% / +78.5% / +35.4% |
-| vs. 200-day average | +28.6% |
-| RSI (14d) | 56 |
-| Volatility (1y) | 64.3% |
+| Return 1m / 6m / 12m | +4.4% / +79.1% / +38.4% |
+| vs. 200-day average | +29.9% |
+| RSI (14d) | 58 |
+| Volatility (1y) | 63.3% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/RIGL
 - Full deep dive: run `python scout.py stock RIGL` → `research/RIGL.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

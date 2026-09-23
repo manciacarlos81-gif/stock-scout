@@ -1,13 +1,13 @@
 {
- "date": "2026-09-22",
- "scanned": 2623,
+ "date": "2026-09-23",
+ "scanned": 2628,
  "top": [
   {
    "rank": 1,
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 99.54,
+   "price": 99.37,
    "flags": "heavy debt"
   },
   {
@@ -15,7 +15,7 @@
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 81,
-   "price": 1791.82,
+   "price": 1766.64,
    "flags": ""
   },
   {
@@ -23,7 +23,7 @@
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 80,
-   "price": 125.31,
+   "price": 124.65,
    "flags": ""
   },
   {
@@ -31,23 +31,23 @@
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 208.79,
+   "price": 201.48,
    "flags": "shares up 17% in a year"
   },
   {
    "rank": 5,
-   "ticker": "CDNA",
-   "name": "CareDx Inc.",
+   "ticker": "INSW",
+   "name": "International Seaways Inc.",
    "score": 80,
-   "price": 53.83,
+   "price": 109.1,
    "flags": ""
   },
   {
    "rank": 6,
-   "ticker": "INSW",
-   "name": "International Seaways Inc.",
+   "ticker": "CDNA",
+   "name": "CareDx Inc.",
    "score": 80,
-   "price": 111.15,
+   "price": 54.33,
    "flags": ""
   },
   {
@@ -55,7 +55,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 79,
-   "price": 58.15,
+   "price": 56.64,
    "flags": ""
   },
   {
@@ -63,7 +63,7 @@
    "ticker": "BFH",
    "name": "Bread Financial Holdings Inc.",
    "score": 79,
-   "price": 108.53,
+   "price": 108.0,
    "flags": ""
   },
   {
@@ -71,19 +71,21 @@
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
    "score": 78,
-   "price": 58.36,
+   "price": 57.22,
    "flags": ""
   },
   {
    "rank": 10,
-   "ticker": "AUPH",
-   "name": "Aurinia Pharmaceuticals Inc",
+   "ticker": "KNSA",
+   "name": "Kiniksa Pharmaceuticals International plc",
    "score": 78,
-   "price": 16.9,
-   "flags": "profits not backed by cash"
+   "price": 78.13,
+   "flags": ""
   }
  ],
- "new_top": [],
+ "new_top": [
+  "KNSA"
+ ],
  "prev_top": [
   "AUPH",
   "BFH",

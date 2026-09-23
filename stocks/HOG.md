@@ -3,17 +3,17 @@ ticker: "HOG"
 company: "Harley-Davidson Inc."
 sector: "Consumer Discretionary"
 industry: "Motor Vehicles"
-price: 25.93
+price: 26.21
 market_cap: "$2.7B"
 score: 59
 value: 82
 quality: 49
 growth: 34
-momentum: 61
+momentum: 62
 health: 57
-pe: 13.3
+pe: 13.5
 piotroski: 8
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Motor Vehicles
 - Cheaper than about 82% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 49% of all stocks scanned.
 - Sales fell 5% over the last 12 months.
-- Share price down 7% over 12 months (8% below its 52-week high).
+- Share price down 6% over 12 months (7% below its 52-week high).
 - Insiders bought $1.4M of shares recently (Littleton Gayle (CLO, CCO, CAO, Corp Sec); Starrs Artie (Pres, CEO); Nova Daniel J (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **59** | 82 | 49 | 34 | 61 | 57 |
+| **59** | 82 | 49 | 34 | 62 | 57 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $25.93 |
+| Price | $26.21 |
 | Market value | $2.7B |
-| P/E | 13.3 |
+| P/E | 13.5 |
 | Price/Sales | 0.64 |
-| Price/Book | 0.87 |
-| Free-cash-flow yield | 15.4% |
+| Price/Book | 0.88 |
+| Free-cash-flow yield | 15.2% |
 | Dividend yield | 3.2% |
 | Sales (12m) | $4.2B |
 | Sales growth | -5.2% |
@@ -62,9 +62,9 @@ Consumer Discretionary · Motor Vehicles
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -11.2% |
-| Return 1m / 6m / 12m | -7.4% / +41.4% / -6.7% |
-| vs. 200-day average | +13.4% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | -6.7% / +44.0% / -6.0% |
+| vs. 200-day average | +14.5% |
+| RSI (14d) | 44 |
 | Volatility (1y) | 38.3% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Motor Vehicles
 - Insider trades: http://openinsider.com/HOG
 - Full deep dive: run `python scout.py stock HOG` → `research/HOG.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

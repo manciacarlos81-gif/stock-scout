@@ -3,17 +3,17 @@ ticker: "COKE"
 company: "Coca-Cola Consolidated Inc."
 sector: "Consumer Staples"
 industry: "Beverages (Production/Distribution)"
-price: 192.08
-market_cap: "$12.8B"
+price: 189.9
+market_cap: "$12.6B"
 score: 56
 value: 44
 quality: 71
 growth: 47
-momentum: 62
-health: 52
-pe: 23.2
+momentum: 61
+health: 51
+pe: 23.0
 piotroski: 6
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Staples · Beverages (Production/Distribution)
 - More expensive than about 56% of Consumer Staples peers (value score).
 - Business quality ranks above 71% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price up 68% over 12 months (11% below its 52-week high).
+- Share price up 67% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 44 | 71 | 47 | 62 | 52 |
+| **56** | 44 | 71 | 47 | 61 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $192.08 |
-| Market value | $12.8B |
-| P/E | 23.2 |
-| Price/Sales | 1.66 |
+| Price | $189.90 |
+| Market value | $12.6B |
+| P/E | 23.0 |
+| Price/Sales | 1.64 |
 | Price/Book | – |
-| Free-cash-flow yield | 4.8% |
+| Free-cash-flow yield | 4.9% |
 | Dividend yield | 0.7% |
 | Sales (12m) | $7.7B |
 | Sales growth | +10.7% |
@@ -59,11 +59,11 @@ Consumer Staples · Beverages (Production/Distribution)
 | Debt / equity | – |
 | Current ratio | 1.21 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 3.92 |
+| Altman Z | 3.90 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | +1.6% / +3.9% / +68.1% |
-| vs. 200-day average | +6.2% |
-| RSI (14d) | 49 |
+| Return 1m / 6m / 12m | -1.4% / +2.2% / +66.6% |
+| vs. 200-day average | +4.9% |
+| RSI (14d) | 47 |
 | Volatility (1y) | 36.1% |
 | Financials as of | 2026-07-03 |
 
@@ -78,4 +78,4 @@ Consumer Staples · Beverages (Production/Distribution)
 - Insider trades: http://openinsider.com/COKE
 - Full deep dive: run `python scout.py stock COKE` → `research/COKE.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

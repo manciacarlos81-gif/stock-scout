@@ -3,17 +3,17 @@ ticker: "LQDA"
 company: "Liquidia Corporation"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 66.88
-market_cap: "$6.0B"
-score: 74
-value: 54
+price: 66.43
+market_cap: "$5.9B"
+score: 73
+value: 53
 quality: 70
 growth: 87
 momentum: 94
 health: 72
-pe: 43.2
+pe: 42.9
 piotroski: 5
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,26 +27,26 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- Cheaper than about 54% of stocks in Health Care (value score).
+- Cheaper than about 53% of stocks in Health Care (value score).
 - Business quality ranks above 70% of all stocks scanned.
 - Sales grew 2234% over the last 12 months.
-- Share price up 192% over 12 months (27% below its 52-week high).
+- Share price up 196% over 12 months (27% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 54 | 70 | 87 | 94 | 72 |
+| **73** | 53 | 70 | 87 | 94 | 72 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $66.88 |
-| Market value | $6.0B |
-| P/E | 43.2 |
-| Price/Sales | 13.28 |
-| Price/Book | 30.68 |
+| Price | $66.43 |
+| Market value | $5.9B |
+| P/E | 42.9 |
+| Price/Sales | 13.19 |
+| Price/Book | 30.47 |
 | Free-cash-flow yield | -0.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $450.9M |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 2.31 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 12.15 |
+| Altman Z | 12.08 |
 | Share count change (1y) | +18.5% |
-| Return 1m / 6m / 12m | -2.5% / +90.0% / +192.1% |
-| vs. 200-day average | +25.0% |
-| RSI (14d) | 41 |
-| Volatility (1y) | 65.1% |
+| Return 1m / 6m / 12m | -5.5% / +81.5% / +195.9% |
+| vs. 200-day average | +23.8% |
+| RSI (14d) | 40 |
+| Volatility (1y) | 65.0% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/LQDA
 - Full deep dive: run `python scout.py stock LQDA` → `research/LQDA.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

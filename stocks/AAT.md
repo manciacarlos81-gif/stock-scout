@@ -3,17 +3,17 @@ ticker: "AAT"
 company: "American Assets Trust Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 21.95
+price: 21.98
 market_cap: "$1.3B"
 score: 50
-value: 53
+value: 54
 quality: 52
 growth: 16
 momentum: 60
 health: 61
 pe: 56.2
 piotroski: 8
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,23 +27,23 @@ Real Estate · Real Estate Investment Trusts
 
 ## In plain English
 
-- Cheaper than about 53% of stocks in Real Estate (value score).
+- Cheaper than about 54% of stocks in Real Estate (value score).
 - Business quality ranks above 52% of all stocks scanned.
 - Sales fell 4% over the last 12 months.
-- Share price up 13% over 12 months (14% below its 52-week high).
+- Share price up 12% over 12 months (14% below its 52-week high).
 - Insiders bought $20.1M of shares recently (Rady Ernest S (Exec COB, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 53 | 52 | 16 | 60 | 61 |
+| **50** | 54 | 52 | 16 | 60 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $21.95 |
+| Price | $21.98 |
 | Market value | $1.3B |
 | P/E | 56.2 |
 | Price/Sales | 3.08 |
@@ -62,10 +62,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.2% |
-| Return 1m / 6m / 12m | -2.4% / +23.1% / +12.9% |
+| Return 1m / 6m / 12m | -3.0% / +23.4% / +12.3% |
 | vs. 200-day average | +6.9% |
-| RSI (14d) | 45 |
-| Volatility (1y) | 22.2% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 22.1% |
 | Financials as of | 2026-03-31 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/AAT
 - Full deep dive: run `python scout.py stock AAT` → `research/AAT.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

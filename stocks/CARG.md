@@ -3,7 +3,7 @@ ticker: "CARG"
 company: "CarGurus Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 33.21
+price: 33.17
 market_cap: "$3.0B"
 score: 69
 value: 77
@@ -13,7 +13,7 @@ momentum: 31
 health: 83
 pe: 16.8
 piotroski: 8
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · EDP Services
 - Cheaper than about 77% of stocks in Technology (value score).
 - Business quality ranks above 91% of all stocks scanned.
 - Sales grew 14% over the last 12 months.
-- Share price down 12% over 12 months (15% below its 52-week high).
+- Share price down 11% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Technology · EDP Services
 
 | | |
 |---|---:|
-| Price | $33.21 |
+| Price | $33.17 |
 | Market value | $3.0B |
 | P/E | 16.8 |
-| Price/Sales | 3.06 |
-| Price/Book | 11.19 |
+| Price/Sales | 3.05 |
+| Price/Book | 11.18 |
 | Free-cash-flow yield | 9.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $967.3M |
@@ -59,10 +59,10 @@ Technology · EDP Services
 | Debt / equity | 0.00 |
 | Current ratio | 1.85 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 10.10 |
+| Altman Z | 10.09 |
 | Share count change (1y) | -9.1% |
-| Return 1m / 6m / 12m | -9.9% / -4.7% / -12.2% |
-| vs. 200-day average | -1.9% |
+| Return 1m / 6m / 12m | -10.9% / -6.4% / -11.1% |
+| vs. 200-day average | -2.0% |
 | RSI (14d) | 40 |
 | Volatility (1y) | 38.8% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/CARG
 - Full deep dive: run `python scout.py stock CARG` → `research/CARG.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

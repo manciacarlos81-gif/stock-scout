@@ -3,17 +3,17 @@ ticker: "ADSK"
 company: "Autodesk Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 216.95
-market_cap: "$45.3B"
+price: 218.85
+market_cap: "$45.7B"
 score: 60
-value: 60
+value: 61
 quality: 88
 growth: 73
-momentum: 19
+momentum: 20
 health: 54
-pe: 27.6
+pe: 27.9
 piotroski: 8
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,26 +27,26 @@ Technology · Computer Software: Prepackaged Software
 
 ## In plain English
 
-- Cheaper than about 60% of stocks in Technology (value score).
+- Cheaper than about 61% of stocks in Technology (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 18% over the last 12 months.
-- Share price down 33% over 12 months (33% below its 52-week high).
+- Share price down 33% over 12 months (32% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 60 | 88 | 73 | 19 | 54 |
+| **60** | 61 | 88 | 73 | 20 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $216.95 |
-| Market value | $45.3B |
-| P/E | 27.6 |
-| Price/Sales | 5.82 |
-| Price/Book | 13.40 |
+| Price | $218.85 |
+| Market value | $45.7B |
+| P/E | 27.9 |
+| Price/Sales | 5.87 |
+| Price/Book | 13.52 |
 | Free-cash-flow yield | 5.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $7.8B |
@@ -61,9 +61,9 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -14.5% / -9.4% / -33.1% |
-| vs. 200-day average | -10.4% |
-| RSI (14d) | 41 |
+| Return 1m / 6m / 12m | -14.0% / -7.0% / -32.6% |
+| vs. 200-day average | -9.5% |
+| RSI (14d) | 42 |
 | Volatility (1y) | 38.0% |
 | Financials as of | 2026-07-31 |
 
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADSK
 - Full deep dive: run `python scout.py stock ADSK` → `research/ADSK.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

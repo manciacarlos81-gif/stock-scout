@@ -3,17 +3,17 @@ ticker: "IDXX"
 company: "IDEXX Laboratories Inc."
 sector: "Health Care"
 industry: "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
-price: 511.65
-market_cap: "$40.3B"
+price: 515.3
+market_cap: "$40.6B"
 score: 61
 value: 60
 quality: 88
 growth: 59
 momentum: 20
 health: 75
-pe: 35.4
+pe: 35.6
 piotroski: 8
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -42,11 +42,11 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 
 | | |
 |---|---:|
-| Price | $511.65 |
-| Market value | $40.3B |
-| P/E | 35.4 |
-| Price/Sales | 8.85 |
-| Price/Book | 25.00 |
+| Price | $515.30 |
+| Market value | $40.6B |
+| P/E | 35.6 |
+| Price/Sales | 8.92 |
+| Price/Book | 25.17 |
 | Free-cash-flow yield | 2.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $4.6B |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 | Debt / equity | 0.28 |
 | Current ratio | 1.17 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 18.87 |
+| Altman Z | 18.96 |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -8.1% / -10.3% / -20.6% |
-| vs. 200-day average | -13.9% |
-| RSI (14d) | 38 |
-| Volatility (1y) | 32.1% |
+| Return 1m / 6m / 12m | -7.9% / -10.5% / -20.5% |
+| vs. 200-day average | -13.2% |
+| RSI (14d) | 41 |
+| Volatility (1y) | 32.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 - Insider trades: http://openinsider.com/IDXX
 - Full deep dive: run `python scout.py stock IDXX` → `research/IDXX.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

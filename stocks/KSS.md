@@ -3,17 +3,17 @@ ticker: "KSS"
 company: "Kohl's Corporation"
 sector: "Consumer Discretionary"
 industry: "Department/Specialty Retail Stores"
-price: 16.55
-market_cap: "$1.9B"
-score: 61
+price: 17.43
+market_cap: "$2.0B"
+score: 62
 value: 98
 quality: 53
 growth: 35
-momentum: 56
+momentum: 60
 health: 47
-pe: 6.9
+pe: 7.3
 piotroski: 6
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Cheaper than about 98% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 1% over 12 months (31% below its 52-week high).
+- Share price up 4% over 12 months (27% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 98 | 53 | 35 | 56 | 47 |
+| **62** | 98 | 53 | 35 | 60 | 47 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $16.55 |
-| Market value | $1.9B |
-| P/E | 6.9 |
-| Price/Sales | 0.12 |
-| Price/Book | 0.45 |
-| Free-cash-flow yield | 73.5% |
-| Dividend yield | 3.0% |
+| Price | $17.43 |
+| Market value | $2.0B |
+| P/E | 7.3 |
+| Price/Sales | 0.13 |
+| Price/Book | 0.47 |
+| Free-cash-flow yield | 69.8% |
+| Dividend yield | 2.8% |
 | Sales (12m) | $15.4B |
 | Sales growth | -2.9% |
 | Net profit (12m) | $271.0M |
@@ -61,10 +61,10 @@ Consumer Discretionary · Department/Specialty Retail Stores
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.5% |
-| Return 1m / 6m / 12m | -5.3% / +36.0% / +1.0% |
-| vs. 200-day average | -1.5% |
-| RSI (14d) | 40 |
-| Volatility (1y) | 73.9% |
+| Return 1m / 6m / 12m | -4.1% / +39.3% / +3.9% |
+| vs. 200-day average | +3.9% |
+| RSI (14d) | 48 |
+| Volatility (1y) | 74.1% |
 | Financials as of | 2026-08-01 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Insider trades: http://openinsider.com/KSS
 - Full deep dive: run `python scout.py stock KSS` → `research/KSS.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

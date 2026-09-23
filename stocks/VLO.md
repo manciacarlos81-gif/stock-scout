@@ -3,17 +3,17 @@ ticker: "VLO"
 company: "Valero Energy Corporation"
 sector: "Energy"
 industry: "Integrated oil Companies"
-price: 413.28
-market_cap: "$119.0B"
-score: 67
-value: 56
+price: 393.27
+market_cap: "$113.2B"
+score: 68
+value: 57
 quality: 49
 growth: 85
-momentum: 94
+momentum: 93
 health: 64
-pe: 16.5
+pe: 15.7
 piotroski: 6
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Energy · Integrated oil Companies
 
 ## In plain English
 
-- Cheaper than about 56% of stocks in Energy (value score).
+- Cheaper than about 57% of stocks in Energy (value score).
 - Business quality ranks above 49% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 154% over 12 months (0% below its 52-week high).
+- Share price up 136% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 56 | 49 | 85 | 94 | 64 |
+| **68** | 57 | 49 | 85 | 93 | 64 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $413.28 |
-| Market value | $119.0B |
-| P/E | 16.5 |
-| Price/Sales | 0.85 |
-| Price/Book | 4.76 |
-| Free-cash-flow yield | 4.9% |
+| Price | $393.27 |
+| Market value | $113.2B |
+| P/E | 15.7 |
+| Price/Sales | 0.81 |
+| Price/Book | 4.53 |
+| Free-cash-flow yield | 5.1% |
 | Dividend yield | 1.2% |
 | Sales (12m) | $139.4B |
 | Sales growth | +12.6% |
@@ -61,10 +61,10 @@ Energy · Integrated oil Companies
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.8% |
-| Return 1m / 6m / 12m | +18.5% / +72.4% / +153.6% |
-| vs. 200-day average | +65.0% |
-| RSI (14d) | 80 |
-| Volatility (1y) | 36.3% |
+| Return 1m / 6m / 12m | +13.7% / +69.1% / +135.7% |
+| vs. 200-day average | +56.4% |
+| RSI (14d) | 63 |
+| Volatility (1y) | 36.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/VLO
 - Full deep dive: run `python scout.py stock VLO` → `research/VLO.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

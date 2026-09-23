@@ -3,17 +3,17 @@ ticker: "PAYS"
 company: "Paysign Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 12.34
-market_cap: "$696.7M"
+price: 12.63
+market_cap: "$713.1M"
 score: 71
-value: 55
+value: 56
 quality: 71
 growth: 84
-momentum: 98
+momentum: 97
 health: 48
-pe: 44.2
+pe: 45.2
 piotroski: 6
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · EDP Services
 
 ## In plain English
 
-- Cheaper than about 55% of stocks in Technology (value score).
+- Cheaper than about 56% of stocks in Technology (value score).
 - Business quality ranks above 71% of all stocks scanned.
 - Sales grew 47% over the last 12 months.
-- Share price up 114% over 12 months (13% below its 52-week high).
+- Share price up 124% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **71** | 55 | 71 | 84 | 98 | 48 |
+| **71** | 56 | 71 | 84 | 97 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.34 |
-| Market value | $696.7M |
-| P/E | 44.2 |
-| Price/Sales | 6.92 |
-| Price/Book | 11.58 |
-| Free-cash-flow yield | 7.4% |
+| Price | $12.63 |
+| Market value | $713.1M |
+| P/E | 45.2 |
+| Price/Sales | 7.09 |
+| Price/Book | 11.85 |
+| Free-cash-flow yield | 7.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $100.6M |
 | Sales growth | +46.8% |
@@ -59,11 +59,11 @@ Technology · EDP Services
 | Debt / equity | 0.09 |
 | Current ratio | 1.14 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.37 |
+| Altman Z | 2.41 |
 | Share count change (1y) | +7.1% |
-| Return 1m / 6m / 12m | -12.4% / +227.3% / +114.2% |
-| vs. 200-day average | +75.1% |
-| RSI (14d) | 49 |
+| Return 1m / 6m / 12m | -7.5% / +145.2% / +123.5% |
+| vs. 200-day average | +78.3% |
+| RSI (14d) | 52 |
 | Volatility (1y) | 70.1% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PAYS
 - Full deep dive: run `python scout.py stock PAYS` → `research/PAYS.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

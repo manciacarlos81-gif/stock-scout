@@ -3,17 +3,17 @@ ticker: "ZVRA"
 company: "Zevra Therapeutics Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 11.61
-market_cap: "$689.4M"
+price: 11.67
+market_cap: "$693.0M"
 score: 75
-value: 76
+value: 75
 quality: 65
 growth: 88
 momentum: 74
 health: 80
-pe: 11.8
+pe: 11.9
 piotroski: 6
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,26 +27,26 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- Cheaper than about 76% of stocks in Health Care (value score).
+- Cheaper than about 75% of stocks in Health Care (value score).
 - Business quality ranks above 65% of all stocks scanned.
 - Sales grew 119% over the last 12 months.
-- Share price up 46% over 12 months (21% below its 52-week high).
+- Share price up 44% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 76 | 65 | 88 | 74 | 80 |
+| **75** | 75 | 65 | 88 | 74 | 80 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $11.61 |
-| Market value | $689.4M |
-| P/E | 11.8 |
-| Price/Sales | 5.07 |
-| Price/Book | 3.17 |
+| Price | $11.67 |
+| Market value | $693.0M |
+| P/E | 11.9 |
+| Price/Sales | 5.09 |
+| Price/Book | 3.18 |
 | Free-cash-flow yield | -0.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $136.1M |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.00 |
 | Current ratio | 5.17 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 5.28 |
+| Altman Z | 5.30 |
 | Share count change (1y) | +8.9% |
-| Return 1m / 6m / 12m | -2.2% / +26.9% / +46.0% |
-| vs. 200-day average | +10.9% |
-| RSI (14d) | 45 |
-| Volatility (1y) | 62.3% |
+| Return 1m / 6m / 12m | +0.2% / +27.8% / +43.9% |
+| vs. 200-day average | +11.3% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 61.4% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -80,4 +80,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ZVRA
 - Full deep dive: run `python scout.py stock ZVRA` → `research/ZVRA.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

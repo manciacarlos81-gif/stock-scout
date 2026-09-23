@@ -3,17 +3,17 @@ ticker: "INTU"
 company: "Intuit Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 303.19
-market_cap: "$81.0B"
+price: 304.12
+market_cap: "$81.3B"
 score: 60
-value: 79
+value: 80
 quality: 88
 growth: 62
 momentum: 5
 health: 56
-pe: 17.7
+pe: 17.8
 piotroski: 8
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -28,7 +28,7 @@ Technology · Computer Software: Prepackaged Software
 
 ## In plain English
 
-- Cheaper than about 79% of stocks in Technology (value score).
+- Cheaper than about 80% of stocks in Technology (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 14% over the last 12 months.
 - Share price down 56% over 12 months (56% below its 52-week high).
@@ -37,17 +37,17 @@ Technology · Computer Software: Prepackaged Software
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 79 | 88 | 62 | 5 | 56 |
+| **60** | 80 | 88 | 62 | 5 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $303.19 |
-| Market value | $81.0B |
-| P/E | 17.7 |
-| Price/Sales | 3.78 |
-| Price/Book | 4.27 |
+| Price | $304.12 |
+| Market value | $81.3B |
+| P/E | 17.8 |
+| Price/Sales | 3.79 |
+| Price/Book | 4.28 |
 | Free-cash-flow yield | 10.7% |
 | Dividend yield | 1.7% |
 | Sales (12m) | $21.4B |
@@ -62,8 +62,8 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 8/9 |
 | Altman Z | 4.74 |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -17.4% / -29.4% / -56.3% |
-| vs. 200-day average | -25.2% |
+| Return 1m / 6m / 12m | -17.8% / -28.2% / -56.0% |
+| vs. 200-day average | -24.7% |
 | RSI (14d) | 38 |
 | Volatility (1y) | 49.1% |
 | Financials as of | 2026-07-31 |
@@ -79,4 +79,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/INTU
 - Full deep dive: run `python scout.py stock INTU` → `research/INTU.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

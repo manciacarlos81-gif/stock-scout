@@ -3,17 +3,17 @@ ticker: "NEM"
 company: "Newmont Corporation"
 sector: "Basic Materials"
 industry: "Precious Metals"
-price: 123.41
-market_cap: "$130.0B"
+price: 123.05
+market_cap: "$129.7B"
 score: 77
 value: 73
 quality: 89
 growth: 76
-momentum: 76
+momentum: 74
 health: 66
 pe: 15.1
 piotroski: 9
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Basic Materials · Precious Metals
 - Cheaper than about 73% of stocks in Basic Materials (value score).
 - Business quality ranks above 89% of all stocks scanned.
 - Sales grew 25% over the last 12 months.
-- Share price up 49% over 12 months (8% below its 52-week high).
+- Share price up 47% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 73 | 89 | 76 | 76 | 66 |
+| **77** | 73 | 89 | 76 | 74 | 66 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $123.41 |
-| Market value | $130.0B |
+| Price | $123.05 |
+| Market value | $129.7B |
 | P/E | 15.1 |
-| Price/Sales | 5.05 |
-| Price/Book | 3.69 |
-| Free-cash-flow yield | 7.9% |
+| Price/Sales | 5.03 |
+| Price/Book | 3.68 |
+| Free-cash-flow yield | 8.0% |
 | Dividend yield | 0.9% |
 | Sales (12m) | $25.8B |
 | Sales growth | +25.2% |
@@ -61,10 +61,10 @@ Basic Materials · Precious Metals
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -4.0% |
-| Return 1m / 6m / 12m | -6.0% / +25.2% / +48.8% |
-| vs. 200-day average | +12.0% |
-| RSI (14d) | 52 |
-| Volatility (1y) | 49.8% |
+| Return 1m / 6m / 12m | -6.5% / +21.7% / +46.7% |
+| vs. 200-day average | +11.5% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 49.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Basic Materials · Precious Metals
 - Insider trades: http://openinsider.com/NEM
 - Full deep dive: run `python scout.py stock NEM` → `research/NEM.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "GIII"
 company: "G-III Apparel Group LTD."
 sector: "Consumer Discretionary"
 industry: "Apparel"
-price: 27.57
+price: 27.66
 market_cap: "$1.2B"
 score: 60
-value: 88
+value: 87
 quality: 52
 growth: 38
-momentum: 45
+momentum: 46
 health: 70
 pe: 17.4
 piotroski: 5
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,7 +27,7 @@ Consumer Discretionary · Apparel
 
 ## In plain English
 
-- Cheaper than about 88% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 87% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 52% of all stocks scanned.
 - Sales fell 9% over the last 12 months.
 - Share price up 5% over 12 months (25% below its 52-week high).
@@ -37,18 +37,18 @@ Consumer Discretionary · Apparel
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 88 | 52 | 38 | 45 | 70 |
+| **60** | 87 | 52 | 38 | 46 | 70 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $27.57 |
+| Price | $27.66 |
 | Market value | $1.2B |
 | P/E | 17.4 |
-| Price/Sales | 0.41 |
+| Price/Sales | 0.42 |
 | Price/Book | 0.65 |
-| Free-cash-flow yield | 25.3% |
+| Free-cash-flow yield | 25.2% |
 | Dividend yield | 0.4% |
 | Sales (12m) | $2.9B |
 | Sales growth | -8.7% |
@@ -62,9 +62,9 @@ Consumer Discretionary · Apparel
 | Piotroski F-score | 5/9 |
 | Altman Z | 3.20 |
 | Share count change (1y) | +0.3% |
-| Return 1m / 6m / 12m | -18.1% / +2.9% / +5.0% |
-| vs. 200-day average | -11.0% |
-| RSI (14d) | 27 |
+| Return 1m / 6m / 12m | -17.9% / +2.6% / +5.2% |
+| vs. 200-day average | -10.6% |
+| RSI (14d) | 28 |
 | Volatility (1y) | 34.5% |
 | Financials as of | 2026-07-31 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Apparel
 - Insider trades: http://openinsider.com/GIII
 - Full deep dive: run `python scout.py stock GIII` → `research/GIII.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

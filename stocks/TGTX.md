@@ -3,7 +3,7 @@ ticker: "TGTX"
 company: "TG Therapeutics Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 56.87
+price: 57.16
 market_cap: "$8.7B"
 score: 69
 value: 57
@@ -11,9 +11,9 @@ quality: 59
 growth: 90
 momentum: 89
 health: 57
-pe: 19.7
+pe: 19.8
 piotroski: 5
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 57% of stocks in Health Care (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales grew 76% over the last 12 months.
-- Share price up 63% over 12 months (4% below its 52-week high).
+- Share price up 61% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $56.87 |
+| Price | $57.16 |
 | Market value | $8.7B |
-| P/E | 19.7 |
-| Price/Sales | 10.89 |
-| Price/Book | 14.41 |
+| P/E | 19.8 |
+| Price/Sales | 10.94 |
+| Price/Book | 14.48 |
 | Free-cash-flow yield | -0.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $799.5M |
@@ -59,10 +59,10 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 1.23 |
 | Current ratio | 4.27 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 5.55 |
+| Altman Z | 5.57 |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | +4.8% / +88.2% / +62.6% |
-| vs. 200-day average | +40.9% |
+| Return 1m / 6m / 12m | +2.1% / +79.6% / +60.7% |
+| vs. 200-day average | +41.2% |
 | RSI (14d) | 60 |
 | Volatility (1y) | 45.2% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/TGTX
 - Full deep dive: run `python scout.py stock TGTX` → `research/TGTX.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

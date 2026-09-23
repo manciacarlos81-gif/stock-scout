@@ -3,17 +3,17 @@ ticker: "GRND"
 company: "Grindr Inc."
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 15.4
-market_cap: "$2.7B"
+price: 15.89
+market_cap: "$2.8B"
 score: 68
 value: 59
 quality: 87
 growth: 87
-momentum: 56
+momentum: 57
 health: 50
-pe: 28.0
+pe: 28.9
 piotroski: 8
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 59% of stocks in Technology (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 32% over the last 12 months.
-- Share price down 4% over 12 months (14% below its 52-week high).
+- Share price down 1% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 59 | 87 | 87 | 56 | 50 |
+| **68** | 59 | 87 | 87 | 57 | 50 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.40 |
-| Market value | $2.7B |
-| P/E | 28.0 |
-| Price/Sales | 5.25 |
+| Price | $15.89 |
+| Market value | $2.8B |
+| P/E | 28.9 |
+| Price/Sales | 5.42 |
 | Price/Book | – |
-| Free-cash-flow yield | 5.3% |
+| Free-cash-flow yield | 5.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $509.8M |
 | Sales growth | +32.4% |
@@ -59,12 +59,12 @@ Technology · Computer Software: Programming Data Processing
 | Debt / equity | – |
 | Current ratio | 1.10 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 5.43 |
+| Altman Z | 5.54 |
 | Share count change (1y) | -10.4% |
-| Return 1m / 6m / 12m | -0.8% / +27.5% / -4.4% |
-| vs. 200-day average | +14.2% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 48.6% |
+| Return 1m / 6m / 12m | +2.0% / +27.9% / -0.9% |
+| vs. 200-day average | +17.7% |
+| RSI (14d) | 55 |
+| Volatility (1y) | 48.7% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/GRND
 - Full deep dive: run `python scout.py stock GRND` → `research/GRND.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "DPZ"
 company: "Domino's Pizza Inc"
 sector: "Consumer Discretionary"
 industry: "Food Distributors"
-price: 294.2
-market_cap: "$9.7B"
+price: 295.94
+market_cap: "$9.8B"
 score: 51
-value: 51
+value: 50
 quality: 85
 growth: 43
 momentum: 15
 health: 52
-pe: 16.3
+pe: 16.4
 piotroski: 8
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,25 +27,25 @@ Consumer Discretionary · Food Distributors
 
 ## In plain English
 
-- Cheaper than about 51% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 50% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price down 29% over 12 months (32% below its 52-week high).
+- Share price down 29% over 12 months (31% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 51 | 85 | 43 | 15 | 52 |
+| **51** | 50 | 85 | 43 | 15 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $294.20 |
-| Market value | $9.7B |
-| P/E | 16.3 |
-| Price/Sales | 1.94 |
+| Price | $295.94 |
+| Market value | $9.8B |
+| P/E | 16.4 |
+| Price/Sales | 1.95 |
 | Price/Book | – |
 | Free-cash-flow yield | 6.9% |
 | Dividend yield | 2.4% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Food Distributors
 | Debt / equity | – |
 | Current ratio | 1.54 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.78 |
+| Altman Z | 2.79 |
 | Share count change (1y) | -3.1% |
-| Return 1m / 6m / 12m | -13.4% / -17.3% / -29.3% |
-| vs. 200-day average | -16.9% |
-| RSI (14d) | 32 |
+| Return 1m / 6m / 12m | -14.7% / -17.4% / -28.7% |
+| vs. 200-day average | -16.3% |
+| RSI (14d) | 33 |
 | Volatility (1y) | 30.7% |
 | Financials as of | 2026-06-14 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Food Distributors
 - Insider trades: http://openinsider.com/DPZ
 - Full deep dive: run `python scout.py stock DPZ` → `research/DPZ.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

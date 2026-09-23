@@ -3,17 +3,17 @@ ticker: "FLXS"
 company: "Flexsteel Industries Inc."
 sector: "Consumer Discretionary"
 industry: "Home Furnishings"
-price: 79.69
-market_cap: "$326.1M"
+price: 81.16
+market_cap: "$332.1M"
 score: 77
 value: 82
 quality: 73
-growth: 61
+growth: 60
 momentum: 90
 health: 71
-pe: 9.8
+pe: 10.0
 piotroski: 8
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Home Furnishings
 - Cheaper than about 82% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price up 66% over 12 months (5% below its 52-week high).
+- Share price up 71% over 12 months (4% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 82 | 73 | 61 | 90 | 71 |
+| **77** | 82 | 73 | 60 | 90 | 71 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $79.69 |
-| Market value | $326.1M |
-| P/E | 9.8 |
-| Price/Sales | 0.71 |
-| Price/Book | 2.44 |
-| Free-cash-flow yield | 14.6% |
+| Price | $81.16 |
+| Market value | $332.1M |
+| P/E | 10.0 |
+| Price/Sales | 0.72 |
+| Price/Book | 2.49 |
+| Free-cash-flow yield | 14.3% |
 | Dividend yield | 1.3% |
 | Sales (12m) | $459.2M |
 | Sales growth | +4.1% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Home Furnishings
 | Debt / equity | – |
 | Current ratio | 2.09 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 5.58 |
+| Altman Z | 5.61 |
 | Share count change (1y) | -3.9% |
-| Return 1m / 6m / 12m | -2.1% / +75.3% / +66.3% |
-| vs. 200-day average | +38.3% |
-| RSI (14d) | 49 |
+| Return 1m / 6m / 12m | +0.7% / +81.1% / +70.5% |
+| vs. 200-day average | +40.4% |
+| RSI (14d) | 54 |
 | Volatility (1y) | 49.5% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/FLXS
 - Full deep dive: run `python scout.py stock FLXS` → `research/FLXS.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "RSKD"
 company: "Riskified Ltd."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 6.21
-market_cap: "$844.4M"
-score: 50
+price: 6.35
+market_cap: "$863.4M"
+score: 51
 value: 21
 quality: 46
 growth: 55
-momentum: 77
+momentum: 78
 health: 67
 pe: null
 piotroski: 6
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Business Services
 - More expensive than about 79% of Consumer Discretionary peers (value score).
 - Business quality ranks above 46% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price up 31% over 12 months (10% below its 52-week high).
+- Share price up 35% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 21 | 46 | 55 | 77 | 67 |
+| **51** | 21 | 46 | 55 | 78 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.21 |
-| Market value | $844.4M |
+| Price | $6.35 |
+| Market value | $863.4M |
 | P/E | – |
-| Price/Sales | 2.45 |
-| Price/Book | 2.86 |
-| Free-cash-flow yield | 3.9% |
+| Price/Sales | 2.51 |
+| Price/Book | 2.93 |
+| Free-cash-flow yield | 3.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $344.6M |
 | Sales growth | +5.2% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 5.03 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.16 |
+| Altman Z | 4.26 |
 | Share count change (1y) | -7.9% |
-| Return 1m / 6m / 12m | +5.3% / +54.1% / +31.0% |
-| vs. 200-day average | +26.1% |
-| RSI (14d) | 53 |
+| Return 1m / 6m / 12m | +6.7% / +58.0% / +34.5% |
+| vs. 200-day average | +28.8% |
+| RSI (14d) | 56 |
 | Volatility (1y) | 40.4% |
 | Financials as of | 2025-12-31 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/RSKD
 - Full deep dive: run `python scout.py stock RSKD` → `research/RSKD.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

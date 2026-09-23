@@ -3,17 +3,17 @@ ticker: "CDNA"
 company: "CareDx Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 53.83
+price: 54.33
 market_cap: "$2.8B"
 score: 80
-value: 66
+value: 65
 quality: 75
 growth: 84
 momentum: 99
 health: 84
-pe: 25.1
+pe: 25.3
 piotroski: 6
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,26 +28,26 @@ Health Care · Medical Specialities
 
 ## In plain English
 
-- Cheaper than about 66% of stocks in Health Care (value score).
+- Cheaper than about 65% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 259% over 12 months (1% below its 52-week high).
+- Share price up 249% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 66 | 75 | 84 | 99 | 84 |
+| **80** | 65 | 75 | 84 | 99 | 84 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $53.83 |
+| Price | $54.33 |
 | Market value | $2.8B |
-| P/E | 25.1 |
-| Price/Sales | 6.08 |
-| Price/Book | 6.54 |
+| P/E | 25.3 |
+| Price/Sales | 6.14 |
+| Price/Book | 6.60 |
 | Free-cash-flow yield | 1.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $458.1M |
@@ -60,12 +60,12 @@ Health Care · Medical Specialities
 | Debt / equity | 0.00 |
 | Current ratio | 4.58 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 16.52 |
+| Altman Z | 16.66 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +10.7% / +201.7% / +259.1% |
-| vs. 200-day average | +99.5% |
-| RSI (14d) | 70 |
-| Volatility (1y) | 71.3% |
+| Return 1m / 6m / 12m | +14.4% / +200.5% / +248.9% |
+| vs. 200-day average | +100.0% |
+| RSI (14d) | 72 |
+| Volatility (1y) | 71.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CDNA
 - Full deep dive: run `python scout.py stock CDNA` → `research/CDNA.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "MRVL"
 company: "Marvell Technology Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 244.25
-market_cap: "$214.2B"
+price: 257.38
+market_cap: "$225.7B"
 score: 63
 value: 29
 quality: 54
 growth: 87
 momentum: 98
 health: 67
-pe: 81.1
+pe: 85.5
 piotroski: 7
-updated: "2026-09-22"
+updated: "2026-09-23"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Semiconductors
 - More expensive than about 71% of Technology peers (value score).
 - Business quality ranks above 54% of all stocks scanned.
 - Sales grew 31% over the last 12 months.
-- Share price up 224% over 12 months (23% below its 52-week high).
+- Share price up 246% over 12 months (19% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Technology · Semiconductors
 
 | | |
 |---|---:|
-| Price | $244.25 |
-| Market value | $214.2B |
-| P/E | 81.1 |
-| Price/Sales | 22.66 |
-| Price/Book | 11.56 |
-| Free-cash-flow yield | 0.7% |
+| Price | $257.38 |
+| Market value | $225.7B |
+| P/E | 85.5 |
+| Price/Sales | 23.88 |
+| Price/Book | 12.18 |
+| Free-cash-flow yield | 0.6% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $9.5B |
 | Sales growth | +30.6% |
@@ -59,12 +59,12 @@ Technology · Semiconductors
 | Debt / equity | 0.27 |
 | Current ratio | 3.17 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 15.09 |
+| Altman Z | 15.85 |
 | Share count change (1y) | +5.8% |
-| Return 1m / 6m / 12m | +3.0% / +164.7% / +224.1% |
-| vs. 200-day average | +52.4% |
-| RSI (14d) | 58 |
-| Volatility (1y) | 79.4% |
+| Return 1m / 6m / 12m | +12.3% / +161.6% / +245.7% |
+| vs. 200-day average | +59.8% |
+| RSI (14d) | 63 |
+| Volatility (1y) | 79.3% |
 | Financials as of | 2026-08-01 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MRVL
 - Full deep dive: run `python scout.py stock MRVL` → `research/MRVL.md`
 
-_Updated 2026-09-22 · [latest report](../reports/latest.md)_
+_Updated 2026-09-23 · [latest report](../reports/latest.md)_
