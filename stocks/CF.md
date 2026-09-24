@@ -9,13 +9,13 @@ score: 74
 value: 83
 quality: 81
 growth: 77
-momentum: 58
+momentum: 54
 health: 67
 pe: 7.5
 piotroski: 8
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
-  - "🏆 Top overall"
+  - "💎 Quality at a fair price"
 tags: [stock]
 ---
 
@@ -23,20 +23,20 @@ tags: [stock]
 
 Industrials · Agricultural Chemicals
 
-**In screens today:** 🏆 Top overall
+**In screens today:** 💎 Quality at a fair price
 
 ## In plain English
 
 - Cheaper than about 83% of stocks in Industrials (value score).
 - Business quality ranks above 81% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 44% over 12 months (11% below its 52-week high).
+- Share price up 37% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 83 | 81 | 77 | 58 | 67 |
+| **74** | 83 | 81 | 77 | 54 | 67 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Industrials · Agricultural Chemicals
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.6% |
-| Return 1m / 6m / 12m | -4.6% / -2.9% / +44.4% |
-| vs. 200-day average | +11.4% |
+| Return 1m / 6m / 12m | -3.1% / -6.1% / +37.3% |
+| vs. 200-day average | +11.2% |
 | RSI (14d) | 42 |
-| Volatility (1y) | 43.2% |
+| Volatility (1y) | 43.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Industrials · Agricultural Chemicals
 - Insider trades: http://openinsider.com/CF
 - Full deep dive: run `python scout.py stock CF` → `research/CF.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

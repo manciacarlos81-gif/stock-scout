@@ -9,11 +9,11 @@ score: 51
 value: 89
 quality: 41
 growth: 21
-momentum: 29
+momentum: 28
 health: 63
 pe: 7.4
 piotroski: 3
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,13 +30,13 @@ Finance · Investment Managers
 - Cheaper than about 89% of stocks in Finance (value score).
 - Business quality ranks above 41% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price down 28% over 12 months (29% below its 52-week high).
+- Share price down 27% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 89 | 41 | 21 | 29 | 63 |
+| **51** | 89 | 41 | 21 | 28 | 63 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Finance · Investment Managers
 | Piotroski F-score | 3/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -22.9% / +1.1% / -28.0% |
-| vs. 200-day average | -11.7% |
+| Return 1m / 6m / 12m | -21.9% / +0.6% / -27.3% |
+| vs. 200-day average | -11.6% |
 | RSI (14d) | 24 |
 | Volatility (1y) | 35.6% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Finance · Investment Managers
 - Insider trades: http://openinsider.com/VRTS
 - Full deep dive: run `python scout.py stock VRTS` → `research/VRTS.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

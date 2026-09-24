@@ -9,11 +9,11 @@ score: 53
 value: 92
 quality: 50
 growth: 34
-momentum: 14
+momentum: 13
 health: 66
 pe: 5.8
 piotroski: 6
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,13 +31,13 @@ Consumer Discretionary · Catalog/Specialty Distribution
 - Cheaper than about 92% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 50% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 29% over 12 months (37% below its 52-week high).
+- Share price down 30% over 12 months (37% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 92 | 50 | 34 | 14 | 66 |
+| **53** | 92 | 50 | 34 | 13 | 66 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Catalog/Specialty Distribution
 | Piotroski F-score | 6/9 |
 | Altman Z | 3.41 |
 | Share count change (1y) | -5.1% |
-| Return 1m / 6m / 12m | -12.7% / -19.5% / -28.7% |
-| vs. 200-day average | -17.5% |
+| Return 1m / 6m / 12m | -11.7% / -19.5% / -29.5% |
+| vs. 200-day average | -17.3% |
 | RSI (14d) | 36 |
 | Volatility (1y) | 32.5% |
 | Financials as of | 2025-12-31 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Catalog/Specialty Distribution
 - Insider trades: http://openinsider.com/VIPS
 - Full deep dive: run `python scout.py stock VIPS` → `research/VIPS.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

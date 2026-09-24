@@ -5,15 +5,15 @@ sector: "Consumer Discretionary"
 industry: "Business Services"
 price: 924.52
 market_cap: "$20.0B"
-score: 53
+score: 52
 value: 30
 quality: 88
 growth: 74
-momentum: 14
+momentum: 13
 health: 62
 pe: 24.5
 piotroski: 7
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,7 +36,7 @@ Consumer Discretionary · Business Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 30 | 88 | 74 | 14 | 62 |
+| **52** | 30 | 88 | 74 | 13 | 62 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 8.79 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -20.7% / -11.4% / -39.8% |
-| vs. 200-day average | -26.2% |
+| Return 1m / 6m / 12m | -18.7% / -11.1% / -40.1% |
+| vs. 200-day average | -26.0% |
 | RSI (14d) | 34 |
 | Volatility (1y) | 56.8% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/FICO
 - Full deep dive: run `python scout.py stock FICO` → `research/FICO.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

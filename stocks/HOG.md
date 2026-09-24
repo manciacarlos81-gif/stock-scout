@@ -5,15 +5,15 @@ sector: "Consumer Discretionary"
 industry: "Motor Vehicles"
 price: 26.21
 market_cap: "$2.7B"
-score: 59
-value: 82
+score: 58
+value: 81
 quality: 49
 growth: 34
-momentum: 62
+momentum: 59
 health: 57
 pe: 13.5
 piotroski: 8
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,7 +27,7 @@ Consumer Discretionary · Motor Vehicles
 
 ## In plain English
 
-- Cheaper than about 82% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 81% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 49% of all stocks scanned.
 - Sales fell 5% over the last 12 months.
 - Share price down 6% over 12 months (7% below its 52-week high).
@@ -37,7 +37,7 @@ Consumer Discretionary · Motor Vehicles
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **59** | 82 | 49 | 34 | 62 | 57 |
+| **58** | 81 | 49 | 34 | 59 | 57 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Consumer Discretionary · Motor Vehicles
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -11.2% |
-| Return 1m / 6m / 12m | -6.7% / +44.0% / -6.0% |
-| vs. 200-day average | +14.5% |
+| Return 1m / 6m / 12m | -4.0% / +36.4% / -6.2% |
+| vs. 200-day average | +14.4% |
 | RSI (14d) | 44 |
-| Volatility (1y) | 38.3% |
+| Volatility (1y) | 38.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Discretionary · Motor Vehicles
 - Insider trades: http://openinsider.com/HOG
 - Full deep dive: run `python scout.py stock HOG` → `research/HOG.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

@@ -5,15 +5,15 @@ sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
 price: 42.1
 market_cap: "$2.5B"
-score: 75
+score: 77
 value: 89
 quality: 77
 growth: 55
-momentum: 74
+momentum: 82
 health: 71
 pe: 13.5
 piotroski: 5
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,13 +31,13 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 89% of stocks in Health Care (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price up 31% over 12 months (2% below its 52-week high).
+- Share price up 57% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 89 | 77 | 55 | 74 | 71 |
+| **77** | 89 | 77 | 55 | 82 | 71 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 5/9 |
 | Altman Z | 5.97 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | +9.4% / +52.6% / +31.3% |
+| Return 1m / 6m / 12m | +8.1% / +53.4% / +57.3% |
 | vs. 200-day average | +21.7% |
 | RSI (14d) | 60 |
-| Volatility (1y) | 40.9% |
+| Volatility (1y) | 40.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/HRMY
 - Full deep dive: run `python scout.py stock HRMY` → `research/HRMY.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

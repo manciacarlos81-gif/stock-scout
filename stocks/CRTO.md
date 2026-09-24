@@ -9,11 +9,11 @@ score: 58
 value: 95
 quality: 72
 growth: 26
-momentum: 21
+momentum: 20
 health: 54
 pe: 7.6
 piotroski: 9
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,13 +31,13 @@ Consumer Discretionary · Advertising
 - Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales fell 4% over the last 12 months.
-- Share price down 24% over 12 months (28% below its 52-week high).
+- Share price down 25% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 95 | 72 | 26 | 21 | 54 |
+| **58** | 95 | 72 | 26 | 20 | 54 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Advertising
 | Piotroski F-score | 9/9 |
 | Altman Z | 2.30 |
 | Share count change (1y) | -8.3% |
-| Return 1m / 6m / 12m | -1.7% / -5.2% / -23.7% |
-| vs. 200-day average | -10.6% |
+| Return 1m / 6m / 12m | -2.9% / -4.8% / -25.1% |
+| vs. 200-day average | -10.5% |
 | RSI (14d) | 39 |
 | Volatility (1y) | 55.5% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/CRTO
 - Full deep dive: run `python scout.py stock CRTO` → `research/CRTO.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

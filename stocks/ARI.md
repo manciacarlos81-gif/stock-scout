@@ -9,11 +9,11 @@ score: 66
 value: 87
 quality: 64
 growth: 50
-momentum: 36
+momentum: 35
 health: 91
 pe: 6.2
 piotroski: 8
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,13 +30,13 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 87% of stocks in Real Estate (value score).
 - Business quality ranks above 64% of all stocks scanned.
 - Sales fell 15% over the last 12 months.
-- Share price up 2% over 12 months (11% below its 52-week high).
+- Share price up 3% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 87 | 64 | 50 | 36 | 91 |
+| **66** | 87 | 64 | 50 | 35 | 91 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | -6.7% / -3.8% / +2.4% |
+| Return 1m / 6m / 12m | -6.3% / -3.9% / +2.9% |
 | vs. 200-day average | -4.3% |
 | RSI (14d) | 29 |
-| Volatility (1y) | 19.9% |
+| Volatility (1y) | 19.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/ARI
 - Full deep dive: run `python scout.py stock ARI` → `research/ARI.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

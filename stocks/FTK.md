@@ -9,11 +9,11 @@ score: 60
 value: 37
 quality: 46
 growth: 83
-momentum: 92
+momentum: 91
 health: 61
 pe: 29.3
 piotroski: 4
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,14 +30,14 @@ Industrials · Major Chemicals
 - More expensive than about 63% of Industrials peers (value score).
 - Business quality ranks above 46% of all stocks scanned.
 - Sales grew 37% over the last 12 months.
-- Share price up 132% over 12 months (21% below its 52-week high).
+- Share price up 131% over 12 months (21% below its 52-week high).
 - Insiders bought $34.3M of shares recently (Wilks Matthew (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 37 | 46 | 83 | 92 | 61 |
+| **60** | 37 | 46 | 83 | 91 | 61 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Industrials · Major Chemicals
 | Piotroski F-score | 4/9 |
 | Altman Z | 5.28 |
 | Share count change (1y) | +6.2% |
-| Return 1m / 6m / 12m | +28.4% / +74.3% / +131.6% |
-| vs. 200-day average | +48.2% |
+| Return 1m / 6m / 12m | +28.0% / +76.0% / +130.6% |
+| vs. 200-day average | +47.7% |
 | RSI (14d) | 63 |
-| Volatility (1y) | 79.2% |
+| Volatility (1y) | 78.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Industrials · Major Chemicals
 - Insider trades: http://openinsider.com/FTK
 - Full deep dive: run `python scout.py stock FTK` → `research/FTK.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

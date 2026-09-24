@@ -13,7 +13,7 @@ momentum: 59
 health: 61
 pe: 11.9
 piotroski: 8
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Hospital/Nursing Management
 - Cheaper than about 89% of stocks in Health Care (value score).
 - Business quality ranks above 76% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price up 33% over 12 months (16% below its 52-week high).
+- Share price up 28% over 12 months (16% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -4.5% |
-| Return 1m / 6m / 12m | -6.6% / +8.2% / +32.9% |
-| vs. 200-day average | +1.3% |
+| Return 1m / 6m / 12m | -7.1% / +11.5% / +28.5% |
+| vs. 200-day average | +1.2% |
 | RSI (14d) | 35 |
 | Volatility (1y) | 41.9% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/HCSG
 - Full deep dive: run `python scout.py stock HCSG` → `research/HCSG.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

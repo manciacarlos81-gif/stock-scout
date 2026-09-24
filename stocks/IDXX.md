@@ -13,7 +13,7 @@ momentum: 20
 health: 75
 pe: 35.6
 piotroski: 8
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 - Cheaper than about 60% of stocks in Health Care (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price down 21% over 12 months (33% below its 52-week high).
+- Share price down 18% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,10 +61,10 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 | Piotroski F-score | 8/9 |
 | Altman Z | 18.96 |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -7.9% / -10.5% / -20.5% |
-| vs. 200-day average | -13.2% |
+| Return 1m / 6m / 12m | -6.3% / -10.1% / -17.8% |
+| vs. 200-day average | -13.1% |
 | RSI (14d) | 41 |
-| Volatility (1y) | 32.0% |
+| Volatility (1y) | 31.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 - Insider trades: http://openinsider.com/IDXX
 - Full deep dive: run `python scout.py stock IDXX` → `research/IDXX.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

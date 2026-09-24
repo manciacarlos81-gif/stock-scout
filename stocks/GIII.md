@@ -9,11 +9,11 @@ score: 60
 value: 87
 quality: 52
 growth: 38
-momentum: 46
+momentum: 44
 health: 70
 pe: 17.4
 piotroski: 5
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,14 +30,14 @@ Consumer Discretionary · Apparel
 - Cheaper than about 87% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 52% of all stocks scanned.
 - Sales fell 9% over the last 12 months.
-- Share price up 5% over 12 months (25% below its 52-week high).
+- Share price up 4% over 12 months (25% below its 52-week high).
 - Insiders bought $1.1M of shares recently (Goldfarb Morris (CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 87 | 52 | 38 | 46 | 70 |
+| **60** | 87 | 52 | 38 | 44 | 70 |
 
 ## Key numbers
 
@@ -62,7 +62,7 @@ Consumer Discretionary · Apparel
 | Piotroski F-score | 5/9 |
 | Altman Z | 3.20 |
 | Share count change (1y) | +0.3% |
-| Return 1m / 6m / 12m | -17.9% / +2.6% / +5.2% |
+| Return 1m / 6m / 12m | -16.6% / +3.5% / +4.2% |
 | vs. 200-day average | -10.6% |
 | RSI (14d) | 28 |
 | Volatility (1y) | 34.5% |
@@ -75,4 +75,4 @@ Consumer Discretionary · Apparel
 - Insider trades: http://openinsider.com/GIII
 - Full deep dive: run `python scout.py stock GIII` → `research/GIII.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

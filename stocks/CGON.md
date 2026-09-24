@@ -9,11 +9,11 @@ score: 47
 value: 39
 quality: 8
 growth: 44
-momentum: 80
+momentum: 79
 health: 84
 pe: null
 piotroski: 2
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -37,7 +37,7 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **47** | 39 | 8 | 44 | 80 | 84 |
+| **47** | 39 | 8 | 44 | 79 | 84 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 2/9 |
 | Altman Z | 30.00 |
 | Share count change (1y) | +15.7% |
-| Return 1m / 6m / 12m | +0.0% / +18.9% / +113.2% |
-| vs. 200-day average | +24.1% |
+| Return 1m / 6m / 12m | -0.9% / +17.4% / +113.3% |
+| vs. 200-day average | +23.7% |
 | RSI (14d) | 60 |
 | Volatility (1y) | 56.1% |
 | Financials as of | 2026-06-30 |
@@ -81,4 +81,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/CGON
 - Full deep dive: run `python scout.py stock CGON` → `research/CGON.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

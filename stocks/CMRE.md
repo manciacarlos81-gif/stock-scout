@@ -13,7 +13,7 @@ momentum: 40
 health: 52
 pe: 5.0
 piotroski: 8
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 88% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales fell 1% over the last 12 months.
-- Share price up 24% over 12 months (14% below its 52-week high).
+- Share price up 21% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,7 +61,7 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 8/9 |
 | Altman Z | 3.21 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -3.1% / -10.2% / +23.5% |
+| Return 1m / 6m / 12m | -4.3% / -9.1% / +20.7% |
 | vs. 200-day average | -4.9% |
 | RSI (14d) | 48 |
 | Volatility (1y) | 31.9% |
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/CMRE
 - Full deep dive: run `python scout.py stock CMRE` → `research/CMRE.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

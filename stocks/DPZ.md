@@ -13,7 +13,7 @@ momentum: 15
 health: 52
 pe: 16.4
 piotroski: 8
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -61,8 +61,8 @@ Consumer Discretionary · Food Distributors
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.79 |
 | Share count change (1y) | -3.1% |
-| Return 1m / 6m / 12m | -14.7% / -17.4% / -28.7% |
-| vs. 200-day average | -16.3% |
+| Return 1m / 6m / 12m | -14.9% / -16.4% / -28.9% |
+| vs. 200-day average | -16.2% |
 | RSI (14d) | 33 |
 | Volatility (1y) | 30.7% |
 | Financials as of | 2026-06-14 |
@@ -78,4 +78,4 @@ Consumer Discretionary · Food Distributors
 - Insider trades: http://openinsider.com/DPZ
 - Full deep dive: run `python scout.py stock DPZ` → `research/DPZ.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

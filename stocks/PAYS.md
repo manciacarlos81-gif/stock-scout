@@ -13,7 +13,7 @@ momentum: 97
 health: 48
 pe: 45.2
 piotroski: 6
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -61,8 +61,8 @@ Technology · EDP Services
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.41 |
 | Share count change (1y) | +7.1% |
-| Return 1m / 6m / 12m | -7.5% / +145.2% / +123.5% |
-| vs. 200-day average | +78.3% |
+| Return 1m / 6m / 12m | -10.7% / +137.0% / +123.9% |
+| vs. 200-day average | +77.4% |
 | RSI (14d) | 52 |
 | Volatility (1y) | 70.1% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PAYS
 - Full deep dive: run `python scout.py stock PAYS` → `research/PAYS.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

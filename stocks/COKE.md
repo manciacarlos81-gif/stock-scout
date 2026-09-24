@@ -9,11 +9,11 @@ score: 56
 value: 44
 quality: 71
 growth: 47
-momentum: 61
+momentum: 63
 health: 51
 pe: 23.0
 piotroski: 6
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -36,7 +36,7 @@ Consumer Staples · Beverages (Production/Distribution)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 44 | 71 | 47 | 61 | 51 |
+| **56** | 44 | 71 | 47 | 63 | 51 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Consumer Staples · Beverages (Production/Distribution)
 | Piotroski F-score | 6/9 |
 | Altman Z | 3.90 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -1.4% / +2.2% / +66.6% |
-| vs. 200-day average | +4.9% |
+| Return 1m / 6m / 12m | -3.4% / +5.8% / +67.1% |
+| vs. 200-day average | +4.8% |
 | RSI (14d) | 47 |
 | Volatility (1y) | 36.1% |
 | Financials as of | 2026-07-03 |
@@ -78,4 +78,4 @@ Consumer Staples · Beverages (Production/Distribution)
 - Insider trades: http://openinsider.com/COKE
 - Full deep dive: run `python scout.py stock COKE` → `research/COKE.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

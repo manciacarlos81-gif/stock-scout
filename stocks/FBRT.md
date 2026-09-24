@@ -9,11 +9,11 @@ score: 57
 value: 92
 quality: 58
 growth: 56
-momentum: 23
+momentum: 22
 health: 41
 pe: 9.9
 piotroski: 6
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -36,7 +36,7 @@ Real Estate · Real Estate Investment Trusts
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 92 | 58 | 56 | 23 | 41 |
+| **57** | 92 | 58 | 56 | 22 | 41 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.1% |
-| Return 1m / 6m / 12m | -8.6% / -5.3% / -22.6% |
-| vs. 200-day average | -10.5% |
+| Return 1m / 6m / 12m | -9.1% / -5.7% / -22.7% |
+| vs. 200-day average | -10.4% |
 | RSI (14d) | 41 |
 | Volatility (1y) | 28.5% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/FBRT
 - Full deep dive: run `python scout.py stock FBRT` → `research/FBRT.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

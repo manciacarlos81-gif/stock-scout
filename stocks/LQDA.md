@@ -13,7 +13,7 @@ momentum: 94
 health: 72
 pe: 42.9
 piotroski: 5
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 53% of stocks in Health Care (value score).
 - Business quality ranks above 70% of all stocks scanned.
 - Sales grew 2234% over the last 12 months.
-- Share price up 196% over 12 months (27% below its 52-week high).
+- Share price up 203% over 12 months (27% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 5/9 |
 | Altman Z | 12.08 |
 | Share count change (1y) | +18.5% |
-| Return 1m / 6m / 12m | -5.5% / +81.5% / +195.9% |
-| vs. 200-day average | +23.8% |
+| Return 1m / 6m / 12m | -5.8% / +80.7% / +202.8% |
+| vs. 200-day average | +23.4% |
 | RSI (14d) | 40 |
 | Volatility (1y) | 65.0% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/LQDA
 - Full deep dive: run `python scout.py stock LQDA` → `research/LQDA.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

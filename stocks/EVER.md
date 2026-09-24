@@ -13,7 +13,7 @@ momentum: 65
 health: 64
 pe: 7.0
 piotroski: 7
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -61,8 +61,8 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 7/9 |
 | Altman Z | 9.25 |
 | Share count change (1y) | -4.9% |
-| Return 1m / 6m / 12m | -14.2% / +43.0% / -3.1% |
-| vs. 200-day average | +7.6% |
+| Return 1m / 6m / 12m | -15.0% / +43.6% / -3.4% |
+| vs. 200-day average | +7.7% |
 | RSI (14d) | 39 |
 | Volatility (1y) | 81.6% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/EVER
 - Full deep dive: run `python scout.py stock EVER` → `research/EVER.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

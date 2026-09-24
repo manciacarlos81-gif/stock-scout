@@ -9,11 +9,11 @@ score: 68
 value: 92
 quality: 62
 growth: 52
-momentum: 67
+momentum: 65
 health: 56
 pe: 7.7
 piotroski: 8
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,13 +30,13 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Cheaper than about 92% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 62% of all stocks scanned.
 - Sales grew 0% over the last 12 months.
-- Share price up 34% over 12 months (15% below its 52-week high).
+- Share price up 32% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 92 | 62 | 52 | 67 | 56 |
+| **68** | 92 | 62 | 52 | 65 | 56 |
 
 ## Key numbers
 
@@ -61,7 +61,7 @@ Consumer Discretionary · Department/Specialty Retail Stores
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.4% |
-| Return 1m / 6m / 12m | -3.4% / +21.9% / +34.1% |
+| Return 1m / 6m / 12m | -0.9% / +22.0% / +32.2% |
 | vs. 200-day average | +4.5% |
 | RSI (14d) | 48 |
 | Volatility (1y) | 41.3% |
@@ -74,4 +74,4 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Insider trades: http://openinsider.com/M
 - Full deep dive: run `python scout.py stock M` → `research/M.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

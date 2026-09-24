@@ -3,9 +3,9 @@ ticker: "PYPL"
 company: "PayPal Holdings Inc."
 sector: "Industrials"
 industry: "Diversified Commercial Services"
-price: 52.62
-market_cap: "$45.0B"
-score: 65
+price: 52.89
+market_cap: "$45.2B"
+score: 64
 value: 88
 quality: 78
 growth: 44
@@ -13,7 +13,7 @@ momentum: 46
 health: 48
 pe: 9.2
 piotroski: 9
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -36,18 +36,18 @@ Industrials · Diversified Commercial Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 88 | 78 | 44 | 46 | 48 |
+| **64** | 88 | 78 | 44 | 46 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $52.62 |
-| Market value | $45.0B |
+| Price | $52.89 |
+| Market value | $45.2B |
 | P/E | 9.2 |
-| Price/Sales | 1.32 |
-| Price/Book | 2.27 |
-| Free-cash-flow yield | 12.4% |
+| Price/Sales | 1.33 |
+| Price/Book | 2.28 |
+| Free-cash-flow yield | 12.3% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $34.1B |
 | Sales growth | +5.7% |
@@ -59,11 +59,11 @@ Industrials · Diversified Commercial Services
 | Debt / equity | 0.68 |
 | Current ratio | 1.29 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 1.86 |
+| Altman Z | 1.87 |
 | Share count change (1y) | -9.7% |
-| Return 1m / 6m / 12m | -14.5% / +18.0% / -21.0% |
-| vs. 200-day average | +4.8% |
-| RSI (14d) | 40 |
+| Return 1m / 6m / 12m | -14.9% / +17.7% / -21.2% |
+| vs. 200-day average | +5.5% |
+| RSI (14d) | 42 |
 | Volatility (1y) | 44.1% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Industrials · Diversified Commercial Services
 - Insider trades: http://openinsider.com/PYPL
 - Full deep dive: run `python scout.py stock PYPL` → `research/PYPL.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

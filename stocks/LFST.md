@@ -13,7 +13,7 @@ momentum: 95
 health: 59
 pe: 95.7
 piotroski: 9
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Medical/Nursing Services
 - Cheaper than about 64% of stocks in Health Care (value score).
 - Business quality ranks above 63% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 137% over 12 months (5% below its 52-week high).
+- Share price up 134% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,10 +61,10 @@ Health Care · Medical/Nursing Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 4.53 |
 | Share count change (1y) | +0.1% |
-| Return 1m / 6m / 12m | +4.2% / +90.5% / +136.8% |
-| vs. 200-day average | +46.9% |
+| Return 1m / 6m / 12m | +3.2% / +89.4% / +134.2% |
+| vs. 200-day average | +46.4% |
 | RSI (14d) | 54 |
-| Volatility (1y) | 52.9% |
+| Volatility (1y) | 52.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Medical/Nursing Services
 - Insider trades: http://openinsider.com/LFST
 - Full deep dive: run `python scout.py stock LFST` → `research/LFST.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

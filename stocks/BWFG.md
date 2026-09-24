@@ -8,12 +8,12 @@ market_cap: "$525.7M"
 score: 56
 value: 42
 quality: null
-growth: 75
+growth: 74
 momentum: 80
 health: 39
 pe: 12.3
 piotroski: 6
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -36,7 +36,7 @@ Finance · Major Banks
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 42 | – | 75 | 80 | 39 |
+| **56** | 42 | – | 74 | 80 | 39 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Finance · Major Banks
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +2.1% |
-| Return 1m / 6m / 12m | -0.9% / +38.5% / +45.6% |
-| vs. 200-day average | +21.7% |
+| Return 1m / 6m / 12m | +0.3% / +38.3% / +45.6% |
+| vs. 200-day average | +21.5% |
 | RSI (14d) | 47 |
-| Volatility (1y) | 25.2% |
+| Volatility (1y) | 25.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/BWFG
 - Full deep dive: run `python scout.py stock BWFG` → `research/BWFG.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

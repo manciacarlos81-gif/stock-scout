@@ -9,11 +9,11 @@ score: 73
 value: 89
 quality: 79
 growth: 51
-momentum: 74
+momentum: 75
 health: 56
 pe: 3.9
 piotroski: 6
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,13 +30,13 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 89% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 50% over 12 months (2% below its 52-week high).
+- Share price up 52% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 89 | 79 | 51 | 74 | 56 |
+| **73** | 89 | 79 | 51 | 75 | 56 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.37 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | +2.1% / +22.0% / +50.5% |
-| vs. 200-day average | +18.5% |
+| Return 1m / 6m / 12m | +0.6% / +23.3% / +51.7% |
+| vs. 200-day average | +18.3% |
 | RSI (14d) | 58 |
 | Volatility (1y) | 28.2% |
 | Financials as of | 2025-12-31 |
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/GSL
 - Full deep dive: run `python scout.py stock GSL` → `research/GSL.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

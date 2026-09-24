@@ -9,11 +9,11 @@ score: 56
 value: 69
 quality: 85
 growth: 42
-momentum: 12
+momentum: 11
 health: 62
 pe: 17.7
 piotroski: 9
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,7 +36,7 @@ Technology · EDP Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 69 | 85 | 42 | 12 | 62 |
+| **56** | 69 | 85 | 42 | 11 | 62 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Technology · EDP Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 6.40 |
 | Share count change (1y) | -5.7% |
-| Return 1m / 6m / 12m | +2.0% / -15.4% / -41.8% |
-| vs. 200-day average | -13.0% |
+| Return 1m / 6m / 12m | +2.9% / -16.7% / -41.6% |
+| vs. 200-day average | -12.8% |
 | RSI (14d) | 48 |
-| Volatility (1y) | 52.7% |
+| Volatility (1y) | 52.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PEGA
 - Full deep dive: run `python scout.py stock PEGA` → `research/PEGA.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

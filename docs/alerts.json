@@ -1,5 +1,5 @@
 {
- "date": "2026-09-23",
+ "date": "2026-09-24",
  "scanned": 2628,
  "top": [
   {
@@ -15,19 +15,11 @@
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 81,
-   "price": 1766.64,
+   "price": 1887.04,
    "flags": ""
   },
   {
    "rank": 3,
-   "ticker": "INCY",
-   "name": "Incyte Corp.",
-   "score": 80,
-   "price": 124.65,
-   "flags": ""
-  },
-  {
-   "rank": 4,
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
@@ -35,19 +27,27 @@
    "flags": "shares up 17% in a year"
   },
   {
-   "rank": 5,
-   "ticker": "INSW",
-   "name": "International Seaways Inc.",
+   "rank": 4,
+   "ticker": "INCY",
+   "name": "Incyte Corp.",
    "score": 80,
-   "price": 109.1,
+   "price": 124.65,
    "flags": ""
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "CDNA",
    "name": "CareDx Inc.",
    "score": 80,
    "price": 54.33,
+   "flags": ""
+  },
+  {
+   "rank": 6,
+   "ticker": "INSW",
+   "name": "International Seaways Inc.",
+   "score": 80,
+   "price": 109.1,
    "flags": ""
   },
   {
@@ -83,29 +83,20 @@
    "flags": ""
   }
  ],
- "new_top": [
-  "KNSA"
- ],
+ "new_top": [],
  "prev_top": [
-  "AUPH",
   "BFH",
   "CDNA",
   "ECPG",
   "EXEL",
   "INCY",
   "INSW",
+  "KNSA",
   "LPG",
   "NUTX",
   "SNDK"
  ],
  "insider": [
-  {
-   "ticker": "BORR",
-   "name": "Borr Drilling Limited",
-   "value": 14763033,
-   "buyers": 3,
-   "last": "2026-09-18"
-  },
   {
    "ticker": "GME",
    "name": "GameStop Corporation",
@@ -114,11 +105,11 @@
    "last": "2026-09-21"
   },
   {
-   "ticker": "GSAT",
-   "name": "Globalstar Inc.",
-   "value": 29839232,
-   "buyers": 1,
-   "last": "2026-09-18"
+   "ticker": "INBX",
+   "name": "Inhibrx Biosciences Inc.",
+   "value": 4499596,
+   "buyers": 3,
+   "last": "2026-09-23"
   }
  ]
 }

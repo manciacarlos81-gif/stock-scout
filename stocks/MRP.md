@@ -6,14 +6,14 @@ industry: "Real Estate"
 price: 28.68
 market_cap: "$4.8B"
 score: 74
-value: 78
+value: 77
 quality: 80
 growth: 92
-momentum: 37
+momentum: 38
 health: 89
 pe: 10.0
 piotroski: 9
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,7 +27,7 @@ Finance · Real Estate
 
 ## In plain English
 
-- Cheaper than about 78% of stocks in Finance (value score).
+- Cheaper than about 77% of stocks in Finance (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Share price down 8% over 12 months (10% below its 52-week high).
 - Insiders bought $115.6K of shares recently (Migoya Carlos A. (Dir); Gorson Matthew B. (Dir)).
@@ -36,7 +36,7 @@ Finance · Real Estate
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 78 | 80 | 92 | 37 | 89 |
+| **74** | 77 | 80 | 92 | 38 | 89 |
 
 ## Key numbers
 
@@ -61,7 +61,7 @@ Finance · Real Estate
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | -6.0% / +2.8% / -8.3% |
+| Return 1m / 6m / 12m | -7.4% / +4.9% / -7.9% |
 | vs. 200-day average | +0.1% |
 | RSI (14d) | 36 |
 | Volatility (1y) | 26.6% |
@@ -74,4 +74,4 @@ Finance · Real Estate
 - Insider trades: http://openinsider.com/MRP
 - Full deep dive: run `python scout.py stock MRP` → `research/MRP.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

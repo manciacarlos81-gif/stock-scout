@@ -9,11 +9,11 @@ score: 60
 value: 61
 quality: 88
 growth: 73
-momentum: 20
+momentum: 19
 health: 54
 pe: 27.9
 piotroski: 8
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,13 +30,13 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 61% of stocks in Technology (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 18% over the last 12 months.
-- Share price down 33% over 12 months (32% below its 52-week high).
+- Share price down 32% over 12 months (32% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 61 | 88 | 73 | 20 | 54 |
+| **60** | 61 | 88 | 73 | 19 | 54 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -14.0% / -7.0% / -32.6% |
-| vs. 200-day average | -9.5% |
+| Return 1m / 6m / 12m | -12.9% / -8.7% / -32.4% |
+| vs. 200-day average | -9.3% |
 | RSI (14d) | 42 |
 | Volatility (1y) | 38.0% |
 | Financials as of | 2026-07-31 |
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADSK
 - Full deep dive: run `python scout.py stock ADSK` → `research/ADSK.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

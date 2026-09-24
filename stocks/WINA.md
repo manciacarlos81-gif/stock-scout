@@ -6,14 +6,14 @@ industry: "Other Specialty Stores"
 price: 286.19
 market_cap: "$1.0B"
 score: 48
-value: 33
+value: 32
 quality: 90
 growth: 34
 momentum: 7
 health: 74
 pe: 25.2
 piotroski: 7
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,16 +27,16 @@ Consumer Discretionary · Other Specialty Stores
 
 ## In plain English
 
-- More expensive than about 67% of Consumer Discretionary peers (value score).
+- More expensive than about 68% of Consumer Discretionary peers (value score).
 - Business quality ranks above 90% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 41% over 12 months (43% below its 52-week high).
+- Share price down 40% over 12 months (43% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **48** | 33 | 90 | 34 | 7 | 74 |
+| **48** | 32 | 90 | 34 | 7 | 74 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Consumer Discretionary · Other Specialty Stores
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -18.4% / -33.1% / -40.8% |
-| vs. 200-day average | -27.3% |
+| Return 1m / 6m / 12m | -17.6% / -32.8% / -39.6% |
+| vs. 200-day average | -27.2% |
 | RSI (14d) | 23 |
 | Volatility (1y) | 37.8% |
 | Financials as of | 2026-06-27 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Other Specialty Stores
 - Insider trades: http://openinsider.com/WINA
 - Full deep dive: run `python scout.py stock WINA` → `research/WINA.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

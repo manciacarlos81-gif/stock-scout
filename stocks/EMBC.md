@@ -13,7 +13,7 @@ momentum: 2
 health: 28
 pe: 3.4
 piotroski: 7
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Medical/Dental Instruments
 - Cheaper than about 86% of stocks in Health Care (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales fell 8% over the last 12 months.
-- Share price down 62% over 12 months (63% below its 52-week high).
+- Share price down 63% over 12 months (63% below its 52-week high).
 - Insiders bought $557.9K of shares recently (Kurdikar Devdatt (Pres, CEO); Elguicze Jacob (SVP, CFO); Mann Jeffrey Z (Pres, Pharm Svc, Prod Mgmt, CL)).
 
 ## Scores (0–100, higher is better)
@@ -62,10 +62,10 @@ Health Care · Medical/Dental Instruments
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | +6.4% / -40.8% / -62.4% |
-| vs. 200-day average | -25.4% |
+| Return 1m / 6m / 12m | +5.6% / -39.9% / -62.5% |
+| vs. 200-day average | -25.2% |
 | RSI (14d) | 57 |
-| Volatility (1y) | 80.8% |
+| Volatility (1y) | 80.6% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -80,4 +80,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/EMBC
 - Full deep dive: run `python scout.py stock EMBC` → `research/EMBC.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

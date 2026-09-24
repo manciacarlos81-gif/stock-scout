@@ -9,11 +9,11 @@ score: 60
 value: 72
 quality: 84
 growth: 47
-momentum: 13
+momentum: 14
 health: 76
 pe: 10.8
 piotroski: 7
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,7 +36,7 @@ Consumer Discretionary · Shoe Manufacturing
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 72 | 84 | 47 | 13 | 76 |
+| **60** | 72 | 84 | 47 | 14 | 76 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Consumer Discretionary · Shoe Manufacturing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.4% |
-| Return 1m / 6m / 12m | -12.9% / -19.8% / -28.4% |
-| vs. 200-day average | -21.5% |
+| Return 1m / 6m / 12m | -9.6% / -14.4% / -27.9% |
+| vs. 200-day average | -21.4% |
 | RSI (14d) | 38 |
-| Volatility (1y) | 45.1% |
+| Volatility (1y) | 44.9% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Shoe Manufacturing
 - Insider trades: http://openinsider.com/DECK
 - Full deep dive: run `python scout.py stock DECK` → `research/DECK.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

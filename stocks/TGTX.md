@@ -9,11 +9,11 @@ score: 69
 value: 57
 quality: 59
 growth: 90
-momentum: 89
+momentum: 88
 health: 57
 pe: 19.8
 piotroski: 5
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -36,7 +36,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 57 | 59 | 90 | 89 | 57 |
+| **69** | 57 | 59 | 90 | 88 | 57 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 5/9 |
 | Altman Z | 5.57 |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | +2.1% / +79.6% / +60.7% |
-| vs. 200-day average | +41.2% |
+| Return 1m / 6m / 12m | +3.1% / +78.7% / +61.4% |
+| vs. 200-day average | +40.7% |
 | RSI (14d) | 60 |
-| Volatility (1y) | 45.2% |
+| Volatility (1y) | 45.1% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/TGTX
 - Full deep dive: run `python scout.py stock TGTX` → `research/TGTX.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

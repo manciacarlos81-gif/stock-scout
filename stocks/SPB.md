@@ -6,14 +6,14 @@ industry: "Industrial Machinery/Components"
 price: 85.22
 market_cap: "$2.0B"
 score: 60
-value: 76
-quality: 47
+value: 78
+quality: 48
 growth: 38
-momentum: 72
+momentum: 71
 health: 58
 pe: 24.7
 piotroski: 5
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,16 +27,16 @@ Miscellaneous · Industrial Machinery/Components
 
 ## In plain English
 
-- Cheaper than about 76% of stocks in Miscellaneous (value score).
-- Business quality ranks above 47% of all stocks scanned.
+- Cheaper than about 78% of stocks in Miscellaneous (value score).
+- Business quality ranks above 48% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 69% over 12 months (6% below its 52-week high).
+- Share price up 66% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 76 | 47 | 38 | 72 | 58 |
+| **60** | 78 | 48 | 38 | 71 | 58 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Miscellaneous · Industrial Machinery/Components
 | Piotroski F-score | 5/9 |
 | Altman Z | 2.77 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -3.0% / +14.4% / +68.7% |
-| vs. 200-day average | +10.1% |
-| RSI (14d) | 43 |
-| Volatility (1y) | 33.6% |
+| Return 1m / 6m / 12m | -4.2% / +14.1% / +65.6% |
+| vs. 200-day average | +9.9% |
+| RSI (14d) | 42 |
+| Volatility (1y) | 33.5% |
 | Financials as of | 2026-06-28 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Miscellaneous · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/SPB
 - Full deep dive: run `python scout.py stock SPB` → `research/SPB.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

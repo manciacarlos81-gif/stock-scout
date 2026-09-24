@@ -13,7 +13,7 @@ momentum: 75
 health: 48
 pe: 12.0
 piotroski: 8
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -61,8 +61,8 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.34 |
 | Share count change (1y) | -4.8% |
-| Return 1m / 6m / 12m | -3.1% / +21.6% / +56.4% |
-| vs. 200-day average | +11.3% |
+| Return 1m / 6m / 12m | -4.5% / +22.8% / +55.9% |
+| vs. 200-day average | +11.2% |
 | RSI (14d) | 41 |
 | Volatility (1y) | 42.3% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/MD
 - Full deep dive: run `python scout.py stock MD` → `research/MD.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

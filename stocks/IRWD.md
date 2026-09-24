@@ -8,12 +8,12 @@ market_cap: "$728.7M"
 score: 80
 value: 84
 quality: 91
-growth: 91
-momentum: 85
+growth: 90
+momentum: 86
 health: 41
 pe: 5.6
 piotroski: 7
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,13 +30,13 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 84% of stocks in Health Care (value score).
 - Business quality ranks above 91% of all stocks scanned.
 - Sales grew 26% over the last 12 months.
-- Share price up 217% over 12 months (18% below its 52-week high).
+- Share price up 222% over 12 months (18% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 84 | 91 | 91 | 85 | 41 |
+| **80** | 84 | 91 | 90 | 86 | 41 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 7/9 |
 | Altman Z | -2.01 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | +6.8% / +38.2% / +217.3% |
-| vs. 200-day average | +10.6% |
+| Return 1m / 6m / 12m | +0.5% / +40.0% / +221.9% |
+| vs. 200-day average | +10.5% |
 | RSI (14d) | 58 |
-| Volatility (1y) | 94.7% |
+| Volatility (1y) | 94.3% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/IRWD
 - Full deep dive: run `python scout.py stock IRWD` → `research/IRWD.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

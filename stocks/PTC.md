@@ -9,11 +9,11 @@ score: 65
 value: 76
 quality: 83
 growth: 79
-momentum: 21
+momentum: 20
 health: 61
 pe: 12.0
 piotroski: 9
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,7 +36,7 @@ Technology · Computer Software: Prepackaged Software
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 76 | 83 | 79 | 21 | 61 |
+| **65** | 76 | 83 | 79 | 20 | 61 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 9/9 |
 | Altman Z | 4.56 |
 | Share count change (1y) | -4.6% |
-| Return 1m / 6m / 12m | -12.3% / -5.8% / -33.7% |
-| vs. 200-day average | -7.5% |
+| Return 1m / 6m / 12m | -10.5% / -6.1% / -33.6% |
+| vs. 200-day average | -7.3% |
 | RSI (14d) | 44 |
 | Volatility (1y) | 35.6% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/PTC
 - Full deep dive: run `python scout.py stock PTC` → `research/PTC.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

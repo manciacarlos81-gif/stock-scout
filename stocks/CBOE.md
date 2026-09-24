@@ -9,11 +9,11 @@ score: 61
 value: 36
 quality: 84
 growth: 65
-momentum: 45
+momentum: 44
 health: 83
 pe: 22.4
 piotroski: 8
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,13 +30,13 @@ Finance · Investment Bankers/Brokers/Service
 - More expensive than about 64% of Finance peers (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price up 14% over 12 months (26% below its 52-week high).
+- Share price up 12% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 36 | 84 | 65 | 45 | 83 |
+| **61** | 36 | 84 | 65 | 44 | 83 |
 
 ## Key numbers
 
@@ -61,7 +61,7 @@ Finance · Investment Bankers/Brokers/Service
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -0.1% |
-| Return 1m / 6m / 12m | -11.7% / -1.5% / +13.8% |
+| Return 1m / 6m / 12m | -11.9% / -2.5% / +12.4% |
 | vs. 200-day average | -5.1% |
 | RSI (14d) | 38 |
 | Volatility (1y) | 33.8% |
@@ -74,4 +74,4 @@ Finance · Investment Bankers/Brokers/Service
 - Insider trades: http://openinsider.com/CBOE
 - Full deep dive: run `python scout.py stock CBOE` → `research/CBOE.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

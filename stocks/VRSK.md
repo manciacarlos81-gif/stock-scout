@@ -9,11 +9,11 @@ score: 56
 value: 60
 quality: 86
 growth: 42
-momentum: 21
+momentum: 20
 health: 63
 pe: 25.3
 piotroski: 7
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,7 +36,7 @@ Technology · EDP Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 60 | 86 | 42 | 21 | 63 |
+| **56** | 60 | 86 | 42 | 20 | 63 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Technology · EDP Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 6.61 |
 | Share count change (1y) | -6.8% |
-| Return 1m / 6m / 12m | -9.0% / -6.5% / -28.3% |
-| vs. 200-day average | -9.7% |
+| Return 1m / 6m / 12m | -8.5% / -6.9% / -28.5% |
+| vs. 200-day average | -9.6% |
 | RSI (14d) | 39 |
 | Volatility (1y) | 35.8% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/VRSK
 - Full deep dive: run `python scout.py stock VRSK` → `research/VRSK.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_

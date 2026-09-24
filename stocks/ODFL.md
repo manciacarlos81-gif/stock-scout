@@ -5,15 +5,15 @@ sector: "Industrials"
 industry: "Trucking Freight/Courier Services"
 price: 175.36
 market_cap: "$36.4B"
-score: 58
+score: 57
 value: 44
 quality: 83
 growth: 33
-momentum: 45
+momentum: 43
 health: 81
 pe: 33.4
 piotroski: 7
-updated: "2026-09-23"
+updated: "2026-09-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,13 +30,13 @@ Industrials · Trucking Freight/Courier Services
 - More expensive than about 56% of Industrials peers (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales fell 1% over the last 12 months.
-- Share price up 27% over 12 months (29% below its 52-week high).
+- Share price up 25% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 44 | 83 | 33 | 45 | 81 |
+| **57** | 44 | 83 | 33 | 43 | 81 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Industrials · Trucking Freight/Courier Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 21.32 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -12.8% / -7.0% / +26.6% |
-| vs. 200-day average | -11.8% |
+| Return 1m / 6m / 12m | -11.4% / -6.4% / +25.1% |
+| vs. 200-day average | -11.9% |
 | RSI (14d) | 28 |
 | Volatility (1y) | 37.9% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Industrials · Trucking Freight/Courier Services
 - Insider trades: http://openinsider.com/ODFL
 - Full deep dive: run `python scout.py stock ODFL` → `research/ODFL.md`
 
-_Updated 2026-09-23 · [latest report](../reports/latest.md)_
+_Updated 2026-09-24 · [latest report](../reports/latest.md)_
