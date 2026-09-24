@@ -63,7 +63,7 @@ def test_chunks_of_both_shapes_combine(monkeypatch):
 
 
 def test_a_total_price_outage_raises_instead_of_producing_an_empty_scan(monkeypatch):
-    monkeypatch.setattr(market.time, "sleep", lambda *_: None)
+    monkeypatch.setattr(market.JitterSchedule, "wait", lambda self: 0.0)
 
     def boom(part, **kw):
         raise ConnectionError("yahoo is down")

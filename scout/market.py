@@ -3,7 +3,6 @@ from __future__ import annotations
 
 import logging
 import re
-import time
 
 import numpy as np
 import pandas as pd
@@ -11,6 +10,7 @@ import requests
 import yfinance as yf
 
 from .config import BROWSER_UA, DATA_DIR
+from .pacing import JitterSchedule
 from . import sec
 
 NASDAQ_URL = "https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=10000&download=true"
@@ -85,17 +85,20 @@ def download_prices(tickers: list[str], period="2y", chunk=200) -> tuple[pd.Data
     logging.getLogger("yfinance").setLevel(logging.CRITICAL)
     closes, vols = [], []
     failed = 0
+    schedule = JitterSchedule(key="yfinance", base=20.0, factor=1.5, max_delay=180.0)
     for i in range(0, len(tickers), chunk):
         part = tickers[i:i + chunk]
         for attempt in range(3):
             try:
                 df = yf.download(part, period=period, interval="1d", auto_adjust=True,
                                  progress=False, threads=True, group_by="column")
+                schedule.reset(success=True)
                 break
             except Exception as e:
                 print(f"  price download retry ({e.__class__.__name__})")
-                time.sleep(20 * (attempt + 1))
+                schedule.wait()
         else:
+            schedule.reset(success=False)
             failed += len(part)
             continue
         if df.empty:
