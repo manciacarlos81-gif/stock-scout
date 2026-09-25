@@ -3,9 +3,10 @@
 
 Reads a list of seeded test-account identifiers from a local file and submits
 them one at a time, at a fixed configurable interval, against a development
-auth endpoint the team owns. Records each response's status alongside the
-identifier that produced it, so a bad deploy/migration that broke test-account
-login shows up as a diff in the output file.
+auth endpoint the team owns. Each run's per-identifier results and an
+aggregated summary are written to a dated subfolder under --output-dir, and
+are diffed against the most recent prior run so a bad deploy/migration that
+broke test-account login shows up immediately as a flagged status change.
 
 This tool talks only to endpoints you explicitly pass in --endpoint. It is
 meant for internal dev/staging environments the caller controls.
@@ -15,10 +16,14 @@ Usage:
         --input accounts.txt \\
         --endpoint https://dev.internal.example.com/api/auth/check \\
         --interval 1.0 \\
-        --output results.csv
+        --output-dir qa_reports/auth_smoke_test
 
 Input file format: one identifier per line. Blank lines and lines starting
 with '#' are ignored.
+
+Each run writes <output-dir>/<date>/results.csv (per identifier), summary.json
+(aggregate counts), and changes.json (status flips versus the previous run,
+empty on the first run or if nothing changed).
 """
 
 from __future__ import annotations
@@ -29,7 +34,7 @@ import json
 import logging
 import sys
 import time
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
@@ -140,10 +145,89 @@ def write_results_csv(path: Path, results: list[ProbeResult]) -> None:
             writer.writerow([r.identifier, r.timestamp, r.status_code, r.ok, r.elapsed_ms, r.error])
 
 
-def write_results_jsonl(path: Path, results: list[ProbeResult]) -> None:
-    with path.open("w", encoding="utf-8") as fh:
-        for r in results:
-            fh.write(json.dumps(r.__dict__) + "\n")
+def read_results_csv(path: Path) -> dict[str, ProbeResult]:
+    """Read a previously written results.csv back into {identifier: ProbeResult}."""
+    by_identifier: dict[str, ProbeResult] = {}
+    with path.open("r", newline="", encoding="utf-8") as fh:
+        for row in csv.DictReader(fh):
+            by_identifier[row["identifier"]] = ProbeResult(
+                identifier=row["identifier"],
+                timestamp=row["timestamp"],
+                status_code=int(row["status_code"]) if row["status_code"] else None,
+                ok=row["ok"] == "True",
+                elapsed_ms=float(row["elapsed_ms"]) if row["elapsed_ms"] else None,
+                error=row["error"] or None,
+            )
+    return by_identifier
+
+
+def write_summary(path: Path, results: list[ProbeResult], endpoint: str, generated_at: str) -> dict:
+    total = len(results)
+    passed = sum(1 for r in results if r.ok)
+    failed = total - passed
+    summary = {
+        "endpoint": endpoint,
+        "generated_at": generated_at,
+        "total": total,
+        "passed": passed,
+        "failed": failed,
+        "pass_rate": round(passed / total, 4) if total else 0.0,
+    }
+    path.write_text(json.dumps(summary, indent=2) + "\n", encoding="utf-8")
+    return summary
+
+
+def find_previous_run_dir(output_root: Path, current_run_dir: Path) -> Optional[Path]:
+    """Most recent dated subfolder under output_root that isn't the current run and has a results.csv."""
+    if not output_root.is_dir():
+        return None
+    candidates = [
+        d for d in output_root.iterdir()
+        if d.is_dir() and d != current_run_dir and (d / "results.csv").is_file()
+    ]
+    if not candidates:
+        return None
+    return max(candidates, key=lambda d: d.name)
+
+
+def diff_against_previous(
+    current: list[ProbeResult], previous: dict[str, ProbeResult]
+) -> list[dict]:
+    """Flag identifiers whose ok status flipped, or that are new/missing versus the previous run."""
+    changes: list[dict] = []
+    current_by_id = {r.identifier: r for r in current}
+
+    for identifier, curr in current_by_id.items():
+        prev = previous.get(identifier)
+        if prev is None:
+            changes.append({
+                "identifier": identifier,
+                "change": "new",
+                "previous_ok": None,
+                "current_ok": curr.ok,
+            })
+        elif prev.ok != curr.ok:
+            changes.append({
+                "identifier": identifier,
+                "change": "regressed" if prev.ok and not curr.ok else "recovered",
+                "previous_ok": prev.ok,
+                "current_ok": curr.ok,
+            })
+
+    for identifier in previous:
+        if identifier not in current_by_id:
+            changes.append({
+                "identifier": identifier,
+                "change": "missing",
+                "previous_ok": previous[identifier].ok,
+                "current_ok": None,
+            })
+
+    return changes
+
+
+def write_changes(path: Path, changes: list[dict]) -> None:
+    path.write_text(json.dumps(changes, indent=2) + "\n", encoding="utf-8")
 
 
 def parse_extra_fields(pairs: list[str]) -> dict:
@@ -158,16 +242,20 @@ def parse_extra_fields(pairs: list[str]) -> dict:
 
 def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Submit test-account identifiers to a dev auth endpoint at a fixed interval "
-        "and record the response status for each.",
+        description="Submit test-account identifiers to a dev auth endpoint at a fixed interval, "
+        "record per-identifier status in a dated folder, and flag changes versus the prior run.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
     parser.add_argument("--input", "-i", required=True, type=Path, help="path to file with one identifier per line")
     parser.add_argument("--endpoint", "-e", required=True, help="dev authentication endpoint URL")
     parser.add_argument("--interval", type=float, default=1.0, help="seconds to wait between requests")
-    parser.add_argument("--output", "-o", type=Path, default=Path("auth_smoke_test_results.csv"), help="output file path")
     parser.add_argument(
-        "--output-format", choices=["csv", "jsonl"], default="csv", help="output file format"
+        "--output-dir", "-o", type=Path, default=Path("qa_reports/auth_smoke_test"),
+        help="root directory under which a dated subfolder is created for this run's results",
+    )
+    parser.add_argument(
+        "--date", default=None,
+        help="override the dated output subfolder name (default: today's UTC date)",
     )
     parser.add_argument("--method", default="POST", help="HTTP method to use")
     parser.add_argument(
@@ -266,16 +354,42 @@ def main(argv: Optional[list[str]] = None) -> int:
         if index < total:
             time.sleep(args.interval)
 
-    if args.output_format == "csv":
-        write_results_csv(args.output, results)
+    generated_at = datetime.now(timezone.utc).isoformat()
+    date_folder = args.date or generated_at[:10]
+    run_dir = args.output_dir / date_folder
+    run_dir.mkdir(parents=True, exist_ok=True)
+
+    previous_dir = find_previous_run_dir(args.output_dir, run_dir)
+
+    write_results_csv(run_dir / "results.csv", results)
+    summary = write_summary(run_dir / "summary.json", results, args.endpoint, generated_at)
+
+    if previous_dir:
+        previous_results = read_results_csv(previous_dir / "results.csv")
+        changes = diff_against_previous(results, previous_results)
     else:
-        write_results_jsonl(args.output, results)
+        changes = []
+    write_changes(run_dir / "changes.json", changes)
 
-    logger.info("wrote %d result(s) to %s", len(results), args.output)
+    logger.info("wrote %d result(s) to %s", len(results), run_dir / "results.csv")
+    logger.info("summary: %d/%d passed (%.0f%%)", summary["passed"], summary["total"], summary["pass_rate"] * 100)
 
-    failures = sum(1 for r in results if not r.ok)
-    if failures:
-        logger.warning("%d/%d identifier(s) did not authenticate successfully", failures, total)
+    if previous_dir:
+        logger.info("compared against previous run: %s", previous_dir.name)
+    else:
+        logger.info("no previous run found under %s; this is the baseline", args.output_dir)
+
+    if changes:
+        for change in changes:
+            logger.warning(
+                "flagged change: %s %s (was %s, now %s)",
+                change["identifier"], change["change"], change["previous_ok"], change["current_ok"],
+            )
+    else:
+        logger.info("no status changes versus the previous run")
+
+    if summary["failed"]:
+        logger.warning("%d/%d identifier(s) did not authenticate successfully", summary["failed"], total)
 
     return exit_code
 
