@@ -3,17 +3,17 @@ ticker: "STX"
 company: "Seagate Technology Holdings PLC"
 sector: "Technology"
 industry: "Electronic Components"
-price: 877.33
-market_cap: "$200.7B"
+price: 923.86
+market_cap: "$211.3B"
 score: 69
 value: 34
 quality: 85
 growth: 81
-momentum: 97
+momentum: 98
 health: 54
-pe: 63.0
+pe: 66.4
 piotroski: 8
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,23 +30,23 @@ Technology · Electronic Components
 - More expensive than about 66% of Technology peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 295% over 12 months (20% below its 52-week high).
+- Share price up 324% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 34 | 85 | 81 | 97 | 54 |
+| **69** | 34 | 85 | 81 | 98 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $877.33 |
-| Market value | $200.7B |
-| P/E | 63.0 |
-| Price/Sales | 16.45 |
-| Price/Book | 92.60 |
+| Price | $923.86 |
+| Market value | $211.3B |
+| P/E | 66.4 |
+| Price/Sales | 17.33 |
+| Price/Book | 97.51 |
 | Free-cash-flow yield | 1.5% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $12.2B |
@@ -59,12 +59,12 @@ Technology · Electronic Components
 | Debt / equity | 1.65 |
 | Current ratio | 1.67 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 17.43 |
+| Altman Z | 18.24 |
 | Share count change (1y) | +5.5% |
-| Return 1m / 6m / 12m | +6.8% / +131.8% / +295.4% |
-| vs. 200-day average | +38.5% |
-| RSI (14d) | 55 |
-| Volatility (1y) | 75.0% |
+| Return 1m / 6m / 12m | +9.2% / +143.2% / +323.7% |
+| vs. 200-day average | +45.0% |
+| RSI (14d) | 61 |
+| Volatility (1y) | 75.1% |
 | Financials as of | 2026-07-03 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/STX
 - Full deep dive: run `python scout.py stock STX` → `research/STX.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

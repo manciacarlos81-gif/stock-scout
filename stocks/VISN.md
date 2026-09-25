@@ -3,7 +3,7 @@ ticker: "VISN"
 company: "Vistance Networks Inc."
 sector: "Technology"
 industry: "Radio And Television Broadcasting And Communications Equipment"
-price: 6.48
+price: 6.45
 market_cap: "$1.5B"
 score: 73
 value: 93
@@ -13,7 +13,7 @@ momentum: 72
 health: 51
 pe: 0.2
 piotroski: 7
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -43,12 +43,12 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 
 | | |
 |---|---:|
-| Price | $6.48 |
+| Price | $6.45 |
 | Market value | $1.5B |
 | P/E | 0.2 |
 | Price/Sales | 0.74 |
-| Price/Book | 0.60 |
-| Free-cash-flow yield | 16.9% |
+| Price/Book | 0.59 |
+| Free-cash-flow yield | 17.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +1333.2% |
@@ -60,11 +60,11 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 | Debt / equity | 0.00 |
 | Current ratio | 2.57 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 2.10 |
+| Altman Z | 2.09 |
 | Share count change (1y) | +7.2% |
-| Return 1m / 6m / 12m | +3.0% / +27.2% / +47.9% |
-| vs. 200-day average | +8.3% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | +2.4% / +29.2% / +47.8% |
+| vs. 200-day average | +7.8% |
+| RSI (14d) | 49 |
 | Volatility (1y) | 48.3% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 - Insider trades: http://openinsider.com/VISN
 - Full deep dive: run `python scout.py stock VISN` → `research/VISN.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

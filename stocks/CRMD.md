@@ -3,17 +3,17 @@ ticker: "CRMD"
 company: "CorMedix Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 7.77
-market_cap: "$605.6M"
-score: 72
+price: 7.69
+market_cap: "$599.4M"
+score: 71
 value: 96
 quality: 78
 growth: 81
-momentum: 35
+momentum: 34
 health: 59
 pe: 3.2
 piotroski: 6
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 - Cheaper than about 96% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
-- Share price down 31% over 12 months (39% below its 52-week high).
+- Share price down 31% over 12 months (40% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 96 | 78 | 81 | 35 | 59 |
+| **71** | 96 | 78 | 81 | 34 | 59 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $7.77 |
-| Market value | $605.6M |
+| Price | $7.69 |
+| Market value | $599.4M |
 | P/E | 3.2 |
-| Price/Sales | 1.31 |
-| Price/Book | 1.31 |
-| Free-cash-flow yield | 28.5% |
+| Price/Sales | 1.30 |
+| Price/Book | 1.30 |
+| Free-cash-flow yield | 28.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $462.2M |
 | Sales growth | – |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 2.56 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.34 |
+| Altman Z | 2.33 |
 | Share count change (1y) | +28.6% |
-| Return 1m / 6m / 12m | -9.2% / +16.0% / -30.9% |
-| vs. 200-day average | -4.1% |
-| RSI (14d) | 43 |
+| Return 1m / 6m / 12m | -8.3% / +14.6% / -30.8% |
+| vs. 200-day average | -4.9% |
+| RSI (14d) | 41 |
 | Volatility (1y) | 61.6% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/CRMD
 - Full deep dive: run `python scout.py stock CRMD` → `research/CRMD.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

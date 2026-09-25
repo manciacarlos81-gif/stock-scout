@@ -3,17 +3,17 @@ ticker: "TBLA"
 company: "Taboola.com Ltd."
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 3.62
-market_cap: "$912.7M"
-score: 68
+price: 3.4
+market_cap: "$857.2M"
+score: 67
 value: 97
 quality: 60
 growth: 77
-momentum: 43
+momentum: 39
 health: 56
-pe: 7.7
+pe: 7.2
 piotroski: 7
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,24 +31,24 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 97% of stocks in Technology (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 2% over 12 months (35% below its 52-week high).
+- Share price down 4% over 12 months (39% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 97 | 60 | 77 | 43 | 56 |
+| **67** | 97 | 60 | 77 | 39 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $3.62 |
-| Market value | $912.7M |
-| P/E | 7.7 |
-| Price/Sales | 0.47 |
-| Price/Book | 0.97 |
-| Free-cash-flow yield | 17.9% |
+| Price | $3.40 |
+| Market value | $857.2M |
+| P/E | 7.2 |
+| Price/Sales | 0.44 |
+| Price/Book | 0.91 |
+| Free-cash-flow yield | 19.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +8.0% |
@@ -62,10 +62,10 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -2.2% / +18.3% / +1.7% |
-| vs. 200-day average | -12.1% |
-| RSI (14d) | 36 |
-| Volatility (1y) | 55.9% |
+| Return 1m / 6m / 12m | -8.8% / +13.3% / -4.2% |
+| vs. 200-day average | -17.3% |
+| RSI (14d) | 29 |
+| Volatility (1y) | 56.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/TBLA
 - Full deep dive: run `python scout.py stock TBLA` → `research/TBLA.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

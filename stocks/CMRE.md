@@ -3,17 +3,17 @@ ticker: "CMRE"
 company: "Costamare Inc."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 15.09
+price: 14.68
 market_cap: "$1.8B"
-score: 64
+score: 62
 value: 88
 quality: 85
 growth: 30
-momentum: 40
-health: 52
-pe: 5.0
+momentum: 34
+health: 51
+pe: 4.9
 piotroski: 8
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 88% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales fell 1% over the last 12 months.
-- Share price up 21% over 12 months (14% below its 52-week high).
+- Share price up 17% over 12 months (17% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 88 | 85 | 30 | 40 | 52 |
+| **62** | 88 | 85 | 30 | 34 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.09 |
+| Price | $14.68 |
 | Market value | $1.8B |
-| P/E | 5.0 |
-| Price/Sales | 2.07 |
-| Price/Book | 0.87 |
-| Free-cash-flow yield | 29.5% |
-| Dividend yield | 4.4% |
+| P/E | 4.9 |
+| Price/Sales | 2.02 |
+| Price/Book | 0.85 |
+| Free-cash-flow yield | 30.4% |
+| Dividend yield | 4.5% |
 | Sales (12m) | $877.9M |
 | Sales growth | -1.2% |
 | Net profit (12m) | $364.6M |
@@ -59,12 +59,12 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.73 |
 | Current ratio | 1.73 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 3.21 |
+| Altman Z | 3.15 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -4.3% / -9.1% / +20.7% |
-| vs. 200-day average | -4.9% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 31.9% |
+| Return 1m / 6m / 12m | -1.1% / -10.2% / +17.2% |
+| vs. 200-day average | -7.4% |
+| RSI (14d) | 41 |
+| Volatility (1y) | 32.0% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/CMRE
 - Full deep dive: run `python scout.py stock CMRE` → `research/CMRE.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

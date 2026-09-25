@@ -3,17 +3,17 @@ ticker: "NPB"
 company: "Northpointe Bancshares Inc."
 sector: "Finance"
 industry: "Major Banks"
-price: 16.16
-market_cap: "$558.8M"
-score: 55
-value: 92
+price: 15.53
+market_cap: "$537.1M"
+score: 54
+value: 93
 quality: null
 growth: 59
-momentum: 27
+momentum: 24
 health: 32
-pe: 6.2
+pe: 6.0
 piotroski: 6
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,25 +27,25 @@ Finance · Major Banks
 
 ## In plain English
 
-- Cheaper than about 92% of stocks in Finance (value score).
-- Share price down 9% over 12 months (16% below its 52-week high).
+- Cheaper than about 93% of stocks in Finance (value score).
+- Share price down 12% over 12 months (19% below its 52-week high).
 - Insiders bought $2.8M of shares recently (Williams Charles Alan (COB, CEO, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 92 | – | 59 | 27 | 32 |
+| **54** | 93 | – | 59 | 24 | 32 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $16.16 |
-| Market value | $558.8M |
-| P/E | 6.2 |
+| Price | $15.53 |
+| Market value | $537.1M |
+| P/E | 6.0 |
 | Price/Sales | – |
-| Price/Book | 0.91 |
+| Price/Book | 0.88 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.6% |
 | Sales (12m) | – |
@@ -60,10 +60,10 @@ Finance · Major Banks
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -4.7% / -5.9% / -8.5% |
-| vs. 200-day average | -8.1% |
-| RSI (14d) | 31 |
-| Volatility (1y) | 28.8% |
+| Return 1m / 6m / 12m | -8.1% / -7.9% / -11.8% |
+| vs. 200-day average | -11.6% |
+| RSI (14d) | 24 |
+| Volatility (1y) | 29.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/NPB
 - Full deep dive: run `python scout.py stock NPB` → `research/NPB.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

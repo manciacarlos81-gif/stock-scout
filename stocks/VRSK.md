@@ -3,7 +3,7 @@ ticker: "VRSK"
 company: "Verisk Analytics Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 172.02
+price: 171.8
 market_cap: "$22.4B"
 score: 56
 value: 60
@@ -13,7 +13,7 @@ momentum: 20
 health: 63
 pe: 25.3
 piotroski: 7
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · EDP Services
 - Cheaper than about 60% of stocks in Technology (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price down 28% over 12 months (31% below its 52-week high).
+- Share price down 29% over 12 months (31% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,10 +42,10 @@ Technology · EDP Services
 
 | | |
 |---|---:|
-| Price | $172.02 |
+| Price | $171.80 |
 | Market value | $22.4B |
 | P/E | 25.3 |
-| Price/Sales | 7.14 |
+| Price/Sales | 7.13 |
 | Price/Book | – |
 | Free-cash-flow yield | 5.3% |
 | Dividend yield | 1.1% |
@@ -59,11 +59,11 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 1.01 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 6.61 |
+| Altman Z | 6.60 |
 | Share count change (1y) | -6.8% |
-| Return 1m / 6m / 12m | -8.5% / -6.9% / -28.5% |
+| Return 1m / 6m / 12m | -8.3% / -5.5% / -28.9% |
 | vs. 200-day average | -9.6% |
-| RSI (14d) | 39 |
+| RSI (14d) | 38 |
 | Volatility (1y) | 35.8% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/VRSK
 - Full deep dive: run `python scout.py stock VRSK` → `research/VRSK.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

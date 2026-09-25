@@ -3,17 +3,17 @@ ticker: "EVC"
 company: "Entravision Communications Corporation"
 sector: "Industrials"
 industry: "Broadcasting"
-price: 7.99
-market_cap: "$737.4M"
+price: 7.88
+market_cap: "$727.2M"
 score: 54
 value: 32
 quality: 47
 growth: 82
 momentum: 96
 health: 19
-pe: 176.3
+pe: 173.9
 piotroski: 5
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Industrials · Broadcasting
 - More expensive than about 68% of Industrials peers (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 71% over the last 12 months.
-- Share price up 248% over 12 months (40% below its 52-week high).
+- Share price up 249% over 12 months (41% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Industrials · Broadcasting
 
 | | |
 |---|---:|
-| Price | $7.99 |
-| Market value | $737.4M |
-| P/E | 176.3 |
-| Price/Sales | 1.08 |
-| Price/Book | 8.82 |
+| Price | $7.88 |
+| Market value | $727.2M |
+| P/E | 173.9 |
+| Price/Sales | 1.07 |
+| Price/Book | 8.70 |
 | Free-cash-flow yield | 0.5% |
 | Dividend yield | 2.5% |
 | Sales (12m) | $679.9M |
@@ -59,11 +59,11 @@ Industrials · Broadcasting
 | Debt / equity | 1.88 |
 | Current ratio | 1.48 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 0.85 |
+| Altman Z | 0.84 |
 | Share count change (1y) | +13.1% |
-| Return 1m / 6m / 12m | -1.4% / +165.9% / +247.9% |
-| vs. 200-day average | +27.0% |
-| RSI (14d) | 39 |
+| Return 1m / 6m / 12m | -0.8% / +164.9% / +249.0% |
+| vs. 200-day average | +24.8% |
+| RSI (14d) | 37 |
 | Volatility (1y) | 121.4% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Industrials · Broadcasting
 - Insider trades: http://openinsider.com/EVC
 - Full deep dive: run `python scout.py stock EVC` → `research/EVC.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

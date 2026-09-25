@@ -3,17 +3,17 @@ ticker: "AVBC"
 company: "Avidia Bancorp Inc."
 sector: "Finance"
 industry: "Banks"
-price: 21.92
-market_cap: "$437.7M"
+price: 21.63
+market_cap: "$432.0M"
 score: 53
 value: 42
 quality: null
 growth: null
-momentum: 67
+momentum: 66
 health: 62
-pe: 24.9
+pe: 24.6
 piotroski: null
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,24 +28,24 @@ Finance · Banks
 ## In plain English
 
 - More expensive than about 58% of Finance peers (value score).
-- Share price up 45% over 12 months (3% below its 52-week high).
+- Share price up 43% over 12 months (4% below its 52-week high).
 - Insiders bought $643.8K of shares recently (Murphy Michael Dennis (Chairman of the Board); Nelson Jonathan Michael (CFO, Treasurer); Grimaldo Joseph F (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 42 | – | – | 67 | 62 |
+| **53** | 42 | – | – | 66 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $21.92 |
-| Market value | $437.7M |
-| P/E | 24.9 |
+| Price | $21.63 |
+| Market value | $432.0M |
+| P/E | 24.6 |
 | Price/Sales | – |
-| Price/Book | 1.12 |
+| Price/Book | 1.11 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | – |
@@ -60,10 +60,10 @@ Finance · Banks
 | Piotroski F-score | – |
 | Altman Z | – |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -0.0% / +13.7% / +44.8% |
-| vs. 200-day average | +11.5% |
-| RSI (14d) | 50 |
-| Volatility (1y) | 24.7% |
+| Return 1m / 6m / 12m | -1.8% / +14.6% / +42.6% |
+| vs. 200-day average | +9.9% |
+| RSI (14d) | 45 |
+| Volatility (1y) | 24.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Finance · Banks
 - Insider trades: http://openinsider.com/AVBC
 - Full deep dive: run `python scout.py stock AVBC` → `research/AVBC.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

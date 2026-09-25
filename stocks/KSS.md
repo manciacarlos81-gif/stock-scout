@@ -3,17 +3,17 @@ ticker: "KSS"
 company: "Kohl's Corporation"
 sector: "Consumer Discretionary"
 industry: "Department/Specialty Retail Stores"
-price: 17.43
-market_cap: "$2.0B"
+price: 17.04
+market_cap: "$1.9B"
 score: 62
 value: 98
 quality: 53
 growth: 35
-momentum: 58
+momentum: 61
 health: 47
-pe: 7.3
+pe: 7.1
 piotroski: 6
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Cheaper than about 98% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 5% over 12 months (27% below its 52-week high).
+- Share price up 9% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **62** | 98 | 53 | 35 | 58 | 47 |
+| **62** | 98 | 53 | 35 | 61 | 47 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $17.43 |
-| Market value | $2.0B |
-| P/E | 7.3 |
+| Price | $17.04 |
+| Market value | $1.9B |
+| P/E | 7.1 |
 | Price/Sales | 0.13 |
-| Price/Book | 0.47 |
-| Free-cash-flow yield | 69.8% |
-| Dividend yield | 2.8% |
+| Price/Book | 0.46 |
+| Free-cash-flow yield | 71.4% |
+| Dividend yield | 2.9% |
 | Sales (12m) | $15.4B |
 | Sales growth | -2.9% |
 | Net profit (12m) | $271.0M |
@@ -61,9 +61,9 @@ Consumer Discretionary · Department/Specialty Retail Stores
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.5% |
-| Return 1m / 6m / 12m | -0.7% / +36.9% / +4.9% |
-| vs. 200-day average | +4.0% |
-| RSI (14d) | 48 |
+| Return 1m / 6m / 12m | -4.4% / +38.8% / +9.4% |
+| vs. 200-day average | +1.9% |
+| RSI (14d) | 45 |
 | Volatility (1y) | 73.8% |
 | Financials as of | 2026-08-01 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Insider trades: http://openinsider.com/KSS
 - Full deep dive: run `python scout.py stock KSS` → `research/KSS.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

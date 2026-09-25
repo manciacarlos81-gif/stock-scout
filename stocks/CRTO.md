@@ -3,17 +3,17 @@ ticker: "CRTO"
 company: "Criteo S.A."
 sector: "Consumer Discretionary"
 industry: "Advertising"
-price: 16.8
-market_cap: "$823.2M"
+price: 16.55
+market_cap: "$810.9M"
 score: 58
 value: 95
 quality: 72
 growth: 26
 momentum: 20
 health: 54
-pe: 7.6
+pe: 7.5
 piotroski: 9
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,7 +31,7 @@ Consumer Discretionary · Advertising
 - Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales fell 4% over the last 12 months.
-- Share price down 25% over 12 months (28% below its 52-week high).
+- Share price down 26% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Consumer Discretionary · Advertising
 
 | | |
 |---|---:|
-| Price | $16.80 |
-| Market value | $823.2M |
-| P/E | 7.6 |
+| Price | $16.55 |
+| Market value | $810.9M |
+| P/E | 7.5 |
 | Price/Sales | 0.44 |
-| Price/Book | 0.73 |
-| Free-cash-flow yield | 37.8% |
+| Price/Book | 0.72 |
+| Free-cash-flow yield | 38.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.9B |
 | Sales growth | -4.2% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Advertising
 | Debt / equity | – |
 | Current ratio | 1.29 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 2.30 |
+| Altman Z | 2.29 |
 | Share count change (1y) | -8.3% |
-| Return 1m / 6m / 12m | -2.9% / -4.8% / -25.1% |
-| vs. 200-day average | -10.5% |
-| RSI (14d) | 39 |
+| Return 1m / 6m / 12m | -2.5% / -3.7% / -26.5% |
+| vs. 200-day average | -11.8% |
+| RSI (14d) | 36 |
 | Volatility (1y) | 55.5% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/CRTO
 - Full deep dive: run `python scout.py stock CRTO` → `research/CRTO.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

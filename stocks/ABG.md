@@ -3,17 +3,17 @@ ticker: "ABG"
 company: "Asbury Automotive Group Inc"
 sector: "Consumer Discretionary"
 industry: "Retail-Auto Dealers and Gas Stations"
-price: 184.55
+price: 181.52
 market_cap: "$3.3B"
 score: 51
 value: 94
-quality: 44
+quality: 43
 growth: 35
-momentum: 22
+momentum: 21
 health: 45
-pe: 6.5
+pe: 6.4
 piotroski: 6
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -28,26 +28,26 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 ## In plain English
 
 - Cheaper than about 94% of stocks in Consumer Discretionary (value score).
-- Business quality ranks above 44% of all stocks scanned.
+- Business quality ranks above 43% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 24% over 12 months (28% below its 52-week high).
+- Share price down 23% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 94 | 44 | 35 | 22 | 45 |
+| **51** | 94 | 43 | 35 | 21 | 45 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $184.55 |
+| Price | $181.52 |
 | Market value | $3.3B |
-| P/E | 6.5 |
+| P/E | 6.4 |
 | Price/Sales | 0.18 |
-| Price/Book | 0.84 |
-| Free-cash-flow yield | 23.4% |
+| Price/Book | 0.83 |
+| Free-cash-flow yield | 23.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $18.0B |
 | Sales growth | +4.1% |
@@ -61,9 +61,9 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -14.4% / -7.1% / -23.8% |
-| vs. 200-day average | -13.2% |
-| RSI (14d) | 26 |
+| Return 1m / 6m / 12m | -13.5% / -7.2% / -23.2% |
+| vs. 200-day average | -14.5% |
+| RSI (14d) | 24 |
 | Volatility (1y) | 32.5% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 - Insider trades: http://openinsider.com/ABG
 - Full deep dive: run `python scout.py stock ABG` → `research/ABG.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

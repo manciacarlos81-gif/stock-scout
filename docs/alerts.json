@@ -1,45 +1,45 @@
 {
- "date": "2026-09-24",
- "scanned": 2628,
+ "date": "2026-09-25",
+ "scanned": 2623,
  "top": [
   {
    "rank": 1,
-   "ticker": "ECPG",
-   "name": "Encore Capital Group Inc",
-   "score": 81,
-   "price": 99.37,
-   "flags": "heavy debt"
-  },
-  {
-   "rank": 2,
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 81,
-   "price": 1887.04,
+   "price": 1816.57,
    "flags": ""
+  },
+  {
+   "rank": 2,
+   "ticker": "ECPG",
+   "name": "Encore Capital Group Inc",
+   "score": 81,
+   "price": 94.47,
+   "flags": "heavy debt"
   },
   {
    "rank": 3,
-   "ticker": "NUTX",
-   "name": "Nutex Health Inc.",
-   "score": 80,
-   "price": 201.48,
-   "flags": "shares up 17% in a year"
-  },
-  {
-   "rank": 4,
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 80,
-   "price": 124.65,
+   "price": 124.64,
    "flags": ""
+  },
+  {
+   "rank": 4,
+   "ticker": "NUTX",
+   "name": "Nutex Health Inc.",
+   "score": 80,
+   "price": 201.86,
+   "flags": "shares up 17% in a year"
   },
   {
    "rank": 5,
    "ticker": "CDNA",
    "name": "CareDx Inc.",
    "score": 80,
-   "price": 54.33,
+   "price": 54.31,
    "flags": ""
   },
   {
@@ -47,7 +47,7 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 109.1,
+   "price": 101.96,
    "flags": ""
   },
   {
@@ -55,15 +55,15 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 79,
-   "price": 56.64,
+   "price": 53.16,
    "flags": ""
   },
   {
    "rank": 8,
    "ticker": "BFH",
    "name": "Bread Financial Holdings Inc.",
-   "score": 79,
-   "price": 108.0,
+   "score": 78,
+   "price": 99.19,
    "flags": ""
   },
   {
@@ -71,7 +71,7 @@
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
    "score": 78,
-   "price": 57.22,
+   "price": 56.73,
    "flags": ""
   },
   {
@@ -79,7 +79,7 @@
    "ticker": "KNSA",
    "name": "Kiniksa Pharmaceuticals International plc",
    "score": 78,
-   "price": 78.13,
+   "price": 76.08,
    "flags": ""
   }
  ],

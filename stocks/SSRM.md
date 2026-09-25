@@ -3,17 +3,17 @@ ticker: "SSRM"
 company: "SSR Mining Inc."
 sector: "Industrials"
 industry: "Precious Metals"
-price: 36.61
-market_cap: "$7.5B"
-score: 75
-value: 63
+price: 36.3
+market_cap: "$7.4B"
+score: 74
+value: 64
 quality: 70
 growth: 83
-momentum: 86
+momentum: 82
 health: 78
-pe: 31.4
+pe: 31.1
 piotroski: 8
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,27 +27,27 @@ Industrials · Precious Metals
 
 ## In plain English
 
-- Cheaper than about 63% of stocks in Industrials (value score).
+- Cheaper than about 64% of stocks in Industrials (value score).
 - Business quality ranks above 70% of all stocks scanned.
 - Sales grew 48% over the last 12 months.
-- Share price up 61% over 12 months (7% below its 52-week high).
+- Share price up 53% over 12 months (7% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 63 | 70 | 83 | 86 | 78 |
+| **74** | 64 | 70 | 83 | 82 | 78 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $36.61 |
-| Market value | $7.5B |
-| P/E | 31.4 |
-| Price/Sales | 3.86 |
-| Price/Book | 2.20 |
-| Free-cash-flow yield | 3.2% |
+| Price | $36.30 |
+| Market value | $7.4B |
+| P/E | 31.1 |
+| Price/Sales | 3.83 |
+| Price/Book | 2.18 |
+| Free-cash-flow yield | 3.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.9B |
 | Sales growth | +48.4% |
@@ -59,11 +59,11 @@ Industrials · Precious Metals
 | Debt / equity | 0.02 |
 | Current ratio | 9.79 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 6.75 |
+| Altman Z | 6.70 |
 | Share count change (1y) | -3.6% |
-| Return 1m / 6m / 12m | -6.6% / +48.6% / +60.6% |
-| vs. 200-day average | +25.8% |
-| RSI (14d) | 56 |
+| Return 1m / 6m / 12m | -4.7% / +37.4% / +53.1% |
+| vs. 200-day average | +24.4% |
+| RSI (14d) | 54 |
 | Volatility (1y) | 68.6% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Industrials · Precious Metals
 - Insider trades: http://openinsider.com/SSRM
 - Full deep dive: run `python scout.py stock SSRM` → `research/SSRM.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

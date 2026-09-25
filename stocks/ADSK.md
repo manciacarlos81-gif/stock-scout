@@ -3,17 +3,17 @@ ticker: "ADSK"
 company: "Autodesk Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 218.85
-market_cap: "$45.7B"
-score: 60
+price: 217.15
+market_cap: "$45.4B"
+score: 61
 value: 61
 quality: 88
-growth: 73
-momentum: 19
+growth: 74
+momentum: 21
 health: 54
-pe: 27.9
+pe: 27.6
 piotroski: 8
-updated: "2026-09-24"
+updated: "2026-09-25"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,23 +30,23 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 61% of stocks in Technology (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 18% over the last 12 months.
-- Share price down 32% over 12 months (32% below its 52-week high).
+- Share price down 32% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 61 | 88 | 73 | 19 | 54 |
+| **61** | 61 | 88 | 74 | 21 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $218.85 |
-| Market value | $45.7B |
-| P/E | 27.9 |
-| Price/Sales | 5.87 |
-| Price/Book | 13.52 |
+| Price | $217.15 |
+| Market value | $45.4B |
+| P/E | 27.6 |
+| Price/Sales | 5.83 |
+| Price/Book | 13.42 |
 | Free-cash-flow yield | 5.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $7.8B |
@@ -61,9 +61,9 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -12.9% / -8.7% / -32.4% |
-| vs. 200-day average | -9.3% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | -14.8% / -5.5% / -32.2% |
+| vs. 200-day average | -9.9% |
+| RSI (14d) | 41 |
 | Volatility (1y) | 38.0% |
 | Financials as of | 2026-07-31 |
 
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADSK
 - Full deep dive: run `python scout.py stock ADSK` → `research/ADSK.md`
 
-_Updated 2026-09-24 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_
