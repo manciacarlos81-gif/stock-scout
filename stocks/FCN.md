@@ -3,17 +3,17 @@ ticker: "FCN"
 company: "FTI Consulting Inc."
 sector: "Consumer Discretionary"
 industry: "Professional Services"
-price: 148.07
-market_cap: "$4.1B"
+price: 133.49
+market_cap: "$3.7B"
 score: 46
-value: 53
+value: 56
 quality: 46
 growth: 51
-momentum: 23
+momentum: 16
 health: 61
-pe: 16.2
+pe: 14.6
 piotroski: 5
-updated: "2026-09-12"
+updated: "2026-09-25"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Professional Services
 
 ## In plain English
 
-- Cheaper than about 53% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 56% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 46% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price down 10% over 12 months (21% below its 52-week high).
+- Share price down 17% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **46** | 53 | 46 | 51 | 23 | 61 |
+| **46** | 56 | 46 | 51 | 16 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $148.07 |
-| Market value | $4.1B |
-| P/E | 16.2 |
-| Price/Sales | 1.04 |
-| Price/Book | 3.06 |
-| Free-cash-flow yield | 2.3% |
+| Price | $133.49 |
+| Market value | $3.7B |
+| P/E | 14.6 |
+| Price/Sales | 0.94 |
+| Price/Book | 2.76 |
+| Free-cash-flow yield | 2.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $3.9B |
 | Sales growth | +7.1% |
@@ -59,12 +59,12 @@ Consumer Discretionary · Professional Services
 | Debt / equity | 0.76 |
 | Current ratio | 2.03 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 3.44 |
+| Altman Z | 3.33 |
 | Share count change (1y) | -13.6% |
-| Return 1m / 6m / 12m | -3.5% / -8.6% / -9.9% |
-| vs. 200-day average | -9.9% |
-| RSI (14d) | 39 |
-| Volatility (1y) | 29.4% |
+| Return 1m / 6m / 12m | -12.1% / -21.6% / -16.9% |
+| vs. 200-day average | -18.2% |
+| RSI (14d) | 23 |
+| Volatility (1y) | 30.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Professional Services
 - Insider trades: http://openinsider.com/FCN
 - Full deep dive: run `python scout.py stock FCN` → `research/FCN.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

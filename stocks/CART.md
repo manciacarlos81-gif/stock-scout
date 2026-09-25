@@ -3,17 +3,17 @@ ticker: "CART"
 company: "Maplebear Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 48.73
-market_cap: "$11.3B"
+price: 42.96
+market_cap: "$9.9B"
 score: 63
-value: 47
+value: 53
 quality: 83
 growth: 56
-momentum: 59
-health: 66
-pe: 23.5
+momentum: 56
+health: 64
+pe: 20.7
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-25"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Business Services
 
 ## In plain English
 
-- More expensive than about 53% of Consumer Discretionary peers (value score).
+- Cheaper than about 53% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 5% over 12 months (6% below its 52-week high).
+- Share price up 1% over 12 months (17% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 47 | 83 | 56 | 59 | 66 |
+| **63** | 53 | 83 | 56 | 56 | 64 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $48.73 |
-| Market value | $11.3B |
-| P/E | 23.5 |
-| Price/Sales | 2.83 |
-| Price/Book | 4.86 |
-| Free-cash-flow yield | 8.1% |
+| Price | $42.96 |
+| Market value | $9.9B |
+| P/E | 20.7 |
+| Price/Sales | 2.49 |
+| Price/Book | 4.28 |
+| Free-cash-flow yield | 9.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $4.0B |
 | Sales growth | +12.6% |
@@ -59,12 +59,12 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 2.28 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 6.97 |
+| Altman Z | 6.16 |
 | Share count change (1y) | -11.5% |
-| Return 1m / 6m / 12m | -2.7% / +25.7% / +5.1% |
-| vs. 200-day average | +14.6% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 43.7% |
+| Return 1m / 6m / 12m | -15.4% / +20.3% / +1.3% |
+| vs. 200-day average | +0.8% |
+| RSI (14d) | 31 |
+| Volatility (1y) | 43.4% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/CART
 - Full deep dive: run `python scout.py stock CART` → `research/CART.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

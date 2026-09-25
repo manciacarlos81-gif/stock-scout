@@ -3,17 +3,17 @@ ticker: "EVC"
 company: "Entravision Communications Corporation"
 sector: "Industrials"
 industry: "Broadcasting"
-price: 8.61
-market_cap: "$794.6M"
+price: 7.88
+market_cap: "$727.2M"
 score: 54
-value: 31
+value: 32
 quality: 47
 growth: 82
-momentum: 98
+momentum: 96
 health: 19
-pe: 190.0
+pe: 173.9
 piotroski: 5
-updated: "2026-09-12"
+updated: "2026-09-25"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,28 +27,28 @@ Industrials · Broadcasting
 
 ## In plain English
 
-- More expensive than about 69% of Industrials peers (value score).
+- More expensive than about 68% of Industrials peers (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 71% over the last 12 months.
-- Share price up 268% over 12 months (36% below its 52-week high).
+- Share price up 249% over 12 months (41% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 31 | 47 | 82 | 98 | 19 |
+| **54** | 32 | 47 | 82 | 96 | 19 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $8.61 |
-| Market value | $794.6M |
-| P/E | 190.0 |
-| Price/Sales | 1.17 |
-| Price/Book | 9.51 |
-| Free-cash-flow yield | 0.4% |
-| Dividend yield | 2.3% |
+| Price | $7.88 |
+| Market value | $727.2M |
+| P/E | 173.9 |
+| Price/Sales | 1.07 |
+| Price/Book | 8.70 |
+| Free-cash-flow yield | 0.5% |
+| Dividend yield | 2.5% |
 | Sales (12m) | $679.9M |
 | Sales growth | +71.4% |
 | Net profit (12m) | $4.2M |
@@ -59,11 +59,11 @@ Industrials · Broadcasting
 | Debt / equity | 1.88 |
 | Current ratio | 1.48 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 0.95 |
+| Altman Z | 0.84 |
 | Share count change (1y) | +13.1% |
-| Return 1m / 6m / 12m | -3.0% / +191.5% / +267.7% |
-| vs. 200-day average | +40.8% |
-| RSI (14d) | 45 |
+| Return 1m / 6m / 12m | -0.8% / +164.9% / +249.0% |
+| vs. 200-day average | +24.8% |
+| RSI (14d) | 37 |
 | Volatility (1y) | 121.4% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Industrials · Broadcasting
 - Insider trades: http://openinsider.com/EVC
 - Full deep dive: run `python scout.py stock EVC` → `research/EVC.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

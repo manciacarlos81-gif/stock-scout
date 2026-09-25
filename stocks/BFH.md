@@ -3,17 +3,17 @@ ticker: "BFH"
 company: "Bread Financial Holdings Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 106.37
-market_cap: "$4.1B"
-score: 79
+price: 99.19
+market_cap: "$3.8B"
+score: 78
 value: 95
 quality: 82
 growth: 85
-momentum: 87
-health: 33
-pe: 7.2
+momentum: 82
+health: 32
+pe: 6.7
 piotroski: 9
-updated: "2026-09-12"
+updated: "2026-09-25"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -29,24 +29,24 @@ Consumer Discretionary · Business Services
 
 - Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 82% of all stocks scanned.
-- Share price up 70% over 12 months (6% below its 52-week high).
+- Share price up 67% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **79** | 95 | 82 | 85 | 87 | 33 |
+| **78** | 95 | 82 | 85 | 82 | 32 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $106.37 |
-| Market value | $4.1B |
-| P/E | 7.2 |
+| Price | $99.19 |
+| Market value | $3.8B |
+| P/E | 6.7 |
 | Price/Sales | – |
-| Price/Book | 1.21 |
-| Free-cash-flow yield | 51.2% |
+| Price/Book | 1.13 |
+| Free-cash-flow yield | 54.9% |
 | Dividend yield | 1.0% |
 | Sales (12m) | – |
 | Sales growth | – |
@@ -60,10 +60,10 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -13.8% |
-| Return 1m / 6m / 12m | -4.5% / +52.9% / +70.3% |
-| vs. 200-day average | +22.7% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 39.9% |
+| Return 1m / 6m / 12m | -7.6% / +38.2% / +67.0% |
+| vs. 200-day average | +12.3% |
+| RSI (14d) | 33 |
+| Volatility (1y) | 40.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/BFH
 - Full deep dive: run `python scout.py stock BFH` → `research/BFH.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "CDNA"
 company: "CareDx Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 50.26
-market_cap: "$2.6B"
-score: 81
-value: 68
+price: 54.31
+market_cap: "$2.8B"
+score: 80
+value: 65
 quality: 75
 growth: 84
 momentum: 99
-health: 83
-pe: 23.4
+health: 84
+pe: 25.3
 piotroski: 6
-updated: "2026-09-12"
+updated: "2026-09-25"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,27 +28,27 @@ Health Care · Medical Specialities
 
 ## In plain English
 
-- Cheaper than about 68% of stocks in Health Care (value score).
+- Cheaper than about 65% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 271% over 12 months (4% below its 52-week high).
+- Share price up 265% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **81** | 68 | 75 | 84 | 99 | 83 |
+| **80** | 65 | 75 | 84 | 99 | 84 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $50.26 |
-| Market value | $2.6B |
-| P/E | 23.4 |
-| Price/Sales | 5.68 |
-| Price/Book | 6.11 |
-| Free-cash-flow yield | 1.6% |
+| Price | $54.31 |
+| Market value | $2.8B |
+| P/E | 25.3 |
+| Price/Sales | 6.13 |
+| Price/Book | 6.60 |
+| Free-cash-flow yield | 1.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $458.1M |
 | Sales growth | +34.4% |
@@ -60,12 +60,12 @@ Health Care · Medical Specialities
 | Debt / equity | 0.00 |
 | Current ratio | 4.58 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 15.48 |
+| Altman Z | 16.65 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +6.1% / +190.2% / +271.5% |
-| vs. 200-day average | +93.9% |
-| RSI (14d) | 62 |
-| Volatility (1y) | 71.4% |
+| Return 1m / 6m / 12m | +6.6% / +223.7% / +265.2% |
+| vs. 200-day average | +97.3% |
+| RSI (14d) | 71 |
+| Volatility (1y) | 71.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CDNA
 - Full deep dive: run `python scout.py stock CDNA` → `research/CDNA.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

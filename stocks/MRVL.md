@@ -3,17 +3,17 @@ ticker: "MRVL"
 company: "Marvell Technology Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 236.1
-market_cap: "$207.0B"
+price: 260.9
+market_cap: "$228.8B"
 score: 63
 value: 29
 quality: 54
 growth: 87
 momentum: 98
 health: 67
-pe: 78.4
+pe: 86.7
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-25"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Semiconductors
 - More expensive than about 71% of Technology peers (value score).
 - Business quality ranks above 54% of all stocks scanned.
 - Sales grew 31% over the last 12 months.
-- Share price up 251% over 12 months (25% below its 52-week high).
+- Share price up 212% over 12 months (18% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Technology · Semiconductors
 
 | | |
 |---|---:|
-| Price | $236.10 |
-| Market value | $207.0B |
-| P/E | 78.4 |
-| Price/Sales | 21.91 |
-| Price/Book | 11.17 |
-| Free-cash-flow yield | 0.7% |
+| Price | $260.90 |
+| Market value | $228.8B |
+| P/E | 86.7 |
+| Price/Sales | 24.21 |
+| Price/Book | 12.35 |
+| Free-cash-flow yield | 0.6% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $9.5B |
 | Sales growth | +30.6% |
@@ -59,12 +59,12 @@ Technology · Semiconductors
 | Debt / equity | 0.27 |
 | Current ratio | 3.17 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 14.61 |
+| Altman Z | 16.06 |
 | Share count change (1y) | +5.8% |
-| Return 1m / 6m / 12m | +6.3% / +158.0% / +251.3% |
-| vs. 200-day average | +51.3% |
-| RSI (14d) | 56 |
-| Volatility (1y) | 79.0% |
+| Return 1m / 6m / 12m | +6.4% / +175.2% / +212.0% |
+| vs. 200-day average | +60.2% |
+| RSI (14d) | 64 |
+| Volatility (1y) | 79.2% |
 | Financials as of | 2026-08-01 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MRVL
 - Full deep dive: run `python scout.py stock MRVL` → `research/MRVL.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

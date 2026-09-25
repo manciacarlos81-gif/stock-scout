@@ -3,21 +3,20 @@ ticker: "SNDK"
 company: "Sandisk Corporation"
 sector: "Technology"
 industry: "Electronic Components"
-price: 1633.35
-market_cap: "$239.2B"
-score: 82
-value: 61
-quality: 85
+price: 1816.57
+market_cap: "$266.0B"
+score: 81
+value: 58
+quality: 84
 growth: 91
 momentum: 99
 health: 80
-pe: 20.9
+pe: 23.3
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-25"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
-  - "🎯 Quality on sale"
 tags: [stock]
 ---
 
@@ -25,31 +24,31 @@ tags: [stock]
 
 Technology · Electronic Components
 
-**In screens today:** 🏆 Top overall, 🚀 Growth + momentum, 🎯 Quality on sale
+**In screens today:** 🏆 Top overall, 🚀 Growth + momentum
 
 ## In plain English
 
-- Cheaper than about 61% of stocks in Technology (value score).
-- Business quality ranks above 85% of all stocks scanned.
+- Cheaper than about 58% of stocks in Technology (value score).
+- Business quality ranks above 84% of all stocks scanned.
 - Sales grew 175% over the last 12 months.
-- Share price up 1796% over 12 months (30% below its 52-week high).
+- Share price up 1827% over 12 months (22% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **82** | 61 | 85 | 91 | 99 | 80 |
+| **81** | 58 | 84 | 91 | 99 | 80 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $1,633.35 |
-| Market value | $239.2B |
-| P/E | 20.9 |
-| Price/Sales | 11.81 |
-| Price/Book | 15.20 |
-| Free-cash-flow yield | 4.8% |
+| Price | $1,816.57 |
+| Market value | $266.0B |
+| P/E | 23.3 |
+| Price/Sales | 13.14 |
+| Price/Book | 16.90 |
+| Free-cash-flow yield | 4.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $20.2B |
 | Sales growth | +175.3% |
@@ -61,12 +60,12 @@ Technology · Electronic Components
 | Debt / equity | 0.00 |
 | Current ratio | 2.29 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 24.89 |
+| Altman Z | 27.27 |
 | Share count change (1y) | +6.9% |
-| Return 1m / 6m / 12m | +6.9% / +132.1% / +1796.4% |
-| vs. 200-day average | +55.9% |
-| RSI (14d) | 53 |
-| Volatility (1y) | 116.0% |
+| Return 1m / 6m / 12m | +21.2% / +195.0% / +1826.6% |
+| vs. 200-day average | +63.0% |
+| RSI (14d) | 60 |
+| Volatility (1y) | 116.4% |
 | Financials as of | 2026-07-03 |
 
 ## Dig deeper
@@ -76,4 +75,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/SNDK
 - Full deep dive: run `python scout.py stock SNDK` → `research/SNDK.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "AMD"
 company: "Advanced Micro Devices Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 516.13
-market_cap: "$842.6B"
+price: 614.61
+market_cap: "$1.0T"
 score: 65
-value: 28
+value: 27
 quality: 59
 growth: 84
 momentum: 98
 health: 73
-pe: 131.0
+pe: 155.9
 piotroski: 7
-updated: "2026-09-12"
+updated: "2026-09-25"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · Semiconductors
 
 ## In plain English
 
-- More expensive than about 72% of Technology peers (value score).
+- More expensive than about 73% of Technology peers (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales grew 40% over the last 12 months.
-- Share price up 225% over 12 months (11% below its 52-week high).
+- Share price up 281% over 12 months (1% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 28 | 59 | 84 | 98 | 73 |
+| **65** | 27 | 59 | 84 | 98 | 73 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $516.13 |
-| Market value | $842.6B |
-| P/E | 131.0 |
-| Price/Sales | 20.40 |
-| Price/Book | 12.53 |
-| Free-cash-flow yield | 0.8% |
+| Price | $614.61 |
+| Market value | $1.0T |
+| P/E | 155.9 |
+| Price/Sales | 24.29 |
+| Price/Book | 14.93 |
+| Free-cash-flow yield | 0.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $41.3B |
 | Sales growth | +39.5% |
@@ -61,10 +61,10 @@ Technology · Semiconductors
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +1.8% |
-| Return 1m / 6m / 12m | +6.9% / +162.6% / +225.5% |
-| vs. 200-day average | +47.7% |
-| RSI (14d) | 58 |
-| Volatility (1y) | 71.8% |
+| Return 1m / 6m / 12m | +27.8% / +204.3% / +281.1% |
+| vs. 200-day average | +68.3% |
+| RSI (14d) | 71 |
+| Volatility (1y) | 72.8% |
 | Financials as of | 2026-06-27 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/AMD
 - Full deep dive: run `python scout.py stock AMD` → `research/AMD.md`
 
-_Updated 2026-09-12 · [latest report](../reports/latest.md)_
+_Updated 2026-09-25 · [latest report](../reports/latest.md)_
