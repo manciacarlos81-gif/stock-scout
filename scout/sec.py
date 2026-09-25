@@ -14,6 +14,7 @@ import pandas as pd
 import requests
 
 from .config import CACHE_DIR, SEC_UA
+from .pacing import JitterSchedule
 
 _session = requests.Session()
 _session.headers.update({"User-Agent": SEC_UA, "Accept-Encoding": "gzip, deflate"})
@@ -21,13 +22,20 @@ _last_call = 0.0
 YEAR = timedelta(days=365)
 
 
-def get_json(url: str, max_age_hours: float = 20):
-    """GET with an on-disk cache and SEC's 10-requests-per-second limit. Returns None on 404."""
+def get_json(url: str, max_age_hours: float = 20, retries: int = 5):
+    """GET with an on-disk cache and SEC's 10-requests-per-second limit. Returns None on 404.
+
+    Retry delays come from a jittered backoff schedule (see ``scout.pacing``) so a run that
+    hit heavy rate-limiting starts the next run's retries more cautiously, instead of always
+    resetting to the same fixed 1s/2s/4s/... backoff.
+    """
     global _last_call
     path = CACHE_DIR / "sec" / url.split("://", 1)[1].replace("/", "_")
     if path.exists() and time.time() - path.stat().st_mtime < max_age_hours * 3600:
         return json.loads(path.read_text())
-    for attempt in range(5):
+    schedule = None
+    r = None
+    for attempt in range(retries):
         wait = 0.12 - (time.time() - _last_call)
         if wait > 0:
             time.sleep(wait)
@@ -35,14 +43,20 @@ def get_json(url: str, max_age_hours: float = 20):
         try:
             r = _session.get(url, timeout=60)
         except requests.RequestException:
-            time.sleep(2 ** attempt)
+            schedule = schedule or JitterSchedule(key="sec", base=1.0, factor=2.0, max_delay=30.0)
+            schedule.wait()
             continue
         if r.status_code in (200, 404):
+            if schedule:
+                schedule.reset(success=True)
             break
         if r.status_code == 403 and "Undeclared" in r.text:
             raise RuntimeError("SEC rejected the User-Agent. Set SEC_USER_AGENT to 'Your Name your@email.com'.")
-        time.sleep(2 ** attempt)
+        schedule = schedule or JitterSchedule(key="sec", base=1.0, factor=2.0, max_delay=30.0)
+        schedule.wait()
     else:
+        if schedule:
+            schedule.reset(success=False)
         raise RuntimeError(f"SEC request kept failing: {url}")
     data = r.json() if r.status_code == 200 else None
     path.parent.mkdir(parents=True, exist_ok=True)

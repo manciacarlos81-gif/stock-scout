@@ -4,18 +4,21 @@
     python scout.py scan              full market scan -> reports/, stocks/, data/, docs/
     python scout.py scan --limit 300  quick test on the 300 most-traded stocks
     python scout.py stock AAPL MSFT   deep-dive notes -> research/
+    python scout.py audit             flag tickers whose screen status changed since the last scan
 """
 from __future__ import annotations
 
 import argparse
+import logging
 import time
 from datetime import date, timedelta
+from pathlib import Path
 
 import pandas as pd
 
 from scout import insiders, macro, market, report, scoring, sec
 from scout.config import (DATA_DIR, INSIDER_LOOKBACK_DAYS, MAX_DATA_AGE_DAYS, MIN_DOLLAR_VOLUME,
-                          MIN_MARKET_CAP, MIN_PRICE, WEIGHTS)
+                          MIN_MARKET_CAP, MIN_PRICE, REPORTS_DIR, WEIGHTS)
 
 HISTORY = DATA_DIR / "picks_history.csv"
 
@@ -124,13 +127,36 @@ def main():
     s.add_argument("--limit", type=int, help="only scan the N most-traded stocks (for testing)")
     k = sub.add_parser("stock", help="deep dive on one or more tickers")
     k.add_argument("tickers", nargs="+")
+    au = sub.add_parser("audit", help="flag tickers whose screen status changed since the last scan")
+    au.add_argument("--reports-dir", type=Path, default=REPORTS_DIR)
+    au.add_argument("--current", type=Path, help="dated report to treat as the current run (default: most recent)")
+    au.add_argument("--output", type=Path, help="write the diff as Markdown here instead of printing it")
+    au.add_argument("-v", "--verbose", action="store_true", help="debug logging")
     a = p.parse_args()
     if a.cmd == "scan":
         scan(a.limit)
-    else:
+    elif a.cmd == "stock":
         from scout import research
         for t in a.tickers:
             print(research.deep_dive(t))
+    else:
+        from scout import audit
+        logging.basicConfig(level=logging.DEBUG if a.verbose else logging.INFO, format="%(message)s")
+        try:
+            result = audit.compare(a.reports_dir, a.current)
+        except (FileNotFoundError, ValueError) as e:
+            raise SystemExit(str(e))
+        if result is None:
+            print("No prior run to compare against.")
+            return
+        prior_date, current_date, changes = result
+        text = audit.format_changes(changes, prior_date, current_date)
+        if a.output:
+            a.output.parent.mkdir(parents=True, exist_ok=True)
+            a.output.write_text(text + "\n")
+            print(f"wrote {a.output}")
+        else:
+            print(text)
 
 
 if __name__ == "__main__":
