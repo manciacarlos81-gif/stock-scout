@@ -3,17 +3,17 @@ ticker: "EVER"
 company: "EverQuote Inc."
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 17.63
-market_cap: "$621.3M"
+price: 18.06
+market_cap: "$636.4M"
 score: 71
-value: 95
+value: 94
 quality: 69
 growth: 83
-momentum: 43
+momentum: 42
 health: 62
-pe: 5.4
+pe: 5.6
 piotroski: 7
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · Computer Software: Programming Data Processing
 
 ## In plain English
 
-- Cheaper than about 95% of stocks in Technology (value score).
+- Cheaper than about 94% of stocks in Technology (value score).
 - Business quality ranks above 69% of all stocks scanned.
 - Sales grew 23% over the last 12 months.
-- Share price down 26% over 12 months (37% below its 52-week high).
+- Share price down 24% over 12 months (35% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **71** | 95 | 69 | 83 | 43 | 62 |
+| **71** | 94 | 69 | 83 | 42 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $17.63 |
-| Market value | $621.3M |
-| P/E | 5.4 |
-| Price/Sales | 0.82 |
-| Price/Book | 2.42 |
-| Free-cash-flow yield | 15.4% |
+| Price | $18.06 |
+| Market value | $636.4M |
+| P/E | 5.6 |
+| Price/Sales | 0.84 |
+| Price/Book | 2.48 |
+| Free-cash-flow yield | 15.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $755.2M |
 | Sales growth | +22.7% |
@@ -59,12 +59,12 @@ Technology · Computer Software: Programming Data Processing
 | Debt / equity | – |
 | Current ratio | 3.33 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 7.95 |
+| Altman Z | 8.06 |
 | Share count change (1y) | -4.9% |
-| Return 1m / 6m / 12m | -32.4% / +16.1% / -25.5% |
-| vs. 200-day average | -16.5% |
-| RSI (14d) | 21 |
-| Volatility (1y) | 84.7% |
+| Return 1m / 6m / 12m | -27.2% / +15.3% / -23.6% |
+| vs. 200-day average | -14.2% |
+| RSI (14d) | 25 |
+| Volatility (1y) | 83.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/EVER
 - Full deep dive: run `python scout.py stock EVER` → `research/EVER.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

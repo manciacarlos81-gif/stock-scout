@@ -3,17 +3,17 @@ ticker: "SPB"
 company: "Spectrum Brands Holdings Inc."
 sector: "Miscellaneous"
 industry: "Industrial Machinery/Components"
-price: 86.48
-market_cap: "$2.0B"
-score: 60
+price: 84.77
+market_cap: "$1.9B"
+score: 59
 value: 76
 quality: 47
 growth: 38
-momentum: 74
+momentum: 71
 health: 58
-pe: 25.1
+pe: 24.6
 piotroski: 5
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Miscellaneous · Industrial Machinery/Components
 - Cheaper than about 76% of stocks in Miscellaneous (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 70% over 12 months (4% below its 52-week high).
+- Share price up 62% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 76 | 47 | 38 | 74 | 58 |
+| **59** | 76 | 47 | 38 | 71 | 58 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $86.48 |
-| Market value | $2.0B |
-| P/E | 25.1 |
-| Price/Sales | 0.69 |
-| Price/Book | 1.08 |
-| Free-cash-flow yield | 8.3% |
-| Dividend yield | 2.4% |
+| Price | $84.77 |
+| Market value | $1.9B |
+| P/E | 24.6 |
+| Price/Sales | 0.68 |
+| Price/Book | 1.05 |
+| Free-cash-flow yield | 8.5% |
+| Dividend yield | 2.5% |
 | Sales (12m) | $2.9B |
 | Sales growth | +0.8% |
 | Net profit (12m) | $79.3M |
@@ -59,12 +59,12 @@ Miscellaneous · Industrial Machinery/Components
 | Debt / equity | 0.33 |
 | Current ratio | 2.41 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 2.78 |
+| Altman Z | 2.77 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -2.7% / +18.8% / +70.1% |
-| vs. 200-day average | +11.3% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 33.5% |
+| Return 1m / 6m / 12m | -4.2% / +16.4% / +62.3% |
+| vs. 200-day average | +8.9% |
+| RSI (14d) | 43 |
+| Volatility (1y) | 33.6% |
 | Financials as of | 2026-06-28 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Miscellaneous · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/SPB
 - Full deep dive: run `python scout.py stock SPB` → `research/SPB.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

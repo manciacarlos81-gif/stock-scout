@@ -3,7 +3,7 @@ ticker: "GNL"
 company: "Global Net Lease Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 8.67
+price: 8.63
 market_cap: "$2.0B"
 score: 53
 value: 56
@@ -13,7 +13,7 @@ momentum: 43
 health: 59
 pe: null
 piotroski: 5
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,7 +30,7 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 56% of stocks in Real Estate (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales fell 14% over the last 12 months.
-- Share price up 17% over 12 months (9% below its 52-week high).
+- Share price up 16% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Real Estate · Real Estate Investment Trusts
 
 | | |
 |---|---:|
-| Price | $8.67 |
+| Price | $8.63 |
 | Market value | $2.0B |
 | P/E | – |
-| Price/Sales | 4.36 |
-| Price/Book | 1.33 |
-| Free-cash-flow yield | 11.1% |
+| Price/Sales | 4.34 |
+| Price/Book | 1.32 |
+| Free-cash-flow yield | 11.2% |
 | Dividend yield | 9.6% |
 | Sales (12m) | $459.7M |
 | Sales growth | -13.9% |
@@ -61,9 +61,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 5/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.2% |
-| Return 1m / 6m / 12m | -5.1% / -1.5% / +17.1% |
-| vs. 200-day average | -3.2% |
-| RSI (14d) | 29 |
+| Return 1m / 6m / 12m | -5.5% / -2.3% / +15.5% |
+| vs. 200-day average | -3.7% |
+| RSI (14d) | 28 |
 | Volatility (1y) | 21.4% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/GNL
 - Full deep dive: run `python scout.py stock GNL` → `research/GNL.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

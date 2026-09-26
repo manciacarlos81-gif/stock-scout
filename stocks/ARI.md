@@ -9,11 +9,11 @@ score: 66
 value: 88
 quality: 64
 growth: 50
-momentum: 34
+momentum: 35
 health: 91
 pe: 6.1
 piotroski: 8
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -36,7 +36,7 @@ Real Estate · Real Estate Investment Trusts
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 88 | 64 | 50 | 34 | 91 |
+| **66** | 88 | 64 | 50 | 35 | 91 |
 
 ## Key numbers
 
@@ -61,7 +61,7 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | -8.1% / -4.6% / +1.8% |
+| Return 1m / 6m / 12m | -9.3% / -5.6% / +2.2% |
 | vs. 200-day average | -6.9% |
 | RSI (14d) | 23 |
 | Volatility (1y) | 20.0% |
@@ -74,4 +74,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/ARI
 - Full deep dive: run `python scout.py stock ARI` → `research/ARI.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

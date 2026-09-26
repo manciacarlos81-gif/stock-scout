@@ -13,9 +13,8 @@ momentum: 12
 health: 66
 pe: 5.7
 piotroski: 6
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
-  - "🪙 Deep value"
   - "💵 Dividends & buybacks"
 tags: [stock]
 ---
@@ -24,7 +23,7 @@ tags: [stock]
 
 Consumer Discretionary · Catalog/Specialty Distribution
 
-**In screens today:** 🪙 Deep value, 💵 Dividends & buybacks
+**In screens today:** 💵 Dividends & buybacks
 
 ## In plain English
 
@@ -62,10 +61,10 @@ Consumer Discretionary · Catalog/Specialty Distribution
 | Piotroski F-score | 6/9 |
 | Altman Z | 3.40 |
 | Share count change (1y) | -5.1% |
-| Return 1m / 6m / 12m | -12.1% / -20.0% / -30.4% |
-| vs. 200-day average | -18.0% |
-| RSI (14d) | 34 |
-| Volatility (1y) | 32.5% |
+| Return 1m / 6m / 12m | -8.2% / -19.5% / -30.1% |
+| vs. 200-day average | -17.8% |
+| RSI (14d) | 36 |
+| Volatility (1y) | 32.4% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -79,4 +78,4 @@ Consumer Discretionary · Catalog/Specialty Distribution
 - Insider trades: http://openinsider.com/VIPS
 - Full deep dive: run `python scout.py stock VIPS` → `research/VIPS.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "GSAT"
 company: "Globalstar Inc."
 sector: "Consumer Discretionary"
 industry: "Telecommunications Equipment"
-price: 82.5
+price: 82.46
 market_cap: "$10.7B"
 score: 45
 value: 20
 quality: 47
 growth: 52
-momentum: 82
+momentum: 83
 health: 29
 pe: null
 piotroski: 4
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Telecommunications Equipment
 - More expensive than about 80% of Consumer Discretionary peers (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 138% over 12 months (2% below its 52-week high).
+- Share price up 141% over 12 months (2% below its 52-week high).
 - Insiders bought $29.8M of shares recently (Monroe James III (Dir, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **45** | 20 | 47 | 52 | 82 | 29 |
+| **45** | 20 | 47 | 52 | 83 | 29 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $82.50 |
+| Price | $82.46 |
 | Market value | $10.7B |
 | P/E | – |
-| Price/Sales | 38.09 |
-| Price/Book | 36.53 |
+| Price/Sales | 38.07 |
+| Price/Book | 36.51 |
 | Free-cash-flow yield | 5.8% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $280.6M |
@@ -62,8 +62,8 @@ Consumer Discretionary · Telecommunications Equipment
 | Piotroski F-score | 4/9 |
 | Altman Z | 1.93 |
 | Share count change (1y) | +1.0% |
-| Return 1m / 6m / 12m | +0.8% / +28.6% / +138.1% |
-| vs. 200-day average | +12.0% |
+| Return 1m / 6m / 12m | +0.5% / +33.4% / +141.2% |
+| vs. 200-day average | +11.8% |
 | RSI (14d) | 53 |
 | Volatility (1y) | 59.7% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Telecommunications Equipment
 - Insider trades: http://openinsider.com/GSAT
 - Full deep dive: run `python scout.py stock GSAT` → `research/GSAT.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

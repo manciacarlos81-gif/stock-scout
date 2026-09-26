@@ -3,8 +3,8 @@ ticker: "AVBC"
 company: "Avidia Bancorp Inc."
 sector: "Finance"
 industry: "Banks"
-price: 21.63
-market_cap: "$432.0M"
+price: 21.69
+market_cap: "$433.2M"
 score: 53
 value: 42
 quality: null
@@ -13,7 +13,7 @@ momentum: 66
 health: 62
 pe: 24.6
 piotroski: null
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -41,8 +41,8 @@ Finance · Banks
 
 | | |
 |---|---:|
-| Price | $21.63 |
-| Market value | $432.0M |
+| Price | $21.69 |
+| Market value | $433.2M |
 | P/E | 24.6 |
 | Price/Sales | – |
 | Price/Book | 1.11 |
@@ -60,10 +60,10 @@ Finance · Banks
 | Piotroski F-score | – |
 | Altman Z | – |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -1.8% / +14.6% / +42.6% |
-| vs. 200-day average | +9.9% |
-| RSI (14d) | 45 |
-| Volatility (1y) | 24.8% |
+| Return 1m / 6m / 12m | -2.1% / +13.0% / +43.2% |
+| vs. 200-day average | +10.1% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 24.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Finance · Banks
 - Insider trades: http://openinsider.com/AVBC
 - Full deep dive: run `python scout.py stock AVBC` → `research/AVBC.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

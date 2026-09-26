@@ -3,17 +3,17 @@ ticker: "SCHL"
 company: "Scholastic Corporation"
 sector: "Consumer Discretionary"
 industry: "Books"
-price: 35.36
-market_cap: "$670.6M"
+price: 34.83
+market_cap: "$660.5M"
 score: 52
 value: 63
 quality: 47
 growth: 49
-momentum: 47
+momentum: 45
 health: 53
-pe: 11.8
+pe: 11.6
 piotroski: 8
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Books
 - Cheaper than about 63% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 37% over 12 months (25% below its 52-week high).
+- Share price up 29% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 63 | 47 | 49 | 47 | 53 |
+| **52** | 63 | 47 | 49 | 45 | 53 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $35.36 |
-| Market value | $670.6M |
-| P/E | 11.8 |
+| Price | $34.83 |
+| Market value | $660.5M |
+| P/E | 11.6 |
 | Price/Sales | 0.42 |
-| Price/Book | 0.89 |
-| Free-cash-flow yield | 7.6% |
+| Price/Book | 0.88 |
+| Free-cash-flow yield | 7.7% |
 | Dividend yield | 3.0% |
 | Sales (12m) | $1.6B |
 | Sales growth | -2.7% |
@@ -61,10 +61,10 @@ Consumer Discretionary · Books
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -12.3% |
-| Return 1m / 6m / 12m | -10.9% / -7.7% / +37.1% |
-| vs. 200-day average | -6.4% |
-| RSI (14d) | 34 |
-| Volatility (1y) | 34.0% |
+| Return 1m / 6m / 12m | -10.4% / -9.3% / +29.5% |
+| vs. 200-day average | -7.9% |
+| RSI (14d) | 31 |
+| Volatility (1y) | 33.9% |
 | Financials as of | 2026-05-31 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Books
 - Insider trades: http://openinsider.com/SCHL
 - Full deep dive: run `python scout.py stock SCHL` → `research/SCHL.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

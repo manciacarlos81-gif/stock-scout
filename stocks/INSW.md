@@ -3,17 +3,17 @@ ticker: "INSW"
 company: "International Seaways Inc."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 101.96
-market_cap: "$5.1B"
+price: 104.85
+market_cap: "$5.2B"
 score: 80
-value: 71
+value: 70
 quality: 78
 growth: 88
-momentum: 91
+momentum: 93
 health: 73
-pe: 6.5
+pe: 6.7
 piotroski: 6
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,28 +28,28 @@ Consumer Discretionary · Marine Transportation
 
 ## In plain English
 
-- Cheaper than about 71% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 70% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 57% over the last 12 months.
-- Share price up 151% over 12 months (8% below its 52-week high).
+- Share price up 159% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 71 | 78 | 88 | 91 | 73 |
+| **80** | 70 | 78 | 88 | 93 | 73 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $101.96 |
-| Market value | $5.1B |
-| P/E | 6.5 |
-| Price/Sales | 4.02 |
-| Price/Book | 2.23 |
-| Free-cash-flow yield | 7.5% |
-| Dividend yield | 2.9% |
+| Price | $104.85 |
+| Market value | $5.2B |
+| P/E | 6.7 |
+| Price/Sales | 4.13 |
+| Price/Book | 2.29 |
+| Free-cash-flow yield | 7.3% |
+| Dividend yield | 2.8% |
 | Sales (12m) | $1.3B |
 | Sales growth | +57.4% |
 | Net profit (12m) | $779.1M |
@@ -60,12 +60,12 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.29 |
 | Current ratio | 5.94 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 5.94 |
+| Altman Z | 6.05 |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | +14.4% / +59.3% / +150.8% |
-| vs. 200-day average | +42.3% |
-| RSI (14d) | 53 |
-| Volatility (1y) | 38.8% |
+| Return 1m / 6m / 12m | +11.0% / +64.4% / +158.9% |
+| vs. 200-day average | +45.7% |
+| RSI (14d) | 59 |
+| Volatility (1y) | 38.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/INSW
 - Full deep dive: run `python scout.py stock INSW` → `research/INSW.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

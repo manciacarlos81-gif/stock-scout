@@ -3,7 +3,7 @@ ticker: "AMD"
 company: "Advanced Micro Devices Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 614.61
+price: 629.26
 market_cap: "$1.0T"
 score: 65
 value: 27
@@ -11,9 +11,9 @@ quality: 59
 growth: 84
 momentum: 98
 health: 73
-pe: 155.9
+pe: 159.7
 piotroski: 7
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Semiconductors
 - More expensive than about 73% of Technology peers (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales grew 40% over the last 12 months.
-- Share price up 281% over 12 months (1% below its 52-week high).
+- Share price up 295% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Technology · Semiconductors
 
 | | |
 |---|---:|
-| Price | $614.61 |
+| Price | $629.26 |
 | Market value | $1.0T |
-| P/E | 155.9 |
-| Price/Sales | 24.29 |
-| Price/Book | 14.93 |
+| P/E | 159.7 |
+| Price/Sales | 24.87 |
+| Price/Book | 15.28 |
 | Free-cash-flow yield | 0.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $41.3B |
@@ -61,10 +61,10 @@ Technology · Semiconductors
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +1.8% |
-| Return 1m / 6m / 12m | +27.8% / +204.3% / +281.1% |
-| vs. 200-day average | +68.3% |
-| RSI (14d) | 71 |
-| Volatility (1y) | 72.8% |
+| Return 1m / 6m / 12m | +32.0% / +221.0% / +294.6% |
+| vs. 200-day average | +71.3% |
+| RSI (14d) | 73 |
+| Volatility (1y) | 72.9% |
 | Financials as of | 2026-06-27 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/AMD
 - Full deep dive: run `python scout.py stock AMD` → `research/AMD.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

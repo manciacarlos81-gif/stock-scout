@@ -13,7 +13,7 @@ momentum: 39
 health: 84
 pe: 8.7
 piotroski: 4
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 - Cheaper than about 93% of stocks in Health Care (value score).
 - Business quality ranks above 61% of all stocks scanned.
 - Sales fell 6% over the last 12 months.
-- Share price down 4% over 12 months (15% below its 52-week high).
+- Share price down 5% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 | Piotroski F-score | 4/9 |
 | Altman Z | 9.48 |
 | Share count change (1y) | -18.8% |
-| Return 1m / 6m / 12m | -5.0% / +5.9% / -4.0% |
-| vs. 200-day average | -1.5% |
+| Return 1m / 6m / 12m | -4.4% / +5.8% / -4.8% |
+| vs. 200-day average | -1.4% |
 | RSI (14d) | 30 |
 | Volatility (1y) | 31.5% |
 | Financials as of | 2025-12-31 |
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 - Insider trades: http://openinsider.com/INMD
 - Full deep dive: run `python scout.py stock INMD` → `research/INMD.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

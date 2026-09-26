@@ -1,13 +1,13 @@
 {
- "date": "2026-09-25",
- "scanned": 2623,
+ "date": "2026-09-26",
+ "scanned": 2621,
  "top": [
   {
    "rank": 1,
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 81,
-   "price": 1816.57,
+   "price": 1753.62,
    "flags": ""
   },
   {
@@ -15,7 +15,7 @@
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 94.47,
+   "price": 97.58,
    "flags": "heavy debt"
   },
   {
@@ -23,7 +23,7 @@
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 80,
-   "price": 124.64,
+   "price": 124.44,
    "flags": ""
   },
   {
@@ -31,23 +31,23 @@
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 201.86,
+   "price": 204.59,
    "flags": "shares up 17% in a year"
   },
   {
    "rank": 5,
-   "ticker": "CDNA",
-   "name": "CareDx Inc.",
+   "ticker": "INSW",
+   "name": "International Seaways Inc.",
    "score": 80,
-   "price": 54.31,
+   "price": 104.85,
    "flags": ""
   },
   {
    "rank": 6,
-   "ticker": "INSW",
-   "name": "International Seaways Inc.",
+   "ticker": "CDNA",
+   "name": "CareDx Inc.",
    "score": 80,
-   "price": 101.96,
+   "price": 61.37,
    "flags": ""
   },
   {
@@ -55,7 +55,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 79,
-   "price": 53.16,
+   "price": 54.05,
    "flags": ""
   },
   {
@@ -63,7 +63,7 @@
    "ticker": "BFH",
    "name": "Bread Financial Holdings Inc.",
    "score": 78,
-   "price": 99.19,
+   "price": 101.56,
    "flags": ""
   },
   {
@@ -71,19 +71,21 @@
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
    "score": 78,
-   "price": 56.73,
+   "price": 57.95,
    "flags": ""
   },
   {
    "rank": 10,
-   "ticker": "KNSA",
-   "name": "Kiniksa Pharmaceuticals International plc",
+   "ticker": "AUPH",
+   "name": "Aurinia Pharmaceuticals Inc",
    "score": 78,
-   "price": 76.08,
-   "flags": ""
+   "price": 16.59,
+   "flags": "profits not backed by cash"
   }
  ],
- "new_top": [],
+ "new_top": [
+  "AUPH"
+ ],
  "prev_top": [
   "BFH",
   "CDNA",

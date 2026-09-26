@@ -3,8 +3,8 @@ ticker: "EMBC"
 company: "Embecta Corp."
 sector: "Health Care"
 industry: "Medical/Dental Instruments"
-price: 5.58
-market_cap: "$316.2M"
+price: 5.62
+market_cap: "$318.4M"
 score: 51
 value: 86
 quality: 79
@@ -13,7 +13,7 @@ momentum: 4
 health: 28
 pe: 3.6
 piotroski: 7
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -43,13 +43,13 @@ Health Care · Medical/Dental Instruments
 
 | | |
 |---|---:|
-| Price | $5.58 |
-| Market value | $316.2M |
+| Price | $5.62 |
+| Market value | $318.4M |
 | P/E | 3.6 |
 | Price/Sales | 0.31 |
 | Price/Book | – |
-| Free-cash-flow yield | 57.7% |
-| Dividend yield | 11.1% |
+| Free-cash-flow yield | 57.3% |
+| Dividend yield | 11.0% |
 | Sales (12m) | $1.0B |
 | Sales growth | -7.6% |
 | Net profit (12m) | $87.5M |
@@ -62,8 +62,8 @@ Health Care · Medical/Dental Instruments
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | +12.7% / -34.6% / -57.9% |
-| vs. 200-day average | -20.9% |
+| Return 1m / 6m / 12m | +13.1% / -36.1% / -58.2% |
+| vs. 200-day average | -20.0% |
 | RSI (14d) | 63 |
 | Volatility (1y) | 80.8% |
 | Financials as of | 2026-06-30 |
@@ -80,4 +80,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/EMBC
 - Full deep dive: run `python scout.py stock EMBC` → `research/EMBC.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

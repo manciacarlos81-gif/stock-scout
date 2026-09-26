@@ -5,15 +5,15 @@ sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
 price: 21.49
 market_cap: "$1.3B"
-score: 50
+score: 49
 value: 54
 quality: 52
 growth: 16
-momentum: 58
+momentum: 57
 health: 61
 pe: 55.0
 piotroski: 8
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,14 +30,14 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 54% of stocks in Real Estate (value score).
 - Business quality ranks above 52% of all stocks scanned.
 - Sales fell 4% over the last 12 months.
-- Share price up 14% over 12 months (16% below its 52-week high).
+- Share price up 13% over 12 months (16% below its 52-week high).
 - Insiders bought $20.1M of shares recently (Rady Ernest S (Exec COB, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 54 | 52 | 16 | 58 | 61 |
+| **49** | 54 | 52 | 16 | 57 | 61 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.2% |
-| Return 1m / 6m / 12m | -4.0% / +21.8% / +14.0% |
-| vs. 200-day average | +4.4% |
+| Return 1m / 6m / 12m | -3.0% / +20.5% / +13.0% |
+| vs. 200-day average | +4.3% |
 | RSI (14d) | 37 |
 | Volatility (1y) | 22.1% |
 | Financials as of | 2026-03-31 |
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/AAT
 - Full deep dive: run `python scout.py stock AAT` → `research/AAT.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

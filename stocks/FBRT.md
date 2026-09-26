@@ -3,17 +3,17 @@ ticker: "FBRT"
 company: "Franklin BSP Realty Trust Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 7.46
-market_cap: "$619.5M"
+price: 7.3
+market_cap: "$606.2M"
 score: 56
 value: 92
 quality: 58
 growth: 56
-momentum: 21
+momentum: 18
 health: 41
-pe: 9.6
+pe: 9.4
 piotroski: 6
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,25 +30,25 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 92% of stocks in Real Estate (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 37% over the last 12 months.
-- Share price down 25% over 12 months (27% below its 52-week high).
+- Share price down 27% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 92 | 58 | 56 | 21 | 41 |
+| **56** | 92 | 58 | 56 | 18 | 41 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $7.46 |
-| Market value | $619.5M |
-| P/E | 9.6 |
-| Price/Sales | 2.03 |
-| Price/Book | 0.45 |
-| Free-cash-flow yield | 47.1% |
-| Dividend yield | 23.5% |
+| Price | $7.30 |
+| Market value | $606.2M |
+| P/E | 9.4 |
+| Price/Sales | 1.99 |
+| Price/Book | 0.44 |
+| Free-cash-flow yield | 48.2% |
+| Dividend yield | 24.0% |
 | Sales (12m) | $305.4M |
 | Sales growth | +37.0% |
 | Net profit (12m) | $64.4M |
@@ -61,10 +61,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.1% |
-| Return 1m / 6m / 12m | -11.7% / -6.2% / -25.5% |
-| vs. 200-day average | -13.2% |
-| RSI (14d) | 36 |
-| Volatility (1y) | 28.7% |
+| Return 1m / 6m / 12m | -12.9% / -10.2% / -27.3% |
+| vs. 200-day average | -14.9% |
+| RSI (14d) | 33 |
+| Volatility (1y) | 28.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/FBRT
 - Full deep dive: run `python scout.py stock FBRT` → `research/FBRT.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

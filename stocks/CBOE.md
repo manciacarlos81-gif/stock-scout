@@ -3,17 +3,17 @@ ticker: "CBOE"
 company: "Cboe Global Markets Inc."
 sector: "Finance"
 industry: "Investment Bankers/Brokers/Service"
-price: 268.87
-market_cap: "$30.1B"
+price: 267.57
+market_cap: "$29.9B"
 score: 61
 value: 36
 quality: 84
 growth: 65
-momentum: 44
+momentum: 43
 health: 83
-pe: 22.2
+pe: 22.1
 piotroski: 8
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,25 +30,25 @@ Finance · Investment Bankers/Brokers/Service
 - More expensive than about 64% of Finance peers (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price up 11% over 12 months (26% below its 52-week high).
+- Share price up 11% over 12 months (27% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 36 | 84 | 65 | 44 | 83 |
+| **61** | 36 | 84 | 65 | 43 | 83 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $268.87 |
-| Market value | $30.1B |
-| P/E | 22.2 |
-| Price/Sales | 5.94 |
-| Price/Book | 5.34 |
+| Price | $267.57 |
+| Market value | $29.9B |
+| P/E | 22.1 |
+| Price/Sales | 5.91 |
+| Price/Book | 5.32 |
 | Free-cash-flow yield | – |
-| Dividend yield | 0.9% |
+| Dividend yield | 1.0% |
 | Sales (12m) | $5.1B |
 | Sales growth | +11.7% |
 | Net profit (12m) | $1.4B |
@@ -61,8 +61,8 @@ Finance · Investment Bankers/Brokers/Service
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -0.1% |
-| Return 1m / 6m / 12m | -13.6% / -1.0% / +11.0% |
-| vs. 200-day average | -6.0% |
+| Return 1m / 6m / 12m | -14.5% / -4.8% / +10.7% |
+| vs. 200-day average | -6.5% |
 | RSI (14d) | 37 |
 | Volatility (1y) | 33.8% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Finance · Investment Bankers/Brokers/Service
 - Insider trades: http://openinsider.com/CBOE
 - Full deep dive: run `python scout.py stock CBOE` → `research/CBOE.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

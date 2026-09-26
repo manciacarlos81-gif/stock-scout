@@ -3,17 +3,17 @@ ticker: "IDXX"
 company: "IDEXX Laboratories Inc."
 sector: "Health Care"
 industry: "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
-price: 522.02
-market_cap: "$41.1B"
+price: 513.39
+market_cap: "$40.4B"
 score: 61
 value: 60
 quality: 88
 growth: 59
-momentum: 22
+momentum: 21
 health: 75
-pe: 36.1
+pe: 35.5
 piotroski: 8
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,23 +30,23 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 - Cheaper than about 60% of stocks in Health Care (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price down 16% over 12 months (32% below its 52-week high).
+- Share price down 19% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 60 | 88 | 59 | 22 | 75 |
+| **61** | 60 | 88 | 59 | 21 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $522.02 |
-| Market value | $41.1B |
-| P/E | 36.1 |
-| Price/Sales | 9.03 |
-| Price/Book | 25.50 |
+| Price | $513.39 |
+| Market value | $40.4B |
+| P/E | 35.5 |
+| Price/Sales | 8.88 |
+| Price/Book | 25.08 |
 | Free-cash-flow yield | 2.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $4.6B |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 | Debt / equity | 0.28 |
 | Current ratio | 1.17 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 19.13 |
+| Altman Z | 18.91 |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -5.7% / -6.5% / -15.6% |
-| vs. 200-day average | -11.8% |
-| RSI (14d) | 45 |
+| Return 1m / 6m / 12m | -5.8% / -7.8% / -18.8% |
+| vs. 200-day average | -13.1% |
+| RSI (14d) | 40 |
 | Volatility (1y) | 31.9% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 - Insider trades: http://openinsider.com/IDXX
 - Full deep dive: run `python scout.py stock IDXX` → `research/IDXX.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

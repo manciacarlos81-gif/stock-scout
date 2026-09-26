@@ -3,17 +3,17 @@ ticker: "GSL"
 company: "Global Ship Lease Inc New"
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 44.54
+price: 44.11
 market_cap: "$1.6B"
 score: 73
 value: 89
 quality: 79
 growth: 51
-momentum: 74
+momentum: 75
 health: 56
 pe: 3.8
 piotroski: 6
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 89% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 49% over 12 months (4% below its 52-week high).
+- Share price up 48% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 89 | 79 | 51 | 74 | 56 |
+| **73** | 89 | 79 | 51 | 75 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $44.54 |
+| Price | $44.11 |
 | Market value | $1.6B |
 | P/E | 3.8 |
-| Price/Sales | 2.09 |
-| Price/Book | 0.89 |
-| Free-cash-flow yield | 32.6% |
+| Price/Sales | 2.07 |
+| Price/Book | 0.88 |
+| Free-cash-flow yield | 32.9% |
 | Dividend yield | 4.8% |
 | Sales (12m) | $766.5M |
 | Sales growth | +7.8% |
@@ -59,12 +59,12 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.38 |
 | Current ratio | 2.04 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.35 |
+| Altman Z | 2.34 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | +0.8% / +25.2% / +49.2% |
-| vs. 200-day average | +15.4% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 28.3% |
+| Return 1m / 6m / 12m | -2.0% / +26.4% / +47.6% |
+| vs. 200-day average | +14.2% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 28.1% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/GSL
 - Full deep dive: run `python scout.py stock GSL` → `research/GSL.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_

@@ -3,8 +3,8 @@ ticker: "BDSX"
 company: "Biodesix Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 29.29
-market_cap: "$309.0M"
+price: 29.4
+market_cap: "$310.2M"
 score: 47
 value: 32
 quality: 26
@@ -13,7 +13,7 @@ momentum: 97
 health: 14
 pe: null
 piotroski: 3
-updated: "2026-09-25"
+updated: "2026-09-26"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Medical Specialities
 - More expensive than about 68% of Health Care peers (value score).
 - Business quality ranks above 26% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 266% over 12 months (4% below its 52-week high).
+- Share price up 279% over 12 months (4% below its 52-week high).
 - Insiders bought $1.0M of shares recently (Schuler Jack W (Emeritus Director, 10%)).
 
 ## Scores (0–100, higher is better)
@@ -43,11 +43,11 @@ Health Care · Medical Specialities
 
 | | |
 |---|---:|
-| Price | $29.29 |
-| Market value | $309.0M |
+| Price | $29.40 |
+| Market value | $310.2M |
 | P/E | – |
-| Price/Sales | 3.00 |
-| Price/Book | 33.80 |
+| Price/Sales | 3.01 |
+| Price/Book | 33.92 |
 | Free-cash-flow yield | -7.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $102.9M |
@@ -60,10 +60,10 @@ Health Care · Medical Specialities
 | Debt / equity | 5.47 |
 | Current ratio | 2.85 |
 | Piotroski F-score | 3/9 |
-| Altman Z | -4.66 |
+| Altman Z | -4.65 |
 | Share count change (1y) | +40.4% |
-| Return 1m / 6m / 12m | -4.3% / +106.1% / +265.9% |
-| vs. 200-day average | +78.4% |
+| Return 1m / 6m / 12m | +3.2% / +113.2% / +279.4% |
+| vs. 200-day average | +77.9% |
 | RSI (14d) | 62 |
 | Volatility (1y) | 107.8% |
 | Financials as of | 2026-06-30 |
@@ -83,4 +83,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/BDSX
 - Full deep dive: run `python scout.py stock BDSX` → `research/BDSX.md`
 
-_Updated 2026-09-25 · [latest report](../reports/latest.md)_
+_Updated 2026-09-26 · [latest report](../reports/latest.md)_
