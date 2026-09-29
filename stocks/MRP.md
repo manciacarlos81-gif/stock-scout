@@ -3,17 +3,17 @@ ticker: "MRP"
 company: "Millrose Properties Inc."
 sector: "Finance"
 industry: "Real Estate"
-price: 27.06
-market_cap: "$4.5B"
+price: 26.34
+market_cap: "$4.4B"
 score: 74
 value: 79
 quality: 80
 growth: 92
-momentum: 36
+momentum: 33
 health: 89
-pe: 9.4
+pe: 9.2
 piotroski: 9
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -29,26 +29,26 @@ Finance · Real Estate
 
 - Cheaper than about 79% of stocks in Finance (value score).
 - Business quality ranks above 80% of all stocks scanned.
-- Share price down 12% over 12 months (15% below its 52-week high).
+- Share price down 14% over 12 months (18% below its 52-week high).
 - Insiders bought $115.6K of shares recently (Migoya Carlos A. (Dir); Gorson Matthew B. (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 79 | 80 | 92 | 36 | 89 |
+| **74** | 79 | 80 | 92 | 33 | 89 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $27.06 |
-| Market value | $4.5B |
-| P/E | 9.4 |
-| Price/Sales | 5.91 |
-| Price/Book | 0.77 |
+| Price | $26.34 |
+| Market value | $4.4B |
+| P/E | 9.2 |
+| Price/Sales | 5.75 |
+| Price/Book | 0.75 |
 | Free-cash-flow yield | – |
-| Dividend yield | 6.7% |
+| Dividend yield | 6.8% |
 | Sales (12m) | $760.5M |
 | Sales growth | – |
 | Net profit (12m) | $476.1M |
@@ -61,10 +61,10 @@ Finance · Real Estate
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | -11.3% / +4.6% / -12.0% |
-| vs. 200-day average | -5.5% |
-| RSI (14d) | 28 |
-| Volatility (1y) | 27.5% |
+| Return 1m / 6m / 12m | -13.9% / -0.8% / -13.9% |
+| vs. 200-day average | -8.0% |
+| RSI (14d) | 25 |
+| Volatility (1y) | 27.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Finance · Real Estate
 - Insider trades: http://openinsider.com/MRP
 - Full deep dive: run `python scout.py stock MRP` → `research/MRP.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "CARG"
 company: "CarGurus Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 30.99
-market_cap: "$2.8B"
-score: 68
+price: 30.81
+market_cap: "$2.7B"
+score: 69
 value: 78
 quality: 91
 growth: 56
-momentum: 24
+momentum: 28
 health: 83
-pe: 15.7
+pe: 15.6
 piotroski: 8
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,23 +30,23 @@ Technology · EDP Services
 - Cheaper than about 78% of stocks in Technology (value score).
 - Business quality ranks above 91% of all stocks scanned.
 - Sales grew 14% over the last 12 months.
-- Share price down 17% over 12 months (21% below its 52-week high).
+- Share price down 18% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 78 | 91 | 56 | 24 | 83 |
+| **69** | 78 | 91 | 56 | 28 | 83 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $30.99 |
-| Market value | $2.8B |
-| P/E | 15.7 |
-| Price/Sales | 2.85 |
-| Price/Book | 10.44 |
+| Price | $30.81 |
+| Market value | $2.7B |
+| P/E | 15.6 |
+| Price/Sales | 2.84 |
+| Price/Book | 10.38 |
 | Free-cash-flow yield | 10.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $967.3M |
@@ -59,10 +59,10 @@ Technology · EDP Services
 | Debt / equity | 0.00 |
 | Current ratio | 1.85 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 9.69 |
+| Altman Z | 9.66 |
 | Share count change (1y) | -9.1% |
-| Return 1m / 6m / 12m | -14.8% / -12.2% / -17.4% |
-| vs. 200-day average | -8.2% |
+| Return 1m / 6m / 12m | -15.7% / -9.5% / -17.7% |
+| vs. 200-day average | -8.6% |
 | RSI (14d) | 32 |
 | Volatility (1y) | 39.1% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/CARG
 - Full deep dive: run `python scout.py stock CARG` → `research/CARG.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

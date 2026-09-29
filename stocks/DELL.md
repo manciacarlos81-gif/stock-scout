@@ -3,17 +3,17 @@ ticker: "DELL"
 company: "Dell Technologies Inc."
 sector: "Technology"
 industry: "Computer Manufacturing"
-price: 536.02
-market_cap: "$340.8B"
+price: 543.43
+market_cap: "$345.5B"
 score: 66
-value: 55
+value: 54
 quality: 50
 growth: 89
 momentum: 99
 health: 44
-pe: 30.0
+pe: 30.4
 piotroski: 7
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,25 +27,25 @@ Technology · Computer Manufacturing
 
 ## In plain English
 
-- Cheaper than about 55% of stocks in Technology (value score).
+- Cheaper than about 54% of stocks in Technology (value score).
 - Business quality ranks above 50% of all stocks scanned.
 - Sales grew 49% over the last 12 months.
-- Share price up 315% over 12 months (9% below its 52-week high).
+- Share price up 311% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 55 | 50 | 89 | 99 | 44 |
+| **66** | 54 | 50 | 89 | 99 | 44 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $536.02 |
-| Market value | $340.8B |
-| P/E | 30.0 |
-| Price/Sales | 2.25 |
+| Price | $543.43 |
+| Market value | $345.5B |
+| P/E | 30.4 |
+| Price/Sales | 2.29 |
 | Price/Book | – |
 | Free-cash-flow yield | 2.5% |
 | Dividend yield | 0.4% |
@@ -59,10 +59,10 @@ Technology · Computer Manufacturing
 | Debt / equity | – |
 | Current ratio | 0.96 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.22 |
+| Altman Z | 3.25 |
 | Share count change (1y) | -5.0% |
-| Return 1m / 6m / 12m | +13.5% / +227.1% / +315.2% |
-| vs. 200-day average | +88.1% |
+| Return 1m / 6m / 12m | +19.1% / +232.7% / +311.0% |
+| vs. 200-day average | +89.3% |
 | RSI (14d) | 54 |
 | Volatility (1y) | 75.5% |
 | Financials as of | 2026-07-31 |
@@ -78,4 +78,4 @@ Technology · Computer Manufacturing
 - Insider trades: http://openinsider.com/DELL
 - Full deep dive: run `python scout.py stock DELL` → `research/DELL.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

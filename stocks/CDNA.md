@@ -3,17 +3,17 @@ ticker: "CDNA"
 company: "CareDx Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 61.37
-market_cap: "$3.2B"
-score: 80
-value: 63
+price: 64.6
+market_cap: "$3.3B"
+score: 79
+value: 62
 quality: 75
 growth: 84
 momentum: 99
 health: 84
-pe: 28.6
+pe: 30.1
 piotroski: 6
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,26 +28,26 @@ Health Care · Medical Specialities
 
 ## In plain English
 
-- Cheaper than about 63% of stocks in Health Care (value score).
+- Cheaper than about 62% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 311% over 12 months (0% below its 52-week high).
+- Share price up 335% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 63 | 75 | 84 | 99 | 84 |
+| **79** | 62 | 75 | 84 | 99 | 84 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $61.37 |
-| Market value | $3.2B |
-| P/E | 28.6 |
-| Price/Sales | 6.93 |
-| Price/Book | 7.46 |
+| Price | $64.60 |
+| Market value | $3.3B |
+| P/E | 30.1 |
+| Price/Sales | 7.30 |
+| Price/Book | 7.85 |
 | Free-cash-flow yield | 1.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $458.1M |
@@ -60,11 +60,11 @@ Health Care · Medical Specialities
 | Debt / equity | 0.00 |
 | Current ratio | 4.58 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 18.70 |
+| Altman Z | 19.63 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +17.2% / +273.5% / +311.1% |
-| vs. 200-day average | +121.0% |
-| RSI (14d) | 77 |
+| Return 1m / 6m / 12m | +29.7% / +272.1% / +334.7% |
+| vs. 200-day average | +130.6% |
+| RSI (14d) | 80 |
 | Volatility (1y) | 72.5% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CDNA
 - Full deep dive: run `python scout.py stock CDNA` → `research/CDNA.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

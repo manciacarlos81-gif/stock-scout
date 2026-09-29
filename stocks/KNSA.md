@@ -3,17 +3,17 @@ ticker: "KNSA"
 company: "Kiniksa Pharmaceuticals International plc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 75.34
+price: 76.1
 market_cap: "$5.9B"
-score: 78
+score: 77
 value: 58
 quality: 80
 growth: 90
-momentum: 92
+momentum: 91
 health: 75
-pe: 72.9
+pe: 73.6
 piotroski: 8
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,23 +31,23 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 58% of stocks in Health Care (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Sales grew 59% over the last 12 months.
-- Share price up 106% over 12 months (7% below its 52-week high).
+- Share price up 96% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **78** | 58 | 80 | 90 | 92 | 75 |
+| **77** | 58 | 80 | 90 | 91 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $75.34 |
+| Price | $76.10 |
 | Market value | $5.9B |
-| P/E | 72.9 |
-| Price/Sales | 6.99 |
-| Price/Book | 8.99 |
+| P/E | 73.6 |
+| Price/Sales | 7.06 |
+| Price/Book | 9.08 |
 | Free-cash-flow yield | 2.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $840.8M |
@@ -60,11 +60,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 3.90 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 15.90 |
+| Altman Z | 16.05 |
 | Share count change (1y) | +7.0% |
-| Return 1m / 6m / 12m | -5.6% / +64.9% / +106.5% |
-| vs. 200-day average | +35.5% |
-| RSI (14d) | 45 |
+| Return 1m / 6m / 12m | -2.5% / +58.0% / +96.3% |
+| vs. 200-day average | +36.4% |
+| RSI (14d) | 48 |
 | Volatility (1y) | 49.5% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/KNSA
 - Full deep dive: run `python scout.py stock KNSA` → `research/KNSA.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

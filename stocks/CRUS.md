@@ -3,17 +3,17 @@ ticker: "CRUS"
 company: "Cirrus Logic Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 118.8
+price: 119.53
 market_cap: "$6.0B"
-score: 66
-value: 85
+score: 65
+value: 84
 quality: 82
 growth: 49
 momentum: 18
 health: 86
-pe: 13.8
+pe: 13.9
 piotroski: 8
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · Semiconductors
 
 ## In plain English
 
-- Cheaper than about 85% of stocks in Technology (value score).
+- Cheaper than about 84% of stocks in Technology (value score).
 - Business quality ranks above 82% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price down 6% over 12 months (34% below its 52-week high).
+- Share price down 4% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 85 | 82 | 49 | 18 | 86 |
+| **65** | 84 | 82 | 49 | 18 | 86 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $118.80 |
+| Price | $119.53 |
 | Market value | $6.0B |
-| P/E | 13.8 |
-| Price/Sales | 2.90 |
-| Price/Book | 2.72 |
-| Free-cash-flow yield | 10.7% |
+| P/E | 13.9 |
+| Price/Sales | 2.92 |
+| Price/Book | 2.74 |
+| Free-cash-flow yield | 10.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +6.2% |
@@ -61,9 +61,9 @@ Technology · Semiconductors
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.8% |
-| Return 1m / 6m / 12m | +7.1% / -14.1% / -5.8% |
-| vs. 200-day average | -15.2% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | +10.2% / -17.3% / -3.6% |
+| vs. 200-day average | -14.7% |
+| RSI (14d) | 52 |
 | Volatility (1y) | 36.5% |
 | Financials as of | 2026-06-27 |
 
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/CRUS
 - Full deep dive: run `python scout.py stock CRUS` → `research/CRUS.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "LFST"
 company: "LifeStance Health Group Inc."
 sector: "Health Care"
 industry: "Medical/Nursing Services"
-price: 11.8
+price: 11.84
 market_cap: "$4.5B"
 score: 72
 value: 65
 quality: 63
 growth: 85
-momentum: 93
+momentum: 94
 health: 58
-pe: 89.1
+pe: 89.4
 piotroski: 9
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -36,17 +36,17 @@ Health Care · Medical/Nursing Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 65 | 63 | 85 | 93 | 58 |
+| **72** | 65 | 63 | 85 | 94 | 58 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $11.80 |
+| Price | $11.84 |
 | Market value | $4.5B |
-| P/E | 89.1 |
-| Price/Sales | 2.85 |
-| Price/Book | 3.05 |
+| P/E | 89.4 |
+| Price/Sales | 2.86 |
+| Price/Book | 3.06 |
 | Free-cash-flow yield | 2.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.6B |
@@ -59,11 +59,11 @@ Health Care · Medical/Nursing Services
 | Debt / equity | 0.19 |
 | Current ratio | 1.38 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 4.25 |
+| Altman Z | 4.26 |
 | Share count change (1y) | +0.1% |
-| Return 1m / 6m / 12m | -4.1% / +89.1% / +117.7% |
+| Return 1m / 6m / 12m | -3.8% / +85.9% / +118.5% |
 | vs. 200-day average | +35.6% |
-| RSI (14d) | 39 |
+| RSI (14d) | 40 |
 | Volatility (1y) | 53.0% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Medical/Nursing Services
 - Insider trades: http://openinsider.com/LFST
 - Full deep dive: run `python scout.py stock LFST` → `research/LFST.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

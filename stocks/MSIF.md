@@ -3,17 +3,17 @@ ticker: "MSIF"
 company: "MSC Income Fund Inc."
 sector: "Finance"
 industry: "Finance/Investors Services"
-price: 12.17
-market_cap: "$551.9M"
+price: 12.08
+market_cap: "$547.8M"
 score: 69
 value: 95
 quality: null
 growth: 77
 momentum: 42
 health: 87
-pe: 5.6
+pe: 5.5
 piotroski: 6
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -28,8 +28,8 @@ Finance · Finance/Investors Services
 ## In plain English
 
 - Cheaper than about 95% of stocks in Finance (value score).
-- Share price up 1% over 12 months (7% below its 52-week high).
-- Insiders bought $81.8K of shares recently (Marks Nataly Michelle (Dir); Hyzak Dwayne L. (CEO, SMD)).
+- Share price up 1% over 12 months (8% below its 52-week high).
+- Insiders bought $12.1K of shares recently (Marks Nataly Michelle (Dir)).
 
 ## Scores (0–100, higher is better)
 
@@ -41,11 +41,11 @@ Finance · Finance/Investors Services
 
 | | |
 |---|---:|
-| Price | $12.17 |
-| Market value | $551.9M |
-| P/E | 5.6 |
+| Price | $12.08 |
+| Market value | $547.8M |
+| P/E | 5.5 |
 | Price/Sales | – |
-| Price/Book | 0.74 |
+| Price/Book | 0.73 |
 | Free-cash-flow yield | – |
 | Dividend yield | 12.3% |
 | Sales (12m) | – |
@@ -60,9 +60,9 @@ Finance · Finance/Investors Services
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.6% |
-| Return 1m / 6m / 12m | -3.0% / +5.9% / +1.1% |
-| vs. 200-day average | +1.4% |
-| RSI (14d) | 44 |
+| Return 1m / 6m / 12m | -3.4% / +2.2% / +0.9% |
+| vs. 200-day average | +0.7% |
+| RSI (14d) | 42 |
 | Volatility (1y) | 27.2% |
 | Financials as of | 2026-06-30 |
 
@@ -73,4 +73,4 @@ Finance · Finance/Investors Services
 - Insider trades: http://openinsider.com/MSIF
 - Full deep dive: run `python scout.py stock MSIF` → `research/MSIF.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

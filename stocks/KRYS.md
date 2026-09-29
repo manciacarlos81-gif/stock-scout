@@ -3,17 +3,17 @@ ticker: "KRYS"
 company: "Krystal Biotech Inc."
 sector: "Health Care"
 industry: "Biotechnology: Biological Products (No Diagnostic Substances)"
-price: 344.96
-market_cap: "$10.2B"
+price: 337.08
+market_cap: "$10.0B"
 score: 74
 value: 57
 quality: 78
 growth: 72
-momentum: 85
+momentum: 82
 health: 87
-pe: 42.3
+pe: 41.3
 piotroski: 7
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,23 +30,23 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Cheaper than about 57% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 23% over the last 12 months.
-- Share price up 106% over 12 months (9% below its 52-week high).
+- Share price up 91% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 57 | 78 | 72 | 85 | 87 |
+| **74** | 57 | 78 | 72 | 82 | 87 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $344.96 |
-| Market value | $10.2B |
-| P/E | 42.3 |
-| Price/Sales | 23.18 |
-| Price/Book | 7.51 |
+| Price | $337.08 |
+| Market value | $10.0B |
+| P/E | 41.3 |
+| Price/Sales | 22.65 |
+| Price/Book | 7.34 |
 | Free-cash-flow yield | 1.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $440.5M |
@@ -61,10 +61,10 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 7/9 |
 | Altman Z | 30.00 |
 | Share count change (1y) | +3.1% |
-| Return 1m / 6m / 12m | -3.5% / +39.7% / +105.6% |
-| vs. 200-day average | +15.0% |
-| RSI (14d) | 50 |
-| Volatility (1y) | 37.6% |
+| Return 1m / 6m / 12m | -4.1% / +30.5% / +90.7% |
+| vs. 200-day average | +12.2% |
+| RSI (14d) | 45 |
+| Volatility (1y) | 37.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/KRYS
 - Full deep dive: run `python scout.py stock KRYS` → `research/KRYS.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

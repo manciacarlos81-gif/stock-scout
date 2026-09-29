@@ -3,17 +3,17 @@ ticker: "DINO"
 company: "HF Sinclair Corporation"
 sector: "Energy"
 industry: "Natural Gas Distribution"
-price: 105.79
-market_cap: "$18.8B"
+price: 106.19
+market_cap: "$18.9B"
 score: 72
-value: 69
+value: 68
 quality: 54
 growth: 87
-momentum: 91
+momentum: 93
 health: 66
-pe: 9.8
+pe: 9.9
 piotroski: 7
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Energy · Natural Gas Distribution
 
 ## In plain English
 
-- Cheaper than about 69% of stocks in Energy (value score).
+- Cheaper than about 68% of stocks in Energy (value score).
 - Business quality ranks above 54% of all stocks scanned.
 - Sales grew 16% over the last 12 months.
-- Share price up 105% over 12 months (9% below its 52-week high).
+- Share price up 109% over 12 months (9% below its 52-week high).
 - Insiders bought $1.3M of shares recently (Myers Franklin (CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 69 | 54 | 87 | 91 | 66 |
+| **72** | 68 | 54 | 87 | 93 | 66 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $105.79 |
-| Market value | $18.8B |
-| P/E | 9.8 |
+| Price | $106.19 |
+| Market value | $18.9B |
+| P/E | 9.9 |
 | Price/Sales | 0.60 |
-| Price/Book | 1.83 |
+| Price/Book | 1.84 |
 | Free-cash-flow yield | 4.6% |
 | Dividend yield | 2.0% |
 | Sales (12m) | $31.2B |
@@ -62,9 +62,9 @@ Energy · Natural Gas Distribution
 | Piotroski F-score | 7/9 |
 | Altman Z | 4.13 |
 | Share count change (1y) | -4.6% |
-| Return 1m / 6m / 12m | +9.1% / +70.0% / +105.1% |
+| Return 1m / 6m / 12m | +6.5% / +72.4% / +108.9% |
 | vs. 200-day average | +52.5% |
-| RSI (14d) | 53 |
+| RSI (14d) | 54 |
 | Volatility (1y) | 39.0% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Energy · Natural Gas Distribution
 - Insider trades: http://openinsider.com/DINO
 - Full deep dive: run `python scout.py stock DINO` → `research/DINO.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "CRMD"
 company: "CorMedix Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 7.77
-market_cap: "$605.6M"
+price: 7.89
+market_cap: "$615.0M"
 score: 72
 value: 96
 quality: 78
 growth: 81
-momentum: 36
+momentum: 38
 health: 59
-pe: 3.2
+pe: 3.3
 piotroski: 6
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 - Cheaper than about 96% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
-- Share price down 31% over 12 months (39% below its 52-week high).
+- Share price down 33% over 12 months (38% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 96 | 78 | 81 | 36 | 59 |
+| **72** | 96 | 78 | 81 | 38 | 59 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $7.77 |
-| Market value | $605.6M |
-| P/E | 3.2 |
-| Price/Sales | 1.31 |
-| Price/Book | 1.31 |
-| Free-cash-flow yield | 28.5% |
+| Price | $7.89 |
+| Market value | $615.0M |
+| P/E | 3.3 |
+| Price/Sales | 1.33 |
+| Price/Book | 1.33 |
+| Free-cash-flow yield | 28.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $462.2M |
 | Sales growth | – |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 2.56 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.34 |
+| Altman Z | 2.35 |
 | Share count change (1y) | +28.6% |
-| Return 1m / 6m / 12m | -6.5% / +18.3% / -31.2% |
-| vs. 200-day average | -3.7% |
-| RSI (14d) | 44 |
+| Return 1m / 6m / 12m | -4.9% / +16.2% / -33.4% |
+| vs. 200-day average | -2.0% |
+| RSI (14d) | 48 |
 | Volatility (1y) | 61.4% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/CRMD
 - Full deep dive: run `python scout.py stock CRMD` → `research/CRMD.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

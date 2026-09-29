@@ -1,13 +1,13 @@
 {
- "date": "2026-09-26",
- "scanned": 2621,
+ "date": "2026-09-29",
+ "scanned": 2616,
  "top": [
   {
    "rank": 1,
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 81,
-   "price": 1753.62,
+   "price": 1712.89,
    "flags": ""
   },
   {
@@ -15,7 +15,7 @@
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 97.58,
+   "price": 96.49,
    "flags": "heavy debt"
   },
   {
@@ -23,7 +23,7 @@
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 80,
-   "price": 124.44,
+   "price": 124.82,
    "flags": ""
   },
   {
@@ -31,7 +31,7 @@
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 204.59,
+   "price": 212.74,
    "flags": "shares up 17% in a year"
   },
   {
@@ -39,79 +39,70 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 104.85,
+   "price": 108.31,
    "flags": ""
   },
   {
    "rank": 6,
-   "ticker": "CDNA",
-   "name": "CareDx Inc.",
+   "ticker": "LPG",
+   "name": "Dorian LPG Ltd.",
    "score": 80,
-   "price": 61.37,
+   "price": 54.36,
    "flags": ""
   },
   {
    "rank": 7,
-   "ticker": "LPG",
-   "name": "Dorian LPG Ltd.",
+   "ticker": "CDNA",
+   "name": "CareDx Inc.",
    "score": 79,
-   "price": 54.05,
+   "price": 64.6,
    "flags": ""
   },
   {
    "rank": 8,
-   "ticker": "BFH",
-   "name": "Bread Financial Holdings Inc.",
-   "score": 78,
-   "price": 101.56,
-   "flags": ""
+   "ticker": "AUPH",
+   "name": "Aurinia Pharmaceuticals Inc",
+   "score": 79,
+   "price": 16.52,
+   "flags": "profits not backed by cash"
   },
   {
    "rank": 9,
-   "ticker": "EXEL",
-   "name": "Exelixis Inc.",
+   "ticker": "BFH",
+   "name": "Bread Financial Holdings Inc.",
    "score": 78,
-   "price": 57.95,
+   "price": 101.25,
    "flags": ""
   },
   {
    "rank": 10,
-   "ticker": "AUPH",
-   "name": "Aurinia Pharmaceuticals Inc",
+   "ticker": "EXEL",
+   "name": "Exelixis Inc.",
    "score": 78,
-   "price": 16.59,
-   "flags": "profits not backed by cash"
+   "price": 58.37,
+   "flags": ""
   }
  ],
- "new_top": [
-  "AUPH"
- ],
+ "new_top": [],
  "prev_top": [
+  "AUPH",
   "BFH",
   "CDNA",
   "ECPG",
   "EXEL",
   "INCY",
   "INSW",
-  "KNSA",
   "LPG",
   "NUTX",
   "SNDK"
  ],
  "insider": [
   {
-   "ticker": "GME",
-   "name": "GameStop Corporation",
-   "value": 48401613,
-   "buyers": 4,
-   "last": "2026-09-21"
-  },
-  {
    "ticker": "INBX",
    "name": "Inhibrx Biosciences Inc.",
-   "value": 4499596,
+   "value": 5498380,
    "buyers": 3,
-   "last": "2026-09-23"
+   "last": "2026-09-25"
   }
  ]
 }

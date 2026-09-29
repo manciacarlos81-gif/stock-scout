@@ -3,7 +3,7 @@ ticker: "ETON"
 company: "Eton Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 59.49
+price: 59.18
 market_cap: "$1.7B"
 score: 73
 value: 50
@@ -11,9 +11,9 @@ quality: 73
 growth: 88
 momentum: 98
 health: 62
-pe: 134.0
+pe: 133.3
 piotroski: 5
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 50% of stocks in Health Care (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 180% over 12 months (8% below its 52-week high).
+- Share price up 163% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $59.49 |
+| Price | $59.18 |
 | Market value | $1.7B |
-| P/E | 134.0 |
-| Price/Sales | 16.10 |
-| Price/Book | 36.50 |
+| P/E | 133.3 |
+| Price/Sales | 16.02 |
+| Price/Book | 36.31 |
 | Free-cash-flow yield | 0.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $105.6M |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.60 |
 | Current ratio | 1.52 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 15.16 |
+| Altman Z | 15.08 |
 | Share count change (1y) | +21.9% |
-| Return 1m / 6m / 12m | -5.1% / +163.5% / +179.7% |
-| vs. 200-day average | +89.2% |
-| RSI (14d) | 58 |
+| Return 1m / 6m / 12m | -1.0% / +139.8% / +163.3% |
+| vs. 200-day average | +87.1% |
+| RSI (14d) | 56 |
 | Volatility (1y) | 70.7% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ETON
 - Full deep dive: run `python scout.py stock ETON` → `research/ETON.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

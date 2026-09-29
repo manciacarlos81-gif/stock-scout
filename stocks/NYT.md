@@ -3,17 +3,17 @@ ticker: "NYT"
 company: "New York Times Company (The)"
 sector: "Consumer Discretionary"
 industry: "Newspapers/Magazines"
-price: 63.05
-market_cap: "$10.1B"
-score: 53
+price: 64.17
+market_cap: "$10.3B"
+score: 54
 value: 37
 quality: 83
 growth: 59
-momentum: 28
+momentum: 31
 health: 57
-pe: 25.8
+pe: 26.2
 piotroski: 9
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Newspapers/Magazines
 - More expensive than about 63% of Consumer Discretionary peers (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price up 10% over 12 months (26% below its 52-week high).
+- Share price up 13% over 12 months (25% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 37 | 83 | 59 | 28 | 57 |
+| **54** | 37 | 83 | 59 | 31 | 57 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $63.05 |
-| Market value | $10.1B |
-| P/E | 25.8 |
-| Price/Sales | 3.40 |
-| Price/Book | 4.94 |
-| Free-cash-flow yield | 5.4% |
+| Price | $64.17 |
+| Market value | $10.3B |
+| P/E | 26.2 |
+| Price/Sales | 3.46 |
+| Price/Book | 5.03 |
+| Free-cash-flow yield | 5.3% |
 | Dividend yield | 1.1% |
 | Sales (12m) | $3.0B |
 | Sales growth | +10.8% |
@@ -61,9 +61,9 @@ Consumer Discretionary · Newspapers/Magazines
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -0.8% |
-| Return 1m / 6m / 12m | -7.4% / -23.8% / +9.6% |
-| vs. 200-day average | -14.3% |
-| RSI (14d) | 37 |
+| Return 1m / 6m / 12m | -5.9% / -22.9% / +13.2% |
+| vs. 200-day average | -12.7% |
+| RSI (14d) | 41 |
 | Volatility (1y) | 31.0% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Newspapers/Magazines
 - Insider trades: http://openinsider.com/NYT
 - Full deep dive: run `python scout.py stock NYT` → `research/NYT.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

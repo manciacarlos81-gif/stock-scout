@@ -3,17 +3,17 @@ ticker: "AON"
 company: "Aon plc"
 sector: "Finance"
 industry: "Specialty Insurers"
-price: 276.09
-market_cap: "$58.6B"
+price: 272.1
+market_cap: "$57.7B"
 score: 54
 value: 45
 quality: 83
 growth: 53
-momentum: 21
+momentum: 23
 health: 65
-pe: 15.0
+pe: 14.7
 piotroski: 8
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,24 +30,24 @@ Finance · Specialty Insurers
 - More expensive than about 55% of Finance peers (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price down 22% over 12 months (27% below its 52-week high).
+- Share price down 23% over 12 months (28% below its 52-week high).
 - Insiders bought $6.5M of shares recently (Knight Lester B (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 45 | 83 | 53 | 21 | 65 |
+| **54** | 45 | 83 | 53 | 23 | 65 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $276.09 |
-| Market value | $58.6B |
-| P/E | 15.0 |
-| Price/Sales | 3.33 |
-| Price/Book | 6.10 |
+| Price | $272.10 |
+| Market value | $57.7B |
+| P/E | 14.7 |
+| Price/Sales | 3.28 |
+| Price/Book | 6.01 |
 | Free-cash-flow yield | – |
 | Dividend yield | 1.1% |
 | Sales (12m) | $17.6B |
@@ -62,8 +62,8 @@ Finance · Specialty Insurers
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -21.0% / -14.4% / -22.1% |
-| vs. 200-day average | -17.0% |
+| Return 1m / 6m / 12m | -23.4% / -15.3% / -22.9% |
+| vs. 200-day average | -18.1% |
 | RSI (14d) | 22 |
 | Volatility (1y) | 27.7% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Finance · Specialty Insurers
 - Insider trades: http://openinsider.com/AON
 - Full deep dive: run `python scout.py stock AON` → `research/AON.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

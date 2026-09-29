@@ -3,17 +3,17 @@ ticker: "ESEA"
 company: "Euroseas Ltd."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 71.03
-market_cap: "$501.2M"
-score: 73
+price: 69.21
+market_cap: "$488.3M"
+score: 72
 value: 88
 quality: 85
-growth: 54
-momentum: 62
+growth: 53
+momentum: 58
 health: 60
-pe: 3.7
+pe: 3.6
 piotroski: 8
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,26 +30,26 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 88% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 20% over 12 months (10% below its 52-week high).
+- Share price up 22% over 12 months (12% below its 52-week high).
 - Insiders bought $56.9K of shares recently (Pittas Aristeidis P (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 88 | 85 | 54 | 62 | 60 |
+| **72** | 88 | 85 | 53 | 58 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $71.03 |
-| Market value | $501.2M |
-| P/E | 3.7 |
-| Price/Sales | 2.20 |
-| Price/Book | 1.08 |
-| Free-cash-flow yield | 28.2% |
-| Dividend yield | 3.8% |
+| Price | $69.21 |
+| Market value | $488.3M |
+| P/E | 3.6 |
+| Price/Sales | 2.14 |
+| Price/Book | 1.05 |
+| Free-cash-flow yield | 28.9% |
+| Dividend yield | 3.9% |
 | Sales (12m) | $227.9M |
 | Sales growth | +7.0% |
 | Net profit (12m) | $137.0M |
@@ -60,11 +60,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.47 |
 | Current ratio | 4.89 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.97 |
+| Altman Z | 2.94 |
 | Share count change (1y) | -0.2% |
-| Return 1m / 6m / 12m | -6.1% / +17.2% / +20.0% |
-| vs. 200-day average | +8.5% |
-| RSI (14d) | 39 |
+| Return 1m / 6m / 12m | -8.7% / +5.9% / +21.9% |
+| vs. 200-day average | +5.6% |
+| RSI (14d) | 34 |
 | Volatility (1y) | 42.7% |
 | Financials as of | 2025-12-31 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/ESEA
 - Full deep dive: run `python scout.py stock ESEA` → `research/ESEA.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

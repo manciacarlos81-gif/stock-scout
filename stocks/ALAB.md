@@ -3,17 +3,17 @@ ticker: "ALAB"
 company: "Astera Labs Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 360.51
-market_cap: "$62.5B"
+price: 351.31
+market_cap: "$60.9B"
 score: 67
 value: 24
 quality: 75
 growth: 90
-momentum: 91
+momentum: 90
 health: 73
-pe: 169.3
+pe: 164.9
 piotroski: 6
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,23 +30,23 @@ Technology · Semiconductors
 - More expensive than about 76% of Technology peers (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 98% over the last 12 months.
-- Share price up 82% over 12 months (25% below its 52-week high).
+- Share price up 77% over 12 months (27% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 24 | 75 | 90 | 91 | 73 |
+| **67** | 24 | 75 | 90 | 90 | 73 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $360.51 |
-| Market value | $62.5B |
-| P/E | 169.3 |
-| Price/Sales | 52.04 |
-| Price/Book | 36.24 |
+| Price | $351.31 |
+| Market value | $60.9B |
+| P/E | 164.9 |
+| Price/Sales | 50.71 |
+| Price/Book | 35.32 |
 | Free-cash-flow yield | 0.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.2B |
@@ -61,10 +61,10 @@ Technology · Semiconductors
 | Piotroski F-score | 6/9 |
 | Altman Z | 30.00 |
 | Share count change (1y) | +2.9% |
-| Return 1m / 6m / 12m | +18.6% / +259.5% / +82.3% |
-| vs. 200-day average | +51.7% |
-| RSI (14d) | 64 |
-| Volatility (1y) | 99.1% |
+| Return 1m / 6m / 12m | +21.4% / +220.5% / +76.7% |
+| vs. 200-day average | +47.3% |
+| RSI (14d) | 60 |
+| Volatility (1y) | 99.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/ALAB
 - Full deep dive: run `python scout.py stock ALAB` → `research/ALAB.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

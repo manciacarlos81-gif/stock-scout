@@ -9,11 +9,11 @@ score: 56
 value: 75
 quality: 51
 growth: 59
-momentum: 34
+momentum: 35
 health: 60
 pe: 19.5
 piotroski: 6
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -37,7 +37,7 @@ Real Estate · Real Estate Investment Trusts
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 75 | 51 | 59 | 34 | 60 |
+| **56** | 75 | 51 | 59 | 35 | 60 |
 
 ## Key numbers
 
@@ -62,9 +62,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | -5.2% / -4.2% / +6.3% |
+| Return 1m / 6m / 12m | -4.3% / -5.3% / +6.4% |
 | vs. 200-day average | -11.0% |
-| RSI (14d) | 37 |
+| RSI (14d) | 38 |
 | Volatility (1y) | 27.2% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/CHCT
 - Full deep dive: run `python scout.py stock CHCT` → `research/CHCT.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

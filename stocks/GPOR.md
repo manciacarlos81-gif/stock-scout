@@ -3,17 +3,17 @@ ticker: "GPOR"
 company: "Gulfport Energy Corporation"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 161.91
-market_cap: "$2.9B"
+price: 152.09
+market_cap: "$2.7B"
 score: 67
 value: 82
 quality: 84
 growth: 90
-momentum: 20
+momentum: 18
 health: 54
-pe: 5.8
+pe: 5.4
 piotroski: 8
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -31,25 +31,25 @@ Energy · Oil & Gas Production
 - Cheaper than about 82% of stocks in Energy (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 35% over the last 12 months.
-- Share price down 9% over 12 months (27% below its 52-week high).
+- Share price down 16% over 12 months (32% below its 52-week high).
 - Insiders bought $257.0K of shares recently (Dell'Osso Domenic J Jr (Pres, CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 82 | 84 | 90 | 20 | 54 |
+| **67** | 82 | 84 | 90 | 18 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $161.91 |
-| Market value | $2.9B |
-| P/E | 5.8 |
-| Price/Sales | 1.86 |
-| Price/Book | 1.57 |
-| Free-cash-flow yield | 28.1% |
+| Price | $152.09 |
+| Market value | $2.7B |
+| P/E | 5.4 |
+| Price/Sales | 1.75 |
+| Price/Book | 1.47 |
+| Free-cash-flow yield | 29.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.5B |
 | Sales growth | +35.2% |
@@ -61,12 +61,12 @@ Energy · Oil & Gas Production
 | Debt / equity | 0.50 |
 | Current ratio | 0.58 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 3.23 |
+| Altman Z | 3.15 |
 | Share count change (1y) | +0.2% |
-| Return 1m / 6m / 12m | -8.1% / -24.6% / -9.4% |
-| vs. 200-day average | -11.6% |
-| RSI (14d) | 40 |
-| Volatility (1y) | 33.4% |
+| Return 1m / 6m / 12m | -13.8% / -28.1% / -15.6% |
+| vs. 200-day average | -16.9% |
+| RSI (14d) | 31 |
+| Volatility (1y) | 33.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -76,4 +76,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/GPOR
 - Full deep dive: run `python scout.py stock GPOR` → `research/GPOR.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

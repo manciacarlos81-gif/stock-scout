@@ -3,17 +3,17 @@ ticker: "TRTX"
 company: "TPG RE Finance Trust Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 6.62
-market_cap: "$508.2M"
+price: 6.33
+market_cap: "$485.9M"
 score: 51
-value: 92
+value: 93
 quality: 39
 growth: 41
-momentum: 22
+momentum: 23
 health: 48
-pe: 8.8
+pe: 8.4
 piotroski: 6
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,7 +27,7 @@ Real Estate · Real Estate Investment Trusts
 
 ## In plain English
 
-- Cheaper than about 92% of stocks in Real Estate (value score).
+- Cheaper than about 93% of stocks in Real Estate (value score).
 - Business quality ranks above 39% of all stocks scanned.
 - Share price down 16% over 12 months (25% below its 52-week high).
 
@@ -35,18 +35,18 @@ Real Estate · Real Estate Investment Trusts
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 92 | 39 | 41 | 22 | 48 |
+| **51** | 93 | 39 | 41 | 23 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.62 |
-| Market value | $508.2M |
-| P/E | 8.8 |
+| Price | $6.33 |
+| Market value | $485.9M |
+| P/E | 8.4 |
 | Price/Sales | – |
-| Price/Book | 0.49 |
-| Free-cash-flow yield | 17.8% |
+| Price/Book | 0.47 |
+| Free-cash-flow yield | 18.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | – |
 | Sales growth | – |
@@ -60,8 +60,8 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.7% |
-| Return 1m / 6m / 12m | -14.5% / -11.7% / -16.3% |
-| vs. 200-day average | -18.1% |
+| Return 1m / 6m / 12m | -15.0% / -13.4% / -16.0% |
+| vs. 200-day average | -18.6% |
 | RSI (14d) | 13 |
 | Volatility (1y) | 20.4% |
 | Financials as of | 2026-06-30 |
@@ -77,4 +77,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/TRTX
 - Full deep dive: run `python scout.py stock TRTX` → `research/TRTX.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

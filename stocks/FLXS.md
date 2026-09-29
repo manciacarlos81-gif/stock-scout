@@ -3,17 +3,17 @@ ticker: "FLXS"
 company: "Flexsteel Industries Inc."
 sector: "Consumer Discretionary"
 industry: "Home Furnishings"
-price: 88.37
-market_cap: "$361.6M"
+price: 87.53
+market_cap: "$358.2M"
 score: 76
 value: 79
 quality: 73
 growth: 61
 momentum: 92
 health: 72
-pe: 10.9
+pe: 10.8
 piotroski: 8
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Home Furnishings
 - Cheaper than about 79% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price up 89% over 12 months (0% below its 52-week high).
+- Share price up 85% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Consumer Discretionary · Home Furnishings
 
 | | |
 |---|---:|
-| Price | $88.37 |
-| Market value | $361.6M |
-| P/E | 10.9 |
-| Price/Sales | 0.79 |
-| Price/Book | 2.71 |
-| Free-cash-flow yield | 13.2% |
+| Price | $87.53 |
+| Market value | $358.2M |
+| P/E | 10.8 |
+| Price/Sales | 0.78 |
+| Price/Book | 2.68 |
+| Free-cash-flow yield | 13.3% |
 | Dividend yield | 1.2% |
 | Sales (12m) | $459.2M |
 | Sales growth | +4.1% |
@@ -59,12 +59,12 @@ Consumer Discretionary · Home Furnishings
 | Debt / equity | – |
 | Current ratio | 2.09 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 5.76 |
+| Altman Z | 5.74 |
 | Share count change (1y) | -3.9% |
-| Return 1m / 6m / 12m | +7.6% / +98.0% / +88.6% |
-| vs. 200-day average | +51.0% |
-| RSI (14d) | 71 |
-| Volatility (1y) | 49.7% |
+| Return 1m / 6m / 12m | +7.0% / +95.5% / +85.3% |
+| vs. 200-day average | +48.9% |
+| RSI (14d) | 65 |
+| Volatility (1y) | 49.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/FLXS
 - Full deep dive: run `python scout.py stock FLXS` → `research/FLXS.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

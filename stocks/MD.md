@@ -3,17 +3,17 @@ ticker: "MD"
 company: "Pediatrix Medical Group Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 25.66
+price: 25.93
 market_cap: "$2.1B"
 score: 72
-value: 91
+value: 92
 quality: 75
 growth: 53
-momentum: 74
+momentum: 76
 health: 48
-pe: 11.9
+pe: 12.1
 piotroski: 8
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -27,27 +27,27 @@ Health Care · Hospital/Nursing Management
 
 ## In plain English
 
-- Cheaper than about 91% of stocks in Health Care (value score).
+- Cheaper than about 92% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 57% over 12 months (6% below its 52-week high).
+- Share price up 60% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 91 | 75 | 53 | 74 | 48 |
+| **72** | 92 | 75 | 53 | 76 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $25.66 |
+| Price | $25.93 |
 | Market value | $2.1B |
-| P/E | 11.9 |
-| Price/Sales | 1.07 |
-| Price/Book | 2.37 |
-| Free-cash-flow yield | 13.0% |
+| P/E | 12.1 |
+| Price/Sales | 1.08 |
+| Price/Book | 2.39 |
+| Free-cash-flow yield | 12.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +0.5% |
@@ -59,11 +59,11 @@ Health Care · Hospital/Nursing Management
 | Debt / equity | 0.45 |
 | Current ratio | 1.32 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.33 |
+| Altman Z | 2.34 |
 | Share count change (1y) | -4.8% |
-| Return 1m / 6m / 12m | -4.3% / +23.4% / +57.4% |
-| vs. 200-day average | +10.5% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | -2.6% / +21.2% / +59.9% |
+| vs. 200-day average | +11.6% |
+| RSI (14d) | 46 |
 | Volatility (1y) | 42.4% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/MD
 - Full deep dive: run `python scout.py stock MD` → `research/MD.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_

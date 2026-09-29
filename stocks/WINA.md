@@ -3,17 +3,17 @@ ticker: "WINA"
 company: "Winmark Corporation"
 sector: "Consumer Discretionary"
 industry: "Other Specialty Stores"
-price: 292.82
+price: 299.64
 market_cap: "$1.1B"
 score: 48
 value: 31
 quality: 90
-growth: 35
-momentum: 7
+growth: 34
+momentum: 8
 health: 74
-pe: 25.8
+pe: 26.4
 piotroski: 7
-updated: "2026-09-26"
+updated: "2026-09-29"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Other Specialty Stores
 - More expensive than about 69% of Consumer Discretionary peers (value score).
 - Business quality ranks above 90% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 40% over 12 months (42% below its 52-week high).
+- Share price down 39% over 12 months (40% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **48** | 31 | 90 | 35 | 7 | 74 |
+| **48** | 31 | 90 | 34 | 8 | 74 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $292.82 |
+| Price | $299.64 |
 | Market value | $1.1B |
-| P/E | 25.8 |
-| Price/Sales | 12.16 |
+| P/E | 26.4 |
+| Price/Sales | 12.44 |
 | Price/Book | – |
-| Free-cash-flow yield | 4.3% |
-| Dividend yield | 4.7% |
+| Free-cash-flow yield | 4.2% |
+| Dividend yield | 4.6% |
 | Sales (12m) | $86.5M |
 | Sales growth | +3.8% |
 | Net profit (12m) | $40.7M |
@@ -61,10 +61,10 @@ Consumer Discretionary · Other Specialty Stores
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -12.7% / -30.3% / -39.8% |
-| vs. 200-day average | -25.3% |
-| RSI (14d) | 32 |
-| Volatility (1y) | 37.8% |
+| Return 1m / 6m / 12m | -11.2% / -29.5% / -38.8% |
+| vs. 200-day average | -23.4% |
+| RSI (14d) | 39 |
+| Volatility (1y) | 37.9% |
 | Financials as of | 2026-06-27 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Other Specialty Stores
 - Insider trades: http://openinsider.com/WINA
 - Full deep dive: run `python scout.py stock WINA` → `research/WINA.md`
 
-_Updated 2026-09-26 · [latest report](../reports/latest.md)_
+_Updated 2026-09-29 · [latest report](../reports/latest.md)_
