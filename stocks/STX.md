@@ -3,17 +3,17 @@ ticker: "STX"
 company: "Seagate Technology Holdings PLC"
 sector: "Technology"
 industry: "Electronic Components"
-price: 921.51
-market_cap: "$210.8B"
+price: 913.45
+market_cap: "$208.9B"
 score: 69
-value: 33
+value: 34
 quality: 85
 growth: 81
-momentum: 98
+momentum: 97
 health: 54
-pe: 66.2
+pe: 65.6
 piotroski: 8
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,26 +27,26 @@ Technology · Electronic Components
 
 ## In plain English
 
-- More expensive than about 67% of Technology peers (value score).
+- More expensive than about 66% of Technology peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 306% over 12 months (16% below its 52-week high).
+- Share price up 289% over 12 months (16% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 33 | 85 | 81 | 98 | 54 |
+| **69** | 34 | 85 | 81 | 97 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $921.51 |
-| Market value | $210.8B |
-| P/E | 66.2 |
-| Price/Sales | 17.28 |
-| Price/Book | 97.26 |
+| Price | $913.45 |
+| Market value | $208.9B |
+| P/E | 65.6 |
+| Price/Sales | 17.13 |
+| Price/Book | 96.41 |
 | Free-cash-flow yield | 1.5% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $12.2B |
@@ -59,12 +59,12 @@ Technology · Electronic Components
 | Debt / equity | 1.65 |
 | Current ratio | 1.67 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 18.20 |
+| Altman Z | 18.06 |
 | Share count change (1y) | +5.5% |
-| Return 1m / 6m / 12m | +11.1% / +135.6% / +305.8% |
-| vs. 200-day average | +43.4% |
-| RSI (14d) | 59 |
-| Volatility (1y) | 75.0% |
+| Return 1m / 6m / 12m | +10.4% / +116.2% / +289.2% |
+| vs. 200-day average | +41.4% |
+| RSI (14d) | 58 |
+| Volatility (1y) | 74.5% |
 | Financials as of | 2026-07-03 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/STX
 - Full deep dive: run `python scout.py stock STX` → `research/STX.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

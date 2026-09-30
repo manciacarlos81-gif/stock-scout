@@ -3,17 +3,17 @@ ticker: "FSBC"
 company: "Five Star Bancorp"
 sector: "Finance"
 industry: "Major Banks"
-price: 43.38
-market_cap: "$1.1B"
+price: 42.36
+market_cap: "$1.0B"
 score: 50
-value: 37
+value: 38
 quality: null
 growth: 62
-momentum: 67
+momentum: 65
 health: 38
-pe: 14.8
+pe: 14.4
 piotroski: 9
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,25 +27,25 @@ Finance · Major Banks
 
 ## In plain English
 
-- More expensive than about 63% of Finance peers (value score).
-- Share price up 38% over 12 months (12% below its 52-week high).
+- More expensive than about 62% of Finance peers (value score).
+- Share price up 35% over 12 months (14% below its 52-week high).
 - Insiders bought $6.3M of shares recently (Allbaugh Larry Eugene (Dir, 10%); Perry-Smith Robert Truxtun (Dir); Deary-Bell Shannon (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 37 | – | 62 | 67 | 38 |
+| **50** | 38 | – | 62 | 65 | 38 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $43.38 |
-| Market value | $1.1B |
-| P/E | 14.8 |
+| Price | $42.36 |
+| Market value | $1.0B |
+| P/E | 14.4 |
 | Price/Sales | – |
-| Price/Book | 2.25 |
+| Price/Book | 2.19 |
 | Free-cash-flow yield | – |
 | Dividend yield | 1.6% |
 | Sales (12m) | – |
@@ -60,10 +60,10 @@ Finance · Major Banks
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.3% |
-| Return 1m / 6m / 12m | -4.9% / +16.3% / +38.2% |
-| vs. 200-day average | +3.9% |
-| RSI (14d) | 31 |
-| Volatility (1y) | 24.1% |
+| Return 1m / 6m / 12m | -7.6% / +12.5% / +34.7% |
+| vs. 200-day average | +1.4% |
+| RSI (14d) | 26 |
+| Volatility (1y) | 24.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/FSBC
 - Full deep dive: run `python scout.py stock FSBC` → `research/FSBC.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

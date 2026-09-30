@@ -3,17 +3,17 @@ ticker: "BDSX"
 company: "Biodesix Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 30.42
-market_cap: "$321.0M"
+price: 29.14
+market_cap: "$307.5M"
 score: 46
 value: 32
 quality: 26
 growth: 69
-momentum: 98
+momentum: 97
 health: 14
 pe: null
 piotroski: 3
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,25 +30,25 @@ Health Care · Medical Specialities
 - More expensive than about 68% of Health Care peers (value score).
 - Business quality ranks above 26% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 293% over 12 months (1% below its 52-week high).
+- Share price up 286% over 12 months (5% below its 52-week high).
 - Insiders bought $1.0M of shares recently (Schuler Jack W (Emeritus Director, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **46** | 32 | 26 | 69 | 98 | 14 |
+| **46** | 32 | 26 | 69 | 97 | 14 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $30.42 |
-| Market value | $321.0M |
+| Price | $29.14 |
+| Market value | $307.5M |
 | P/E | – |
-| Price/Sales | 3.12 |
-| Price/Book | 35.10 |
-| Free-cash-flow yield | -7.3% |
+| Price/Sales | 2.99 |
+| Price/Book | 33.62 |
+| Free-cash-flow yield | -7.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $102.9M |
 | Sales growth | +34.5% |
@@ -60,12 +60,12 @@ Health Care · Medical Specialities
 | Debt / equity | 5.47 |
 | Current ratio | 2.85 |
 | Piotroski F-score | 3/9 |
-| Altman Z | -4.57 |
+| Altman Z | -4.67 |
 | Share count change (1y) | +40.4% |
-| Return 1m / 6m / 12m | +13.4% / +109.8% / +293.0% |
-| vs. 200-day average | +82.9% |
-| RSI (14d) | 65 |
-| Volatility (1y) | 107.9% |
+| Return 1m / 6m / 12m | +10.6% / +97.4% / +286.0% |
+| vs. 200-day average | +74.0% |
+| RSI (14d) | 58 |
+| Volatility (1y) | 108.0% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -83,4 +83,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/BDSX
 - Full deep dive: run `python scout.py stock BDSX` → `research/BDSX.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

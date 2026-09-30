@@ -3,17 +3,17 @@ ticker: "ODFL"
 company: "Old Dominion Freight Line Inc."
 sector: "Industrials"
 industry: "Trucking Freight/Courier Services"
-price: 176.85
-market_cap: "$36.7B"
+price: 177.46
+market_cap: "$36.8B"
 score: 57
 value: 43
 quality: 83
 growth: 33
-momentum: 44
+momentum: 45
 health: 81
-pe: 33.7
+pe: 33.8
 piotroski: 7
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,23 +30,23 @@ Industrials · Trucking Freight/Courier Services
 - More expensive than about 57% of Industrials peers (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales fell 1% over the last 12 months.
-- Share price up 26% over 12 months (29% below its 52-week high).
+- Share price up 27% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 43 | 83 | 33 | 44 | 81 |
+| **57** | 43 | 83 | 33 | 45 | 81 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $176.85 |
-| Market value | $36.7B |
-| P/E | 33.7 |
-| Price/Sales | 6.55 |
-| Price/Book | 8.06 |
+| Price | $177.46 |
+| Market value | $36.8B |
+| P/E | 33.8 |
+| Price/Sales | 6.57 |
+| Price/Book | 8.09 |
 | Free-cash-flow yield | 3.7% |
 | Dividend yield | 0.6% |
 | Sales (12m) | $5.6B |
@@ -59,12 +59,12 @@ Industrials · Trucking Freight/Courier Services
 | Debt / equity | 0.00 |
 | Current ratio | 1.89 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 21.47 |
+| Altman Z | 21.54 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -10.8% / -9.2% / +26.2% |
-| vs. 200-day average | -11.3% |
-| RSI (14d) | 36 |
-| Volatility (1y) | 38.0% |
+| Return 1m / 6m / 12m | -11.1% / -10.9% / +26.8% |
+| vs. 200-day average | -11.0% |
+| RSI (14d) | 38 |
+| Volatility (1y) | 37.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Industrials · Trucking Freight/Courier Services
 - Insider trades: http://openinsider.com/ODFL
 - Full deep dive: run `python scout.py stock ODFL` → `research/ODFL.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

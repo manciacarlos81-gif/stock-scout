@@ -3,17 +3,17 @@ ticker: "ADEA"
 company: "Adeia Inc."
 sector: "Telecommunications"
 industry: "Cable & Other Pay Television Services"
-price: 24.92
+price: 24.75
 market_cap: "$2.7B"
-score: 65
+score: 64
 value: 55
 quality: 84
 growth: 73
-momentum: 60
+momentum: 57
 health: 50
-pe: 22.4
+pe: 22.2
 piotroski: 8
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,23 +30,23 @@ Telecommunications · Cable & Other Pay Television Services
 - Cheaper than about 55% of stocks in Telecommunications (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price up 50% over 12 months (26% below its 52-week high).
+- Share price up 49% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 55 | 84 | 73 | 60 | 50 |
+| **64** | 55 | 84 | 73 | 57 | 50 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $24.92 |
+| Price | $24.75 |
 | Market value | $2.7B |
-| P/E | 22.4 |
-| Price/Sales | 5.84 |
-| Price/Book | 5.76 |
+| P/E | 22.2 |
+| Price/Sales | 5.80 |
+| Price/Book | 5.72 |
 | Free-cash-flow yield | 5.7% |
 | Dividend yield | 0.8% |
 | Sales (12m) | $470.9M |
@@ -59,12 +59,12 @@ Telecommunications · Cable & Other Pay Television Services
 | Debt / equity | 0.81 |
 | Current ratio | 3.25 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 4.59 |
+| Altman Z | 4.57 |
 | Share count change (1y) | +2.0% |
-| Return 1m / 6m / 12m | -3.1% / +4.1% / +50.5% |
-| vs. 200-day average | +0.3% |
-| RSI (14d) | 43 |
-| Volatility (1y) | 66.9% |
+| Return 1m / 6m / 12m | -1.9% / -0.9% / +48.8% |
+| vs. 200-day average | -0.6% |
+| RSI (14d) | 42 |
+| Volatility (1y) | 66.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Telecommunications · Cable & Other Pay Television Services
 - Insider trades: http://openinsider.com/ADEA
 - Full deep dive: run `python scout.py stock ADEA` → `research/ADEA.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

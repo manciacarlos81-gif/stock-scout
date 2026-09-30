@@ -3,7 +3,7 @@ ticker: "FTK"
 company: "Flotek Industries Inc."
 sector: "Industrials"
 industry: "Major Chemicals"
-price: 28.43
+price: 28.5
 market_cap: "$1.0B"
 score: 60
 value: 39
@@ -11,9 +11,9 @@ quality: 45
 growth: 83
 momentum: 89
 health: 60
-pe: 27.1
+pe: 27.2
 piotroski: 4
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Industrials · Major Chemicals
 - More expensive than about 61% of Industrials peers (value score).
 - Business quality ranks above 45% of all stocks scanned.
 - Sales grew 37% over the last 12 months.
-- Share price up 97% over 12 months (27% below its 52-week high).
+- Share price up 95% over 12 months (27% below its 52-week high).
 - Insiders bought $34.3M of shares recently (Wilks Matthew (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -43,11 +43,11 @@ Industrials · Major Chemicals
 
 | | |
 |---|---:|
-| Price | $28.43 |
+| Price | $28.50 |
 | Market value | $1.0B |
-| P/E | 27.1 |
-| Price/Sales | 3.51 |
-| Price/Book | 7.97 |
+| P/E | 27.2 |
+| Price/Sales | 3.52 |
+| Price/Book | 7.99 |
 | Free-cash-flow yield | 0.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $293.0M |
@@ -60,12 +60,12 @@ Industrials · Major Chemicals
 | Debt / equity | 0.31 |
 | Current ratio | 1.78 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 4.92 |
+| Altman Z | 4.93 |
 | Share count change (1y) | +6.2% |
-| Return 1m / 6m / 12m | +18.8% / +67.5% / +97.0% |
+| Return 1m / 6m / 12m | +20.2% / +75.9% / +95.2% |
 | vs. 200-day average | +35.5% |
 | RSI (14d) | 52 |
-| Volatility (1y) | 79.1% |
+| Volatility (1y) | 78.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Industrials · Major Chemicals
 - Insider trades: http://openinsider.com/FTK
 - Full deep dive: run `python scout.py stock FTK` → `research/FTK.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

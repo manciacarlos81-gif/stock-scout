@@ -3,17 +3,17 @@ ticker: "MGY"
 company: "Magnolia Oil & Gas Corporation"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 23.71
-market_cap: "$6.4B"
-score: 59
+price: 23.6
+market_cap: "$6.3B"
+score: 60
 value: 57
 quality: 84
 growth: 56
-momentum: 27
+momentum: 30
 health: 66
 pe: 14.9
 piotroski: 7
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -37,18 +37,18 @@ Energy · Oil & Gas Production
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **59** | 57 | 84 | 56 | 27 | 66 |
+| **60** | 57 | 84 | 56 | 30 | 66 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $23.71 |
-| Market value | $6.4B |
+| Price | $23.60 |
+| Market value | $6.3B |
 | P/E | 14.9 |
-| Price/Sales | 4.29 |
-| Price/Book | 2.96 |
-| Free-cash-flow yield | 13.8% |
+| Price/Sales | 4.27 |
+| Price/Book | 2.95 |
+| Free-cash-flow yield | 13.9% |
 | Dividend yield | 1.8% |
 | Sales (12m) | $1.5B |
 | Sales growth | +11.4% |
@@ -62,8 +62,8 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.0% |
-| Return 1m / 6m / 12m | -9.7% / -23.9% / +0.6% |
-| vs. 200-day average | -10.6% |
+| Return 1m / 6m / 12m | -12.1% / -20.7% / +1.5% |
+| vs. 200-day average | -11.0% |
 | RSI (14d) | 34 |
 | Volatility (1y) | 33.7% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/MGY
 - Full deep dive: run `python scout.py stock MGY` → `research/MGY.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

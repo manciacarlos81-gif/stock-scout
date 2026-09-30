@@ -3,17 +3,17 @@ ticker: "CBOE"
 company: "Cboe Global Markets Inc."
 sector: "Finance"
 industry: "Investment Bankers/Brokers/Service"
-price: 253.26
-market_cap: "$28.3B"
+price: 261.75
+market_cap: "$29.3B"
 score: 61
-value: 38
+value: 37
 quality: 84
 growth: 65
-momentum: 40
+momentum: 42
 health: 83
-pe: 20.9
+pe: 21.6
 piotroski: 8
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,26 +27,26 @@ Finance · Investment Bankers/Brokers/Service
 
 ## In plain English
 
-- More expensive than about 62% of Finance peers (value score).
+- More expensive than about 63% of Finance peers (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price up 4% over 12 months (31% below its 52-week high).
+- Share price up 8% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 38 | 84 | 65 | 40 | 83 |
+| **61** | 37 | 84 | 65 | 42 | 83 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $253.26 |
-| Market value | $28.3B |
-| P/E | 20.9 |
-| Price/Sales | 5.60 |
-| Price/Book | 5.03 |
+| Price | $261.75 |
+| Market value | $29.3B |
+| P/E | 21.6 |
+| Price/Sales | 5.78 |
+| Price/Book | 5.20 |
 | Free-cash-flow yield | – |
 | Dividend yield | 1.0% |
 | Sales (12m) | $5.1B |
@@ -61,10 +61,10 @@ Finance · Investment Bankers/Brokers/Service
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -0.1% |
-| Return 1m / 6m / 12m | -18.2% / -9.5% / +3.6% |
-| vs. 200-day average | -11.5% |
-| RSI (14d) | 29 |
-| Volatility (1y) | 34.0% |
+| Return 1m / 6m / 12m | -12.8% / -6.2% / +7.5% |
+| vs. 200-day average | -8.6% |
+| RSI (14d) | 38 |
+| Volatility (1y) | 34.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Finance · Investment Bankers/Brokers/Service
 - Insider trades: http://openinsider.com/CBOE
 - Full deep dive: run `python scout.py stock CBOE` → `research/CBOE.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

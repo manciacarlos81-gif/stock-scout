@@ -3,8 +3,8 @@ ticker: "IVR"
 company: "INVESCO MORTGAGE CAPITAL INC"
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 6.25
-market_cap: "$672.8M"
+price: 6.26
+market_cap: "$673.8M"
 score: 62
 value: 94
 quality: 62
@@ -13,7 +13,7 @@ momentum: 34
 health: 41
 pe: 5.6
 piotroski: 8
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -29,7 +29,7 @@ Real Estate · Real Estate Investment Trusts
 
 - Cheaper than about 94% of stocks in Real Estate (value score).
 - Business quality ranks above 62% of all stocks scanned.
-- Share price up 6% over 12 months (24% below its 52-week high).
+- Share price up 4% over 12 months (24% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -41,8 +41,8 @@ Real Estate · Real Estate Investment Trusts
 
 | | |
 |---|---:|
-| Price | $6.25 |
-| Market value | $672.8M |
+| Price | $6.26 |
+| Market value | $673.8M |
 | P/E | 5.6 |
 | Price/Sales | – |
 | Price/Book | 0.68 |
@@ -60,10 +60,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +43.8% |
-| Return 1m / 6m / 12m | -13.5% / -14.8% / +5.8% |
-| vs. 200-day average | -15.0% |
-| RSI (14d) | 28 |
-| Volatility (1y) | 22.4% |
+| Return 1m / 6m / 12m | -12.7% / -13.7% / +3.9% |
+| vs. 200-day average | -14.8% |
+| RSI (14d) | 29 |
+| Volatility (1y) | 22.2% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -77,4 +77,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/IVR
 - Full deep dive: run `python scout.py stock IVR` → `research/IVR.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

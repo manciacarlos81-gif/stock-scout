@@ -3,17 +3,17 @@ ticker: "ABG"
 company: "Asbury Automotive Group Inc"
 sector: "Consumer Discretionary"
 industry: "Retail-Auto Dealers and Gas Stations"
-price: 179.68
-market_cap: "$3.2B"
-score: 51
+price: 173.95
+market_cap: "$3.1B"
+score: 50
 value: 94
-quality: 44
+quality: 43
 growth: 35
-momentum: 22
+momentum: 21
 health: 45
-pe: 6.3
+pe: 6.1
 piotroski: 6
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -28,26 +28,26 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 ## In plain English
 
 - Cheaper than about 94% of stocks in Consumer Discretionary (value score).
-- Business quality ranks above 44% of all stocks scanned.
+- Business quality ranks above 43% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 25% over 12 months (30% below its 52-week high).
+- Share price down 29% over 12 months (32% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 94 | 44 | 35 | 22 | 45 |
+| **50** | 94 | 43 | 35 | 21 | 45 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $179.68 |
-| Market value | $3.2B |
-| P/E | 6.3 |
-| Price/Sales | 0.18 |
-| Price/Book | 0.82 |
-| Free-cash-flow yield | 24.0% |
+| Price | $173.95 |
+| Market value | $3.1B |
+| P/E | 6.1 |
+| Price/Sales | 0.17 |
+| Price/Book | 0.80 |
+| Free-cash-flow yield | 24.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $18.0B |
 | Sales growth | +4.1% |
@@ -61,9 +61,9 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -15.1% / -8.0% / -25.3% |
-| vs. 200-day average | -15.1% |
-| RSI (14d) | 30 |
+| Return 1m / 6m / 12m | -17.7% / -10.3% / -28.8% |
+| vs. 200-day average | -17.7% |
+| RSI (14d) | 27 |
 | Volatility (1y) | 32.8% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 - Insider trades: http://openinsider.com/ABG
 - Full deep dive: run `python scout.py stock ABG` → `research/ABG.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

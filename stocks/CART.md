@@ -3,17 +3,17 @@ ticker: "CART"
 company: "Maplebear Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 43.34
-market_cap: "$10.0B"
+price: 43.49
+market_cap: "$10.3B"
 score: 64
-value: 52
+value: 51
 quality: 83
 growth: 56
-momentum: 62
+momentum: 63
 health: 65
-pe: 20.9
+pe: 21.5
 piotroski: 7
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Business Services
 
 ## In plain English
 
-- Cheaper than about 52% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 51% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 14% over 12 months (16% below its 52-week high).
+- Share price up 18% over 12 months (16% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 52 | 83 | 56 | 62 | 65 |
+| **64** | 51 | 83 | 56 | 63 | 65 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $43.34 |
-| Market value | $10.0B |
-| P/E | 20.9 |
-| Price/Sales | 2.51 |
-| Price/Book | 4.32 |
-| Free-cash-flow yield | 9.1% |
+| Price | $43.49 |
+| Market value | $10.3B |
+| P/E | 21.5 |
+| Price/Sales | 2.58 |
+| Price/Book | 4.45 |
+| Free-cash-flow yield | 8.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $4.0B |
 | Sales growth | +12.6% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 2.28 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 6.21 |
+| Altman Z | 6.39 |
 | Share count change (1y) | -11.5% |
-| Return 1m / 6m / 12m | -14.2% / +15.7% / +14.3% |
-| vs. 200-day average | +1.7% |
-| RSI (14d) | 34 |
+| Return 1m / 6m / 12m | -13.9% / +12.6% / +18.3% |
+| vs. 200-day average | +2.0% |
+| RSI (14d) | 35 |
 | Volatility (1y) | 42.0% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/CART
 - Full deep dive: run `python scout.py stock CART` → `research/CART.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

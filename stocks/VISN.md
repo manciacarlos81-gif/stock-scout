@@ -3,17 +3,17 @@ ticker: "VISN"
 company: "Vistance Networks Inc."
 sector: "Technology"
 industry: "Radio And Television Broadcasting And Communications Equipment"
-price: 6.09
+price: 5.94
 market_cap: "$1.4B"
-score: 72
+score: 71
 value: 93
 quality: 55
 growth: 89
-momentum: 67
+momentum: 66
 health: 51
 pe: 0.2
 piotroski: 7
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,25 +30,25 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 - Cheaper than about 93% of stocks in Technology (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 1333% over the last 12 months.
-- Share price up 42% over 12 months (17% below its 52-week high).
+- Share price up 38% over 12 months (19% below its 52-week high).
 - Insiders bought $107.5K of shares recently (Gilstrap Charles A (SVP, Treasury, Tax, CAO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 93 | 55 | 89 | 67 | 51 |
+| **71** | 93 | 55 | 89 | 66 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.09 |
+| Price | $5.94 |
 | Market value | $1.4B |
 | P/E | 0.2 |
-| Price/Sales | 0.70 |
-| Price/Book | 0.56 |
-| Free-cash-flow yield | 18.0% |
+| Price/Sales | 0.68 |
+| Price/Book | 0.55 |
+| Free-cash-flow yield | 18.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +1333.2% |
@@ -60,11 +60,11 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 | Debt / equity | 0.00 |
 | Current ratio | 2.57 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 2.04 |
+| Altman Z | 2.02 |
 | Share count change (1y) | +7.2% |
-| Return 1m / 6m / 12m | +0.5% / +20.3% / +42.2% |
-| vs. 200-day average | +1.7% |
-| RSI (14d) | 39 |
+| Return 1m / 6m / 12m | -5.9% / +16.4% / +37.9% |
+| vs. 200-day average | -0.9% |
+| RSI (14d) | 35 |
 | Volatility (1y) | 48.4% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 - Insider trades: http://openinsider.com/VISN
 - Full deep dive: run `python scout.py stock VISN` → `research/VISN.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

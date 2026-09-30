@@ -3,17 +3,17 @@ ticker: "AUPH"
 company: "Aurinia Pharmaceuticals Inc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 16.52
+price: 16.42
 market_cap: "$2.2B"
-score: 79
-value: 81
+score: 78
+value: 82
 quality: 78
-growth: 85
-momentum: 66
+growth: 86
+momentum: 63
 health: 84
 pe: 7.0
 piotroski: 7
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,26 +27,26 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- Cheaper than about 81% of stocks in Health Care (value score).
+- Cheaper than about 82% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 49% over 12 months (11% below its 52-week high).
+- Share price up 49% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **79** | 81 | 78 | 85 | 66 | 84 |
+| **78** | 82 | 78 | 86 | 63 | 84 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $16.52 |
+| Price | $16.42 |
 | Market value | $2.2B |
 | P/E | 7.0 |
-| Price/Sales | 7.06 |
-| Price/Book | 3.57 |
+| Price/Sales | 7.01 |
+| Price/Book | 3.55 |
 | Free-cash-flow yield | 6.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $311.5M |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 5.42 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 8.10 |
+| Altman Z | 8.06 |
 | Share count change (1y) | -2.9% |
-| Return 1m / 6m / 12m | +1.4% / +11.5% / +49.4% |
-| vs. 200-day average | +6.2% |
-| RSI (14d) | 53 |
-| Volatility (1y) | 37.9% |
+| Return 1m / 6m / 12m | +1.9% / +6.1% / +48.6% |
+| vs. 200-day average | +5.6% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 37.8% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/AUPH
 - Full deep dive: run `python scout.py stock AUPH` → `research/AUPH.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

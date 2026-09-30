@@ -3,17 +3,17 @@ ticker: "LFST"
 company: "LifeStance Health Group Inc."
 sector: "Health Care"
 industry: "Medical/Nursing Services"
-price: 11.84
+price: 11.89
 market_cap: "$4.5B"
 score: 72
-value: 65
+value: 66
 quality: 63
 growth: 85
 momentum: 94
 health: 58
-pe: 89.4
+pe: 89.8
 piotroski: 9
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,26 +27,26 @@ Health Care · Medical/Nursing Services
 
 ## In plain English
 
-- Cheaper than about 65% of stocks in Health Care (value score).
+- Cheaper than about 66% of stocks in Health Care (value score).
 - Business quality ranks above 63% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 118% over 12 months (12% below its 52-week high).
+- Share price up 116% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 65 | 63 | 85 | 94 | 58 |
+| **72** | 66 | 63 | 85 | 94 | 58 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $11.84 |
+| Price | $11.89 |
 | Market value | $4.5B |
-| P/E | 89.4 |
-| Price/Sales | 2.86 |
-| Price/Book | 3.06 |
+| P/E | 89.8 |
+| Price/Sales | 2.87 |
+| Price/Book | 3.08 |
 | Free-cash-flow yield | 2.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.6B |
@@ -59,11 +59,11 @@ Health Care · Medical/Nursing Services
 | Debt / equity | 0.19 |
 | Current ratio | 1.38 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 4.26 |
+| Altman Z | 4.28 |
 | Share count change (1y) | +0.1% |
-| Return 1m / 6m / 12m | -3.8% / +85.9% / +118.5% |
-| vs. 200-day average | +35.6% |
-| RSI (14d) | 40 |
+| Return 1m / 6m / 12m | -3.8% / +86.7% / +116.2% |
+| vs. 200-day average | +35.8% |
+| RSI (14d) | 41 |
 | Volatility (1y) | 53.0% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Medical/Nursing Services
 - Insider trades: http://openinsider.com/LFST
 - Full deep dive: run `python scout.py stock LFST` → `research/LFST.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

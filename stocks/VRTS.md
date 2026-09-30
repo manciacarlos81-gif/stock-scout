@@ -3,17 +3,17 @@ ticker: "VRTS"
 company: "Virtus Investment Partners Inc."
 sector: "Finance"
 industry: "Investment Managers"
-price: 129.55
-market_cap: "$858.0M"
+price: 131.26
+market_cap: "$869.3M"
 score: 51
-value: 89
+value: 88
 quality: 41
 growth: 21
-momentum: 29
+momentum: 33
 health: 63
-pe: 7.4
+pe: 7.5
 piotroski: 3
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,28 +27,28 @@ Finance · Investment Managers
 
 ## In plain English
 
-- Cheaper than about 89% of stocks in Finance (value score).
+- Cheaper than about 88% of stocks in Finance (value score).
 - Business quality ranks above 41% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price down 28% over 12 months (29% below its 52-week high).
+- Share price down 27% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 89 | 41 | 21 | 29 | 63 |
+| **51** | 88 | 41 | 21 | 33 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $129.55 |
-| Market value | $858.0M |
-| P/E | 7.4 |
-| Price/Sales | 1.04 |
-| Price/Book | 0.91 |
+| Price | $131.26 |
+| Market value | $869.3M |
+| P/E | 7.5 |
+| Price/Sales | 1.05 |
+| Price/Book | 0.92 |
 | Free-cash-flow yield | – |
-| Dividend yield | 7.5% |
+| Dividend yield | 7.4% |
 | Sales (12m) | $825.3M |
 | Sales growth | -7.2% |
 | Net profit (12m) | $116.0M |
@@ -61,9 +61,9 @@ Finance · Investment Managers
 | Piotroski F-score | 3/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -23.1% / -0.5% / -28.0% |
-| vs. 200-day average | -11.5% |
-| RSI (14d) | 28 |
+| Return 1m / 6m / 12m | -20.7% / +3.3% / -26.6% |
+| vs. 200-day average | -10.3% |
+| RSI (14d) | 32 |
 | Volatility (1y) | 35.7% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Finance · Investment Managers
 - Insider trades: http://openinsider.com/VRTS
 - Full deep dive: run `python scout.py stock VRTS` → `research/VRTS.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "PYPL"
 company: "PayPal Holdings Inc."
 sector: "Industrials"
 industry: "Diversified Commercial Services"
-price: 54.28
-market_cap: "$46.4B"
-score: 64
+price: 53.89
+market_cap: "$46.1B"
+score: 65
 value: 88
 quality: 77
 growth: 44
-momentum: 46
+momentum: 47
 health: 48
-pe: 9.5
+pe: 9.4
 piotroski: 9
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,24 +30,24 @@ Industrials · Diversified Commercial Services
 - Cheaper than about 88% of stocks in Industrials (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price down 21% over 12 months (28% below its 52-week high).
+- Share price down 19% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 88 | 77 | 44 | 46 | 48 |
+| **65** | 88 | 77 | 44 | 47 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $54.28 |
-| Market value | $46.4B |
-| P/E | 9.5 |
-| Price/Sales | 1.36 |
-| Price/Book | 2.34 |
-| Free-cash-flow yield | 12.0% |
+| Price | $53.89 |
+| Market value | $46.1B |
+| P/E | 9.4 |
+| Price/Sales | 1.35 |
+| Price/Book | 2.33 |
+| Free-cash-flow yield | 12.1% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $34.1B |
 | Sales growth | +5.7% |
@@ -59,11 +59,11 @@ Industrials · Diversified Commercial Services
 | Debt / equity | 0.68 |
 | Current ratio | 1.29 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 1.88 |
+| Altman Z | 1.87 |
 | Share count change (1y) | -9.7% |
-| Return 1m / 6m / 12m | +1.4% / +20.7% / -21.2% |
-| vs. 200-day average | +8.4% |
-| RSI (14d) | 49 |
+| Return 1m / 6m / 12m | +2.6% / +21.4% / -18.7% |
+| vs. 200-day average | +7.7% |
+| RSI (14d) | 48 |
 | Volatility (1y) | 44.0% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Industrials · Diversified Commercial Services
 - Insider trades: http://openinsider.com/PYPL
 - Full deep dive: run `python scout.py stock PYPL` → `research/PYPL.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

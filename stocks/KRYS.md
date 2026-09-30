@@ -3,17 +3,17 @@ ticker: "KRYS"
 company: "Krystal Biotech Inc."
 sector: "Health Care"
 industry: "Biotechnology: Biological Products (No Diagnostic Substances)"
-price: 337.08
-market_cap: "$10.0B"
+price: 335.06
+market_cap: "$9.9B"
 score: 74
 value: 57
 quality: 78
 growth: 72
-momentum: 82
+momentum: 83
 health: 87
-pe: 41.3
+pe: 41.1
 piotroski: 7
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,23 +30,23 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Cheaper than about 57% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 23% over the last 12 months.
-- Share price up 91% over 12 months (11% below its 52-week high).
+- Share price up 90% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 57 | 78 | 72 | 82 | 87 |
+| **74** | 57 | 78 | 72 | 83 | 87 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $337.08 |
-| Market value | $10.0B |
-| P/E | 41.3 |
-| Price/Sales | 22.65 |
-| Price/Book | 7.34 |
+| Price | $335.06 |
+| Market value | $9.9B |
+| P/E | 41.1 |
+| Price/Sales | 22.51 |
+| Price/Book | 7.30 |
 | Free-cash-flow yield | 1.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $440.5M |
@@ -61,9 +61,9 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 7/9 |
 | Altman Z | 30.00 |
 | Share count change (1y) | +3.1% |
-| Return 1m / 6m / 12m | -4.1% / +30.5% / +90.7% |
-| vs. 200-day average | +12.2% |
-| RSI (14d) | 45 |
+| Return 1m / 6m / 12m | -6.8% / +29.4% / +89.8% |
+| vs. 200-day average | +11.3% |
+| RSI (14d) | 43 |
 | Volatility (1y) | 37.7% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/KRYS
 - Full deep dive: run `python scout.py stock KRYS` → `research/KRYS.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

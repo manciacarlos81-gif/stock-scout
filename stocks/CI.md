@@ -3,17 +3,17 @@ ticker: "CI"
 company: "The Cigna Group"
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 271.83
-market_cap: "$71.8B"
+price: 275.26
+market_cap: "$72.7B"
 score: 61
 value: 95
 quality: 60
 growth: 53
-momentum: 38
+momentum: 40
 health: 42
-pe: 11.2
+pe: 11.3
 piotroski: 7
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Medical Specialities
 - Cheaper than about 95% of stocks in Health Care (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price down 3% over 12 months (11% below its 52-week high).
+- Share price down 2% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 95 | 60 | 53 | 38 | 42 |
+| **61** | 95 | 60 | 53 | 40 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $271.83 |
-| Market value | $71.8B |
-| P/E | 11.2 |
-| Price/Sales | 0.25 |
-| Price/Book | 1.69 |
-| Free-cash-flow yield | 13.4% |
+| Price | $275.26 |
+| Market value | $72.7B |
+| P/E | 11.3 |
+| Price/Sales | 0.26 |
+| Price/Book | 1.71 |
+| Free-cash-flow yield | 13.2% |
 | Dividend yield | 2.2% |
 | Sales (12m) | $282.4B |
 | Sales growth | +7.8% |
@@ -61,9 +61,9 @@ Health Care · Medical Specialities
 | Piotroski F-score | 7/9 |
 | Altman Z | 2.77 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -2.0% / +3.1% / -3.0% |
-| vs. 200-day average | -2.0% |
-| RSI (14d) | 44 |
+| Return 1m / 6m / 12m | +0.3% / +4.1% / -2.3% |
+| vs. 200-day average | -0.8% |
+| RSI (14d) | 48 |
 | Volatility (1y) | 32.9% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CI
 - Full deep dive: run `python scout.py stock CI` → `research/CI.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "INSW"
 company: "International Seaways Inc."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 108.31
-market_cap: "$5.4B"
+price: 110.24
+market_cap: "$5.5B"
 score: 80
 value: 69
 quality: 78
 growth: 88
 momentum: 94
 health: 73
-pe: 6.9
+pe: 7.0
 piotroski: 6
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,7 +31,7 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 69% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 57% over the last 12 months.
-- Share price up 172% over 12 months (3% below its 52-week high).
+- Share price up 179% over 12 months (1% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,13 +43,13 @@ Consumer Discretionary · Marine Transportation
 
 | | |
 |---|---:|
-| Price | $108.31 |
-| Market value | $5.4B |
-| P/E | 6.9 |
-| Price/Sales | 4.27 |
-| Price/Book | 2.37 |
-| Free-cash-flow yield | 7.1% |
-| Dividend yield | 2.7% |
+| Price | $110.24 |
+| Market value | $5.5B |
+| P/E | 7.0 |
+| Price/Sales | 4.34 |
+| Price/Book | 2.41 |
+| Free-cash-flow yield | 7.0% |
+| Dividend yield | 2.6% |
 | Sales (12m) | $1.3B |
 | Sales growth | +57.4% |
 | Net profit (12m) | $779.1M |
@@ -60,11 +60,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.29 |
 | Current ratio | 5.94 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 6.19 |
+| Altman Z | 6.26 |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | +15.2% / +65.3% / +171.5% |
-| vs. 200-day average | +49.8% |
-| RSI (14d) | 64 |
+| Return 1m / 6m / 12m | +17.4% / +69.7% / +178.9% |
+| vs. 200-day average | +51.8% |
+| RSI (14d) | 67 |
 | Volatility (1y) | 38.7% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/INSW
 - Full deep dive: run `python scout.py stock INSW` → `research/INSW.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

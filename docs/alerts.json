@@ -1,5 +1,5 @@
 {
- "date": "2026-09-29",
+ "date": "2026-09-30",
  "scanned": 2616,
  "top": [
   {
@@ -7,7 +7,7 @@
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 81,
-   "price": 1712.89,
+   "price": 1729.76,
    "flags": ""
   },
   {
@@ -15,31 +15,31 @@
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 96.49,
+   "price": 95.25,
    "flags": "heavy debt"
   },
   {
    "rank": 3,
-   "ticker": "INCY",
-   "name": "Incyte Corp.",
-   "score": 80,
-   "price": 124.82,
-   "flags": ""
-  },
-  {
-   "rank": 4,
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 212.74,
+   "price": 210.1,
    "flags": "shares up 17% in a year"
+  },
+  {
+   "rank": 4,
+   "ticker": "INCY",
+   "name": "Incyte Corp.",
+   "score": 80,
+   "price": 123.2,
+   "flags": ""
   },
   {
    "rank": 5,
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 108.31,
+   "price": 110.24,
    "flags": ""
   },
   {
@@ -47,7 +47,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 80,
-   "price": 54.36,
+   "price": 54.23,
    "flags": ""
   },
   {
@@ -55,31 +55,31 @@
    "ticker": "CDNA",
    "name": "CareDx Inc.",
    "score": 79,
-   "price": 64.6,
+   "price": 64.02,
    "flags": ""
   },
   {
    "rank": 8,
-   "ticker": "AUPH",
-   "name": "Aurinia Pharmaceuticals Inc",
+   "ticker": "BFH",
+   "name": "Bread Financial Holdings Inc.",
    "score": 79,
-   "price": 16.52,
-   "flags": "profits not backed by cash"
+   "price": 100.07,
+   "flags": ""
   },
   {
    "rank": 9,
-   "ticker": "BFH",
-   "name": "Bread Financial Holdings Inc.",
+   "ticker": "AUPH",
+   "name": "Aurinia Pharmaceuticals Inc",
    "score": 78,
-   "price": 101.25,
-   "flags": ""
+   "price": 16.42,
+   "flags": "profits not backed by cash"
   },
   {
    "rank": 10,
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
    "score": 78,
-   "price": 58.37,
+   "price": 58.65,
    "flags": ""
   }
  ],
@@ -97,6 +97,13 @@
   "SNDK"
  ],
  "insider": [
+  {
+   "ticker": "GME",
+   "name": "GameStop Corporation",
+   "value": 58965409,
+   "buyers": 4,
+   "last": "2026-09-29"
+  },
   {
    "ticker": "INBX",
    "name": "Inhibrx Biosciences Inc.",

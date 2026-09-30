@@ -3,17 +3,17 @@ ticker: "APP"
 company: "Applovin Corporation"
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 308.24
-market_cap: "$103.2B"
+price: 305.66
+market_cap: "$102.3B"
 score: 60
 value: 56
 quality: 95
 growth: 85
 momentum: 6
 health: 56
-pe: 23.4
+pe: 23.2
 piotroski: 9
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -42,12 +42,12 @@ Technology · Computer Software: Programming Data Processing
 
 | | |
 |---|---:|
-| Price | $308.24 |
-| Market value | $103.2B |
-| P/E | 23.4 |
-| Price/Sales | 15.10 |
-| Price/Book | 32.61 |
-| Free-cash-flow yield | 3.8% |
+| Price | $305.66 |
+| Market value | $102.3B |
+| P/E | 23.2 |
+| Price/Sales | 14.98 |
+| Price/Book | 32.34 |
+| Free-cash-flow yield | 3.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $6.8B |
 | Sales growth | +76.3% |
@@ -59,11 +59,11 @@ Technology · Computer Software: Programming Data Processing
 | Debt / equity | 1.11 |
 | Current ratio | 4.30 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 16.11 |
+| Altman Z | 16.01 |
 | Share count change (1y) | -1.5% |
-| Return 1m / 6m / 12m | -3.0% / -22.6% / -56.7% |
-| vs. 200-day average | -33.2% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | -2.1% / -21.2% / -57.5% |
+| vs. 200-day average | -33.5% |
+| RSI (14d) | 40 |
 | Volatility (1y) | 73.3% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/APP
 - Full deep dive: run `python scout.py stock APP` → `research/APP.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

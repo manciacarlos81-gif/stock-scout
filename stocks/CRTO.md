@@ -3,17 +3,17 @@ ticker: "CRTO"
 company: "Criteo S.A."
 sector: "Consumer Discretionary"
 industry: "Advertising"
-price: 15.8
-market_cap: "$774.2M"
+price: 15.45
+market_cap: "$757.0M"
 score: 57
 value: 96
 quality: 72
 growth: 26
-momentum: 17
+momentum: 15
 health: 54
-pe: 7.1
+pe: 7.0
 piotroski: 9
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,24 +31,24 @@ Consumer Discretionary · Advertising
 - Cheaper than about 96% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales fell 4% over the last 12 months.
-- Share price down 29% over 12 months (32% below its 52-week high).
+- Share price down 32% over 12 months (34% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 96 | 72 | 26 | 17 | 54 |
+| **57** | 96 | 72 | 26 | 15 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.80 |
-| Market value | $774.2M |
-| P/E | 7.1 |
-| Price/Sales | 0.42 |
-| Price/Book | 0.69 |
-| Free-cash-flow yield | 40.2% |
+| Price | $15.45 |
+| Market value | $757.0M |
+| P/E | 7.0 |
+| Price/Sales | 0.41 |
+| Price/Book | 0.67 |
+| Free-cash-flow yield | 41.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.9B |
 | Sales growth | -4.2% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Advertising
 | Debt / equity | – |
 | Current ratio | 1.29 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 2.26 |
+| Altman Z | 2.25 |
 | Share count change (1y) | -8.3% |
-| Return 1m / 6m / 12m | -9.5% / -11.9% / -29.5% |
-| vs. 200-day average | -15.6% |
-| RSI (14d) | 29 |
+| Return 1m / 6m / 12m | -12.5% / -16.2% / -31.6% |
+| vs. 200-day average | -17.3% |
+| RSI (14d) | 27 |
 | Volatility (1y) | 55.6% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/CRTO
 - Full deep dive: run `python scout.py stock CRTO` → `research/CRTO.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

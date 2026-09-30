@@ -3,17 +3,17 @@ ticker: "DECK"
 company: "Deckers Outdoor Corporation"
 sector: "Consumer Discretionary"
 industry: "Shoe Manufacturing"
-price: 78.36
-market_cap: "$10.7B"
+price: 77.68
+market_cap: "$10.6B"
 score: 60
 value: 72
 quality: 84
 growth: 47
-momentum: 13
+momentum: 14
 health: 76
-pe: 10.5
+pe: 10.4
 piotroski: 7
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Shoe Manufacturing
 - Cheaper than about 72% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price down 24% over 12 months (35% below its 52-week high).
+- Share price down 23% over 12 months (36% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 72 | 84 | 47 | 13 | 76 |
+| **60** | 72 | 84 | 47 | 14 | 76 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $78.36 |
-| Market value | $10.7B |
-| P/E | 10.5 |
-| Price/Sales | 1.93 |
-| Price/Book | 4.64 |
-| Free-cash-flow yield | 10.3% |
+| Price | $77.68 |
+| Market value | $10.6B |
+| P/E | 10.4 |
+| Price/Sales | 1.92 |
+| Price/Book | 4.60 |
+| Free-cash-flow yield | 10.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.5B |
 | Sales growth | +7.9% |
@@ -61,9 +61,9 @@ Consumer Discretionary · Shoe Manufacturing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.4% |
-| Return 1m / 6m / 12m | -10.7% / -21.7% / -24.1% |
-| vs. 200-day average | -22.9% |
-| RSI (14d) | 35 |
+| Return 1m / 6m / 12m | -10.8% / -23.0% / -23.4% |
+| vs. 200-day average | -23.5% |
+| RSI (14d) | 34 |
 | Volatility (1y) | 44.8% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Shoe Manufacturing
 - Insider trades: http://openinsider.com/DECK
 - Full deep dive: run `python scout.py stock DECK` → `research/DECK.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

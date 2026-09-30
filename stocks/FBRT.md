@@ -3,17 +3,17 @@ ticker: "FBRT"
 company: "Franklin BSP Realty Trust Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 6.71
-market_cap: "$557.2M"
+price: 6.72
+market_cap: "$558.1M"
 score: 55
 value: 93
 quality: 58
 growth: 56
-momentum: 14
+momentum: 15
 health: 41
 pe: 8.7
 piotroski: 6
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -36,18 +36,18 @@ Real Estate · Real Estate Investment Trusts
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 93 | 58 | 56 | 14 | 41 |
+| **55** | 93 | 58 | 56 | 15 | 41 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.71 |
-| Market value | $557.2M |
+| Price | $6.72 |
+| Market value | $558.1M |
 | P/E | 8.7 |
-| Price/Sales | 1.82 |
+| Price/Sales | 1.83 |
 | Price/Book | 0.41 |
-| Free-cash-flow yield | 52.4% |
+| Free-cash-flow yield | 52.3% |
 | Dividend yield | 26.1% |
 | Sales (12m) | $305.4M |
 | Sales growth | +37.0% |
@@ -61,9 +61,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.1% |
-| Return 1m / 6m / 12m | -20.7% / -19.0% / -32.9% |
-| vs. 200-day average | -21.7% |
-| RSI (14d) | 24 |
+| Return 1m / 6m / 12m | -19.7% / -17.9% / -32.8% |
+| vs. 200-day average | -21.4% |
+| RSI (14d) | 25 |
 | Volatility (1y) | 29.3% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/FBRT
 - Full deep dive: run `python scout.py stock FBRT` → `research/FBRT.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

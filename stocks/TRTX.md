@@ -3,8 +3,8 @@ ticker: "TRTX"
 company: "TPG RE Finance Trust Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 6.33
-market_cap: "$485.9M"
+price: 6.34
+market_cap: "$486.7M"
 score: 51
 value: 93
 quality: 39
@@ -13,7 +13,7 @@ momentum: 23
 health: 48
 pe: 8.4
 piotroski: 6
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -41,8 +41,8 @@ Real Estate · Real Estate Investment Trusts
 
 | | |
 |---|---:|
-| Price | $6.33 |
-| Market value | $485.9M |
+| Price | $6.34 |
+| Market value | $486.7M |
 | P/E | 8.4 |
 | Price/Sales | – |
 | Price/Book | 0.47 |
@@ -60,9 +60,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.7% |
-| Return 1m / 6m / 12m | -15.0% / -13.4% / -16.0% |
-| vs. 200-day average | -18.6% |
-| RSI (14d) | 13 |
+| Return 1m / 6m / 12m | -14.9% / -12.9% / -16.3% |
+| vs. 200-day average | -18.4% |
+| RSI (14d) | 14 |
 | Volatility (1y) | 20.4% |
 | Financials as of | 2026-06-30 |
 
@@ -77,4 +77,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/TRTX
 - Full deep dive: run `python scout.py stock TRTX` → `research/TRTX.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

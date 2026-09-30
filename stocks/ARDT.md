@@ -3,17 +3,17 @@ ticker: "ARDT"
 company: "Ardent Health Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 10.47
+price: 10.58
 market_cap: "$1.5B"
 score: 56
 value: 94
-quality: 51
+quality: 52
 growth: 24
-momentum: 48
+momentum: 49
 health: 42
-pe: 18.9
+pe: 19.1
 piotroski: 6
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -28,26 +28,26 @@ Health Care · Hospital/Nursing Management
 ## In plain English
 
 - Cheaper than about 94% of stocks in Health Care (value score).
-- Business quality ranks above 51% of all stocks scanned.
+- Business quality ranks above 52% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price down 21% over 12 months (31% below its 52-week high).
+- Share price down 20% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 94 | 51 | 24 | 48 | 42 |
+| **56** | 94 | 52 | 24 | 49 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $10.47 |
+| Price | $10.58 |
 | Market value | $1.5B |
-| P/E | 18.9 |
+| P/E | 19.1 |
 | Price/Sales | 0.23 |
-| Price/Book | 1.09 |
-| Free-cash-flow yield | 31.9% |
+| Price/Book | 1.10 |
+| Free-cash-flow yield | 31.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $6.4B |
 | Sales growth | +3.3% |
@@ -61,9 +61,9 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +1.1% |
-| Return 1m / 6m / 12m | -4.5% / +22.3% / -21.1% |
-| vs. 200-day average | +8.1% |
-| RSI (14d) | 43 |
+| Return 1m / 6m / 12m | -2.2% / +22.0% / -20.2% |
+| vs. 200-day average | +9.1% |
+| RSI (14d) | 46 |
 | Volatility (1y) | 54.0% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/ARDT
 - Full deep dive: run `python scout.py stock ARDT` → `research/ARDT.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_

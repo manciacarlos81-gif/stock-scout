@@ -3,17 +3,17 @@ ticker: "NUTX"
 company: "Nutex Health Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 212.74
-market_cap: "$1.5B"
+price: 210.1
+market_cap: "$1.4B"
 score: 80
 value: 80
 quality: 87
 growth: 62
 momentum: 93
 health: 69
-pe: 8.1
+pe: 8.0
 piotroski: 7
-updated: "2026-09-29"
+updated: "2026-09-30"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,7 +31,7 @@ Consumer Discretionary · Business Services
 - Cheaper than about 80% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 100% over 12 months (3% below its 52-week high).
+- Share price up 103% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Consumer Discretionary · Business Services
 
 | | |
 |---|---:|
-| Price | $212.74 |
-| Market value | $1.5B |
-| P/E | 8.1 |
-| Price/Sales | 1.72 |
-| Price/Book | 3.69 |
-| Free-cash-flow yield | 16.9% |
+| Price | $210.10 |
+| Market value | $1.4B |
+| P/E | 8.0 |
+| Price/Sales | 1.70 |
+| Price/Book | 3.65 |
+| Free-cash-flow yield | 17.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $846.7M |
 | Sales growth | +6.9% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Business Services
 | Debt / equity | 0.10 |
 | Current ratio | 5.00 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.37 |
+| Altman Z | 4.34 |
 | Share count change (1y) | +17.1% |
-| Return 1m / 6m / 12m | +12.4% / +123.8% / +100.3% |
-| vs. 200-day average | +45.4% |
-| RSI (14d) | 58 |
+| Return 1m / 6m / 12m | +11.3% / +113.4% / +103.3% |
+| vs. 200-day average | +43.5% |
+| RSI (14d) | 56 |
 | Volatility (1y) | 92.1% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/NUTX
 - Full deep dive: run `python scout.py stock NUTX` → `research/NUTX.md`
 
-_Updated 2026-09-29 · [latest report](../reports/latest.md)_
+_Updated 2026-09-30 · [latest report](../reports/latest.md)_
