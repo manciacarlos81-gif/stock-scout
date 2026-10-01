@@ -5,15 +5,15 @@ sector: "Industrials"
 industry: "Industrial Machinery/Components"
 price: 130.98
 market_cap: "$732.9M"
-score: 61
+score: 60
 value: 44
 quality: 64
 growth: 60
-momentum: 90
+momentum: 88
 health: 44
 pe: 152.7
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,14 +30,14 @@ Industrials · Industrial Machinery/Components
 - More expensive than about 56% of Industrials peers (value score).
 - Business quality ranks above 64% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price up 97% over 12 months (5% below its 52-week high).
+- Share price up 87% over 12 months (5% below its 52-week high).
 - Insiders bought $902.4K of shares recently (Kadia Siddhartha (Pres, CEO); Tripeny R Tony (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 44 | 64 | 60 | 90 | 44 |
+| **60** | 44 | 64 | 60 | 88 | 44 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Industrials · Industrial Machinery/Components
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.20 |
 | Share count change (1y) | +3.7% |
-| Return 1m / 6m / 12m | +2.4% / +48.5% / +96.7% |
-| vs. 200-day average | +32.5% |
+| Return 1m / 6m / 12m | +4.4% / +44.2% / +87.1% |
+| vs. 200-day average | +32.1% |
 | RSI (14d) | 57 |
 | Volatility (1y) | 53.4% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Industrials · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/MLAB
 - Full deep dive: run `python scout.py stock MLAB` → `research/MLAB.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

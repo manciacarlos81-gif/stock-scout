@@ -13,7 +13,7 @@ momentum: 99
 health: 80
 pe: 22.2
 piotroski: 7
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -32,7 +32,7 @@ Technology · Electronic Components
 - Cheaper than about 58% of stocks in Technology (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 175% over the last 12 months.
-- Share price up 1442% over 12 months (26% below its 52-week high).
+- Share price up 1328% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -63,8 +63,8 @@ Technology · Electronic Components
 | Piotroski F-score | 7/9 |
 | Altman Z | 26.14 |
 | Share count change (1y) | +6.9% |
-| Return 1m / 6m / 12m | +10.4% / +149.7% / +1441.7% |
-| vs. 200-day average | +52.2% |
+| Return 1m / 6m / 12m | +12.6% / +146.5% / +1328.1% |
+| vs. 200-day average | +51.2% |
 | RSI (14d) | 54 |
 | Volatility (1y) | 115.4% |
 | Financials as of | 2026-07-03 |
@@ -76,4 +76,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/SNDK
 - Full deep dive: run `python scout.py stock SNDK` → `research/SNDK.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

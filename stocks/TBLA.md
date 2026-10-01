@@ -9,11 +9,11 @@ score: 67
 value: 97
 quality: 60
 growth: 77
-momentum: 40
+momentum: 41
 health: 56
 pe: 7.2
 piotroski: 7
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,13 +31,13 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 97% of stocks in Technology (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 0% over 12 months (39% below its 52-week high).
+- Share price up 1% over 12 months (39% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 97 | 60 | 77 | 40 | 56 |
+| **67** | 97 | 60 | 77 | 41 | 56 |
 
 ## Key numbers
 
@@ -62,7 +62,7 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -8.6% / +5.6% / +0.0% |
+| Return 1m / 6m / 12m | -8.6% / +5.9% / +1.2% |
 | vs. 200-day average | -16.9% |
 | RSI (14d) | 33 |
 | Volatility (1y) | 56.1% |
@@ -75,4 +75,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/TBLA
 - Full deep dive: run `python scout.py stock TBLA` → `research/TBLA.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

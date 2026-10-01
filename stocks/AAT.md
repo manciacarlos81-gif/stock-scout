@@ -9,11 +9,11 @@ score: 50
 value: 54
 quality: 52
 growth: 16
-momentum: 60
+momentum: 59
 health: 61
 pe: 54.6
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -37,7 +37,7 @@ Real Estate · Real Estate Investment Trusts
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 54 | 52 | 16 | 60 | 61 |
+| **50** | 54 | 52 | 16 | 59 | 61 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.2% |
-| Return 1m / 6m / 12m | -3.5% / +19.8% / +12.1% |
-| vs. 200-day average | +3.4% |
+| Return 1m / 6m / 12m | -3.3% / +17.8% / +12.0% |
+| vs. 200-day average | +3.3% |
 | RSI (14d) | 36 |
 | Volatility (1y) | 22.2% |
 | Financials as of | 2026-03-31 |
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/AAT
 - Full deep dive: run `python scout.py stock AAT` → `research/AAT.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

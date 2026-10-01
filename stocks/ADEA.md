@@ -9,11 +9,11 @@ score: 64
 value: 55
 quality: 84
 growth: 73
-momentum: 57
+momentum: 56
 health: 50
 pe: 22.2
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,13 +30,13 @@ Telecommunications · Cable & Other Pay Television Services
 - Cheaper than about 55% of stocks in Telecommunications (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price up 49% over 12 months (26% below its 52-week high).
+- Share price up 46% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 55 | 84 | 73 | 57 | 50 |
+| **64** | 55 | 84 | 73 | 56 | 50 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Telecommunications · Cable & Other Pay Television Services
 | Piotroski F-score | 8/9 |
 | Altman Z | 4.57 |
 | Share count change (1y) | +2.0% |
-| Return 1m / 6m / 12m | -1.9% / -0.9% / +48.8% |
-| vs. 200-day average | -0.6% |
+| Return 1m / 6m / 12m | +1.6% / -0.9% / +46.3% |
+| vs. 200-day average | -0.9% |
 | RSI (14d) | 42 |
 | Volatility (1y) | 66.8% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Telecommunications · Cable & Other Pay Television Services
 - Insider trades: http://openinsider.com/ADEA
 - Full deep dive: run `python scout.py stock ADEA` → `research/ADEA.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

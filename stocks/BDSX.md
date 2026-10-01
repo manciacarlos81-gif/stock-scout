@@ -13,7 +13,7 @@ momentum: 97
 health: 14
 pe: null
 piotroski: 3
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Medical Specialities
 - More expensive than about 68% of Health Care peers (value score).
 - Business quality ranks above 26% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 286% over 12 months (5% below its 52-week high).
+- Share price up 280% over 12 months (5% below its 52-week high).
 - Insiders bought $1.0M of shares recently (Schuler Jack W (Emeritus Director, 10%)).
 
 ## Scores (0–100, higher is better)
@@ -62,8 +62,8 @@ Health Care · Medical Specialities
 | Piotroski F-score | 3/9 |
 | Altman Z | -4.67 |
 | Share count change (1y) | +40.4% |
-| Return 1m / 6m / 12m | +10.6% / +97.4% / +286.0% |
-| vs. 200-day average | +74.0% |
+| Return 1m / 6m / 12m | +16.2% / +93.4% / +279.9% |
+| vs. 200-day average | +72.9% |
 | RSI (14d) | 58 |
 | Volatility (1y) | 108.0% |
 | Financials as of | 2026-06-30 |
@@ -83,4 +83,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/BDSX
 - Full deep dive: run `python scout.py stock BDSX` → `research/BDSX.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

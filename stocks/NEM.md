@@ -6,14 +6,14 @@ industry: "Precious Metals"
 price: 117.09
 market_cap: "$123.4B"
 score: 74
-value: 73
+value: 74
 quality: 89
 growth: 76
-momentum: 62
+momentum: 61
 health: 66
 pe: 14.4
 piotroski: 9
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,16 +27,16 @@ Basic Materials · Precious Metals
 
 ## In plain English
 
-- Cheaper than about 73% of stocks in Basic Materials (value score).
+- Cheaper than about 74% of stocks in Basic Materials (value score).
 - Business quality ranks above 89% of all stocks scanned.
 - Sales grew 25% over the last 12 months.
-- Share price up 40% over 12 months (13% below its 52-week high).
+- Share price up 38% over 12 months (13% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 73 | 89 | 76 | 62 | 66 |
+| **74** | 74 | 89 | 76 | 61 | 66 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Basic Materials · Precious Metals
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -4.0% |
-| Return 1m / 6m / 12m | -6.9% / +3.4% / +40.2% |
-| vs. 200-day average | +5.5% |
+| Return 1m / 6m / 12m | -4.3% / +3.1% / +37.5% |
+| vs. 200-day average | +5.4% |
 | RSI (14d) | 42 |
 | Volatility (1y) | 50.1% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Basic Materials · Precious Metals
 - Insider trades: http://openinsider.com/NEM
 - Full deep dive: run `python scout.py stock NEM` → `research/NEM.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

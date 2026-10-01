@@ -13,7 +13,7 @@ momentum: 99
 health: 80
 pe: 23.8
 piotroski: 7
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,7 +31,7 @@ Technology · Semiconductors
 - More expensive than about 53% of Technology peers (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 167% over the last 12 months.
-- Share price up 538% over 12 months (12% below its 52-week high).
+- Share price up 486% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -62,8 +62,8 @@ Technology · Semiconductors
 | Piotroski F-score | 7/9 |
 | Altman Z | 25.16 |
 | Share count change (1y) | +1.8% |
-| Return 1m / 6m / 12m | +11.1% / +189.6% / +537.6% |
-| vs. 200-day average | +57.7% |
+| Return 1m / 6m / 12m | +14.1% / +190.9% / +485.7% |
+| vs. 200-day average | +56.8% |
 | RSI (14d) | 60 |
 | Volatility (1y) | 81.1% |
 | Financials as of | 2026-05-28 |
@@ -75,4 +75,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MU
 - Full deep dive: run `python scout.py stock MU` → `research/MU.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

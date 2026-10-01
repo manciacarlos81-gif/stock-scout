@@ -5,15 +5,15 @@ sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
 price: 16.12
 market_cap: "$2.8B"
-score: 69
+score: 70
 value: 58
 quality: 87
 growth: 87
-momentum: 63
+momentum: 64
 health: 50
 pe: 29.3
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,13 +30,13 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 58% of stocks in Technology (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 32% over the last 12 months.
-- Share price up 7% over 12 months (10% below its 52-week high).
+- Share price up 8% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 58 | 87 | 87 | 63 | 50 |
+| **70** | 58 | 87 | 87 | 64 | 50 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 8/9 |
 | Altman Z | 5.59 |
 | Share count change (1y) | -10.4% |
-| Return 1m / 6m / 12m | +4.1% / +34.9% / +7.3% |
-| vs. 200-day average | +18.9% |
+| Return 1m / 6m / 12m | +3.8% / +32.7% / +8.3% |
+| vs. 200-day average | +18.8% |
 | RSI (14d) | 57 |
 | Volatility (1y) | 48.8% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/GRND
 - Full deep dive: run `python scout.py stock GRND` → `research/GRND.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

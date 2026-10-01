@@ -5,15 +5,15 @@ sector: "Consumer Discretionary"
 industry: "Telecommunications Equipment"
 price: 82.59
 market_cap: "$10.7B"
-score: 45
+score: 43
 value: 20
 quality: 47
 growth: 51
-momentum: 81
+momentum: 72
 health: 29
 pe: null
 piotroski: 4
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,14 +30,14 @@ Consumer Discretionary · Telecommunications Equipment
 - More expensive than about 80% of Consumer Discretionary peers (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 127% over 12 months (2% below its 52-week high).
+- Share price up 111% over 12 months (2% below its 52-week high).
 - Insiders bought $29.8M of shares recently (Monroe James III (Dir, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **45** | 20 | 47 | 51 | 81 | 29 |
+| **43** | 20 | 47 | 51 | 72 | 29 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Consumer Discretionary · Telecommunications Equipment
 | Piotroski F-score | 4/9 |
 | Altman Z | 1.93 |
 | Share count change (1y) | +1.0% |
-| Return 1m / 6m / 12m | +1.3% / +20.5% / +127.0% |
-| vs. 200-day average | +11.9% |
+| Return 1m / 6m / 12m | +1.5% / +6.3% / +110.9% |
+| vs. 200-day average | +11.8% |
 | RSI (14d) | 54 |
-| Volatility (1y) | 59.2% |
+| Volatility (1y) | 59.1% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Telecommunications Equipment
 - Insider trades: http://openinsider.com/GSAT
 - Full deep dive: run `python scout.py stock GSAT` → `research/GSAT.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

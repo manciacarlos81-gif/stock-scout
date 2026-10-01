@@ -9,11 +9,11 @@ score: 72
 value: 96
 quality: 78
 growth: 81
-momentum: 37
+momentum: 38
 health: 59
 pe: 3.3
 piotroski: 6
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -30,13 +30,13 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 - Cheaper than about 96% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
-- Share price down 32% over 12 months (38% below its 52-week high).
+- Share price down 28% over 12 months (38% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 96 | 78 | 81 | 37 | 59 |
+| **72** | 96 | 78 | 81 | 38 | 59 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.36 |
 | Share count change (1y) | +28.6% |
-| Return 1m / 6m / 12m | -4.0% / +13.0% / -31.8% |
-| vs. 200-day average | -1.3% |
+| Return 1m / 6m / 12m | -5.4% / +12.5% / -28.2% |
+| vs. 200-day average | -1.1% |
 | RSI (14d) | 49 |
 | Volatility (1y) | 61.2% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/CRMD
 - Full deep dive: run `python scout.py stock CRMD` → `research/CRMD.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

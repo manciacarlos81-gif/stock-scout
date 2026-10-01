@@ -13,7 +13,7 @@ momentum: 19
 health: 54
 pe: 5.4
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -31,7 +31,7 @@ Energy · Oil & Gas Production
 - Cheaper than about 81% of stocks in Energy (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 35% over the last 12 months.
-- Share price down 16% over 12 months (32% below its 52-week high).
+- Share price down 20% over 12 months (32% below its 52-week high).
 - Insiders bought $257.0K of shares recently (Dell'Osso Domenic J Jr (Pres, CEO)).
 
 ## Scores (0–100, higher is better)
@@ -63,8 +63,8 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 8/9 |
 | Altman Z | 3.15 |
 | Share count change (1y) | +0.2% |
-| Return 1m / 6m / 12m | -15.2% / -27.4% / -15.9% |
-| vs. 200-day average | -16.7% |
+| Return 1m / 6m / 12m | -16.7% / -26.5% / -20.1% |
+| vs. 200-day average | -16.6% |
 | RSI (14d) | 31 |
 | Volatility (1y) | 33.3% |
 | Financials as of | 2026-06-30 |
@@ -76,4 +76,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/GPOR
 - Full deep dive: run `python scout.py stock GPOR` → `research/GPOR.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

@@ -7,13 +7,13 @@ price: 181.36
 market_cap: "$1.2B"
 score: 75
 value: 81
-quality: 70
+quality: 69
 growth: 84
-momentum: 78
+momentum: 77
 health: 61
 pe: 10.3
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -28,14 +28,14 @@ Consumer Staples · Packaged Foods
 ## In plain English
 
 - Cheaper than about 81% of stocks in Consumer Staples (value score).
-- Business quality ranks above 70% of all stocks scanned.
-- Share price up 68% over 12 months (13% below its 52-week high).
+- Business quality ranks above 69% of all stocks scanned.
+- Share price up 66% over 12 months (13% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 81 | 70 | 84 | 78 | 61 |
+| **75** | 81 | 69 | 84 | 77 | 61 |
 
 ## Key numbers
 
@@ -60,8 +60,8 @@ Consumer Staples · Packaged Foods
 | Piotroski F-score | 8/9 |
 | Altman Z | 4.64 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -8.5% / +15.8% / +68.0% |
-| vs. 200-day average | +20.0% |
+| Return 1m / 6m / 12m | -11.1% / +12.7% / +66.0% |
+| vs. 200-day average | +19.8% |
 | RSI (14d) | 44 |
 | Volatility (1y) | 41.1% |
 | Financials as of | 2025-12-27 |
@@ -77,4 +77,4 @@ Consumer Staples · Packaged Foods
 - Insider trades: http://openinsider.com/SENEA
 - Full deep dive: run `python scout.py stock SENEA` → `research/SENEA.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

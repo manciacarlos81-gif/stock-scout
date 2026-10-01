@@ -5,15 +5,15 @@ sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
 price: 4.84
 market_cap: "$715.1M"
-score: 57
+score: 56
 value: 96
 quality: 50
 growth: 33
-momentum: 16
+momentum: 15
 health: 78
 pe: 6.2
 piotroski: 7
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -37,7 +37,7 @@ Technology · Computer Software: Prepackaged Software
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 96 | 50 | 33 | 16 | 78 |
+| **56** | 96 | 50 | 33 | 15 | 78 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 7/9 |
 | Altman Z | 3.58 |
 | Share count change (1y) | -9.4% |
-| Return 1m / 6m / 12m | -12.6% / -13.5% / -31.7% |
-| vs. 200-day average | -18.4% |
+| Return 1m / 6m / 12m | -11.0% / -14.5% / -32.1% |
+| vs. 200-day average | -18.3% |
 | RSI (14d) | 32 |
-| Volatility (1y) | 28.5% |
+| Volatility (1y) | 28.4% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/MOMO
 - Full deep dive: run `python scout.py stock MOMO` → `research/MOMO.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

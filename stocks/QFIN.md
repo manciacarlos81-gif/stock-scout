@@ -10,10 +10,10 @@ value: 100
 quality: 73
 growth: 53
 momentum: 1
-health: 64
+health: 65
 pe: 1.0
 piotroski: 6
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,13 +31,13 @@ Finance · Finance: Consumer Services
 - Cheaper than about 100% of stocks in Finance (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 17% over the last 12 months.
-- Share price down 74% over 12 months (75% below its 52-week high).
+- Share price down 75% over 12 months (75% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 100 | 73 | 53 | 1 | 64 |
+| **61** | 100 | 73 | 53 | 1 | 65 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Finance · Finance: Consumer Services
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -10.3% |
-| Return 1m / 6m / 12m | -17.7% / -41.8% / -73.7% |
-| vs. 200-day average | -47.2% |
+| Return 1m / 6m / 12m | -14.9% / -41.8% / -74.5% |
+| vs. 200-day average | -47.0% |
 | RSI (14d) | 19 |
-| Volatility (1y) | 59.0% |
+| Volatility (1y) | 58.9% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -80,4 +80,4 @@ Finance · Finance: Consumer Services
 - Insider trades: http://openinsider.com/QFIN
 - Full deep dive: run `python scout.py stock QFIN` → `research/QFIN.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

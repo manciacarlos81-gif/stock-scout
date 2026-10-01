@@ -13,7 +13,7 @@ momentum: 39
 health: 25
 pe: 26.7
 piotroski: 6
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Energy · Oil & Gas Production
 - Cheaper than about 68% of stocks in Energy (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 45% over 12 months (41% below its 52-week high).
+- Share price up 40% over 12 months (41% below its 52-week high).
 - Insiders bought $14.8M of shares recently (Morand De Oliveira Bruno (CEO); Troim Tor Olav (Dir); Currie Jeffrey (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -62,7 +62,7 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 6/9 |
 | Altman Z | 0.38 |
 | Share count change (1y) | +12.2% |
-| Return 1m / 6m / 12m | -12.7% / -32.1% / +45.4% |
+| Return 1m / 6m / 12m | -15.0% / -32.9% / +39.6% |
 | vs. 200-day average | -19.7% |
 | RSI (14d) | 36 |
 | Volatility (1y) | 54.0% |
@@ -82,4 +82,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/BORR
 - Full deep dive: run `python scout.py stock BORR` → `research/BORR.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

@@ -13,7 +13,7 @@ momentum: 17
 health: 52
 pe: 16.7
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Food Distributors
 - More expensive than about 51% of Consumer Discretionary peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price down 29% over 12 months (30% below its 52-week high).
+- Share price down 28% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,10 +61,10 @@ Consumer Discretionary · Food Distributors
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.81 |
 | Share count change (1y) | -3.1% |
-| Return 1m / 6m / 12m | -11.2% / -15.5% / -28.6% |
-| vs. 200-day average | -13.9% |
+| Return 1m / 6m / 12m | -10.8% / -17.6% / -28.0% |
+| vs. 200-day average | -13.8% |
 | RSI (14d) | 41 |
-| Volatility (1y) | 30.8% |
+| Volatility (1y) | 30.7% |
 | Financials as of | 2026-06-14 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Food Distributors
 - Insider trades: http://openinsider.com/DPZ
 - Full deep dive: run `python scout.py stock DPZ` → `research/DPZ.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

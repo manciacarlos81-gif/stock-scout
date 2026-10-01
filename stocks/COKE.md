@@ -5,15 +5,15 @@ sector: "Consumer Staples"
 industry: "Beverages (Production/Distribution)"
 price: 190.85
 market_cap: "$12.7B"
-score: 55
+score: 56
 value: 43
 quality: 71
 growth: 47
-momentum: 59
+momentum: 61
 health: 51
 pe: 23.1
 piotroski: 6
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,13 +30,13 @@ Consumer Staples · Beverages (Production/Distribution)
 - More expensive than about 57% of Consumer Staples peers (value score).
 - Business quality ranks above 71% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price up 64% over 12 months (12% below its 52-week high).
+- Share price up 61% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 43 | 71 | 47 | 59 | 51 |
+| **56** | 43 | 71 | 47 | 61 | 51 |
 
 ## Key numbers
 
@@ -61,7 +61,7 @@ Consumer Staples · Beverages (Production/Distribution)
 | Piotroski F-score | 6/9 |
 | Altman Z | 3.91 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -2.4% / -4.8% / +63.9% |
+| Return 1m / 6m / 12m | -1.2% / -1.7% / +61.4% |
 | vs. 200-day average | +5.0% |
 | RSI (14d) | 49 |
 | Volatility (1y) | 36.2% |
@@ -78,4 +78,4 @@ Consumer Staples · Beverages (Production/Distribution)
 - Insider trades: http://openinsider.com/COKE
 - Full deep dive: run `python scout.py stock COKE` → `research/COKE.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

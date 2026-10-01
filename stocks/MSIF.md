@@ -5,7 +5,7 @@ sector: "Finance"
 industry: "Finance/Investors Services"
 price: 12.06
 market_cap: "$546.9M"
-score: 70
+score: 69
 value: 95
 quality: null
 growth: 77
@@ -13,7 +13,7 @@ momentum: 43
 health: 87
 pe: 5.5
 piotroski: 6
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -28,14 +28,14 @@ Finance · Finance/Investors Services
 ## In plain English
 
 - Cheaper than about 95% of stocks in Finance (value score).
-- Share price up 0% over 12 months (8% below its 52-week high).
+- Share price up 2% over 12 months (8% below its 52-week high).
 - Insiders bought $12.1K of shares recently (Marks Nataly Michelle (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **70** | 95 | – | 77 | 43 | 87 |
+| **69** | 95 | – | 77 | 43 | 87 |
 
 ## Key numbers
 
@@ -60,10 +60,10 @@ Finance · Finance/Investors Services
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.6% |
-| Return 1m / 6m / 12m | -5.4% / +1.8% / +0.3% |
+| Return 1m / 6m / 12m | -3.3% / +0.7% / +1.9% |
 | vs. 200-day average | +0.5% |
 | RSI (14d) | 42 |
-| Volatility (1y) | 27.2% |
+| Volatility (1y) | 27.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Finance · Finance/Investors Services
 - Insider trades: http://openinsider.com/MSIF
 - Full deep dive: run `python scout.py stock MSIF` → `research/MSIF.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 50
 value: 43
 quality: 59
 growth: 10
-momentum: 83
+momentum: 82
 health: 40
 pe: 38.7
 piotroski: 6
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,14 +30,14 @@ Consumer Discretionary · Marine Transportation
 - More expensive than about 57% of Consumer Discretionary peers (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales fell 18% over the last 12 months.
-- Share price up 68% over 12 months (10% below its 52-week high).
+- Share price up 67% over 12 months (10% below its 52-week high).
 - Insiders bought $6.9M of shares recently (Zagari Raffaele (Dir); Plakantonaki Charis (Chief Strategy Officer); Pappa Milena Maria (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 43 | 59 | 10 | 83 | 40 |
+| **50** | 43 | 59 | 10 | 82 | 40 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 6/9 |
 | Altman Z | 1.80 |
 | Share count change (1y) | +6.2% |
-| Return 1m / 6m / 12m | -5.4% / +29.7% / +68.5% |
-| vs. 200-day average | +19.1% |
+| Return 1m / 6m / 12m | -6.0% / +26.1% / +67.3% |
+| vs. 200-day average | +18.8% |
 | RSI (14d) | 41 |
 | Volatility (1y) | 32.8% |
 | Financials as of | 2025-12-31 |
@@ -80,4 +80,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/SBLK
 - Full deep dive: run `python scout.py stock SBLK` → `research/SBLK.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 54
 value: 44
 quality: 88
 growth: 74
-momentum: 6
+momentum: 5
 health: 60
 pe: 16.4
 piotroski: 7
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,7 +36,7 @@ Consumer Discretionary · Business Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 44 | 88 | 74 | 6 | 60 |
+| **54** | 44 | 88 | 74 | 5 | 60 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 8.14 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -46.1% / -41.8% / -58.7% |
-| vs. 200-day average | -49.7% |
+| Return 1m / 6m / 12m | -44.0% / -43.3% / -59.2% |
+| vs. 200-day average | -49.5% |
 | RSI (14d) | 16 |
-| Volatility (1y) | 62.8% |
+| Volatility (1y) | 60.0% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/FICO
 - Full deep dive: run `python scout.py stock FICO` → `research/FICO.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

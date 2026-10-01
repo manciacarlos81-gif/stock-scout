@@ -9,11 +9,11 @@ score: 80
 value: 74
 quality: 80
 growth: 92
-momentum: 91
+momentum: 92
 health: 60
 pe: 7.2
 piotroski: 7
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,13 +31,13 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 74% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 100% over 12 months (7% below its 52-week high).
+- Share price up 105% over 12 months (7% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 74 | 80 | 92 | 91 | 60 |
+| **80** | 74 | 80 | 92 | 92 | 60 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 7/9 |
 | Altman Z | 3.66 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | +8.4% / +69.1% / +99.8% |
-| vs. 200-day average | +43.5% |
+| Return 1m / 6m / 12m | +6.6% / +64.2% / +105.1% |
+| vs. 200-day average | +42.9% |
 | RSI (14d) | 54 |
 | Volatility (1y) | 41.8% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/LPG
 - Full deep dive: run `python scout.py stock LPG` → `research/LPG.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 67
 value: 24
 quality: 75
 growth: 90
-momentum: 91
+momentum: 90
 health: 73
 pe: 168.0
 piotroski: 6
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,13 +30,13 @@ Technology · Semiconductors
 - More expensive than about 76% of Technology peers (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 98% over the last 12 months.
-- Share price up 83% over 12 months (26% below its 52-week high).
+- Share price up 84% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 24 | 75 | 90 | 91 | 73 |
+| **67** | 24 | 75 | 90 | 90 | 73 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Technology · Semiconductors
 | Piotroski F-score | 6/9 |
 | Altman Z | 30.00 |
 | Share count change (1y) | +2.9% |
-| Return 1m / 6m / 12m | +20.5% / +236.5% / +82.8% |
-| vs. 200-day average | +49.4% |
+| Return 1m / 6m / 12m | +27.8% / +205.5% / +84.0% |
+| vs. 200-day average | +48.7% |
 | RSI (14d) | 62 |
-| Volatility (1y) | 99.2% |
+| Volatility (1y) | 98.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/ALAB
 - Full deep dive: run `python scout.py stock ALAB` → `research/ALAB.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

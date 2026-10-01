@@ -13,9 +13,8 @@ momentum: 70
 health: 41
 pe: 8.8
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
-  - "🏆 Top overall"
   - "💎 Quality at a fair price"
 tags: [stock]
 ---
@@ -24,13 +23,13 @@ tags: [stock]
 
 Energy · Oil & Gas Production
 
-**In screens today:** 🏆 Top overall, 💎 Quality at a fair price
+**In screens today:** 💎 Quality at a fair price
 
 ## In plain English
 
 - Cheaper than about 82% of stocks in Energy (value score).
 - Business quality ranks above 87% of all stocks scanned.
-- Share price up 80% over 12 months (11% below its 52-week high).
+- Share price up 74% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,10 +60,10 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -2.2% / +3.4% / +79.8% |
-| vs. 200-day average | +20.8% |
+| Return 1m / 6m / 12m | -4.8% / +1.7% / +74.2% |
+| vs. 200-day average | +20.5% |
 | RSI (14d) | 46 |
-| Volatility (1y) | 45.9% |
+| Volatility (1y) | 45.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +73,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/APA
 - Full deep dive: run `python scout.py stock APA` → `research/APA.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

@@ -5,15 +5,15 @@ sector: "Finance"
 industry: "Finance: Consumer Services"
 price: 107.97
 market_cap: "$3.6B"
-score: 70
+score: 69
 value: 34
 quality: 93
 growth: 81
-momentum: 81
+momentum: 80
 health: 63
 pe: 22.5
 piotroski: 9
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,14 +30,14 @@ Finance · Finance: Consumer Services
 - More expensive than about 66% of Finance peers (value score).
 - Business quality ranks above 93% of all stocks scanned.
 - Sales grew 43% over the last 12 months.
-- Share price up 36% over 12 months (43% below its 52-week high).
+- Share price up 37% over 12 months (43% below its 52-week high).
 - Insiders bought $44.0K of shares recently (Hunt Bryan Cecil (Dir); Khurana Rajeev (GC)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **70** | 34 | 93 | 81 | 81 | 63 |
+| **69** | 34 | 93 | 81 | 80 | 63 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Finance · Finance: Consumer Services
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.2% |
-| Return 1m / 6m / 12m | -10.4% / +69.5% / +35.8% |
-| vs. 200-day average | +4.9% |
+| Return 1m / 6m / 12m | -5.7% / +69.3% / +37.0% |
+| vs. 200-day average | +4.7% |
 | RSI (14d) | 37 |
-| Volatility (1y) | 86.6% |
+| Volatility (1y) | 86.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Finance · Finance: Consumer Services
 - Insider trades: http://openinsider.com/SEZL
 - Full deep dive: run `python scout.py stock SEZL` → `research/SEZL.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

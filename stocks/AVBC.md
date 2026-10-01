@@ -9,11 +9,11 @@ score: 53
 value: 41
 quality: null
 growth: null
-momentum: 67
+momentum: 68
 health: 62
 pe: 24.4
 piotroski: null
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,14 +28,14 @@ Finance · Banks
 ## In plain English
 
 - More expensive than about 59% of Finance peers (value score).
-- Share price up 45% over 12 months (5% below its 52-week high).
+- Share price up 46% over 12 months (5% below its 52-week high).
 - Insiders bought $643.8K of shares recently (Murphy Michael Dennis (Chairman of the Board); Nelson Jonathan Michael (CFO, Treasurer); Grimaldo Joseph F (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 41 | – | – | 67 | 62 |
+| **53** | 41 | – | – | 68 | 62 |
 
 ## Key numbers
 
@@ -60,8 +60,8 @@ Finance · Banks
 | Piotroski F-score | – |
 | Altman Z | – |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -2.8% / +9.4% / +45.3% |
-| vs. 200-day average | +9.0% |
+| Return 1m / 6m / 12m | -0.8% / +9.6% / +46.1% |
+| vs. 200-day average | +8.9% |
 | RSI (14d) | 44 |
 | Volatility (1y) | 24.7% |
 | Financials as of | 2026-06-30 |
@@ -73,4 +73,4 @@ Finance · Banks
 - Insider trades: http://openinsider.com/AVBC
 - Full deep dive: run `python scout.py stock AVBC` → `research/AVBC.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

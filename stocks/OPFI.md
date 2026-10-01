@@ -9,11 +9,11 @@ score: 56
 value: 89
 quality: null
 growth: 54
-momentum: 8
+momentum: 9
 health: 74
 pe: 5.1
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -35,7 +35,7 @@ Finance · Finance: Consumer Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 89 | – | 54 | 8 | 74 |
+| **56** | 89 | – | 54 | 9 | 74 |
 
 ## Key numbers
 
@@ -60,10 +60,10 @@ Finance · Finance: Consumer Services
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +223.3% |
-| Return 1m / 6m / 12m | -12.3% / -19.8% / -46.3% |
-| vs. 200-day average | -30.5% |
+| Return 1m / 6m / 12m | -11.4% / -19.1% / -45.7% |
+| vs. 200-day average | -30.3% |
 | RSI (14d) | 28 |
-| Volatility (1y) | 49.3% |
+| Volatility (1y) | 49.1% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Finance · Finance: Consumer Services
 - Insider trades: http://openinsider.com/OPFI
 - Full deep dive: run `python scout.py stock OPFI` → `research/OPFI.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

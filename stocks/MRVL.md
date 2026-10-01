@@ -9,11 +9,11 @@ score: 63
 value: 29
 quality: 54
 growth: 87
-momentum: 97
+momentum: 98
 health: 67
 pe: 87.5
 piotroski: 7
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -36,7 +36,7 @@ Technology · Semiconductors
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 29 | 54 | 87 | 97 | 67 |
+| **63** | 29 | 54 | 87 | 98 | 67 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Technology · Semiconductors
 | Piotroski F-score | 7/9 |
 | Altman Z | 16.20 |
 | Share count change (1y) | +5.8% |
-| Return 1m / 6m / 12m | +24.4% / +146.9% / +213.8% |
-| vs. 200-day average | +59.2% |
+| Return 1m / 6m / 12m | +25.1% / +146.0% / +214.5% |
+| vs. 200-day average | +58.3% |
 | RSI (14d) | 62 |
 | Volatility (1y) | 79.4% |
 | Financials as of | 2026-08-01 |
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MRVL
 - Full deep dive: run `python scout.py stock MRVL` → `research/MRVL.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

@@ -13,7 +13,7 @@ momentum: 6
 health: 56
 pe: 23.2
 piotroski: 9
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -61,10 +61,10 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 9/9 |
 | Altman Z | 16.01 |
 | Share count change (1y) | -1.5% |
-| Return 1m / 6m / 12m | -2.1% / -21.2% / -57.5% |
-| vs. 200-day average | -33.5% |
+| Return 1m / 6m / 12m | -2.0% / -20.9% / -56.6% |
+| vs. 200-day average | -33.2% |
 | RSI (14d) | 40 |
-| Volatility (1y) | 73.3% |
+| Volatility (1y) | 73.2% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/APP
 - Full deep dive: run `python scout.py stock APP` → `research/APP.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

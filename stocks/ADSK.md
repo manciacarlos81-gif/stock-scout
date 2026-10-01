@@ -13,7 +13,7 @@ momentum: 17
 health: 54
 pe: 25.9
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -61,8 +61,8 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -21.4% / -14.6% / -36.0% |
-| vs. 200-day average | -15.2% |
+| Return 1m / 6m / 12m | -18.0% / -14.7% / -35.6% |
+| vs. 200-day average | -15.0% |
 | RSI (14d) | 33 |
 | Volatility (1y) | 38.1% |
 | Financials as of | 2026-07-31 |
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADSK
 - Full deep dive: run `python scout.py stock ADSK` → `research/ADSK.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

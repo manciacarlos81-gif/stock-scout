@@ -13,7 +13,7 @@ momentum: 65
 health: 38
 pe: 14.4
 piotroski: 9
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -60,8 +60,8 @@ Finance · Major Banks
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.3% |
-| Return 1m / 6m / 12m | -7.6% / +12.5% / +34.7% |
-| vs. 200-day average | +1.4% |
+| Return 1m / 6m / 12m | -6.6% / +11.8% / +35.1% |
+| vs. 200-day average | +1.3% |
 | RSI (14d) | 26 |
 | Volatility (1y) | 24.2% |
 | Financials as of | 2026-06-30 |
@@ -73,4 +73,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/FSBC
 - Full deep dive: run `python scout.py stock FSBC` → `research/FSBC.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

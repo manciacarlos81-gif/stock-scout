@@ -9,11 +9,11 @@ score: 42
 value: 27
 quality: 30
 growth: 52
-momentum: 84
+momentum: 83
 health: 20
 pe: null
 piotroski: 5
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,14 +30,14 @@ Consumer Discretionary · Home Furnishings
 - More expensive than about 73% of Consumer Discretionary peers (value score).
 - Business quality ranks above 30% of all stocks scanned.
 - Sales fell 5% over the last 12 months.
-- Share price up 67% over 12 months (13% below its 52-week high).
+- Share price up 68% over 12 months (13% below its 52-week high).
 - Insiders bought $2.4M of shares recently (Kim Eugene L. (See Remarks (a)); Sawtelle Zachary T. (See Remark (a)); Richter Glenn R (See Remarks (a))).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **42** | 27 | 30 | 52 | 84 | 20 |
+| **42** | 27 | 30 | 52 | 83 | 20 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Home Furnishings
 | Piotroski F-score | 5/9 |
 | Altman Z | 0.49 |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | -4.5% / +35.0% / +66.8% |
-| vs. 200-day average | +20.1% |
+| Return 1m / 6m / 12m | -3.3% / +28.5% / +68.3% |
+| vs. 200-day average | +19.7% |
 | RSI (14d) | 44 |
 | Volatility (1y) | 69.0% |
 | Financials as of | 2026-06-30 |
@@ -82,4 +82,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/CODI
 - Full deep dive: run `python scout.py stock CODI` → `research/CODI.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

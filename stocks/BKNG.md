@@ -13,7 +13,7 @@ momentum: 29
 health: 60
 pe: 22.6
 piotroski: 7
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Transportation Services
 - More expensive than about 55% of Consumer Discretionary peers (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price down 24% over 12 months (26% below its 52-week high).
+- Share price down 23% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Consumer Discretionary · Transportation Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 5.90 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | -18.3% / -2.5% / -24.1% |
-| vs. 200-day average | -10.9% |
+| Return 1m / 6m / 12m | -16.8% / -2.8% / -23.5% |
+| vs. 200-day average | -10.8% |
 | RSI (14d) | 32 |
 | Volatility (1y) | 37.9% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Consumer Discretionary · Transportation Services
 - Insider trades: http://openinsider.com/BKNG
 - Full deep dive: run `python scout.py stock BKNG` → `research/BKNG.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

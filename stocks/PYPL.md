@@ -13,7 +13,7 @@ momentum: 47
 health: 48
 pe: 9.4
 piotroski: 9
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,7 +30,7 @@ Industrials · Diversified Commercial Services
 - Cheaper than about 88% of stocks in Industrials (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price down 19% over 12 months (28% below its 52-week high).
+- Share price down 18% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,10 +61,10 @@ Industrials · Diversified Commercial Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 1.87 |
 | Share count change (1y) | -9.7% |
-| Return 1m / 6m / 12m | +2.6% / +21.4% / -18.7% |
-| vs. 200-day average | +7.7% |
+| Return 1m / 6m / 12m | +3.1% / +19.5% / -18.3% |
+| vs. 200-day average | +7.8% |
 | RSI (14d) | 48 |
-| Volatility (1y) | 44.0% |
+| Volatility (1y) | 43.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Industrials · Diversified Commercial Services
 - Insider trades: http://openinsider.com/PYPL
 - Full deep dive: run `python scout.py stock PYPL` → `research/PYPL.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

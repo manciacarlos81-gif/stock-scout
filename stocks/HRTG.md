@@ -5,15 +5,15 @@ sector: "Finance"
 industry: "Property-Casualty Insurers"
 price: 33.49
 market_cap: "$995.7M"
-score: 75
+score: 76
 value: 85
 quality: 87
-growth: 61
-momentum: 76
+growth: 60
+momentum: 78
 health: 55
 pe: 4.6
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,13 +31,13 @@ Finance · Property-Casualty Insurers
 - Cheaper than about 85% of stocks in Finance (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price up 33% over 12 months (5% below its 52-week high).
+- Share price up 41% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 85 | 87 | 61 | 76 | 55 |
+| **76** | 85 | 87 | 60 | 78 | 55 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Finance · Property-Casualty Insurers
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | -0.4% / +32.9% / +33.0% |
-| vs. 200-day average | +20.6% |
+| Return 1m / 6m / 12m | -0.7% / +27.9% / +41.4% |
+| vs. 200-day average | +20.5% |
 | RSI (14d) | 49 |
 | Volatility (1y) | 52.8% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Finance · Property-Casualty Insurers
 - Insider trades: http://openinsider.com/HRTG
 - Full deep dive: run `python scout.py stock HRTG` → `research/HRTG.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 58
 value: 83
 quality: 49
 growth: 34
-momentum: 57
+momentum: 55
 health: 57
 pe: 12.7
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,14 +30,14 @@ Consumer Discretionary · Motor Vehicles
 - Cheaper than about 83% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 49% of all stocks scanned.
 - Sales fell 5% over the last 12 months.
-- Share price down 8% over 12 months (12% below its 52-week high).
+- Share price down 9% over 12 months (12% below its 52-week high).
 - Insiders bought $1.4M of shares recently (Littleton Gayle (CLO, CCO, CAO, Corp Sec); Starrs Artie (Pres, CEO); Nova Daniel J (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 83 | 49 | 34 | 57 | 57 |
+| **58** | 83 | 49 | 34 | 55 | 57 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Motor Vehicles
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -11.2% |
-| Return 1m / 6m / 12m | -9.5% / +23.9% / -8.0% |
-| vs. 200-day average | +8.0% |
+| Return 1m / 6m / 12m | -8.0% / +20.7% / -9.1% |
+| vs. 200-day average | +7.9% |
 | RSI (14d) | 35 |
 | Volatility (1y) | 38.2% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Consumer Discretionary · Motor Vehicles
 - Insider trades: http://openinsider.com/HOG
 - Full deep dive: run `python scout.py stock HOG` → `research/HOG.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

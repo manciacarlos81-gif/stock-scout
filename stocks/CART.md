@@ -6,14 +6,14 @@ industry: "Business Services"
 price: 43.49
 market_cap: "$10.3B"
 score: 64
-value: 51
+value: 50
 quality: 83
 growth: 56
-momentum: 63
+momentum: 62
 health: 65
 pe: 21.5
 piotroski: 7
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,16 +27,16 @@ Consumer Discretionary · Business Services
 
 ## In plain English
 
-- Cheaper than about 51% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 50% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 18% over 12 months (16% below its 52-week high).
+- Share price up 16% over 12 months (16% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 51 | 83 | 56 | 63 | 65 |
+| **64** | 50 | 83 | 56 | 62 | 65 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 6.39 |
 | Share count change (1y) | -11.5% |
-| Return 1m / 6m / 12m | -13.9% / +12.6% / +18.3% |
-| vs. 200-day average | +2.0% |
+| Return 1m / 6m / 12m | -13.1% / +12.2% / +16.1% |
+| vs. 200-day average | +2.1% |
 | RSI (14d) | 35 |
-| Volatility (1y) | 42.0% |
+| Volatility (1y) | 41.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/CART
 - Full deep dive: run `python scout.py stock CART` → `research/CART.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

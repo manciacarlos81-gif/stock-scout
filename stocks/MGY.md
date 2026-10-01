@@ -9,11 +9,11 @@ score: 60
 value: 57
 quality: 84
 growth: 56
-momentum: 30
+momentum: 32
 health: 66
 pe: 14.9
 piotroski: 7
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -37,7 +37,7 @@ Energy · Oil & Gas Production
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 57 | 84 | 56 | 30 | 66 |
+| **60** | 57 | 84 | 56 | 32 | 66 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.0% |
-| Return 1m / 6m / 12m | -12.1% / -20.7% / +1.5% |
-| vs. 200-day average | -11.0% |
+| Return 1m / 6m / 12m | -14.7% / -23.0% / +1.1% |
+| vs. 200-day average | -11.1% |
 | RSI (14d) | 34 |
-| Volatility (1y) | 33.7% |
+| Volatility (1y) | 33.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/MGY
 - Full deep dive: run `python scout.py stock MGY` → `research/MGY.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

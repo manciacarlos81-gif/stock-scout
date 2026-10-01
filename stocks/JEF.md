@@ -9,11 +9,11 @@ score: 57
 value: 82
 quality: null
 growth: 63
-momentum: 36
+momentum: 37
 health: 47
 pe: 10.4
 piotroski: 4
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -29,14 +29,14 @@ Finance · Investment Bankers/Brokers/Service
 
 - Cheaper than about 82% of stocks in Finance (value score).
 - Sales grew 14% over the last 12 months.
-- Share price down 27% over 12 months (28% below its 52-week high).
+- Share price down 25% over 12 months (28% below its 52-week high).
 - Insiders bought $642.7M of shares recently (Sumitomo Mitsui Financial Group, Inc. (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 82 | – | 63 | 36 | 47 |
+| **57** | 82 | – | 63 | 37 | 47 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Finance · Investment Bankers/Brokers/Service
 | Piotroski F-score | 4/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.4% |
-| Return 1m / 6m / 12m | -11.6% / +14.2% / -26.7% |
-| vs. 200-day average | -10.8% |
+| Return 1m / 6m / 12m | -10.5% / +13.3% / -24.5% |
+| vs. 200-day average | -10.7% |
 | RSI (14d) | 32 |
 | Volatility (1y) | 42.9% |
 | Financials as of | 2026-05-31 |
@@ -74,4 +74,4 @@ Finance · Investment Bankers/Brokers/Service
 - Insider trades: http://openinsider.com/JEF
 - Full deep dive: run `python scout.py stock JEF` → `research/JEF.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

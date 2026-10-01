@@ -13,7 +13,7 @@ momentum: 94
 health: 73
 pe: 7.0
 piotroski: 6
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -62,8 +62,8 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 6/9 |
 | Altman Z | 6.26 |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | +17.4% / +69.7% / +178.9% |
-| vs. 200-day average | +51.8% |
+| Return 1m / 6m / 12m | +16.1% / +62.6% / +178.6% |
+| vs. 200-day average | +51.1% |
 | RSI (14d) | 67 |
 | Volatility (1y) | 38.7% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/INSW
 - Full deep dive: run `python scout.py stock INSW` → `research/INSW.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

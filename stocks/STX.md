@@ -13,7 +13,7 @@ momentum: 97
 health: 54
 pe: 65.6
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Electronic Components
 - More expensive than about 66% of Technology peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 289% over 12 months (16% below its 52-week high).
+- Share price up 258% over 12 months (16% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Technology · Electronic Components
 | Piotroski F-score | 8/9 |
 | Altman Z | 18.06 |
 | Share count change (1y) | +5.5% |
-| Return 1m / 6m / 12m | +10.4% / +116.2% / +289.2% |
-| vs. 200-day average | +41.4% |
+| Return 1m / 6m / 12m | +11.9% / +113.1% / +257.7% |
+| vs. 200-day average | +40.7% |
 | RSI (14d) | 58 |
 | Volatility (1y) | 74.5% |
 | Financials as of | 2026-07-03 |
@@ -74,4 +74,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/STX
 - Full deep dive: run `python scout.py stock STX` → `research/STX.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

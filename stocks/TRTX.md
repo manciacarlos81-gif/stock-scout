@@ -13,7 +13,7 @@ momentum: 23
 health: 48
 pe: 8.4
 piotroski: 6
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -29,7 +29,7 @@ Real Estate · Real Estate Investment Trusts
 
 - Cheaper than about 93% of stocks in Real Estate (value score).
 - Business quality ranks above 39% of all stocks scanned.
-- Share price down 16% over 12 months (25% below its 52-week high).
+- Share price down 17% over 12 months (25% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -60,8 +60,8 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.7% |
-| Return 1m / 6m / 12m | -14.9% / -12.9% / -16.3% |
-| vs. 200-day average | -18.4% |
+| Return 1m / 6m / 12m | -14.3% / -13.7% / -16.6% |
+| vs. 200-day average | -18.3% |
 | RSI (14d) | 14 |
 | Volatility (1y) | 20.4% |
 | Financials as of | 2026-06-30 |
@@ -77,4 +77,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/TRTX
 - Full deep dive: run `python scout.py stock TRTX` → `research/TRTX.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

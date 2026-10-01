@@ -9,11 +9,11 @@ score: 74
 value: 79
 quality: 80
 growth: 92
-momentum: 34
+momentum: 35
 health: 89
 pe: 9.2
 piotroski: 9
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -36,7 +36,7 @@ Finance · Real Estate
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 79 | 80 | 92 | 34 | 89 |
+| **74** | 79 | 80 | 92 | 35 | 89 |
 
 ## Key numbers
 
@@ -61,7 +61,7 @@ Finance · Real Estate
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | -12.9% / -1.9% / -12.7% |
+| Return 1m / 6m / 12m | -13.3% / -1.5% / -12.7% |
 | vs. 200-day average | -7.3% |
 | RSI (14d) | 27 |
 | Volatility (1y) | 27.6% |
@@ -74,4 +74,4 @@ Finance · Real Estate
 - Insider trades: http://openinsider.com/MRP
 - Full deep dive: run `python scout.py stock MRP` → `research/MRP.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

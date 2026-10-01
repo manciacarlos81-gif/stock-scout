@@ -13,7 +13,7 @@ momentum: 19
 health: 74
 pe: 8.4
 piotroski: 9
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -63,8 +63,8 @@ Technology · EDP Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 5.82 |
 | Share count change (1y) | -14.1% |
-| Return 1m / 6m / 12m | -13.6% / -17.5% / -20.6% |
-| vs. 200-day average | -16.6% |
+| Return 1m / 6m / 12m | -12.7% / -17.9% / -20.7% |
+| vs. 200-day average | -16.4% |
 | RSI (14d) | 36 |
 | Volatility (1y) | 47.2% |
 | Financials as of | 2026-06-30 |
@@ -76,4 +76,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/NRDS
 - Full deep dive: run `python scout.py stock NRDS` → `research/NRDS.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

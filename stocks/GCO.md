@@ -9,11 +9,11 @@ score: 65
 value: 93
 quality: 49
 growth: 62
-momentum: 61
+momentum: 59
 health: 55
 pe: 9.0
 piotroski: 6
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,14 +30,14 @@ Consumer Discretionary · Clothing/Shoe/Accessory Stores
 - Cheaper than about 93% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 49% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price up 19% over 12 months (19% below its 52-week high).
+- Share price up 16% over 12 months (19% below its 52-week high).
 - Insiders bought $100.0K of shares recently (Sandfort Gregory A (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 93 | 49 | 62 | 61 | 55 |
+| **65** | 93 | 49 | 62 | 59 | 55 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Clothing/Shoe/Accessory Stores
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.39 |
 | Share count change (1y) | +6.1% |
-| Return 1m / 6m / 12m | +3.1% / +20.6% / +19.0% |
-| vs. 200-day average | +6.0% |
+| Return 1m / 6m / 12m | +6.1% / +21.5% / +15.7% |
+| vs. 200-day average | +5.8% |
 | RSI (14d) | 50 |
 | Volatility (1y) | 60.8% |
 | Financials as of | 2026-08-01 |
@@ -75,4 +75,4 @@ Consumer Discretionary · Clothing/Shoe/Accessory Stores
 - Insider trades: http://openinsider.com/GCO
 - Full deep dive: run `python scout.py stock GCO` → `research/GCO.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

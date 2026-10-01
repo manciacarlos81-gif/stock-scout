@@ -9,11 +9,11 @@ score: 56
 value: 94
 quality: 52
 growth: 24
-momentum: 49
+momentum: 50
 health: 42
 pe: 19.1
 piotroski: 6
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,13 +30,13 @@ Health Care · Hospital/Nursing Management
 - Cheaper than about 94% of stocks in Health Care (value score).
 - Business quality ranks above 52% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price down 20% over 12 months (30% below its 52-week high).
+- Share price down 19% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 94 | 52 | 24 | 49 | 42 |
+| **56** | 94 | 52 | 24 | 50 | 42 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +1.1% |
-| Return 1m / 6m / 12m | -2.2% / +22.0% / -20.2% |
-| vs. 200-day average | +9.1% |
+| Return 1m / 6m / 12m | -3.3% / +22.2% / -19.1% |
+| vs. 200-day average | +9.0% |
 | RSI (14d) | 46 |
 | Volatility (1y) | 54.0% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/ARDT
 - Full deep dive: run `python scout.py stock ARDT` → `research/ARDT.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

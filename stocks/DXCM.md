@@ -9,11 +9,11 @@ score: 76
 value: 63
 quality: 87
 growth: 76
-momentum: 78
+momentum: 79
 health: 75
 pe: 32.7
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,13 +30,13 @@ Health Care · Medical/Dental Instruments
 - Cheaper than about 63% of stocks in Health Care (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 16% over the last 12 months.
-- Share price up 29% over 12 months (6% below its 52-week high).
+- Share price up 31% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 63 | 87 | 76 | 78 | 75 |
+| **76** | 63 | 87 | 76 | 79 | 75 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Health Care · Medical/Dental Instruments
 | Piotroski F-score | 8/9 |
 | Altman Z | 7.42 |
 | Share count change (1y) | -4.4% |
-| Return 1m / 6m / 12m | -4.9% / +38.9% / +28.8% |
-| vs. 200-day average | +18.9% |
+| Return 1m / 6m / 12m | -3.9% / +39.2% / +31.1% |
+| vs. 200-day average | +18.7% |
 | RSI (14d) | 49 |
 | Volatility (1y) | 39.5% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/DXCM
 - Full deep dive: run `python scout.py stock DXCM` → `research/DXCM.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

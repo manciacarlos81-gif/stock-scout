@@ -9,11 +9,11 @@ score: 72
 value: 68
 quality: 54
 growth: 87
-momentum: 93
+momentum: 94
 health: 66
 pe: 9.8
 piotroski: 7
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,14 +30,14 @@ Energy · Natural Gas Distribution
 - Cheaper than about 68% of stocks in Energy (value score).
 - Business quality ranks above 54% of all stocks scanned.
 - Sales grew 16% over the last 12 months.
-- Share price up 108% over 12 months (9% below its 52-week high).
+- Share price up 110% over 12 months (9% below its 52-week high).
 - Insiders bought $1.3M of shares recently (Myers Franklin (CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 68 | 54 | 87 | 93 | 66 |
+| **72** | 68 | 54 | 87 | 94 | 66 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Energy · Natural Gas Distribution
 | Piotroski F-score | 7/9 |
 | Altman Z | 4.12 |
 | Share count change (1y) | -4.6% |
-| Return 1m / 6m / 12m | +3.9% / +75.6% / +108.3% |
-| vs. 200-day average | +51.0% |
+| Return 1m / 6m / 12m | +1.6% / +76.2% / +109.7% |
+| vs. 200-day average | +50.4% |
 | RSI (14d) | 52 |
 | Volatility (1y) | 39.0% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Energy · Natural Gas Distribution
 - Insider trades: http://openinsider.com/DINO
 - Full deep dive: run `python scout.py stock DINO` → `research/DINO.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_

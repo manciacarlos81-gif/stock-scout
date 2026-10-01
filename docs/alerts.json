@@ -1,22 +1,22 @@
 {
- "date": "2026-09-30",
+ "date": "2026-10-01",
  "scanned": 2616,
  "top": [
   {
    "rank": 1,
-   "ticker": "SNDK",
-   "name": "Sandisk Corporation",
-   "score": 81,
-   "price": 1729.76,
-   "flags": ""
-  },
-  {
-   "rank": 2,
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
    "price": 95.25,
    "flags": "heavy debt"
+  },
+  {
+   "rank": 2,
+   "ticker": "SNDK",
+   "name": "Sandisk Corporation",
+   "score": 81,
+   "price": 1729.76,
+   "flags": ""
   },
   {
    "rank": 3,
@@ -36,18 +36,18 @@
   },
   {
    "rank": 5,
-   "ticker": "INSW",
-   "name": "International Seaways Inc.",
-   "score": 80,
-   "price": 110.24,
-   "flags": ""
-  },
-  {
-   "rank": 6,
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 80,
    "price": 54.23,
+   "flags": ""
+  },
+  {
+   "rank": 6,
+   "ticker": "INSW",
+   "name": "International Seaways Inc.",
+   "score": 80,
+   "price": 110.24,
    "flags": ""
   },
   {
@@ -68,19 +68,19 @@
   },
   {
    "rank": 9,
-   "ticker": "AUPH",
-   "name": "Aurinia Pharmaceuticals Inc",
-   "score": 78,
-   "price": 16.42,
-   "flags": "profits not backed by cash"
-  },
-  {
-   "rank": 10,
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
    "score": 78,
    "price": 58.65,
    "flags": ""
+  },
+  {
+   "rank": 10,
+   "ticker": "AUPH",
+   "name": "Aurinia Pharmaceuticals Inc",
+   "score": 78,
+   "price": 16.42,
+   "flags": "profits not backed by cash"
   }
  ],
  "new_top": [],
@@ -98,18 +98,18 @@
  ],
  "insider": [
   {
+   "ticker": "KOD",
+   "name": "Kodiak Sciences Inc",
+   "value": 156986394,
+   "buyers": 1,
+   "last": "2026-09-28"
+  },
+  {
    "ticker": "GME",
    "name": "GameStop Corporation",
    "value": 58965409,
    "buyers": 4,
    "last": "2026-09-29"
-  },
-  {
-   "ticker": "INBX",
-   "name": "Inhibrx Biosciences Inc.",
-   "value": 5498380,
-   "buyers": 3,
-   "last": "2026-09-25"
   }
  ]
 }

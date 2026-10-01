@@ -13,7 +13,7 @@ momentum: 87
 health: 62
 pe: 6.7
 piotroski: 8
-updated: "2026-09-30"
+updated: "2026-10-01"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,7 +30,7 @@ Finance · Finance Companies
 - Cheaper than about 78% of stocks in Finance (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 30% over the last 12 months.
-- Share price up 128% over 12 months (8% below its 52-week high).
+- Share price up 135% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Finance · Finance Companies
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.3% |
-| Return 1m / 6m / 12m | -1.8% / +34.4% / +128.2% |
-| vs. 200-day average | +21.5% |
+| Return 1m / 6m / 12m | +2.4% / +33.9% / +134.6% |
+| vs. 200-day average | +21.2% |
 | RSI (14d) | 44 |
 | Volatility (1y) | 35.6% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Finance · Finance Companies
 - Insider trades: http://openinsider.com/ECPG
 - Full deep dive: run `python scout.py stock ECPG` → `research/ECPG.md`
 
-_Updated 2026-09-30 · [latest report](../reports/latest.md)_
+_Updated 2026-10-01 · [latest report](../reports/latest.md)_
