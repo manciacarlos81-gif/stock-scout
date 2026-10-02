@@ -3,17 +3,17 @@ ticker: "DELL"
 company: "Dell Technologies Inc."
 sector: "Technology"
 industry: "Computer Manufacturing"
-price: 539.59
-market_cap: "$343.1B"
+price: 541.74
+market_cap: "$344.4B"
 score: 66
-value: 54
+value: 55
 quality: 50
 growth: 89
 momentum: 99
 health: 44
-pe: 30.2
+pe: 30.3
 piotroski: 7
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,25 +27,25 @@ Technology · Computer Manufacturing
 
 ## In plain English
 
-- Cheaper than about 54% of stocks in Technology (value score).
+- Cheaper than about 55% of stocks in Technology (value score).
 - Business quality ranks above 50% of all stocks scanned.
 - Sales grew 49% over the last 12 months.
-- Share price up 265% over 12 months (8% below its 52-week high).
+- Share price up 272% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 54 | 50 | 89 | 99 | 44 |
+| **66** | 55 | 50 | 89 | 99 | 44 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $539.59 |
-| Market value | $343.1B |
-| P/E | 30.2 |
-| Price/Sales | 2.27 |
+| Price | $541.74 |
+| Market value | $344.4B |
+| P/E | 30.3 |
+| Price/Sales | 2.28 |
 | Price/Book | – |
 | Free-cash-flow yield | 2.5% |
 | Dividend yield | 0.4% |
@@ -59,12 +59,12 @@ Technology · Computer Manufacturing
 | Debt / equity | – |
 | Current ratio | 0.96 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.23 |
+| Altman Z | 3.24 |
 | Share count change (1y) | -5.0% |
-| Return 1m / 6m / 12m | +27.0% / +210.9% / +265.1% |
-| vs. 200-day average | +85.3% |
-| RSI (14d) | 53 |
-| Volatility (1y) | 75.3% |
+| Return 1m / 6m / 12m | +10.1% / +214.3% / +272.3% |
+| vs. 200-day average | +84.7% |
+| RSI (14d) | 54 |
+| Volatility (1y) | 75.2% |
 | Financials as of | 2026-07-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Technology · Computer Manufacturing
 - Insider trades: http://openinsider.com/DELL
 - Full deep dive: run `python scout.py stock DELL` → `research/DELL.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

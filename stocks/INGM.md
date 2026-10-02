@@ -3,17 +3,17 @@ ticker: "INGM"
 company: "Ingram Micro Holding Corporation"
 sector: "Technology"
 industry: "Retail: Computer Software & Peripheral Equipment"
-price: 26.95
-market_cap: "$6.2B"
-score: 60
+price: 27.79
+market_cap: "$6.4B"
+score: 61
 value: 93
 quality: 36
 growth: 65
-momentum: 60
+momentum: 63
 health: 42
-pe: 14.4
+pe: 14.9
 piotroski: 6
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,25 +30,25 @@ Technology · Retail: Computer Software & Peripheral Equipment
 - Cheaper than about 93% of stocks in Technology (value score).
 - Business quality ranks above 36% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price up 23% over 12 months (15% below its 52-week high).
+- Share price up 27% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 93 | 36 | 65 | 60 | 42 |
+| **61** | 93 | 36 | 65 | 63 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $26.95 |
-| Market value | $6.2B |
-| P/E | 14.4 |
+| Price | $27.79 |
+| Market value | $6.4B |
+| P/E | 14.9 |
 | Price/Sales | 0.11 |
-| Price/Book | 1.45 |
-| Free-cash-flow yield | 12.6% |
-| Dividend yield | 1.3% |
+| Price/Book | 1.50 |
+| Free-cash-flow yield | 12.3% |
+| Dividend yield | 1.2% |
 | Sales (12m) | $56.0B |
 | Sales growth | +11.5% |
 | Net profit (12m) | $430.6M |
@@ -61,10 +61,10 @@ Technology · Retail: Computer Software & Peripheral Equipment
 | Piotroski F-score | 6/9 |
 | Altman Z | 3.33 |
 | Share count change (1y) | -1.1% |
-| Return 1m / 6m / 12m | -2.4% / +9.6% / +23.3% |
-| vs. 200-day average | +5.0% |
-| RSI (14d) | 47 |
-| Volatility (1y) | 43.5% |
+| Return 1m / 6m / 12m | +0.4% / +11.5% / +26.9% |
+| vs. 200-day average | +8.1% |
+| RSI (14d) | 53 |
+| Volatility (1y) | 43.7% |
 | Financials as of | 2026-06-27 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Retail: Computer Software & Peripheral Equipment
 - Insider trades: http://openinsider.com/INGM
 - Full deep dive: run `python scout.py stock INGM` → `research/INGM.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

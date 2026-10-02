@@ -3,17 +3,17 @@ ticker: "PYPL"
 company: "PayPal Holdings Inc."
 sector: "Industrials"
 industry: "Diversified Commercial Services"
-price: 53.89
-market_cap: "$46.1B"
-score: 65
+price: 53.06
+market_cap: "$45.4B"
+score: 64
 value: 88
 quality: 77
 growth: 44
-momentum: 47
+momentum: 46
 health: 48
-pe: 9.4
+pe: 9.3
 piotroski: 9
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,24 +30,24 @@ Industrials · Diversified Commercial Services
 - Cheaper than about 88% of stocks in Industrials (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price down 18% over 12 months (28% below its 52-week high).
+- Share price down 22% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 88 | 77 | 44 | 47 | 48 |
+| **64** | 88 | 77 | 44 | 46 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $53.89 |
-| Market value | $46.1B |
-| P/E | 9.4 |
-| Price/Sales | 1.35 |
-| Price/Book | 2.33 |
-| Free-cash-flow yield | 12.1% |
+| Price | $53.06 |
+| Market value | $45.4B |
+| P/E | 9.3 |
+| Price/Sales | 1.33 |
+| Price/Book | 2.29 |
+| Free-cash-flow yield | 12.3% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $34.1B |
 | Sales growth | +5.7% |
@@ -61,10 +61,10 @@ Industrials · Diversified Commercial Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 1.87 |
 | Share count change (1y) | -9.7% |
-| Return 1m / 6m / 12m | +3.1% / +19.5% / -18.3% |
-| vs. 200-day average | +7.8% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 43.9% |
+| Return 1m / 6m / 12m | -2.7% / +17.3% / -22.2% |
+| vs. 200-day average | +6.3% |
+| RSI (14d) | 45 |
+| Volatility (1y) | 44.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Industrials · Diversified Commercial Services
 - Insider trades: http://openinsider.com/PYPL
 - Full deep dive: run `python scout.py stock PYPL` → `research/PYPL.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

@@ -3,18 +3,19 @@ ticker: "APA"
 company: "APA Corporation"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 42.19
-market_cap: "$14.8B"
+price: 43.34
+market_cap: "$15.2B"
 score: 74
 value: 82
 quality: 87
 growth: 77
-momentum: 70
+momentum: 72
 health: 41
-pe: 8.8
+pe: 9.1
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
+  - "🏆 Top overall"
   - "💎 Quality at a fair price"
 tags: [stock]
 ---
@@ -23,30 +24,30 @@ tags: [stock]
 
 Energy · Oil & Gas Production
 
-**In screens today:** 💎 Quality at a fair price
+**In screens today:** 🏆 Top overall, 💎 Quality at a fair price
 
 ## In plain English
 
 - Cheaper than about 82% of stocks in Energy (value score).
 - Business quality ranks above 87% of all stocks scanned.
-- Share price up 74% over 12 months (11% below its 52-week high).
+- Share price up 88% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 82 | 87 | 77 | 70 | 41 |
+| **74** | 82 | 87 | 77 | 72 | 41 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $42.19 |
-| Market value | $14.8B |
-| P/E | 8.8 |
+| Price | $43.34 |
+| Market value | $15.2B |
+| P/E | 9.1 |
 | Price/Sales | – |
-| Price/Book | 2.11 |
-| Free-cash-flow yield | 30.7% |
+| Price/Book | 2.16 |
+| Free-cash-flow yield | 29.9% |
 | Dividend yield | 2.4% |
 | Sales (12m) | – |
 | Sales growth | – |
@@ -60,10 +61,10 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -4.8% / +1.7% / +74.2% |
-| vs. 200-day average | +20.5% |
-| RSI (14d) | 46 |
-| Volatility (1y) | 45.6% |
+| Return 1m / 6m / 12m | -3.0% / +2.1% / +87.8% |
+| vs. 200-day average | +23.4% |
+| RSI (14d) | 52 |
+| Volatility (1y) | 45.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +74,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/APA
 - Full deep dive: run `python scout.py stock APA` → `research/APA.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

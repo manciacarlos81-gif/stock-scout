@@ -3,17 +3,17 @@ ticker: "KSS"
 company: "Kohl's Corporation"
 sector: "Consumer Discretionary"
 industry: "Department/Specialty Retail Stores"
-price: 18.32
+price: 18.92
 market_cap: "$2.1B"
 score: 64
-value: 98
-quality: 53
+value: 97
+quality: 52
 growth: 35
-momentum: 70
+momentum: 73
 health: 47
-pe: 7.7
+pe: 7.9
 piotroski: 6
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Discretionary · Department/Specialty Retail Stores
 
 ## In plain English
 
-- Cheaper than about 98% of stocks in Consumer Discretionary (value score).
-- Business quality ranks above 53% of all stocks scanned.
+- Cheaper than about 97% of stocks in Consumer Discretionary (value score).
+- Business quality ranks above 52% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 19% over 12 months (24% below its 52-week high).
+- Share price up 19% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 98 | 53 | 35 | 70 | 47 |
+| **64** | 97 | 52 | 35 | 73 | 47 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $18.32 |
+| Price | $18.92 |
 | Market value | $2.1B |
-| P/E | 7.7 |
-| Price/Sales | 0.13 |
-| Price/Book | 0.50 |
-| Free-cash-flow yield | 66.4% |
-| Dividend yield | 2.7% |
+| P/E | 7.9 |
+| Price/Sales | 0.14 |
+| Price/Book | 0.51 |
+| Free-cash-flow yield | 64.3% |
+| Dividend yield | 2.6% |
 | Sales (12m) | $15.4B |
 | Sales growth | -2.9% |
 | Net profit (12m) | $271.0M |
@@ -61,10 +61,10 @@ Consumer Discretionary · Department/Specialty Retail Stores
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.5% |
-| Return 1m / 6m / 12m | +3.5% / +45.0% / +19.3% |
-| vs. 200-day average | +10.1% |
-| RSI (14d) | 55 |
-| Volatility (1y) | 74.1% |
+| Return 1m / 6m / 12m | -0.8% / +44.0% / +18.6% |
+| vs. 200-day average | +13.8% |
+| RSI (14d) | 59 |
+| Volatility (1y) | 74.0% |
 | Financials as of | 2026-08-01 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Insider trades: http://openinsider.com/KSS
 - Full deep dive: run `python scout.py stock KSS` → `research/KSS.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

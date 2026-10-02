@@ -3,17 +3,17 @@ ticker: "RIGL"
 company: "Rigel Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 48.89
-market_cap: "$913.3M"
+price: 46.97
+market_cap: "$877.4M"
 score: 75
 value: 89
 quality: 75
 growth: 43
 momentum: 90
-health: 64
-pe: 2.8
+health: 63
+pe: 2.7
 piotroski: 6
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 89% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price up 74% over 12 months (4% below its 52-week high).
+- Share price up 67% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 89 | 75 | 43 | 90 | 64 |
+| **75** | 89 | 75 | 43 | 90 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $48.89 |
-| Market value | $913.3M |
-| P/E | 2.8 |
-| Price/Sales | 3.30 |
-| Price/Book | 2.15 |
-| Free-cash-flow yield | 8.3% |
+| Price | $46.97 |
+| Market value | $877.4M |
+| P/E | 2.7 |
+| Price/Sales | 3.17 |
+| Price/Book | 2.06 |
+| Free-cash-flow yield | 8.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $276.8M |
 | Sales growth | +3.3% |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.11 |
 | Current ratio | 1.94 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.34 |
+| Altman Z | 4.11 |
 | Share count change (1y) | +7.8% |
-| Return 1m / 6m / 12m | +2.9% / +77.6% / +73.6% |
-| vs. 200-day average | +34.1% |
-| RSI (14d) | 61 |
-| Volatility (1y) | 63.2% |
+| Return 1m / 6m / 12m | -5.0% / +71.7% / +67.0% |
+| vs. 200-day average | +28.8% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 63.3% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/RIGL
 - Full deep dive: run `python scout.py stock RIGL` → `research/RIGL.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

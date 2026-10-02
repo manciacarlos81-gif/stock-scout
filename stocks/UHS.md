@@ -3,17 +3,17 @@ ticker: "UHS"
 company: "Universal Health Services Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 175.73
-market_cap: "$10.4B"
-score: 64
+price: 175.07
+market_cap: "$10.3B"
+score: 63
 value: 94
-quality: 68
+quality: 67
 growth: 58
-momentum: 32
+momentum: 29
 health: 56
 pe: 6.8
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -28,25 +28,25 @@ Health Care · Hospital/Nursing Management
 ## In plain English
 
 - Cheaper than about 94% of stocks in Health Care (value score).
-- Business quality ranks above 68% of all stocks scanned.
+- Business quality ranks above 67% of all stocks scanned.
 - Sales grew 10% over the last 12 months.
-- Share price down 13% over 12 months (28% below its 52-week high).
+- Share price down 14% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 94 | 68 | 58 | 32 | 56 |
+| **63** | 94 | 67 | 58 | 29 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $175.73 |
-| Market value | $10.4B |
+| Price | $175.07 |
+| Market value | $10.3B |
 | P/E | 6.8 |
 | Price/Sales | 0.57 |
-| Price/Book | 1.38 |
+| Price/Book | 1.37 |
 | Free-cash-flow yield | 8.2% |
 | Dividend yield | 0.5% |
 | Sales (12m) | $18.1B |
@@ -61,9 +61,9 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.8% |
-| Return 1m / 6m / 12m | +2.9% / -0.3% / -13.3% |
-| vs. 200-day average | -2.5% |
-| RSI (14d) | 52 |
+| Return 1m / 6m / 12m | +4.5% / -3.2% / -14.5% |
+| vs. 200-day average | -2.8% |
+| RSI (14d) | 51 |
 | Volatility (1y) | 32.2% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/UHS
 - Full deep dive: run `python scout.py stock UHS` → `research/UHS.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

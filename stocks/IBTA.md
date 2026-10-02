@@ -3,17 +3,17 @@ ticker: "IBTA"
 company: "Ibotta Inc."
 sector: "Consumer Discretionary"
 industry: "Advertising"
-price: 39.27
-market_cap: "$909.9M"
+price: 39.92
+market_cap: "$924.9M"
 score: 47
 value: 29
 quality: 55
 growth: 16
-momentum: 73
+momentum: 76
 health: 57
 pe: null
 piotroski: 6
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Advertising
 - More expensive than about 71% of Consumer Discretionary peers (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price up 38% over 12 months (7% below its 52-week high).
+- Share price up 38% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **47** | 29 | 55 | 16 | 73 | 57 |
+| **47** | 29 | 55 | 16 | 76 | 57 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $39.27 |
-| Market value | $909.9M |
+| Price | $39.92 |
+| Market value | $924.9M |
 | P/E | – |
-| Price/Sales | 2.65 |
-| Price/Book | 3.77 |
-| Free-cash-flow yield | 8.2% |
+| Price/Sales | 2.70 |
+| Price/Book | 3.83 |
+| Free-cash-flow yield | 8.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $343.2M |
 | Sales growth | -6.6% |
@@ -59,12 +59,12 @@ Consumer Discretionary · Advertising
 | Debt / equity | 0.00 |
 | Current ratio | 1.71 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.81 |
+| Altman Z | 2.85 |
 | Share count change (1y) | -23.5% |
-| Return 1m / 6m / 12m | +5.4% / +22.5% / +37.9% |
-| vs. 200-day average | +29.2% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 81.8% |
+| Return 1m / 6m / 12m | +5.9% / +29.0% / +38.0% |
+| vs. 200-day average | +30.9% |
+| RSI (14d) | 53 |
+| Volatility (1y) | 81.7% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/IBTA
 - Full deep dive: run `python scout.py stock IBTA` → `research/IBTA.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

@@ -3,7 +3,7 @@ ticker: "HOG"
 company: "Harley-Davidson Inc."
 sector: "Consumer Discretionary"
 industry: "Motor Vehicles"
-price: 24.82
+price: 24.83
 market_cap: "$2.6B"
 score: 58
 value: 83
@@ -11,9 +11,9 @@ quality: 49
 growth: 34
 momentum: 55
 health: 57
-pe: 12.7
+pe: 12.8
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -43,9 +43,9 @@ Consumer Discretionary · Motor Vehicles
 
 | | |
 |---|---:|
-| Price | $24.82 |
+| Price | $24.83 |
 | Market value | $2.6B |
-| P/E | 12.7 |
+| P/E | 12.8 |
 | Price/Sales | 0.61 |
 | Price/Book | 0.83 |
 | Free-cash-flow yield | 16.1% |
@@ -62,9 +62,9 @@ Consumer Discretionary · Motor Vehicles
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -11.2% |
-| Return 1m / 6m / 12m | -8.0% / +20.7% / -9.1% |
-| vs. 200-day average | +7.9% |
-| RSI (14d) | 35 |
+| Return 1m / 6m / 12m | -10.1% / +20.0% / -9.1% |
+| vs. 200-day average | +7.8% |
+| RSI (14d) | 38 |
 | Volatility (1y) | 38.2% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Motor Vehicles
 - Insider trades: http://openinsider.com/HOG
 - Full deep dive: run `python scout.py stock HOG` → `research/HOG.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

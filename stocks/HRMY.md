@@ -3,17 +3,17 @@ ticker: "HRMY"
 company: "Harmony Biosciences Holdings Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 39.29
+price: 39.57
 market_cap: "$2.3B"
 score: 77
 value: 90
 quality: 77
 growth: 55
-momentum: 82
+momentum: 83
 health: 71
-pe: 12.6
+pe: 12.7
 piotroski: 5
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,24 +31,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 90% of stocks in Health Care (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price up 46% over 12 months (8% below its 52-week high).
+- Share price up 48% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 90 | 77 | 55 | 82 | 71 |
+| **77** | 90 | 77 | 55 | 83 | 71 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $39.29 |
+| Price | $39.57 |
 | Market value | $2.3B |
-| P/E | 12.6 |
-| Price/Sales | 2.38 |
-| Price/Book | 2.29 |
-| Free-cash-flow yield | 15.2% |
+| P/E | 12.7 |
+| Price/Sales | 2.40 |
+| Price/Book | 2.31 |
+| Free-cash-flow yield | 15.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $959.9M |
 | Sales growth | +24.3% |
@@ -60,12 +60,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.15 |
 | Current ratio | 3.48 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 5.71 |
+| Altman Z | 5.73 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -4.8% / +41.6% / +46.0% |
-| vs. 200-day average | +13.5% |
-| RSI (14d) | 41 |
-| Volatility (1y) | 41.1% |
+| Return 1m / 6m / 12m | -7.7% / +42.8% / +47.9% |
+| vs. 200-day average | +14.3% |
+| RSI (14d) | 43 |
+| Volatility (1y) | 41.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/HRMY
 - Full deep dive: run `python scout.py stock HRMY` → `research/HRMY.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

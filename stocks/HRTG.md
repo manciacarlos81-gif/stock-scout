@@ -3,17 +3,17 @@ ticker: "HRTG"
 company: "Heritage Insurance Holdings Inc."
 sector: "Finance"
 industry: "Property-Casualty Insurers"
-price: 33.49
-market_cap: "$995.7M"
+price: 33.83
+market_cap: "$1.0B"
 score: 76
-value: 85
+value: 84
 quality: 87
 growth: 60
 momentum: 78
 health: 55
-pe: 4.6
+pe: 4.7
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -28,26 +28,26 @@ Finance · Property-Casualty Insurers
 
 ## In plain English
 
-- Cheaper than about 85% of stocks in Finance (value score).
+- Cheaper than about 84% of stocks in Finance (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price up 41% over 12 months (5% below its 52-week high).
+- Share price up 45% over 12 months (4% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 85 | 87 | 60 | 78 | 55 |
+| **76** | 84 | 87 | 60 | 78 | 55 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $33.49 |
-| Market value | $995.7M |
-| P/E | 4.6 |
-| Price/Sales | 1.17 |
-| Price/Book | 1.75 |
+| Price | $33.83 |
+| Market value | $1.0B |
+| P/E | 4.7 |
+| Price/Sales | 1.18 |
+| Price/Book | 1.77 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | $854.6M |
@@ -62,10 +62,10 @@ Finance · Property-Casualty Insurers
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | -0.7% / +27.9% / +41.4% |
-| vs. 200-day average | +20.5% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 52.8% |
+| Return 1m / 6m / 12m | -1.5% / +27.0% / +44.8% |
+| vs. 200-day average | +21.6% |
+| RSI (14d) | 52 |
+| Volatility (1y) | 52.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Finance · Property-Casualty Insurers
 - Insider trades: http://openinsider.com/HRTG
 - Full deep dive: run `python scout.py stock HRTG` → `research/HRTG.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "AAT"
 company: "American Assets Trust Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 21.34
+price: 21.39
 market_cap: "$1.3B"
 score: 50
-value: 54
+value: 53
 quality: 52
 growth: 16
-momentum: 59
+momentum: 60
 health: 61
-pe: 54.6
+pe: 54.7
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,28 +27,28 @@ Real Estate · Real Estate Investment Trusts
 
 ## In plain English
 
-- Cheaper than about 54% of stocks in Real Estate (value score).
+- Cheaper than about 53% of stocks in Real Estate (value score).
 - Business quality ranks above 52% of all stocks scanned.
 - Sales fell 4% over the last 12 months.
-- Share price up 12% over 12 months (16% below its 52-week high).
+- Share price up 13% over 12 months (16% below its 52-week high).
 - Insiders bought $20.1M of shares recently (Rady Ernest S (Exec COB, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 54 | 52 | 16 | 59 | 61 |
+| **50** | 53 | 52 | 16 | 60 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $21.34 |
+| Price | $21.39 |
 | Market value | $1.3B |
-| P/E | 54.6 |
-| Price/Sales | 2.99 |
-| Price/Book | 1.15 |
-| Free-cash-flow yield | 12.8% |
+| P/E | 54.7 |
+| Price/Sales | 3.00 |
+| Price/Book | 1.16 |
+| Free-cash-flow yield | 12.7% |
 | Dividend yield | 8.0% |
 | Sales (12m) | $438.2M |
 | Sales growth | -3.9% |
@@ -62,9 +62,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.2% |
-| Return 1m / 6m / 12m | -3.3% / +17.8% / +12.0% |
-| vs. 200-day average | +3.3% |
-| RSI (14d) | 36 |
+| Return 1m / 6m / 12m | -3.0% / +19.1% / +12.5% |
+| vs. 200-day average | +3.5% |
+| RSI (14d) | 38 |
 | Volatility (1y) | 22.2% |
 | Financials as of | 2026-03-31 |
 
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/AAT
 - Full deep dive: run `python scout.py stock AAT` → `research/AAT.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

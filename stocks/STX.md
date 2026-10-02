@@ -3,17 +3,17 @@ ticker: "STX"
 company: "Seagate Technology Holdings PLC"
 sector: "Technology"
 industry: "Electronic Components"
-price: 913.45
-market_cap: "$208.9B"
+price: 945.57
+market_cap: "$216.3B"
 score: 69
 value: 34
 quality: 85
 growth: 81
 momentum: 97
 health: 54
-pe: 65.6
+pe: 67.9
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Electronic Components
 - More expensive than about 66% of Technology peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 258% over 12 months (16% below its 52-week high).
+- Share price up 273% over 12 months (13% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Technology · Electronic Components
 
 | | |
 |---|---:|
-| Price | $913.45 |
-| Market value | $208.9B |
-| P/E | 65.6 |
-| Price/Sales | 17.13 |
-| Price/Book | 96.41 |
-| Free-cash-flow yield | 1.5% |
+| Price | $945.57 |
+| Market value | $216.3B |
+| P/E | 67.9 |
+| Price/Sales | 17.73 |
+| Price/Book | 99.80 |
+| Free-cash-flow yield | 1.4% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $12.2B |
 | Sales growth | +34.1% |
@@ -59,11 +59,11 @@ Technology · Electronic Components
 | Debt / equity | 1.65 |
 | Current ratio | 1.67 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 18.06 |
+| Altman Z | 18.63 |
 | Share count change (1y) | +5.5% |
-| Return 1m / 6m / 12m | +11.9% / +113.1% / +257.7% |
-| vs. 200-day average | +40.7% |
-| RSI (14d) | 58 |
+| Return 1m / 6m / 12m | +17.0% / +108.9% / +273.4% |
+| vs. 200-day average | +44.9% |
+| RSI (14d) | 62 |
 | Volatility (1y) | 74.5% |
 | Financials as of | 2026-07-03 |
 
@@ -74,4 +74,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/STX
 - Full deep dive: run `python scout.py stock STX` → `research/STX.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

@@ -3,18 +3,19 @@ ticker: "EVER"
 company: "EverQuote Inc."
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 18.91
-market_cap: "$666.4M"
-score: 73
-value: 94
-quality: 68
+price: 19.98
+market_cap: "$704.1M"
+score: 74
+value: 93
+quality: 69
 growth: 83
-momentum: 54
+momentum: 60
 health: 63
-pe: 5.8
+pe: 6.2
 piotroski: 7
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
+  - "🏆 Top overall"
   - "🪙 Deep value"
 tags: [stock]
 ---
@@ -23,31 +24,31 @@ tags: [stock]
 
 Technology · Computer Software: Programming Data Processing
 
-**In screens today:** 🪙 Deep value
+**In screens today:** 🏆 Top overall, 🪙 Deep value
 
 ## In plain English
 
-- Cheaper than about 94% of stocks in Technology (value score).
-- Business quality ranks above 68% of all stocks scanned.
+- Cheaper than about 93% of stocks in Technology (value score).
+- Business quality ranks above 69% of all stocks scanned.
 - Sales grew 23% over the last 12 months.
-- Share price down 15% over 12 months (32% below its 52-week high).
+- Share price down 10% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 94 | 68 | 83 | 54 | 63 |
+| **74** | 93 | 69 | 83 | 60 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $18.91 |
-| Market value | $666.4M |
-| P/E | 5.8 |
-| Price/Sales | 0.88 |
-| Price/Book | 2.60 |
-| Free-cash-flow yield | 14.3% |
+| Price | $19.98 |
+| Market value | $704.1M |
+| P/E | 6.2 |
+| Price/Sales | 0.93 |
+| Price/Book | 2.74 |
+| Free-cash-flow yield | 13.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $755.2M |
 | Sales growth | +22.7% |
@@ -59,12 +60,12 @@ Technology · Computer Software: Programming Data Processing
 | Debt / equity | – |
 | Current ratio | 3.33 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 8.27 |
+| Altman Z | 8.54 |
 | Share count change (1y) | -4.9% |
-| Return 1m / 6m / 12m | -23.8% / +24.6% / -14.7% |
-| vs. 200-day average | -9.6% |
-| RSI (14d) | 31 |
-| Volatility (1y) | 83.4% |
+| Return 1m / 6m / 12m | -21.6% / +30.2% / -10.0% |
+| vs. 200-day average | -4.4% |
+| RSI (14d) | 39 |
+| Volatility (1y) | 83.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +75,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/EVER
 - Full deep dive: run `python scout.py stock EVER` → `research/EVER.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

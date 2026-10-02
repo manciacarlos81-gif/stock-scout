@@ -3,17 +3,17 @@ ticker: "ESEA"
 company: "Euroseas Ltd."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 70.62
-market_cap: "$498.3M"
-score: 72
+price: 70.51
+market_cap: "$497.5M"
+score: 73
 value: 88
 quality: 85
 growth: 53
-momentum: 61
+momentum: 62
 health: 60
 pe: 3.6
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 88% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 22% over 12 months (10% below its 52-week high).
+- Share price up 27% over 12 months (10% below its 52-week high).
 - Insiders bought $56.9K of shares recently (Pittas Aristeidis P (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 88 | 85 | 53 | 61 | 60 |
+| **73** | 88 | 85 | 53 | 62 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $70.62 |
-| Market value | $498.3M |
+| Price | $70.51 |
+| Market value | $497.5M |
 | P/E | 3.6 |
-| Price/Sales | 2.19 |
-| Price/Book | 1.08 |
-| Free-cash-flow yield | 28.3% |
+| Price/Sales | 2.18 |
+| Price/Book | 1.07 |
+| Free-cash-flow yield | 28.4% |
 | Dividend yield | 3.8% |
 | Sales (12m) | $227.9M |
 | Sales growth | +7.0% |
@@ -62,9 +62,9 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.96 |
 | Share count change (1y) | -0.2% |
-| Return 1m / 6m / 12m | -7.0% / +7.4% / +21.8% |
-| vs. 200-day average | +7.5% |
-| RSI (14d) | 40 |
+| Return 1m / 6m / 12m | -7.6% / +6.6% / +26.6% |
+| vs. 200-day average | +7.2% |
+| RSI (14d) | 41 |
 | Volatility (1y) | 42.6% |
 | Financials as of | 2025-12-31 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/ESEA
 - Full deep dive: run `python scout.py stock ESEA` → `research/ESEA.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

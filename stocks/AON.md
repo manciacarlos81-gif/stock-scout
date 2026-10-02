@@ -3,7 +3,7 @@ ticker: "AON"
 company: "Aon plc"
 sector: "Finance"
 industry: "Specialty Insurers"
-price: 275.9
+price: 275.95
 market_cap: "$58.5B"
 score: 54
 value: 44
@@ -13,7 +13,7 @@ momentum: 21
 health: 65
 pe: 15.0
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -43,7 +43,7 @@ Finance · Specialty Insurers
 
 | | |
 |---|---:|
-| Price | $275.90 |
+| Price | $275.95 |
 | Market value | $58.5B |
 | P/E | 15.0 |
 | Price/Sales | 3.33 |
@@ -62,10 +62,10 @@ Finance · Specialty Insurers
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -15.4% / -14.2% / -23.0% |
-| vs. 200-day average | -16.7% |
+| Return 1m / 6m / 12m | -16.6% / -15.0% / -23.1% |
+| vs. 200-day average | -16.6% |
 | RSI (14d) | 27 |
-| Volatility (1y) | 27.8% |
+| Volatility (1y) | 27.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Finance · Specialty Insurers
 - Insider trades: http://openinsider.com/AON
 - Full deep dive: run `python scout.py stock AON` → `research/AON.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

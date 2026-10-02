@@ -3,17 +3,17 @@ ticker: "CI"
 company: "The Cigna Group"
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 275.26
-market_cap: "$72.7B"
-score: 61
+price: 267.96
+market_cap: "$70.8B"
+score: 60
 value: 95
 quality: 60
 growth: 53
-momentum: 40
+momentum: 36
 health: 42
-pe: 11.3
+pe: 11.0
 piotroski: 7
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,25 +30,25 @@ Health Care · Medical Specialities
 - Cheaper than about 95% of stocks in Health Care (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price down 3% over 12 months (9% below its 52-week high).
+- Share price down 8% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 95 | 60 | 53 | 40 | 42 |
+| **60** | 95 | 60 | 53 | 36 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $275.26 |
-| Market value | $72.7B |
-| P/E | 11.3 |
-| Price/Sales | 0.26 |
-| Price/Book | 1.71 |
-| Free-cash-flow yield | 13.2% |
-| Dividend yield | 2.2% |
+| Price | $267.96 |
+| Market value | $70.8B |
+| P/E | 11.0 |
+| Price/Sales | 0.25 |
+| Price/Book | 1.66 |
+| Free-cash-flow yield | 13.6% |
+| Dividend yield | 2.3% |
 | Sales (12m) | $282.4B |
 | Sales growth | +7.8% |
 | Net profit (12m) | $6.4B |
@@ -59,12 +59,12 @@ Health Care · Medical Specialities
 | Debt / equity | 0.75 |
 | Current ratio | 0.85 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 2.77 |
+| Altman Z | 2.76 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -2.2% / +3.1% / -3.5% |
-| vs. 200-day average | -0.8% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 32.8% |
+| Return 1m / 6m / 12m | -4.7% / -1.7% / -7.7% |
+| vs. 200-day average | -3.4% |
+| RSI (14d) | 41 |
+| Volatility (1y) | 32.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CI
 - Full deep dive: run `python scout.py stock CI` → `research/CI.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

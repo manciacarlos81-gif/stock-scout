@@ -3,17 +3,17 @@ ticker: "GSAT"
 company: "Globalstar Inc."
 sector: "Consumer Discretionary"
 industry: "Telecommunications Equipment"
-price: 82.59
+price: 82.88
 market_cap: "$10.7B"
-score: 43
+score: 44
 value: 20
 quality: 47
 growth: 51
-momentum: 72
+momentum: 77
 health: 29
 pe: null
 piotroski: 4
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Telecommunications Equipment
 - More expensive than about 80% of Consumer Discretionary peers (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 111% over 12 months (2% below its 52-week high).
+- Share price up 106% over 12 months (2% below its 52-week high).
 - Insiders bought $29.8M of shares recently (Monroe James III (Dir, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **43** | 20 | 47 | 51 | 72 | 29 |
+| **44** | 20 | 47 | 51 | 77 | 29 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $82.59 |
+| Price | $82.88 |
 | Market value | $10.7B |
 | P/E | – |
-| Price/Sales | 38.13 |
-| Price/Book | 36.57 |
+| Price/Sales | 38.26 |
+| Price/Book | 36.70 |
 | Free-cash-flow yield | 5.8% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $280.6M |
@@ -60,12 +60,12 @@ Consumer Discretionary · Telecommunications Equipment
 | Debt / equity | 1.23 |
 | Current ratio | 1.55 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 1.93 |
+| Altman Z | 1.94 |
 | Share count change (1y) | +1.0% |
-| Return 1m / 6m / 12m | +1.5% / +6.3% / +110.9% |
-| vs. 200-day average | +11.8% |
-| RSI (14d) | 54 |
-| Volatility (1y) | 59.1% |
+| Return 1m / 6m / 12m | +1.7% / +14.1% / +105.8% |
+| vs. 200-day average | +12.0% |
+| RSI (14d) | 57 |
+| Volatility (1y) | 59.0% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Telecommunications Equipment
 - Insider trades: http://openinsider.com/GSAT
 - Full deep dive: run `python scout.py stock GSAT` → `research/GSAT.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

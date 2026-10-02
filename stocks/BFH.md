@@ -3,17 +3,17 @@ ticker: "BFH"
 company: "Bread Financial Holdings Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 100.07
-market_cap: "$3.8B"
-score: 79
-value: 95
+price: 96.94
+market_cap: "$3.7B"
+score: 78
+value: 96
 quality: 82
 growth: 85
-momentum: 85
-health: 33
-pe: 6.8
+momentum: 82
+health: 32
+pe: 6.6
 piotroski: 9
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Business Services
 
 ## In plain English
 
-- Cheaper than about 95% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 96% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 82% of all stocks scanned.
-- Share price up 84% over 12 months (12% below its 52-week high).
+- Share price up 78% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **79** | 95 | 82 | 85 | 85 | 33 |
+| **78** | 96 | 82 | 85 | 82 | 32 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $100.07 |
-| Market value | $3.8B |
-| P/E | 6.8 |
+| Price | $96.94 |
+| Market value | $3.7B |
+| P/E | 6.6 |
 | Price/Sales | – |
-| Price/Book | 1.14 |
-| Free-cash-flow yield | 54.4% |
-| Dividend yield | 1.0% |
+| Price/Book | 1.11 |
+| Free-cash-flow yield | 56.2% |
+| Dividend yield | 1.1% |
 | Sales (12m) | – |
 | Sales growth | – |
 | Net profit (12m) | $568.0M |
@@ -60,10 +60,10 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -13.8% |
-| Return 1m / 6m / 12m | -1.9% / +37.7% / +84.4% |
-| vs. 200-day average | +12.6% |
-| RSI (14d) | 38 |
-| Volatility (1y) | 39.9% |
+| Return 1m / 6m / 12m | -9.0% / +29.6% / +77.8% |
+| vs. 200-day average | +9.0% |
+| RSI (14d) | 34 |
+| Volatility (1y) | 40.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/BFH
 - Full deep dive: run `python scout.py stock BFH` → `research/BFH.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

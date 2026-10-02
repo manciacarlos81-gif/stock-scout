@@ -3,17 +3,17 @@ ticker: "SCHL"
 company: "Scholastic Corporation"
 sector: "Consumer Discretionary"
 industry: "Books"
-price: 34.8
-market_cap: "$640.6M"
+price: 35.85
+market_cap: "$660.0M"
 score: 52
-value: 64
+value: 63
 quality: 47
 growth: 49
-momentum: 45
-health: 53
-pe: 11.3
+momentum: 48
+health: 52
+pe: 11.6
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Discretionary · Books
 
 ## In plain English
 
-- Cheaper than about 64% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 63% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 26% over 12 months (26% below its 52-week high).
+- Share price up 27% over 12 months (24% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 64 | 47 | 49 | 45 | 53 |
+| **52** | 63 | 47 | 49 | 48 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $34.80 |
-| Market value | $640.6M |
-| P/E | 11.3 |
-| Price/Sales | 0.40 |
-| Price/Book | 0.85 |
-| Free-cash-flow yield | 7.9% |
-| Dividend yield | 3.1% |
+| Price | $35.85 |
+| Market value | $660.0M |
+| P/E | 11.6 |
+| Price/Sales | 0.42 |
+| Price/Book | 0.88 |
+| Free-cash-flow yield | 7.7% |
+| Dividend yield | 3.0% |
 | Sales (12m) | $1.6B |
 | Sales growth | -2.7% |
 | Net profit (12m) | $56.7M |
@@ -61,10 +61,10 @@ Consumer Discretionary · Books
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -12.3% |
-| Return 1m / 6m / 12m | -9.5% / -10.2% / +25.8% |
-| vs. 200-day average | -8.1% |
-| RSI (14d) | 41 |
-| Volatility (1y) | 34.8% |
+| Return 1m / 6m / 12m | -6.6% / -6.8% / +27.1% |
+| vs. 200-day average | -5.4% |
+| RSI (14d) | 48 |
+| Volatility (1y) | 34.9% |
 | Financials as of | 2026-05-31 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Books
 - Insider trades: http://openinsider.com/SCHL
 - Full deep dive: run `python scout.py stock SCHL` → `research/SCHL.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

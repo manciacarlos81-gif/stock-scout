@@ -3,17 +3,17 @@ ticker: "GCO"
 company: "Genesco Inc."
 sector: "Consumer Discretionary"
 industry: "Clothing/Shoe/Accessory Stores"
-price: 34.5
-market_cap: "$373.3M"
+price: 34.81
+market_cap: "$376.6M"
 score: 65
 value: 93
 quality: 49
 growth: 62
 momentum: 59
 health: 55
-pe: 9.0
+pe: 9.1
 piotroski: 6
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -43,12 +43,12 @@ Consumer Discretionary · Clothing/Shoe/Accessory Stores
 
 | | |
 |---|---:|
-| Price | $34.50 |
-| Market value | $373.3M |
-| P/E | 9.0 |
+| Price | $34.81 |
+| Market value | $376.6M |
+| P/E | 9.1 |
 | Price/Sales | 0.15 |
-| Price/Book | 0.67 |
-| Free-cash-flow yield | 22.4% |
+| Price/Book | 0.68 |
+| Free-cash-flow yield | 22.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.4B |
 | Sales growth | +3.0% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Clothing/Shoe/Accessory Stores
 | Debt / equity | 0.03 |
 | Current ratio | 1.58 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.39 |
+| Altman Z | 2.40 |
 | Share count change (1y) | +6.1% |
-| Return 1m / 6m / 12m | +6.1% / +21.5% / +15.7% |
-| vs. 200-day average | +5.8% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | +3.8% / +17.8% / +16.1% |
+| vs. 200-day average | +6.6% |
+| RSI (14d) | 52 |
 | Volatility (1y) | 60.8% |
 | Financials as of | 2026-08-01 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Clothing/Shoe/Accessory Stores
 - Insider trades: http://openinsider.com/GCO
 - Full deep dive: run `python scout.py stock GCO` → `research/GCO.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

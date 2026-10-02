@@ -3,21 +3,20 @@ ticker: "SNDK"
 company: "Sandisk Corporation"
 sector: "Technology"
 industry: "Electronic Components"
-price: 1729.76
-market_cap: "$253.3B"
+price: 1787.69
+market_cap: "$261.8B"
 score: 81
 value: 58
 quality: 84
 growth: 91
 momentum: 99
 health: 80
-pe: 22.2
+pe: 22.9
 piotroski: 7
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
-  - "🎯 Quality on sale"
 tags: [stock]
 ---
 
@@ -25,14 +24,14 @@ tags: [stock]
 
 Technology · Electronic Components
 
-**In screens today:** 🏆 Top overall, 🚀 Growth + momentum, 🎯 Quality on sale
+**In screens today:** 🏆 Top overall, 🚀 Growth + momentum
 
 ## In plain English
 
 - Cheaper than about 58% of stocks in Technology (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 175% over the last 12 months.
-- Share price up 1328% over 12 months (26% below its 52-week high).
+- Share price up 1340% over 12 months (23% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -44,12 +43,12 @@ Technology · Electronic Components
 
 | | |
 |---|---:|
-| Price | $1,729.76 |
-| Market value | $253.3B |
-| P/E | 22.2 |
-| Price/Sales | 12.51 |
-| Price/Book | 16.09 |
-| Free-cash-flow yield | 4.5% |
+| Price | $1,787.69 |
+| Market value | $261.8B |
+| P/E | 22.9 |
+| Price/Sales | 12.93 |
+| Price/Book | 16.63 |
+| Free-cash-flow yield | 4.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $20.2B |
 | Sales growth | +175.3% |
@@ -61,11 +60,11 @@ Technology · Electronic Components
 | Debt / equity | 0.00 |
 | Current ratio | 2.29 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 26.14 |
+| Altman Z | 26.89 |
 | Share count change (1y) | +6.9% |
-| Return 1m / 6m / 12m | +12.6% / +146.5% / +1328.1% |
-| vs. 200-day average | +51.2% |
-| RSI (14d) | 54 |
+| Return 1m / 6m / 12m | +15.1% / +146.7% / +1340.1% |
+| vs. 200-day average | +55.1% |
+| RSI (14d) | 57 |
 | Volatility (1y) | 115.4% |
 | Financials as of | 2026-07-03 |
 
@@ -76,4 +75,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/SNDK
 - Full deep dive: run `python scout.py stock SNDK` → `research/SNDK.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

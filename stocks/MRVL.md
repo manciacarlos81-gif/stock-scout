@@ -3,17 +3,17 @@ ticker: "MRVL"
 company: "Marvell Technology Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 263.27
-market_cap: "$230.9B"
+price: 268.08
+market_cap: "$235.1B"
 score: 63
 value: 29
 quality: 54
 growth: 87
-momentum: 98
+momentum: 97
 health: 67
-pe: 87.5
+pe: 89.0
 piotroski: 7
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,23 +30,23 @@ Technology · Semiconductors
 - More expensive than about 71% of Technology peers (value score).
 - Business quality ranks above 54% of all stocks scanned.
 - Sales grew 31% over the last 12 months.
-- Share price up 214% over 12 months (17% below its 52-week high).
+- Share price up 212% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 29 | 54 | 87 | 98 | 67 |
+| **63** | 29 | 54 | 87 | 97 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $263.27 |
-| Market value | $230.9B |
-| P/E | 87.5 |
-| Price/Sales | 24.43 |
-| Price/Book | 12.46 |
+| Price | $268.08 |
+| Market value | $235.1B |
+| P/E | 89.0 |
+| Price/Sales | 24.88 |
+| Price/Book | 12.69 |
 | Free-cash-flow yield | 0.6% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $9.5B |
@@ -59,11 +59,11 @@ Technology · Semiconductors
 | Debt / equity | 0.27 |
 | Current ratio | 3.17 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 16.20 |
+| Altman Z | 16.48 |
 | Share count change (1y) | +5.8% |
-| Return 1m / 6m / 12m | +25.1% / +146.0% / +214.5% |
-| vs. 200-day average | +58.3% |
-| RSI (14d) | 62 |
+| Return 1m / 6m / 12m | +29.8% / +145.0% / +211.7% |
+| vs. 200-day average | +60.3% |
+| RSI (14d) | 64 |
 | Volatility (1y) | 79.4% |
 | Financials as of | 2026-08-01 |
 
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MRVL
 - Full deep dive: run `python scout.py stock MRVL` → `research/MRVL.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

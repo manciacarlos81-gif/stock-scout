@@ -3,17 +3,17 @@ ticker: "ADSK"
 company: "Autodesk Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 203.18
-market_cap: "$42.5B"
+price: 211.31
+market_cap: "$44.2B"
 score: 60
 value: 62
 quality: 88
 growth: 74
-momentum: 17
-health: 54
-pe: 25.9
+momentum: 19
+health: 53
+pe: 26.9
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,24 +30,24 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 62% of stocks in Technology (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 18% over the last 12 months.
-- Share price down 36% over 12 months (37% below its 52-week high).
+- Share price down 34% over 12 months (35% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 62 | 88 | 74 | 17 | 54 |
+| **60** | 62 | 88 | 74 | 19 | 53 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $203.18 |
-| Market value | $42.5B |
-| P/E | 25.9 |
-| Price/Sales | 5.45 |
-| Price/Book | 12.55 |
-| Free-cash-flow yield | 5.7% |
+| Price | $211.31 |
+| Market value | $44.2B |
+| P/E | 26.9 |
+| Price/Sales | 5.67 |
+| Price/Book | 13.05 |
+| Free-cash-flow yield | 5.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $7.8B |
 | Sales growth | +17.9% |
@@ -61,10 +61,10 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -18.0% / -14.7% / -35.6% |
-| vs. 200-day average | -15.0% |
-| RSI (14d) | 33 |
-| Volatility (1y) | 38.1% |
+| Return 1m / 6m / 12m | -12.6% / -11.1% / -34.2% |
+| vs. 200-day average | -11.5% |
+| RSI (14d) | 42 |
+| Volatility (1y) | 38.2% |
 | Financials as of | 2026-07-31 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADSK
 - Full deep dive: run `python scout.py stock ADSK` → `research/ADSK.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

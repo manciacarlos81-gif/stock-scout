@@ -1,45 +1,45 @@
 {
- "date": "2026-10-01",
- "scanned": 2616,
+ "date": "2026-10-02",
+ "scanned": 2609,
  "top": [
   {
    "rank": 1,
-   "ticker": "ECPG",
-   "name": "Encore Capital Group Inc",
-   "score": 81,
-   "price": 95.25,
-   "flags": "heavy debt"
-  },
-  {
-   "rank": 2,
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 81,
-   "price": 1729.76,
+   "price": 1787.69,
    "flags": ""
+  },
+  {
+   "rank": 2,
+   "ticker": "ECPG",
+   "name": "Encore Capital Group Inc",
+   "score": 81,
+   "price": 94.3,
+   "flags": "heavy debt"
   },
   {
    "rank": 3,
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 210.1,
+   "price": 212.31,
    "flags": "shares up 17% in a year"
   },
   {
    "rank": 4,
-   "ticker": "INCY",
-   "name": "Incyte Corp.",
+   "ticker": "LPG",
+   "name": "Dorian LPG Ltd.",
    "score": 80,
-   "price": 123.2,
+   "price": 56.59,
    "flags": ""
   },
   {
    "rank": 5,
-   "ticker": "LPG",
-   "name": "Dorian LPG Ltd.",
+   "ticker": "INCY",
+   "name": "Incyte Corp.",
    "score": 80,
-   "price": 54.23,
+   "price": 117.14,
    "flags": ""
   },
   {
@@ -47,7 +47,7 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 110.24,
+   "price": 114.6,
    "flags": ""
   },
   {
@@ -55,15 +55,15 @@
    "ticker": "CDNA",
    "name": "CareDx Inc.",
    "score": 79,
-   "price": 64.02,
+   "price": 66.23,
    "flags": ""
   },
   {
    "rank": 8,
    "ticker": "BFH",
    "name": "Bread Financial Holdings Inc.",
-   "score": 79,
-   "price": 100.07,
+   "score": 78,
+   "price": 96.94,
    "flags": ""
   },
   {
@@ -71,19 +71,21 @@
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
    "score": 78,
-   "price": 58.65,
+   "price": 57.94,
    "flags": ""
   },
   {
    "rank": 10,
-   "ticker": "AUPH",
-   "name": "Aurinia Pharmaceuticals Inc",
-   "score": 78,
-   "price": 16.42,
-   "flags": "profits not backed by cash"
+   "ticker": "KNSA",
+   "name": "Kiniksa Pharmaceuticals International plc",
+   "score": 77,
+   "price": 75.22,
+   "flags": ""
   }
  ],
- "new_top": [],
+ "new_top": [
+  "KNSA"
+ ],
  "prev_top": [
   "AUPH",
   "BFH",
@@ -107,9 +109,9 @@
   {
    "ticker": "GME",
    "name": "GameStop Corporation",
-   "value": 58965409,
-   "buyers": 4,
-   "last": "2026-09-29"
+   "value": 59219949,
+   "buyers": 5,
+   "last": "2026-10-01"
   }
  ]
 }

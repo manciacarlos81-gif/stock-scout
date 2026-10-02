@@ -3,17 +3,17 @@ ticker: "GSL"
 company: "Global Ship Lease Inc New"
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 44.03
+price: 45.44
 market_cap: "$1.6B"
 score: 73
 value: 89
 quality: 79
 growth: 51
-momentum: 75
+momentum: 77
 health: 56
-pe: 3.8
+pe: 3.9
 piotroski: 6
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 89% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 53% over 12 months (5% below its 52-week high).
+- Share price up 59% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 89 | 79 | 51 | 75 | 56 |
+| **73** | 89 | 79 | 51 | 77 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $44.03 |
+| Price | $45.44 |
 | Market value | $1.6B |
-| P/E | 3.8 |
-| Price/Sales | 2.06 |
-| Price/Book | 0.88 |
-| Free-cash-flow yield | 33.0% |
-| Dividend yield | 4.8% |
+| P/E | 3.9 |
+| Price/Sales | 2.13 |
+| Price/Book | 0.91 |
+| Free-cash-flow yield | 31.9% |
+| Dividend yield | 4.7% |
 | Sales (12m) | $766.5M |
 | Sales growth | +7.8% |
 | Net profit (12m) | $416.5M |
@@ -59,12 +59,12 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.38 |
 | Current ratio | 2.04 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.34 |
+| Altman Z | 2.37 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -1.0% / +18.1% / +53.2% |
-| vs. 200-day average | +13.5% |
-| RSI (14d) | 46 |
-| Volatility (1y) | 28.2% |
+| Return 1m / 6m / 12m | +0.7% / +20.3% / +58.6% |
+| vs. 200-day average | +16.9% |
+| RSI (14d) | 57 |
+| Volatility (1y) | 28.3% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/GSL
 - Full deep dive: run `python scout.py stock GSL` → `research/GSL.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

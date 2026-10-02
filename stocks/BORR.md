@@ -3,17 +3,17 @@ ticker: "BORR"
 company: "Borr Drilling Limited"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 3.91
+price: 4.05
 market_cap: "$1.2B"
 score: 46
 value: 68
 quality: 58
 growth: 21
-momentum: 39
-health: 25
-pe: 26.7
+momentum: 40
+health: 24
+pe: 27.7
 piotroski: 6
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,25 +30,25 @@ Energy · Oil & Gas Production
 - Cheaper than about 68% of stocks in Energy (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 40% over 12 months (41% below its 52-week high).
+- Share price up 45% over 12 months (39% below its 52-week high).
 - Insiders bought $14.8M of shares recently (Morand De Oliveira Bruno (CEO); Troim Tor Olav (Dir); Currie Jeffrey (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **46** | 68 | 58 | 21 | 39 | 25 |
+| **46** | 68 | 58 | 21 | 40 | 24 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $3.91 |
+| Price | $4.05 |
 | Market value | $1.2B |
-| P/E | 26.7 |
-| Price/Sales | 1.18 |
-| Price/Book | 1.25 |
-| Free-cash-flow yield | 20.9% |
+| P/E | 27.7 |
+| Price/Sales | 1.22 |
+| Price/Book | 1.30 |
+| Free-cash-flow yield | 20.2% |
 | Dividend yield | 0.4% |
 | Sales (12m) | $1.0B |
 | Sales growth | +1.0% |
@@ -60,12 +60,12 @@ Energy · Oil & Gas Production
 | Debt / equity | 2.58 |
 | Current ratio | 2.53 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 0.38 |
+| Altman Z | 0.39 |
 | Share count change (1y) | +12.2% |
-| Return 1m / 6m / 12m | -15.0% / -32.9% / +39.6% |
-| vs. 200-day average | -19.7% |
-| RSI (14d) | 36 |
-| Volatility (1y) | 54.0% |
+| Return 1m / 6m / 12m | -15.8% / -31.8% / +44.6% |
+| vs. 200-day average | -16.9% |
+| RSI (14d) | 42 |
+| Volatility (1y) | 54.1% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -82,4 +82,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/BORR
 - Full deep dive: run `python scout.py stock BORR` → `research/BORR.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

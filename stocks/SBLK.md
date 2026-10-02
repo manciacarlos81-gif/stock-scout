@@ -3,17 +3,17 @@ ticker: "SBLK"
 company: "Star Bulk Carriers Corp."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 29.2
-market_cap: "$3.3B"
+price: 30.43
+market_cap: "$3.4B"
 score: 50
-value: 43
+value: 42
 quality: 59
 growth: 10
-momentum: 82
+momentum: 85
 health: 40
-pe: 38.7
+pe: 40.3
 piotroski: 6
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,29 +27,29 @@ Consumer Discretionary · Marine Transportation
 
 ## In plain English
 
-- More expensive than about 57% of Consumer Discretionary peers (value score).
+- More expensive than about 58% of Consumer Discretionary peers (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales fell 18% over the last 12 months.
-- Share price up 67% over 12 months (10% below its 52-week high).
+- Share price up 76% over 12 months (6% below its 52-week high).
 - Insiders bought $6.9M of shares recently (Zagari Raffaele (Dir); Plakantonaki Charis (Chief Strategy Officer); Pappa Milena Maria (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 43 | 59 | 10 | 82 | 40 |
+| **50** | 42 | 59 | 10 | 85 | 40 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $29.20 |
-| Market value | $3.3B |
-| P/E | 38.7 |
-| Price/Sales | 3.12 |
-| Price/Book | 1.30 |
-| Free-cash-flow yield | 6.5% |
-| Dividend yield | 1.1% |
+| Price | $30.43 |
+| Market value | $3.4B |
+| P/E | 40.3 |
+| Price/Sales | 3.26 |
+| Price/Book | 1.35 |
+| Free-cash-flow yield | 6.2% |
+| Dividend yield | 1.0% |
 | Sales (12m) | $1.0B |
 | Sales growth | -17.6% |
 | Net profit (12m) | $84.2M |
@@ -60,12 +60,12 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | – |
 | Current ratio | 1.91 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 1.80 |
+| Altman Z | 1.86 |
 | Share count change (1y) | +6.2% |
-| Return 1m / 6m / 12m | -6.0% / +26.1% / +67.3% |
-| vs. 200-day average | +18.8% |
-| RSI (14d) | 41 |
-| Volatility (1y) | 32.8% |
+| Return 1m / 6m / 12m | -4.4% / +32.6% / +76.2% |
+| vs. 200-day average | +23.5% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 32.9% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -80,4 +80,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/SBLK
 - Full deep dive: run `python scout.py stock SBLK` → `research/SBLK.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

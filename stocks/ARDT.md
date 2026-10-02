@@ -3,17 +3,17 @@ ticker: "ARDT"
 company: "Ardent Health Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 10.58
-market_cap: "$1.5B"
-score: 56
+price: 10.25
+market_cap: "$1.4B"
+score: 55
 value: 94
-quality: 52
+quality: 51
 growth: 24
-momentum: 50
+momentum: 45
 health: 42
-pe: 19.1
+pe: 18.5
 piotroski: 6
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -28,26 +28,26 @@ Health Care · Hospital/Nursing Management
 ## In plain English
 
 - Cheaper than about 94% of stocks in Health Care (value score).
-- Business quality ranks above 52% of all stocks scanned.
+- Business quality ranks above 51% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price down 19% over 12 months (30% below its 52-week high).
+- Share price down 22% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 94 | 52 | 24 | 50 | 42 |
+| **55** | 94 | 51 | 24 | 45 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $10.58 |
-| Market value | $1.5B |
-| P/E | 19.1 |
+| Price | $10.25 |
+| Market value | $1.4B |
+| P/E | 18.5 |
 | Price/Sales | 0.23 |
-| Price/Book | 1.10 |
-| Free-cash-flow yield | 31.5% |
+| Price/Book | 1.07 |
+| Free-cash-flow yield | 32.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $6.4B |
 | Sales growth | +3.3% |
@@ -61,10 +61,10 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +1.1% |
-| Return 1m / 6m / 12m | -3.3% / +22.2% / -19.1% |
-| vs. 200-day average | +9.0% |
-| RSI (14d) | 46 |
-| Volatility (1y) | 54.0% |
+| Return 1m / 6m / 12m | -6.0% / +14.5% / -22.3% |
+| vs. 200-day average | +5.6% |
+| RSI (14d) | 40 |
+| Volatility (1y) | 53.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/ARDT
 - Full deep dive: run `python scout.py stock ARDT` → `research/ARDT.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

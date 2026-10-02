@@ -3,17 +3,17 @@ ticker: "HCSG"
 company: "Healthcare Services Group Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 20.9
+price: 20.58
 market_cap: "$1.4B"
-score: 73
+score: 72
 value: 89
 quality: 76
 growth: 65
-momentum: 62
+momentum: 58
 health: 61
-pe: 11.7
+pe: 11.5
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Hospital/Nursing Management
 - Cheaper than about 89% of stocks in Health Care (value score).
 - Business quality ranks above 76% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price up 29% over 12 months (17% below its 52-week high).
+- Share price up 24% over 12 months (19% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 89 | 76 | 65 | 62 | 61 |
+| **72** | 89 | 76 | 65 | 58 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $20.90 |
+| Price | $20.58 |
 | Market value | $1.4B |
-| P/E | 11.7 |
-| Price/Sales | 0.77 |
-| Price/Book | 2.76 |
-| Free-cash-flow yield | 9.7% |
+| P/E | 11.5 |
+| Price/Sales | 0.76 |
+| Price/Book | 2.72 |
+| Free-cash-flow yield | 9.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.9B |
 | Sales growth | +5.2% |
@@ -61,9 +61,9 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -4.5% |
-| Return 1m / 6m / 12m | -4.2% / +13.9% / +28.6% |
-| vs. 200-day average | -0.9% |
-| RSI (14d) | 35 |
+| Return 1m / 6m / 12m | -5.5% / +9.5% / +24.4% |
+| vs. 200-day average | -2.5% |
+| RSI (14d) | 33 |
 | Volatility (1y) | 41.8% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/HCSG
 - Full deep dive: run `python scout.py stock HCSG` → `research/HCSG.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

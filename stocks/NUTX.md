@@ -3,17 +3,17 @@ ticker: "NUTX"
 company: "Nutex Health Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 210.1
-market_cap: "$1.4B"
+price: 212.31
+market_cap: "$1.5B"
 score: 80
 value: 80
 quality: 87
 growth: 62
 momentum: 93
 health: 69
-pe: 8.0
+pe: 8.1
 piotroski: 7
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,7 +31,7 @@ Consumer Discretionary · Business Services
 - Cheaper than about 80% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 101% over 12 months (5% below its 52-week high).
+- Share price up 98% over 12 months (4% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Consumer Discretionary · Business Services
 
 | | |
 |---|---:|
-| Price | $210.10 |
-| Market value | $1.4B |
-| P/E | 8.0 |
-| Price/Sales | 1.70 |
-| Price/Book | 3.65 |
-| Free-cash-flow yield | 17.1% |
+| Price | $212.31 |
+| Market value | $1.5B |
+| P/E | 8.1 |
+| Price/Sales | 1.72 |
+| Price/Book | 3.69 |
+| Free-cash-flow yield | 16.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $846.7M |
 | Sales growth | +6.9% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Business Services
 | Debt / equity | 0.10 |
 | Current ratio | 5.00 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.34 |
+| Altman Z | 4.36 |
 | Share count change (1y) | +17.1% |
-| Return 1m / 6m / 12m | +12.1% / +108.2% / +101.2% |
-| vs. 200-day average | +43.4% |
-| RSI (14d) | 56 |
+| Return 1m / 6m / 12m | +10.6% / +110.9% / +98.1% |
+| vs. 200-day average | +44.7% |
+| RSI (14d) | 58 |
 | Volatility (1y) | 92.0% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/NUTX
 - Full deep dive: run `python scout.py stock NUTX` → `research/NUTX.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_

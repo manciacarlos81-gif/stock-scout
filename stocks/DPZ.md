@@ -3,17 +3,17 @@ ticker: "DPZ"
 company: "Domino's Pizza Inc"
 sector: "Consumer Discretionary"
 industry: "Food Distributors"
-price: 301.81
-market_cap: "$10.0B"
+price: 295.0
+market_cap: "$9.8B"
 score: 51
-value: 49
+value: 50
 quality: 85
 growth: 43
-momentum: 17
-health: 52
-pe: 16.7
+momentum: 15
+health: 51
+pe: 16.4
 piotroski: 8
-updated: "2026-10-01"
+updated: "2026-10-02"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Food Distributors
 
 ## In plain English
 
-- More expensive than about 51% of Consumer Discretionary peers (value score).
+- More expensive than about 50% of Consumer Discretionary peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price down 28% over 12 months (30% below its 52-week high).
+- Share price down 30% over 12 months (32% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 49 | 85 | 43 | 17 | 52 |
+| **51** | 50 | 85 | 43 | 15 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $301.81 |
-| Market value | $10.0B |
-| P/E | 16.7 |
-| Price/Sales | 1.99 |
+| Price | $295.00 |
+| Market value | $9.8B |
+| P/E | 16.4 |
+| Price/Sales | 1.94 |
 | Price/Book | – |
-| Free-cash-flow yield | 6.7% |
+| Free-cash-flow yield | 6.9% |
 | Dividend yield | 2.4% |
 | Sales (12m) | $5.0B |
 | Sales growth | +5.2% |
@@ -59,12 +59,12 @@ Consumer Discretionary · Food Distributors
 | Debt / equity | – |
 | Current ratio | 1.54 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.81 |
+| Altman Z | 2.79 |
 | Share count change (1y) | -3.1% |
-| Return 1m / 6m / 12m | -10.8% / -17.6% / -28.0% |
-| vs. 200-day average | -13.8% |
-| RSI (14d) | 41 |
-| Volatility (1y) | 30.7% |
+| Return 1m / 6m / 12m | -14.4% / -21.6% / -30.1% |
+| vs. 200-day average | -15.6% |
+| RSI (14d) | 37 |
+| Volatility (1y) | 30.8% |
 | Financials as of | 2026-06-14 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Food Distributors
 - Insider trades: http://openinsider.com/DPZ
 - Full deep dive: run `python scout.py stock DPZ` → `research/DPZ.md`
 
-_Updated 2026-10-01 · [latest report](../reports/latest.md)_
+_Updated 2026-10-02 · [latest report](../reports/latest.md)_
