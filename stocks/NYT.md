@@ -3,17 +3,17 @@ ticker: "NYT"
 company: "New York Times Company (The)"
 sector: "Consumer Discretionary"
 industry: "Newspapers/Magazines"
-price: 63.71
-market_cap: "$10.2B"
+price: 64.0
+market_cap: "$10.3B"
 score: 54
 value: 37
 quality: 83
 growth: 59
 momentum: 32
 health: 57
-pe: 26.0
+pe: 26.1
 piotroski: 9
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Newspapers/Magazines
 - More expensive than about 63% of Consumer Discretionary peers (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price up 16% over 12 months (26% below its 52-week high).
+- Share price up 17% over 12 months (25% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Consumer Discretionary · Newspapers/Magazines
 
 | | |
 |---|---:|
-| Price | $63.71 |
-| Market value | $10.2B |
-| P/E | 26.0 |
-| Price/Sales | 3.43 |
-| Price/Book | 4.99 |
+| Price | $64.00 |
+| Market value | $10.3B |
+| P/E | 26.1 |
+| Price/Sales | 3.45 |
+| Price/Book | 5.02 |
 | Free-cash-flow yield | 5.4% |
 | Dividend yield | 1.1% |
 | Sales (12m) | $3.0B |
@@ -61,9 +61,9 @@ Consumer Discretionary · Newspapers/Magazines
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -0.8% |
-| Return 1m / 6m / 12m | -5.9% / -24.9% / +15.9% |
-| vs. 200-day average | -13.3% |
-| RSI (14d) | 41 |
+| Return 1m / 6m / 12m | -4.9% / -24.2% / +16.5% |
+| vs. 200-day average | -12.8% |
+| RSI (14d) | 44 |
 | Volatility (1y) | 31.1% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Newspapers/Magazines
 - Insider trades: http://openinsider.com/NYT
 - Full deep dive: run `python scout.py stock NYT` → `research/NYT.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

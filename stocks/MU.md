@@ -3,17 +3,17 @@ ticker: "MU"
 company: "Micron Technology Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 1097.39
+price: 1063.96
 market_cap: "$1.2T"
 score: 76
-value: 47
+value: 48
 quality: 73
 growth: 92
 momentum: 99
 health: 80
-pe: 24.6
+pe: 23.8
 piotroski: 7
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,26 +28,26 @@ Technology · Semiconductors
 
 ## In plain English
 
-- More expensive than about 53% of Technology peers (value score).
+- More expensive than about 52% of Technology peers (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 167% over the last 12 months.
-- Share price up 498% over 12 months (10% below its 52-week high).
+- Share price up 458% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 47 | 73 | 92 | 99 | 80 |
+| **76** | 48 | 73 | 92 | 99 | 80 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $1,097.39 |
+| Price | $1,063.96 |
 | Market value | $1.2T |
-| P/E | 24.6 |
-| Price/Sales | 13.73 |
-| Price/Book | 12.30 |
+| P/E | 23.8 |
+| Price/Sales | 13.31 |
+| Price/Book | 11.93 |
 | Free-cash-flow yield | 0.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $90.3B |
@@ -60,12 +60,12 @@ Technology · Semiconductors
 | Debt / equity | 0.06 |
 | Current ratio | 3.42 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 25.81 |
+| Altman Z | 25.14 |
 | Share count change (1y) | +1.8% |
-| Return 1m / 6m / 12m | +14.8% / +190.5% / +498.2% |
-| vs. 200-day average | +60.5% |
-| RSI (14d) | 64 |
-| Volatility (1y) | 81.2% |
+| Return 1m / 6m / 12m | +4.7% / +161.6% / +457.7% |
+| vs. 200-day average | +53.7% |
+| RSI (14d) | 57 |
+| Volatility (1y) | 81.1% |
 | Financials as of | 2026-05-28 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MU
 - Full deep dive: run `python scout.py stock MU` → `research/MU.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

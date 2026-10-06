@@ -3,17 +3,17 @@ ticker: "CODI"
 company: "D/B/A Compass Diversified Holdings Shares of Beneficial Interest"
 sector: "Consumer Discretionary"
 industry: "Home Furnishings"
-price: 11.01
-market_cap: "$828.3M"
-score: 40
+price: 11.06
+market_cap: "$832.1M"
+score: 41
 value: 27
 quality: 30
 growth: 52
 momentum: 78
-health: 19
+health: 20
 pe: null
 piotroski: 5
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -37,18 +37,18 @@ Consumer Discretionary · Home Furnishings
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **40** | 27 | 30 | 52 | 78 | 19 |
+| **41** | 27 | 30 | 52 | 78 | 20 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $11.01 |
-| Market value | $828.3M |
+| Price | $11.06 |
+| Market value | $832.1M |
 | P/E | – |
 | Price/Sales | 0.46 |
-| Price/Book | 1.75 |
-| Free-cash-flow yield | -6.2% |
+| Price/Book | 1.76 |
+| Free-cash-flow yield | -6.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.8B |
 | Sales growth | -4.8% |
@@ -62,9 +62,9 @@ Consumer Discretionary · Home Furnishings
 | Piotroski F-score | 5/9 |
 | Altman Z | 0.49 |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | -4.8% / +15.3% / +65.1% |
-| vs. 200-day average | +19.0% |
-| RSI (14d) | 44 |
+| Return 1m / 6m / 12m | -5.2% / +15.2% / +64.6% |
+| vs. 200-day average | +18.8% |
+| RSI (14d) | 47 |
 | Volatility (1y) | 69.0% |
 | Financials as of | 2026-06-30 |
 
@@ -82,4 +82,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/CODI
 - Full deep dive: run `python scout.py stock CODI` → `research/CODI.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

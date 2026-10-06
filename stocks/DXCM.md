@@ -3,17 +3,17 @@ ticker: "DXCM"
 company: "DexCom Inc."
 sector: "Health Care"
 industry: "Medical/Dental Instruments"
-price: 86.23
-market_cap: "$32.5B"
+price: 86.9
+market_cap: "$32.8B"
 score: 75
-value: 62
+value: 63
 quality: 86
 growth: 76
-momentum: 77
+momentum: 76
 health: 75
-pe: 32.5
+pe: 32.8
 piotroski: 8
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,26 +27,26 @@ Health Care · Medical/Dental Instruments
 
 ## In plain English
 
-- Cheaper than about 62% of stocks in Health Care (value score).
+- Cheaper than about 63% of stocks in Health Care (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 16% over the last 12 months.
-- Share price up 30% over 12 months (7% below its 52-week high).
+- Share price up 31% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 62 | 86 | 76 | 77 | 75 |
+| **75** | 63 | 86 | 76 | 76 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $86.23 |
-| Market value | $32.5B |
-| P/E | 32.5 |
-| Price/Sales | 6.55 |
-| Price/Book | 12.41 |
+| Price | $86.90 |
+| Market value | $32.8B |
+| P/E | 32.8 |
+| Price/Sales | 6.60 |
+| Price/Book | 12.51 |
 | Free-cash-flow yield | 3.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.0B |
@@ -59,11 +59,11 @@ Health Care · Medical/Dental Instruments
 | Debt / equity | – |
 | Current ratio | 1.73 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 7.39 |
+| Altman Z | 7.43 |
 | Share count change (1y) | -4.4% |
-| Return 1m / 6m / 12m | -3.9% / +36.4% / +29.8% |
-| vs. 200-day average | +18.0% |
-| RSI (14d) | 47 |
+| Return 1m / 6m / 12m | -1.1% / +32.1% / +31.0% |
+| vs. 200-day average | +18.6% |
+| RSI (14d) | 51 |
 | Volatility (1y) | 39.5% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/DXCM
 - Full deep dive: run `python scout.py stock DXCM` → `research/DXCM.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

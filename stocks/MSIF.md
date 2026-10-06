@@ -3,17 +3,17 @@ ticker: "MSIF"
 company: "MSC Income Fund Inc."
 sector: "Finance"
 industry: "Finance/Investors Services"
-price: 12.03
-market_cap: "$545.5M"
+price: 11.69
+market_cap: "$530.1M"
 score: 69
-value: 95
+value: 96
 quality: null
 growth: 77
-momentum: 41
-health: 87
-pe: 5.5
+momentum: 38
+health: 88
+pe: 5.4
 piotroski: 6
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,27 +27,27 @@ Finance · Finance/Investors Services
 
 ## In plain English
 
-- Cheaper than about 95% of stocks in Finance (value score).
-- Share price down 0% over 12 months (8% below its 52-week high).
+- Cheaper than about 96% of stocks in Finance (value score).
+- Share price down 6% over 12 months (10% below its 52-week high).
 - Insiders bought $12.1K of shares recently (Marks Nataly Michelle (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 95 | – | 77 | 41 | 87 |
+| **69** | 96 | – | 77 | 38 | 88 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.03 |
-| Market value | $545.5M |
-| P/E | 5.5 |
+| Price | $11.69 |
+| Market value | $530.1M |
+| P/E | 5.4 |
 | Price/Sales | – |
-| Price/Book | 0.73 |
+| Price/Book | 0.71 |
 | Free-cash-flow yield | – |
-| Dividend yield | 12.4% |
+| Dividend yield | 12.8% |
 | Sales (12m) | – |
 | Sales growth | – |
 | Net profit (12m) | $99.1M |
@@ -60,10 +60,10 @@ Finance · Finance/Investors Services
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.6% |
-| Return 1m / 6m / 12m | -4.0% / -0.9% / -0.4% |
-| vs. 200-day average | +0.3% |
-| RSI (14d) | 44 |
-| Volatility (1y) | 27.3% |
+| Return 1m / 6m / 12m | -6.5% / -2.1% / -5.9% |
+| vs. 200-day average | -1.6% |
+| RSI (14d) | 39 |
+| Volatility (1y) | 27.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Finance · Finance/Investors Services
 - Insider trades: http://openinsider.com/MSIF
 - Full deep dive: run `python scout.py stock MSIF` → `research/MSIF.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "NRDS"
 company: "NerdWallet Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 8.57
-market_cap: "$547.8M"
+price: 8.83
+market_cap: "$564.4M"
 score: 70
 value: 96
 quality: 79
 growth: 74
-momentum: 19
+momentum: 21
 health: 74
-pe: 8.4
+pe: 8.7
 piotroski: 9
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -31,24 +31,24 @@ Technology · EDP Services
 - Cheaper than about 96% of stocks in Technology (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price down 22% over 12 months (46% below its 52-week high).
+- Share price down 19% over 12 months (45% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **70** | 96 | 79 | 74 | 19 | 74 |
+| **70** | 96 | 79 | 74 | 21 | 74 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $8.57 |
-| Market value | $547.8M |
-| P/E | 8.4 |
-| Price/Sales | 0.64 |
-| Price/Book | 1.68 |
-| Free-cash-flow yield | 23.8% |
+| Price | $8.83 |
+| Market value | $564.4M |
+| P/E | 8.7 |
+| Price/Sales | 0.66 |
+| Price/Book | 1.73 |
+| Free-cash-flow yield | 23.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $860.0M |
 | Sales growth | +11.5% |
@@ -60,12 +60,12 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 2.62 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 5.83 |
+| Altman Z | 5.94 |
 | Share count change (1y) | -14.1% |
-| Return 1m / 6m / 12m | -14.1% / -18.7% / -21.6% |
-| vs. 200-day average | -15.9% |
-| RSI (14d) | 39 |
-| Volatility (1y) | 47.3% |
+| Return 1m / 6m / 12m | -10.6% / -16.9% / -19.4% |
+| vs. 200-day average | -12.8% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 47.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/NRDS
 - Full deep dive: run `python scout.py stock NRDS` → `research/NRDS.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

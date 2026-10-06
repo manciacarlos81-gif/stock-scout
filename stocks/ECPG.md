@@ -3,19 +3,20 @@ ticker: "ECPG"
 company: "Encore Capital Group Inc"
 sector: "Finance"
 industry: "Finance Companies"
-price: 94.3
-market_cap: "$2.0B"
+price: 97.92
+market_cap: "$2.1B"
 score: 81
-value: 78
+value: 77
 quality: 86
 growth: 89
-momentum: 86
+momentum: 87
 health: 62
-pe: 6.6
+pe: 6.9
 piotroski: 8
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🏆 Top overall"
+  - "🚀 Growth + momentum"
 tags: [stock]
 ---
 
@@ -23,30 +24,30 @@ tags: [stock]
 
 Finance · Finance Companies
 
-**In screens today:** 🏆 Top overall
+**In screens today:** 🏆 Top overall, 🚀 Growth + momentum
 
 ## In plain English
 
-- Cheaper than about 78% of stocks in Finance (value score).
+- Cheaper than about 77% of stocks in Finance (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 30% over the last 12 months.
-- Share price up 128% over 12 months (9% below its 52-week high).
+- Share price up 141% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **81** | 78 | 86 | 89 | 86 | 62 |
+| **81** | 77 | 86 | 89 | 87 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $94.30 |
-| Market value | $2.0B |
-| P/E | 6.6 |
-| Price/Sales | 1.05 |
-| Price/Book | 1.85 |
+| Price | $97.92 |
+| Market value | $2.1B |
+| P/E | 6.9 |
+| Price/Sales | 1.09 |
+| Price/Book | 1.93 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.9B |
@@ -61,9 +62,9 @@ Finance · Finance Companies
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.3% |
-| Return 1m / 6m / 12m | -2.3% / +30.0% / +128.1% |
-| vs. 200-day average | +19.7% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | +0.6% / +30.9% / +141.0% |
+| vs. 200-day average | +23.6% |
+| RSI (14d) | 52 |
 | Volatility (1y) | 35.6% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +79,4 @@ Finance · Finance Companies
 - Insider trades: http://openinsider.com/ECPG
 - Full deep dive: run `python scout.py stock ECPG` → `research/ECPG.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

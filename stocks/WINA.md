@@ -3,17 +3,17 @@ ticker: "WINA"
 company: "Winmark Corporation"
 sector: "Consumer Discretionary"
 industry: "Other Specialty Stores"
-price: 299.46
+price: 293.86
 market_cap: "$1.1B"
 score: 48
-value: 30
+value: 31
 quality: 90
 growth: 34
-momentum: 8
+momentum: 7
 health: 74
-pe: 26.4
+pe: 25.9
 piotroski: 7
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Discretionary · Other Specialty Stores
 
 ## In plain English
 
-- More expensive than about 70% of Consumer Discretionary peers (value score).
+- More expensive than about 69% of Consumer Discretionary peers (value score).
 - Business quality ranks above 90% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 40% over 12 months (40% below its 52-week high).
+- Share price down 40% over 12 months (39% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **48** | 30 | 90 | 34 | 8 | 74 |
+| **48** | 31 | 90 | 34 | 7 | 74 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $299.46 |
+| Price | $293.86 |
 | Market value | $1.1B |
-| P/E | 26.4 |
-| Price/Sales | 12.43 |
+| P/E | 25.9 |
+| Price/Sales | 12.20 |
 | Price/Book | – |
 | Free-cash-flow yield | 4.2% |
-| Dividend yield | 4.6% |
+| Dividend yield | 4.7% |
 | Sales (12m) | $86.5M |
 | Sales growth | +3.8% |
 | Net profit (12m) | $40.7M |
@@ -61,9 +61,9 @@ Consumer Discretionary · Other Specialty Stores
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -6.3% / -28.6% / -40.2% |
-| vs. 200-day average | -23.1% |
-| RSI (14d) | 41 |
+| Return 1m / 6m / 12m | -7.6% / -32.8% / -39.6% |
+| vs. 200-day average | -24.3% |
+| RSI (14d) | 37 |
 | Volatility (1y) | 37.8% |
 | Financials as of | 2026-06-27 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Other Specialty Stores
 - Insider trades: http://openinsider.com/WINA
 - Full deep dive: run `python scout.py stock WINA` → `research/WINA.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

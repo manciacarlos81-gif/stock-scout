@@ -3,17 +3,17 @@ ticker: "INMD"
 company: "InMode Ltd."
 sector: "Health Care"
 industry: "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
-price: 14.05
-market_cap: "$807.6M"
+price: 14.13
+market_cap: "$812.2M"
 score: 62
 value: 93
 quality: 61
 growth: 23
-momentum: 39
+momentum: 40
 health: 84
-pe: 8.6
+pe: 8.7
 piotroski: 4
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,23 +30,23 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 - Cheaper than about 93% of stocks in Health Care (value score).
 - Business quality ranks above 61% of all stocks scanned.
 - Sales fell 6% over the last 12 months.
-- Share price down 9% over 12 months (15% below its 52-week high).
+- Share price down 7% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **62** | 93 | 61 | 23 | 39 | 84 |
+| **62** | 93 | 61 | 23 | 40 | 84 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $14.05 |
-| Market value | $807.6M |
-| P/E | 8.6 |
-| Price/Sales | 2.18 |
-| Price/Book | 1.18 |
+| Price | $14.13 |
+| Market value | $812.2M |
+| P/E | 8.7 |
+| Price/Sales | 2.19 |
+| Price/Book | 1.19 |
 | Free-cash-flow yield | 10.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $370.5M |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 | Debt / equity | – |
 | Current ratio | 9.88 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 9.43 |
+| Altman Z | 9.46 |
 | Share count change (1y) | -18.8% |
-| Return 1m / 6m / 12m | -6.0% / +2.5% / -9.1% |
-| vs. 200-day average | -2.4% |
-| RSI (14d) | 28 |
-| Volatility (1y) | 31.3% |
+| Return 1m / 6m / 12m | -5.2% / +2.5% / -7.2% |
+| vs. 200-day average | -1.8% |
+| RSI (14d) | 33 |
+| Volatility (1y) | 31.2% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 - Insider trades: http://openinsider.com/INMD
 - Full deep dive: run `python scout.py stock INMD` → `research/INMD.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

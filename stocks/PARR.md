@@ -3,17 +3,17 @@ ticker: "PARR"
 company: "Par Pacific Holdings Inc."
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 86.21
-market_cap: "$4.3B"
+price: 87.52
+market_cap: "$4.4B"
 score: 74
 value: 77
 quality: 60
 growth: 84
-momentum: 89
+momentum: 92
 health: 61
-pe: 5.0
+pe: 5.1
 piotroski: 7
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Energy · Oil & Gas Production
 - Cheaper than about 77% of stocks in Energy (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 145% over 12 months (0% below its 52-week high).
+- Share price up 148% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 77 | 60 | 84 | 89 | 61 |
+| **74** | 77 | 60 | 84 | 92 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $86.21 |
-| Market value | $4.3B |
-| P/E | 5.0 |
-| Price/Sales | 0.50 |
-| Price/Book | 2.18 |
-| Free-cash-flow yield | 6.9% |
+| Price | $87.52 |
+| Market value | $4.4B |
+| P/E | 5.1 |
+| Price/Sales | 0.51 |
+| Price/Book | 2.21 |
+| Free-cash-flow yield | 6.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $8.6B |
 | Sales growth | +13.2% |
@@ -59,12 +59,12 @@ Energy · Oil & Gas Production
 | Debt / equity | 0.37 |
 | Current ratio | 1.84 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.39 |
+| Altman Z | 4.40 |
 | Share count change (1y) | -2.7% |
-| Return 1m / 6m / 12m | +7.5% / +33.1% / +144.9% |
-| vs. 200-day average | +44.4% |
+| Return 1m / 6m / 12m | +7.6% / +44.2% / +148.4% |
+| vs. 200-day average | +45.4% |
 | RSI (14d) | 62 |
-| Volatility (1y) | 58.0% |
+| Volatility (1y) | 58.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/PARR
 - Full deep dive: run `python scout.py stock PARR` → `research/PARR.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

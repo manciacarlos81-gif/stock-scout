@@ -3,17 +3,17 @@ ticker: "AUPH"
 company: "Aurinia Pharmaceuticals Inc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 15.95
+price: 15.72
 market_cap: "$2.1B"
 score: 77
 value: 82
 quality: 78
-growth: 86
-momentum: 58
+growth: 85
+momentum: 57
 health: 84
-pe: 6.8
+pe: 6.7
 piotroski: 7
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 82% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 42% over 12 months (14% below its 52-week high).
+- Share price up 39% over 12 months (16% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 82 | 78 | 86 | 58 | 84 |
+| **77** | 82 | 78 | 85 | 57 | 84 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.95 |
+| Price | $15.72 |
 | Market value | $2.1B |
-| P/E | 6.8 |
-| Price/Sales | 6.81 |
-| Price/Book | 3.45 |
-| Free-cash-flow yield | 6.4% |
+| P/E | 6.7 |
+| Price/Sales | 6.71 |
+| Price/Book | 3.40 |
+| Free-cash-flow yield | 6.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $311.5M |
 | Sales growth | +19.8% |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 5.42 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 7.85 |
+| Altman Z | 7.74 |
 | Share count change (1y) | -2.9% |
-| Return 1m / 6m / 12m | -2.1% / -0.3% / +41.7% |
-| vs. 200-day average | +2.5% |
-| RSI (14d) | 43 |
-| Volatility (1y) | 37.8% |
+| Return 1m / 6m / 12m | -2.2% / -1.1% / +38.9% |
+| vs. 200-day average | +1.1% |
+| RSI (14d) | 39 |
+| Volatility (1y) | 37.7% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/AUPH
 - Full deep dive: run `python scout.py stock AUPH` → `research/AUPH.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

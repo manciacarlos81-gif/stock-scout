@@ -3,17 +3,17 @@ ticker: "KNSA"
 company: "Kiniksa Pharmaceuticals International plc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 75.22
-market_cap: "$5.9B"
+price: 76.31
+market_cap: "$6.0B"
 score: 77
-value: 58
+value: 57
 quality: 80
 growth: 90
 momentum: 92
 health: 75
-pe: 72.8
+pe: 73.8
 piotroski: 8
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,26 +28,26 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- Cheaper than about 58% of stocks in Health Care (value score).
+- Cheaper than about 57% of stocks in Health Care (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Sales grew 59% over the last 12 months.
-- Share price up 101% over 12 months (7% below its 52-week high).
+- Share price up 99% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 58 | 80 | 90 | 92 | 75 |
+| **77** | 57 | 80 | 90 | 92 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $75.22 |
-| Market value | $5.9B |
-| P/E | 72.8 |
-| Price/Sales | 6.98 |
-| Price/Book | 8.97 |
+| Price | $76.31 |
+| Market value | $6.0B |
+| P/E | 73.8 |
+| Price/Sales | 7.08 |
+| Price/Book | 9.10 |
 | Free-cash-flow yield | 2.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $840.8M |
@@ -60,11 +60,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 3.90 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 15.88 |
+| Altman Z | 16.09 |
 | Share count change (1y) | +7.0% |
-| Return 1m / 6m / 12m | -5.8% / +51.8% / +100.7% |
-| vs. 200-day average | +33.6% |
-| RSI (14d) | 46 |
+| Return 1m / 6m / 12m | -2.1% / +62.3% / +99.3% |
+| vs. 200-day average | +34.8% |
+| RSI (14d) | 50 |
 | Volatility (1y) | 49.4% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/KNSA
 - Full deep dive: run `python scout.py stock KNSA` → `research/KNSA.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

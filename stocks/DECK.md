@@ -3,17 +3,17 @@ ticker: "DECK"
 company: "Deckers Outdoor Corporation"
 sector: "Consumer Discretionary"
 industry: "Shoe Manufacturing"
-price: 79.57
+price: 80.21
 market_cap: "$10.9B"
 score: 60
 value: 71
-quality: 84
+quality: 83
 growth: 47
-momentum: 13
+momentum: 14
 health: 76
-pe: 10.7
+pe: 10.8
 piotroski: 7
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -28,26 +28,26 @@ Consumer Discretionary · Shoe Manufacturing
 ## In plain English
 
 - Cheaper than about 71% of stocks in Consumer Discretionary (value score).
-- Business quality ranks above 84% of all stocks scanned.
+- Business quality ranks above 83% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price down 23% over 12 months (34% below its 52-week high).
+- Share price down 21% over 12 months (34% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 71 | 84 | 47 | 13 | 76 |
+| **60** | 71 | 83 | 47 | 14 | 76 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $79.57 |
+| Price | $80.21 |
 | Market value | $10.9B |
-| P/E | 10.7 |
-| Price/Sales | 1.96 |
-| Price/Book | 4.72 |
-| Free-cash-flow yield | 10.1% |
+| P/E | 10.8 |
+| Price/Sales | 1.98 |
+| Price/Book | 4.75 |
+| Free-cash-flow yield | 10.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.5B |
 | Sales growth | +7.9% |
@@ -61,10 +61,10 @@ Consumer Discretionary · Shoe Manufacturing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.4% |
-| Return 1m / 6m / 12m | -5.0% / -21.7% / -23.3% |
-| vs. 200-day average | -21.5% |
-| RSI (14d) | 41 |
-| Volatility (1y) | 44.8% |
+| Return 1m / 6m / 12m | -6.5% / -24.6% / -21.4% |
+| vs. 200-day average | -20.7% |
+| RSI (14d) | 44 |
+| Volatility (1y) | 44.6% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Shoe Manufacturing
 - Insider trades: http://openinsider.com/DECK
 - Full deep dive: run `python scout.py stock DECK` → `research/DECK.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

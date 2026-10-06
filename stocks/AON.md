@@ -3,17 +3,17 @@ ticker: "AON"
 company: "Aon plc"
 sector: "Finance"
 industry: "Specialty Insurers"
-price: 275.95
-market_cap: "$58.5B"
+price: 272.05
+market_cap: "$57.7B"
 score: 54
-value: 44
+value: 45
 quality: 83
 growth: 53
-momentum: 21
+momentum: 19
 health: 65
-pe: 15.0
+pe: 14.7
 piotroski: 8
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Finance · Specialty Insurers
 
 ## In plain English
 
-- More expensive than about 56% of Finance peers (value score).
+- More expensive than about 55% of Finance peers (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price down 23% over 12 months (27% below its 52-week high).
+- Share price down 25% over 12 months (28% below its 52-week high).
 - Insiders bought $6.5M of shares recently (Knight Lester B (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 44 | 83 | 53 | 21 | 65 |
+| **54** | 45 | 83 | 53 | 19 | 65 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $275.95 |
-| Market value | $58.5B |
-| P/E | 15.0 |
-| Price/Sales | 3.33 |
-| Price/Book | 6.10 |
+| Price | $272.05 |
+| Market value | $57.7B |
+| P/E | 14.7 |
+| Price/Sales | 3.28 |
+| Price/Book | 6.01 |
 | Free-cash-flow yield | – |
 | Dividend yield | 1.1% |
 | Sales (12m) | $17.6B |
@@ -62,10 +62,10 @@ Finance · Specialty Insurers
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -16.6% / -15.0% / -23.1% |
-| vs. 200-day average | -16.6% |
-| RSI (14d) | 27 |
-| Volatility (1y) | 27.7% |
+| Return 1m / 6m / 12m | -15.8% / -17.1% / -25.2% |
+| vs. 200-day average | -17.6% |
+| RSI (14d) | 28 |
+| Volatility (1y) | 27.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Finance · Specialty Insurers
 - Insider trades: http://openinsider.com/AON
 - Full deep dive: run `python scout.py stock AON` → `research/AON.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

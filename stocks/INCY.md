@@ -3,17 +3,17 @@ ticker: "INCY"
 company: "Incyte Corp."
 sector: "Health Care"
 industry: "Biotechnology: Commercial Physical & Biological Resarch"
-price: 117.14
-market_cap: "$23.7B"
-score: 80
-value: 81
+price: 114.13
+market_cap: "$23.1B"
+score: 79
+value: 82
 quality: 81
 growth: 75
-momentum: 75
+momentum: 71
 health: 86
-pe: 14.7
+pe: 14.3
 piotroski: 7
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,27 +27,27 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 
 ## In plain English
 
-- Cheaper than about 81% of stocks in Health Care (value score).
+- Cheaper than about 82% of stocks in Health Care (value score).
 - Business quality ranks above 81% of all stocks scanned.
 - Sales grew 27% over the last 12 months.
-- Share price up 36% over 12 months (10% below its 52-week high).
+- Share price up 31% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 81 | 81 | 75 | 75 | 86 |
+| **79** | 82 | 81 | 75 | 71 | 86 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $117.14 |
-| Market value | $23.7B |
-| P/E | 14.7 |
-| Price/Sales | 4.08 |
-| Price/Book | 3.74 |
-| Free-cash-flow yield | 6.0% |
+| Price | $114.13 |
+| Market value | $23.1B |
+| P/E | 14.3 |
+| Price/Sales | 3.98 |
+| Price/Book | 3.65 |
+| Free-cash-flow yield | 6.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.8B |
 | Sales growth | +26.9% |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 | Debt / equity | – |
 | Current ratio | 4.59 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 11.72 |
+| Altman Z | 11.48 |
 | Share count change (1y) | +4.8% |
-| Return 1m / 6m / 12m | -9.1% / +23.5% / +35.8% |
-| vs. 200-day average | +9.6% |
-| RSI (14d) | 36 |
-| Volatility (1y) | 33.3% |
+| Return 1m / 6m / 12m | -10.0% / +19.0% / +30.8% |
+| vs. 200-day average | +6.6% |
+| RSI (14d) | 32 |
+| Volatility (1y) | 33.4% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 - Insider trades: http://openinsider.com/INCY
 - Full deep dive: run `python scout.py stock INCY` → `research/INCY.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "MRVL"
 company: "Marvell Technology Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 268.08
-market_cap: "$235.1B"
+price: 271.25
+market_cap: "$237.9B"
 score: 63
 value: 29
 quality: 54
 growth: 87
 momentum: 97
 health: 67
-pe: 89.0
+pe: 90.1
 piotroski: 7
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Semiconductors
 - More expensive than about 71% of Technology peers (value score).
 - Business quality ranks above 54% of all stocks scanned.
 - Sales grew 31% over the last 12 months.
-- Share price up 212% over 12 months (15% below its 52-week high).
+- Share price up 206% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Technology · Semiconductors
 
 | | |
 |---|---:|
-| Price | $268.08 |
-| Market value | $235.1B |
-| P/E | 89.0 |
-| Price/Sales | 24.88 |
-| Price/Book | 12.69 |
+| Price | $271.25 |
+| Market value | $237.9B |
+| P/E | 90.1 |
+| Price/Sales | 25.17 |
+| Price/Book | 12.84 |
 | Free-cash-flow yield | 0.6% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $9.5B |
@@ -59,12 +59,12 @@ Technology · Semiconductors
 | Debt / equity | 0.27 |
 | Current ratio | 3.17 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 16.48 |
+| Altman Z | 16.66 |
 | Share count change (1y) | +5.8% |
-| Return 1m / 6m / 12m | +29.8% / +145.0% / +211.7% |
-| vs. 200-day average | +60.3% |
-| RSI (14d) | 64 |
-| Volatility (1y) | 79.4% |
+| Return 1m / 6m / 12m | +21.3% / +137.2% / +205.7% |
+| vs. 200-day average | +60.4% |
+| RSI (14d) | 65 |
+| Volatility (1y) | 79.3% |
 | Financials as of | 2026-08-01 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MRVL
 - Full deep dive: run `python scout.py stock MRVL` → `research/MRVL.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

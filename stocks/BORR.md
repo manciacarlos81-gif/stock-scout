@@ -3,17 +3,17 @@ ticker: "BORR"
 company: "Borr Drilling Limited"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 4.05
-market_cap: "$1.2B"
+price: 4.15
+market_cap: "$1.3B"
 score: 46
 value: 68
 quality: 58
 growth: 21
-momentum: 40
-health: 24
-pe: 27.7
+momentum: 39
+health: 25
+pe: 28.4
 piotroski: 6
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,25 +30,25 @@ Energy · Oil & Gas Production
 - Cheaper than about 68% of stocks in Energy (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 45% over 12 months (39% below its 52-week high).
+- Share price up 45% over 12 months (37% below its 52-week high).
 - Insiders bought $14.8M of shares recently (Morand De Oliveira Bruno (CEO); Troim Tor Olav (Dir); Currie Jeffrey (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **46** | 68 | 58 | 21 | 40 | 24 |
+| **46** | 68 | 58 | 21 | 39 | 25 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $4.05 |
-| Market value | $1.2B |
-| P/E | 27.7 |
-| Price/Sales | 1.22 |
-| Price/Book | 1.30 |
-| Free-cash-flow yield | 20.2% |
+| Price | $4.15 |
+| Market value | $1.3B |
+| P/E | 28.4 |
+| Price/Sales | 1.25 |
+| Price/Book | 1.33 |
+| Free-cash-flow yield | 19.7% |
 | Dividend yield | 0.4% |
 | Sales (12m) | $1.0B |
 | Sales growth | +1.0% |
@@ -62,10 +62,10 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 6/9 |
 | Altman Z | 0.39 |
 | Share count change (1y) | +12.2% |
-| Return 1m / 6m / 12m | -15.8% / -31.8% / +44.6% |
-| vs. 200-day average | -16.9% |
-| RSI (14d) | 42 |
-| Volatility (1y) | 54.1% |
+| Return 1m / 6m / 12m | -8.6% / -31.2% / +44.6% |
+| vs. 200-day average | -14.9% |
+| RSI (14d) | 47 |
+| Volatility (1y) | 54.4% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -82,4 +82,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/BORR
 - Full deep dive: run `python scout.py stock BORR` → `research/BORR.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_

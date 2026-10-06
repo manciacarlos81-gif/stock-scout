@@ -3,17 +3,17 @@ ticker: "TBLA"
 company: "Taboola.com Ltd."
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 3.32
-market_cap: "$837.0M"
+price: 3.27
+market_cap: "$824.4M"
 score: 67
 value: 98
 quality: 60
 growth: 77
-momentum: 40
+momentum: 39
 health: 56
-pe: 7.0
+pe: 6.9
 piotroski: 7
-updated: "2026-10-02"
+updated: "2026-10-06"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -37,18 +37,18 @@ Technology · Computer Software: Programming Data Processing
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 98 | 60 | 77 | 40 | 56 |
+| **67** | 98 | 60 | 77 | 39 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $3.32 |
-| Market value | $837.0M |
-| P/E | 7.0 |
-| Price/Sales | 0.43 |
-| Price/Book | 0.89 |
-| Free-cash-flow yield | 19.5% |
+| Price | $3.27 |
+| Market value | $824.4M |
+| P/E | 6.9 |
+| Price/Sales | 0.42 |
+| Price/Book | 0.88 |
+| Free-cash-flow yield | 19.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +8.0% |
@@ -62,11 +62,15 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -13.1% / +1.2% / -0.3% |
-| vs. 200-day average | -19.0% |
+| Return 1m / 6m / 12m | -15.3% / -3.0% / -0.3% |
+| vs. 200-day average | -20.1% |
 | RSI (14d) | 30 |
-| Volatility (1y) | 56.1% |
+| Volatility (1y) | 56.2% |
 | Financials as of | 2026-06-30 |
+
+## Watch out
+
+- well below 200-day average
 
 ## Dig deeper
 
@@ -75,4 +79,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/TBLA
 - Full deep dive: run `python scout.py stock TBLA` → `research/TBLA.md`
 
-_Updated 2026-10-02 · [latest report](../reports/latest.md)_
+_Updated 2026-10-06 · [latest report](../reports/latest.md)_
