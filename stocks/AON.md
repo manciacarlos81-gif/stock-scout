@@ -3,17 +3,17 @@ ticker: "AON"
 company: "Aon plc"
 sector: "Finance"
 industry: "Specialty Insurers"
-price: 272.05
-market_cap: "$57.7B"
+price: 273.99
+market_cap: "$58.1B"
 score: 54
 value: 45
 quality: 83
 growth: 53
 momentum: 19
 health: 65
-pe: 14.7
+pe: 14.8
 piotroski: 8
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -43,11 +43,11 @@ Finance · Specialty Insurers
 
 | | |
 |---|---:|
-| Price | $272.05 |
-| Market value | $57.7B |
-| P/E | 14.7 |
-| Price/Sales | 3.28 |
-| Price/Book | 6.01 |
+| Price | $273.99 |
+| Market value | $58.1B |
+| P/E | 14.8 |
+| Price/Sales | 3.31 |
+| Price/Book | 6.06 |
 | Free-cash-flow yield | – |
 | Dividend yield | 1.1% |
 | Sales (12m) | $17.6B |
@@ -62,10 +62,10 @@ Finance · Specialty Insurers
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -15.8% / -17.1% / -25.2% |
-| vs. 200-day average | -17.6% |
-| RSI (14d) | 28 |
-| Volatility (1y) | 27.8% |
+| Return 1m / 6m / 12m | -15.2% / -15.4% / -25.0% |
+| vs. 200-day average | -16.9% |
+| RSI (14d) | 30 |
+| Volatility (1y) | 27.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Finance · Specialty Insurers
 - Insider trades: http://openinsider.com/AON
 - Full deep dive: run `python scout.py stock AON` → `research/AON.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

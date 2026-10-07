@@ -9,11 +9,11 @@ score: 52
 value: 57
 quality: 51
 growth: 55
-momentum: 40
+momentum: 39
 health: 59
 pe: null
 piotroski: 5
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,13 +30,13 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 57% of stocks in Real Estate (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales fell 14% over the last 12 months.
-- Share price up 10% over 12 months (15% below its 52-week high).
+- Share price up 11% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 57 | 51 | 55 | 40 | 59 |
+| **52** | 57 | 51 | 55 | 39 | 59 |
 
 ## Key numbers
 
@@ -61,7 +61,7 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 5/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.2% |
-| Return 1m / 6m / 12m | -10.7% / -11.2% / +10.2% |
+| Return 1m / 6m / 12m | -10.7% / -11.9% / +10.9% |
 | vs. 200-day average | -9.3% |
 | RSI (14d) | 15 |
 | Volatility (1y) | 21.4% |
@@ -78,4 +78,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/GNL
 - Full deep dive: run `python scout.py stock GNL` → `research/GNL.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

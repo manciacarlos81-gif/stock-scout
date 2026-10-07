@@ -3,19 +3,18 @@ ticker: "CTVA"
 company: "Corteva Inc."
 sector: "Consumer Staples"
 industry: "Farming/Seeds/Milling"
-price: 12.39
-market_cap: "$8.3B"
+price: 13.91
+market_cap: "$9.3B"
 score: 57
-value: 93
+value: 92
 quality: 60
 growth: 32
-momentum: 29
+momentum: 28
 health: 55
-pe: 8.2
+pe: 9.2
 piotroski: 7
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
-  - "🪙 Deep value"
   - "💵 Dividends & buybacks"
 tags: [stock]
 ---
@@ -24,32 +23,32 @@ tags: [stock]
 
 Consumer Staples · Farming/Seeds/Milling
 
-**In screens today:** 🪙 Deep value, 💵 Dividends & buybacks
+**In screens today:** 💵 Dividends & buybacks
 
 ## In plain English
 
-- Cheaper than about 93% of stocks in Consumer Staples (value score).
+- Cheaper than about 92% of stocks in Consumer Staples (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 81% over 12 months (86% below its 52-week high).
+- Share price down 79% over 12 months (85% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 93 | 60 | 32 | 29 | 55 |
+| **57** | 92 | 60 | 32 | 28 | 55 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.39 |
-| Market value | $8.3B |
-| P/E | 8.2 |
-| Price/Sales | 0.46 |
-| Price/Book | 0.33 |
-| Free-cash-flow yield | 41.2% |
-| Dividend yield | 5.7% |
+| Price | $13.91 |
+| Market value | $9.3B |
+| P/E | 9.2 |
+| Price/Sales | 0.52 |
+| Price/Book | 0.37 |
+| Free-cash-flow yield | 36.7% |
+| Dividend yield | 5.1% |
 | Sales (12m) | $17.8B |
 | Sales growth | +3.7% |
 | Net profit (12m) | $1.0B |
@@ -62,10 +61,10 @@ Consumer Staples · Farming/Seeds/Milling
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | -85.9% / -85.2% / -80.5% |
-| vs. 200-day average | -84.1% |
-| RSI (14d) | 6 |
-| Volatility (1y) | 88.0% |
+| Return 1m / 6m / 12m | -84.2% / -83.3% / -78.6% |
+| vs. 200-day average | -82.1% |
+| RSI (14d) | 8 |
+| Volatility (1y) | 88.8% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +78,4 @@ Consumer Staples · Farming/Seeds/Milling
 - Insider trades: http://openinsider.com/CTVA
 - Full deep dive: run `python scout.py stock CTVA` → `research/CTVA.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

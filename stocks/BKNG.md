@@ -3,17 +3,17 @@ ticker: "BKNG"
 company: "Booking Holdings Inc."
 sector: "Consumer Discretionary"
 industry: "Transportation Services"
-price: 158.33
-market_cap: "$119.0B"
-score: 55
-value: 46
+price: 157.63
+market_cap: "$118.4B"
+score: 56
+value: 47
 quality: 87
 growth: 54
-momentum: 23
+momentum: 25
 health: 60
-pe: 22.0
+pe: 21.9
 piotroski: 7
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Discretionary · Transportation Services
 
 ## In plain English
 
-- More expensive than about 54% of Consumer Discretionary peers (value score).
+- More expensive than about 53% of Consumer Discretionary peers (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price down 26% over 12 months (27% below its 52-week high).
+- Share price down 24% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 46 | 87 | 54 | 23 | 60 |
+| **56** | 47 | 87 | 54 | 25 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $158.33 |
-| Market value | $119.0B |
-| P/E | 22.0 |
-| Price/Sales | 4.21 |
+| Price | $157.63 |
+| Market value | $118.4B |
+| P/E | 21.9 |
+| Price/Sales | 4.19 |
 | Price/Book | – |
-| Free-cash-flow yield | 7.6% |
-| Dividend yield | 1.0% |
+| Free-cash-flow yield | 7.7% |
+| Dividend yield | 1.1% |
 | Sales (12m) | $28.2B |
 | Sales growth | +12.9% |
 | Net profit (12m) | $5.4B |
@@ -59,12 +59,12 @@ Consumer Discretionary · Transportation Services
 | Debt / equity | – |
 | Current ratio | 1.09 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 5.86 |
+| Altman Z | 5.85 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | -17.9% / -12.1% / -26.3% |
-| vs. 200-day average | -12.6% |
-| RSI (14d) | 30 |
-| Volatility (1y) | 37.8% |
+| Return 1m / 6m / 12m | -18.3% / -10.3% / -24.1% |
+| vs. 200-day average | -12.9% |
+| RSI (14d) | 29 |
+| Volatility (1y) | 37.7% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Transportation Services
 - Insider trades: http://openinsider.com/BKNG
 - Full deep dive: run `python scout.py stock BKNG` → `research/BKNG.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

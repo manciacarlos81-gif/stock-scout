@@ -3,7 +3,7 @@ ticker: "GSL"
 company: "Global Ship Lease Inc New"
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 45.86
+price: 45.5
 market_cap: "$1.6B"
 score: 74
 value: 89
@@ -11,9 +11,9 @@ quality: 79
 growth: 51
 momentum: 80
 health: 56
-pe: 4.0
+pe: 3.9
 piotroski: 6
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,7 +31,7 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 89% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 63% over 12 months (1% below its 52-week high).
+- Share price up 66% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,13 +43,13 @@ Consumer Discretionary · Marine Transportation
 
 | | |
 |---|---:|
-| Price | $45.86 |
+| Price | $45.50 |
 | Market value | $1.6B |
-| P/E | 4.0 |
-| Price/Sales | 2.15 |
+| P/E | 3.9 |
+| Price/Sales | 2.13 |
 | Price/Book | 0.91 |
-| Free-cash-flow yield | 31.7% |
-| Dividend yield | 4.6% |
+| Free-cash-flow yield | 31.9% |
+| Dividend yield | 4.7% |
 | Sales (12m) | $766.5M |
 | Sales growth | +7.8% |
 | Net profit (12m) | $416.5M |
@@ -60,12 +60,12 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.38 |
 | Current ratio | 2.04 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.38 |
+| Altman Z | 2.37 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -1.2% / +21.4% / +63.5% |
-| vs. 200-day average | +17.6% |
-| RSI (14d) | 60 |
-| Volatility (1y) | 28.1% |
+| Return 1m / 6m / 12m | -1.9% / +22.5% / +66.1% |
+| vs. 200-day average | +16.5% |
+| RSI (14d) | 56 |
+| Volatility (1y) | 28.0% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/GSL
 - Full deep dive: run `python scout.py stock GSL` → `research/GSL.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

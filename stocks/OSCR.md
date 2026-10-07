@@ -3,17 +3,17 @@ ticker: "OSCR"
 company: "Oscar Health Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 32.42
+price: 32.34
 market_cap: "$10.0B"
-score: 75
+score: 74
 value: 86
 quality: 58
 growth: 87
 momentum: 88
 health: 52
-pe: 18.2
+pe: 18.1
 piotroski: 3
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Medical Specialities
 - Cheaper than about 86% of stocks in Health Care (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 43% over the last 12 months.
-- Share price up 45% over 12 months (4% below its 52-week high).
+- Share price up 44% over 12 months (4% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 86 | 58 | 87 | 88 | 52 |
+| **74** | 86 | 58 | 87 | 88 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $32.42 |
+| Price | $32.34 |
 | Market value | $10.0B |
-| P/E | 18.2 |
+| P/E | 18.1 |
 | Price/Sales | 0.65 |
-| Price/Book | 4.88 |
-| Free-cash-flow yield | 10.9% |
+| Price/Book | 4.86 |
+| Free-cash-flow yield | 11.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $15.3B |
 | Sales growth | +42.8% |
@@ -59,12 +59,12 @@ Health Care · Medical Specialities
 | Debt / equity | 0.21 |
 | Current ratio | 1.08 |
 | Piotroski F-score | 3/9 |
-| Altman Z | 2.00 |
+| Altman Z | 1.99 |
 | Share count change (1y) | +30.5% |
-| Return 1m / 6m / 12m | +0.5% / +121.4% / +45.3% |
-| vs. 200-day average | +46.5% |
+| Return 1m / 6m / 12m | +0.3% / +122.4% / +43.9% |
+| vs. 200-day average | +45.5% |
 | RSI (14d) | 57 |
-| Volatility (1y) | 69.4% |
+| Volatility (1y) | 69.3% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/OSCR
 - Full deep dive: run `python scout.py stock OSCR` → `research/OSCR.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "KNSA"
 company: "Kiniksa Pharmaceuticals International plc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 76.31
+price: 77.09
 market_cap: "$6.0B"
 score: 77
 value: 57
 quality: 80
 growth: 90
 momentum: 92
-health: 75
-pe: 73.8
+health: 76
+pe: 74.6
 piotroski: 8
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,23 +31,23 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 57% of stocks in Health Care (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Sales grew 59% over the last 12 months.
-- Share price up 99% over 12 months (6% below its 52-week high).
+- Share price up 102% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 57 | 80 | 90 | 92 | 75 |
+| **77** | 57 | 80 | 90 | 92 | 76 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $76.31 |
+| Price | $77.09 |
 | Market value | $6.0B |
-| P/E | 73.8 |
-| Price/Sales | 7.08 |
-| Price/Book | 9.10 |
+| P/E | 74.6 |
+| Price/Sales | 7.15 |
+| Price/Book | 9.19 |
 | Free-cash-flow yield | 2.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $840.8M |
@@ -60,11 +60,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 3.90 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 16.09 |
+| Altman Z | 16.24 |
 | Share count change (1y) | +7.0% |
-| Return 1m / 6m / 12m | -2.1% / +62.3% / +99.3% |
-| vs. 200-day average | +34.8% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | -1.1% / +62.9% / +102.2% |
+| vs. 200-day average | +35.7% |
+| RSI (14d) | 53 |
 | Volatility (1y) | 49.4% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/KNSA
 - Full deep dive: run `python scout.py stock KNSA` → `research/KNSA.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

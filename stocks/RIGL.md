@@ -3,19 +3,20 @@ ticker: "RIGL"
 company: "Rigel Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 47.79
-market_cap: "$892.7M"
-score: 75
+price: 46.11
+market_cap: "$861.3M"
+score: 74
 value: 89
 quality: 75
 growth: 43
-momentum: 89
+momentum: 87
 health: 63
-pe: 2.8
+pe: 2.7
 piotroski: 6
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "🏆 Top overall"
+  - "💎 Quality at a fair price"
 tags: [stock]
 ---
 
@@ -23,31 +24,31 @@ tags: [stock]
 
 Health Care · Biotechnology: Pharmaceutical Preparations
 
-**In screens today:** 🏆 Top overall
+**In screens today:** 🏆 Top overall, 💎 Quality at a fair price
 
 ## In plain English
 
 - Cheaper than about 89% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price up 65% over 12 months (6% below its 52-week high).
+- Share price up 56% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 89 | 75 | 43 | 89 | 63 |
+| **74** | 89 | 75 | 43 | 87 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $47.79 |
-| Market value | $892.7M |
-| P/E | 2.8 |
-| Price/Sales | 3.23 |
-| Price/Book | 2.10 |
-| Free-cash-flow yield | 8.5% |
+| Price | $46.11 |
+| Market value | $861.3M |
+| P/E | 2.7 |
+| Price/Sales | 3.11 |
+| Price/Book | 2.02 |
+| Free-cash-flow yield | 8.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $276.8M |
 | Sales growth | +3.3% |
@@ -59,12 +60,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.11 |
 | Current ratio | 1.94 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.21 |
+| Altman Z | 4.01 |
 | Share count change (1y) | +7.8% |
-| Return 1m / 6m / 12m | -1.8% / +60.7% / +65.4% |
-| vs. 200-day average | +30.8% |
-| RSI (14d) | 55 |
-| Volatility (1y) | 63.2% |
+| Return 1m / 6m / 12m | -5.3% / +51.1% / +56.3% |
+| vs. 200-day average | +26.1% |
+| RSI (14d) | 47 |
+| Volatility (1y) | 63.3% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/RIGL
 - Full deep dive: run `python scout.py stock RIGL` → `research/RIGL.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

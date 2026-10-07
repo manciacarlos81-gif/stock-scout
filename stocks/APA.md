@@ -3,8 +3,8 @@ ticker: "APA"
 company: "APA Corporation"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 43.85
-market_cap: "$15.4B"
+price: 44.1
+market_cap: "$15.5B"
 score: 76
 value: 82
 quality: 87
@@ -13,7 +13,7 @@ momentum: 79
 health: 41
 pe: 9.2
 piotroski: 8
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -30,7 +30,7 @@ Energy · Oil & Gas Production
 
 - Cheaper than about 82% of stocks in Energy (value score).
 - Business quality ranks above 87% of all stocks scanned.
-- Share price up 81% over 12 months (8% below its 52-week high).
+- Share price up 82% over 12 months (7% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Energy · Oil & Gas Production
 
 | | |
 |---|---:|
-| Price | $43.85 |
-| Market value | $15.4B |
+| Price | $44.10 |
+| Market value | $15.5B |
 | P/E | 9.2 |
 | Price/Sales | – |
-| Price/Book | 2.19 |
-| Free-cash-flow yield | 29.6% |
+| Price/Book | 2.20 |
+| Free-cash-flow yield | 29.4% |
 | Dividend yield | 2.3% |
 | Sales (12m) | – |
 | Sales growth | – |
@@ -61,10 +61,10 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | +2.5% / +14.7% / +80.7% |
-| vs. 200-day average | +24.1% |
-| RSI (14d) | 54 |
-| Volatility (1y) | 45.7% |
+| Return 1m / 6m / 12m | +3.1% / +14.7% / +82.0% |
+| vs. 200-day average | +24.5% |
+| RSI (14d) | 55 |
+| Volatility (1y) | 45.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/APA
 - Full deep dive: run `python scout.py stock APA` → `research/APA.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

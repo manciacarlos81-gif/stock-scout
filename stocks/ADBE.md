@@ -3,17 +3,17 @@ ticker: "ADBE"
 company: "Adobe Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 238.79
-market_cap: "$92.9B"
+price: 238.12
+market_cap: "$92.7B"
 score: 66
 value: 80
 quality: 90
 growth: 55
-momentum: 28
+momentum: 31
 health: 63
-pe: 12.9
+pe: 12.8
 piotroski: 7
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -37,17 +37,17 @@ Technology · Computer Software: Prepackaged Software
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 80 | 90 | 55 | 28 | 63 |
+| **66** | 80 | 90 | 55 | 31 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $238.79 |
-| Market value | $92.9B |
-| P/E | 12.9 |
-| Price/Sales | 3.69 |
-| Price/Book | 8.07 |
+| Price | $238.12 |
+| Market value | $92.7B |
+| P/E | 12.8 |
+| Price/Sales | 3.68 |
+| Price/Book | 8.05 |
 | Free-cash-flow yield | 10.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $25.2B |
@@ -60,11 +60,11 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.58 |
 | Current ratio | 0.75 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 7.03 |
+| Altman Z | 7.02 |
 | Share count change (1y) | -6.2% |
-| Return 1m / 6m / 12m | -10.4% / -0.2% / -31.8% |
+| Return 1m / 6m / 12m | -10.7% / +3.6% / -31.6% |
 | vs. 200-day average | -7.6% |
-| RSI (14d) | 42 |
+| RSI (14d) | 41 |
 | Volatility (1y) | 40.8% |
 | Financials as of | 2026-05-29 |
 
@@ -75,4 +75,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADBE
 - Full deep dive: run `python scout.py stock ADBE` → `research/ADBE.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

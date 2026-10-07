@@ -3,20 +3,19 @@ ticker: "CRUS"
 company: "Cirrus Logic Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 121.35
-market_cap: "$6.1B"
+price: 118.87
+market_cap: "$6.0B"
 score: 65
 value: 85
 quality: 82
 growth: 49
-momentum: 18
+momentum: 17
 health: 86
-pe: 14.1
+pe: 13.8
 piotroski: 8
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "💎 Quality at a fair price"
-  - "🎯 Quality on sale"
 tags: [stock]
 ---
 
@@ -24,31 +23,31 @@ tags: [stock]
 
 Technology · Semiconductors
 
-**In screens today:** 💎 Quality at a fair price, 🎯 Quality on sale
+**In screens today:** 💎 Quality at a fair price
 
 ## In plain English
 
 - Cheaper than about 85% of stocks in Technology (value score).
 - Business quality ranks above 82% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price down 5% over 12 months (32% below its 52-week high).
+- Share price down 4% over 12 months (34% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 85 | 82 | 49 | 18 | 86 |
+| **65** | 85 | 82 | 49 | 17 | 86 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $121.35 |
-| Market value | $6.1B |
-| P/E | 14.1 |
-| Price/Sales | 2.97 |
-| Price/Book | 2.78 |
-| Free-cash-flow yield | 10.5% |
+| Price | $118.87 |
+| Market value | $6.0B |
+| P/E | 13.8 |
+| Price/Sales | 2.91 |
+| Price/Book | 2.72 |
+| Free-cash-flow yield | 10.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +6.2% |
@@ -62,9 +61,9 @@ Technology · Semiconductors
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.8% |
-| Return 1m / 6m / 12m | +7.2% / -21.6% / -5.2% |
-| vs. 200-day average | -13.3% |
-| RSI (14d) | 56 |
+| Return 1m / 6m / 12m | +5.0% / -25.6% / -4.1% |
+| vs. 200-day average | -15.1% |
+| RSI (14d) | 49 |
 | Volatility (1y) | 36.3% |
 | Financials as of | 2026-06-27 |
 
@@ -75,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/CRUS
 - Full deep dive: run `python scout.py stock CRUS` → `research/CRUS.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

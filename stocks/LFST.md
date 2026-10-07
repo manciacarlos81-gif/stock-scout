@@ -3,17 +3,17 @@ ticker: "LFST"
 company: "LifeStance Health Group Inc."
 sector: "Health Care"
 industry: "Medical/Nursing Services"
-price: 12.22
-market_cap: "$4.7B"
+price: 12.12
+market_cap: "$4.6B"
 score: 72
-value: 65
+value: 64
 quality: 62
 growth: 85
-momentum: 94
+momentum: 95
 health: 58
-pe: 92.3
+pe: 91.5
 piotroski: 9
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,26 +27,26 @@ Health Care · Medical/Nursing Services
 
 ## In plain English
 
-- Cheaper than about 65% of stocks in Health Care (value score).
+- Cheaper than about 64% of stocks in Health Care (value score).
 - Business quality ranks above 62% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 118% over 12 months (9% below its 52-week high).
+- Share price up 119% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 65 | 62 | 85 | 94 | 58 |
+| **72** | 64 | 62 | 85 | 95 | 58 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.22 |
-| Market value | $4.7B |
-| P/E | 92.3 |
-| Price/Sales | 2.95 |
-| Price/Book | 3.16 |
+| Price | $12.12 |
+| Market value | $4.6B |
+| P/E | 91.5 |
+| Price/Sales | 2.92 |
+| Price/Book | 3.14 |
 | Free-cash-flow yield | 2.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.6B |
@@ -59,11 +59,11 @@ Health Care · Medical/Nursing Services
 | Debt / equity | 0.19 |
 | Current ratio | 1.38 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 4.39 |
+| Altman Z | 4.35 |
 | Share count change (1y) | +0.1% |
-| Return 1m / 6m / 12m | -4.0% / +86.9% / +117.8% |
-| vs. 200-day average | +38.0% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | -4.8% / +86.7% / +119.2% |
+| vs. 200-day average | +36.5% |
+| RSI (14d) | 48 |
 | Volatility (1y) | 52.9% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Medical/Nursing Services
 - Insider trades: http://openinsider.com/LFST
 - Full deep dive: run `python scout.py stock LFST` → `research/LFST.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

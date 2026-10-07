@@ -3,7 +3,7 @@ ticker: "VLO"
 company: "Valero Energy Corporation"
 sector: "Energy"
 industry: "Integrated oil Companies"
-price: 419.33
+price: 419.22
 market_cap: "$120.7B"
 score: 67
 value: 56
@@ -13,7 +13,7 @@ momentum: 95
 health: 64
 pe: 16.7
 piotroski: 6
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -42,7 +42,7 @@ Energy · Integrated oil Companies
 
 | | |
 |---|---:|
-| Price | $419.33 |
+| Price | $419.22 |
 | Market value | $120.7B |
 | P/E | 16.7 |
 | Price/Sales | 0.87 |
@@ -61,8 +61,8 @@ Energy · Integrated oil Companies
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.8% |
-| Return 1m / 6m / 12m | +13.1% / +76.5% / +162.0% |
-| vs. 200-day average | +60.3% |
+| Return 1m / 6m / 12m | +13.1% / +79.9% / +162.4% |
+| vs. 200-day average | +59.4% |
 | RSI (14d) | 70 |
 | Volatility (1y) | 37.0% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/VLO
 - Full deep dive: run `python scout.py stock VLO` → `research/VLO.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "FBRT"
 company: "Franklin BSP Realty Trust Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 6.17
-market_cap: "$512.4M"
+price: 6.14
+market_cap: "$509.9M"
 score: 55
-value: 93
+value: 94
 quality: 58
 growth: 56
-momentum: 14
+momentum: 13
 health: 41
-pe: 8.0
+pe: 7.9
 piotroski: 6
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,7 +27,7 @@ Real Estate · Real Estate Investment Trusts
 
 ## In plain English
 
-- Cheaper than about 93% of stocks in Real Estate (value score).
+- Cheaper than about 94% of stocks in Real Estate (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 37% over the last 12 months.
 - Share price down 36% over 12 months (37% below its 52-week high).
@@ -36,19 +36,19 @@ Real Estate · Real Estate Investment Trusts
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 93 | 58 | 56 | 14 | 41 |
+| **55** | 94 | 58 | 56 | 13 | 41 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.17 |
-| Market value | $512.4M |
-| P/E | 8.0 |
-| Price/Sales | 1.68 |
+| Price | $6.14 |
+| Market value | $509.9M |
+| P/E | 7.9 |
+| Price/Sales | 1.67 |
 | Price/Book | 0.37 |
-| Free-cash-flow yield | 57.0% |
-| Dividend yield | 28.4% |
+| Free-cash-flow yield | 57.3% |
+| Dividend yield | 28.6% |
 | Sales (12m) | $305.4M |
 | Sales growth | +37.0% |
 | Net profit (12m) | $64.4M |
@@ -61,8 +61,8 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.1% |
-| Return 1m / 6m / 12m | -26.0% / -24.0% / -36.0% |
-| vs. 200-day average | -25.1% |
+| Return 1m / 6m / 12m | -26.3% / -24.9% / -35.6% |
+| vs. 200-day average | -25.3% |
 | RSI (14d) | 22 |
 | Volatility (1y) | 29.5% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/FBRT
 - Full deep dive: run `python scout.py stock FBRT` → `research/FBRT.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

@@ -3,8 +3,8 @@ ticker: "CRMD"
 company: "CorMedix Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 7.26
-market_cap: "$565.9M"
+price: 7.28
+market_cap: "$567.4M"
 score: 70
 value: 97
 quality: 78
@@ -13,7 +13,7 @@ momentum: 28
 health: 59
 pe: 3.0
 piotroski: 6
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 - Cheaper than about 97% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
-- Share price down 37% over 12 months (43% below its 52-week high).
+- Share price down 34% over 12 months (43% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,10 +42,10 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $7.26 |
-| Market value | $565.9M |
+| Price | $7.28 |
+| Market value | $567.4M |
 | P/E | 3.0 |
-| Price/Sales | 1.22 |
+| Price/Sales | 1.23 |
 | Price/Book | 1.23 |
 | Free-cash-flow yield | 30.5% |
 | Dividend yield | 0.0% |
@@ -61,8 +61,8 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.29 |
 | Share count change (1y) | +28.6% |
-| Return 1m / 6m / 12m | -13.9% / +0.4% / -37.2% |
-| vs. 200-day average | -8.7% |
+| Return 1m / 6m / 12m | -13.6% / -1.1% / -34.4% |
+| vs. 200-day average | -8.1% |
 | RSI (14d) | 34 |
 | Volatility (1y) | 61.2% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/CRMD
 - Full deep dive: run `python scout.py stock CRMD` → `research/CRMD.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

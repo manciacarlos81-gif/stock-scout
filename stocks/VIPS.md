@@ -3,17 +3,17 @@ ticker: "VIPS"
 company: "Vipshop Holdings Limited"
 sector: "Consumer Discretionary"
 industry: "Catalog/Specialty Distribution"
-price: 12.71
+price: 12.75
 market_cap: "$6.1B"
 score: 54
 value: 92
 quality: 50
 growth: 34
-momentum: 16
+momentum: 15
 health: 66
 pe: 5.9
 piotroski: 6
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -36,13 +36,13 @@ Consumer Discretionary · Catalog/Specialty Distribution
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 92 | 50 | 34 | 16 | 66 |
+| **54** | 92 | 50 | 34 | 15 | 66 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.71 |
+| Price | $12.75 |
 | Market value | $6.1B |
 | P/E | 5.9 |
 | Price/Sales | 0.40 |
@@ -59,11 +59,11 @@ Consumer Discretionary · Catalog/Specialty Distribution
 | Debt / equity | – |
 | Current ratio | 1.28 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 3.42 |
+| Altman Z | 3.43 |
 | Share count change (1y) | -5.1% |
-| Return 1m / 6m / 12m | -3.7% / -14.3% / -35.1% |
-| vs. 200-day average | -14.5% |
-| RSI (14d) | 48 |
+| Return 1m / 6m / 12m | -3.4% / -14.6% / -34.5% |
+| vs. 200-day average | -14.1% |
+| RSI (14d) | 49 |
 | Volatility (1y) | 32.0% |
 | Financials as of | 2025-12-31 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Catalog/Specialty Distribution
 - Insider trades: http://openinsider.com/VIPS
 - Full deep dive: run `python scout.py stock VIPS` → `research/VIPS.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

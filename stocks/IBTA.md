@@ -3,17 +3,17 @@ ticker: "IBTA"
 company: "Ibotta Inc."
 sector: "Consumer Discretionary"
 industry: "Advertising"
-price: 41.35
-market_cap: "$958.1M"
+price: 40.96
+market_cap: "$949.0M"
 score: 47
-value: 28
+value: 29
 quality: 55
 growth: 16
-momentum: 77
+momentum: 75
 health: 57
 pe: null
 piotroski: 6
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Advertising
 
 ## In plain English
 
-- More expensive than about 72% of Consumer Discretionary peers (value score).
+- More expensive than about 71% of Consumer Discretionary peers (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price up 41% over 12 months (2% below its 52-week high).
+- Share price up 36% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **47** | 28 | 55 | 16 | 77 | 57 |
+| **47** | 29 | 55 | 16 | 75 | 57 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $41.35 |
-| Market value | $958.1M |
+| Price | $40.96 |
+| Market value | $949.0M |
 | P/E | – |
-| Price/Sales | 2.79 |
-| Price/Book | 3.97 |
-| Free-cash-flow yield | 7.8% |
+| Price/Sales | 2.77 |
+| Price/Book | 3.93 |
+| Free-cash-flow yield | 7.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $343.2M |
 | Sales growth | -6.6% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Advertising
 | Debt / equity | 0.00 |
 | Current ratio | 1.71 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.93 |
+| Altman Z | 2.91 |
 | Share count change (1y) | -23.5% |
-| Return 1m / 6m / 12m | +7.7% / +32.7% / +40.7% |
-| vs. 200-day average | +34.7% |
-| RSI (14d) | 59 |
+| Return 1m / 6m / 12m | +6.7% / +29.6% / +36.1% |
+| vs. 200-day average | +33.0% |
+| RSI (14d) | 56 |
 | Volatility (1y) | 81.8% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/IBTA
 - Full deep dive: run `python scout.py stock IBTA` → `research/IBTA.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

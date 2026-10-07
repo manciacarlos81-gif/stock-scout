@@ -3,17 +3,17 @@ ticker: "CART"
 company: "Maplebear Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 45.67
+price: 45.47
 market_cap: "$10.8B"
-score: 65
+score: 64
 value: 48
 quality: 83
 growth: 56
-momentum: 68
+momentum: 65
 health: 66
-pe: 22.6
+pe: 22.5
 piotroski: 7
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,23 +30,23 @@ Consumer Discretionary · Business Services
 - More expensive than about 52% of Consumer Discretionary peers (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 21% over 12 months (12% below its 52-week high).
+- Share price up 17% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 48 | 83 | 56 | 68 | 66 |
+| **64** | 48 | 83 | 56 | 65 | 66 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $45.67 |
+| Price | $45.47 |
 | Market value | $10.8B |
-| P/E | 22.6 |
-| Price/Sales | 2.71 |
-| Price/Book | 4.67 |
+| P/E | 22.5 |
+| Price/Sales | 2.70 |
+| Price/Book | 4.65 |
 | Free-cash-flow yield | 8.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $4.0B |
@@ -59,11 +59,11 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 2.28 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 6.70 |
+| Altman Z | 6.67 |
 | Share count change (1y) | -11.5% |
-| Return 1m / 6m / 12m | -10.6% / +15.3% / +20.7% |
-| vs. 200-day average | +7.2% |
-| RSI (14d) | 49 |
+| Return 1m / 6m / 12m | -11.0% / +12.7% / +16.6% |
+| vs. 200-day average | +6.7% |
+| RSI (14d) | 48 |
 | Volatility (1y) | 41.6% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/CART
 - Full deep dive: run `python scout.py stock CART` → `research/CART.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_

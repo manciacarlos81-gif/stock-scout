@@ -3,17 +3,17 @@ ticker: "INCY"
 company: "Incyte Corp."
 sector: "Health Care"
 industry: "Biotechnology: Commercial Physical & Biological Resarch"
-price: 114.13
-market_cap: "$23.1B"
+price: 112.73
+market_cap: "$22.9B"
 score: 79
 value: 82
 quality: 81
 growth: 75
-momentum: 71
+momentum: 70
 health: 86
-pe: 14.3
+pe: 14.2
 piotroski: 7
-updated: "2026-10-06"
+updated: "2026-10-07"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 - Cheaper than about 82% of stocks in Health Care (value score).
 - Business quality ranks above 81% of all stocks scanned.
 - Sales grew 27% over the last 12 months.
-- Share price up 31% over 12 months (12% below its 52-week high).
+- Share price up 29% over 12 months (13% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **79** | 82 | 81 | 75 | 71 | 86 |
+| **79** | 82 | 81 | 75 | 70 | 86 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $114.13 |
-| Market value | $23.1B |
-| P/E | 14.3 |
-| Price/Sales | 3.98 |
-| Price/Book | 3.65 |
-| Free-cash-flow yield | 6.1% |
+| Price | $112.73 |
+| Market value | $22.9B |
+| P/E | 14.2 |
+| Price/Sales | 3.93 |
+| Price/Book | 3.60 |
+| Free-cash-flow yield | 6.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.8B |
 | Sales growth | +26.9% |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 | Debt / equity | – |
 | Current ratio | 4.59 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 11.48 |
+| Altman Z | 11.37 |
 | Share count change (1y) | +4.8% |
-| Return 1m / 6m / 12m | -10.0% / +19.0% / +30.8% |
-| vs. 200-day average | +6.6% |
-| RSI (14d) | 32 |
-| Volatility (1y) | 33.4% |
+| Return 1m / 6m / 12m | -11.1% / +16.3% / +29.3% |
+| vs. 200-day average | +5.2% |
+| RSI (14d) | 30 |
+| Volatility (1y) | 33.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 - Insider trades: http://openinsider.com/INCY
 - Full deep dive: run `python scout.py stock INCY` → `research/INCY.md`
 
-_Updated 2026-10-06 · [latest report](../reports/latest.md)_
+_Updated 2026-10-07 · [latest report](../reports/latest.md)_
