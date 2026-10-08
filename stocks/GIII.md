@@ -3,17 +3,17 @@ ticker: "GIII"
 company: "G-III Apparel Group LTD."
 sector: "Consumer Discretionary"
 industry: "Apparel"
-price: 26.78
-market_cap: "$1.1B"
-score: 57
+price: 26.95
+market_cap: "$1.2B"
+score: 58
 value: 88
 quality: 52
 growth: 38
-momentum: 30
+momentum: 32
 health: 70
-pe: 16.9
+pe: 17.0
 piotroski: 5
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -37,18 +37,18 @@ Consumer Discretionary · Apparel
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 88 | 52 | 38 | 30 | 70 |
+| **58** | 88 | 52 | 38 | 32 | 70 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $26.78 |
-| Market value | $1.1B |
-| P/E | 16.9 |
-| Price/Sales | 0.40 |
-| Price/Book | 0.63 |
-| Free-cash-flow yield | 26.1% |
+| Price | $26.95 |
+| Market value | $1.2B |
+| P/E | 17.0 |
+| Price/Sales | 0.41 |
+| Price/Book | 0.64 |
+| Free-cash-flow yield | 25.9% |
 | Dividend yield | 0.4% |
 | Sales (12m) | $2.9B |
 | Sales growth | -8.7% |
@@ -62,10 +62,10 @@ Consumer Discretionary · Apparel
 | Piotroski F-score | 5/9 |
 | Altman Z | 3.18 |
 | Share count change (1y) | +0.3% |
-| Return 1m / 6m / 12m | -3.1% / -9.6% / +1.2% |
-| vs. 200-day average | -13.0% |
-| RSI (14d) | 32 |
-| Volatility (1y) | 34.6% |
+| Return 1m / 6m / 12m | -2.1% / -8.3% / +0.9% |
+| vs. 200-day average | -12.4% |
+| RSI (14d) | 34 |
+| Volatility (1y) | 34.5% |
 | Financials as of | 2026-07-31 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Discretionary · Apparel
 - Insider trades: http://openinsider.com/GIII
 - Full deep dive: run `python scout.py stock GIII` → `research/GIII.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

@@ -1,13 +1,13 @@
 {
- "date": "2026-10-07",
- "scanned": 2602,
+ "date": "2026-10-08",
+ "scanned": 2594,
  "top": [
   {
    "rank": 1,
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 81,
-   "price": 1660.46,
+   "price": 1692.42,
    "flags": ""
   },
   {
@@ -15,7 +15,7 @@
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 99.19,
+   "price": 99.27,
    "flags": "heavy debt"
   },
   {
@@ -23,7 +23,7 @@
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 218.4,
+   "price": 213.02,
    "flags": "shares up 17% in a year"
   },
   {
@@ -31,7 +31,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 80,
-   "price": 56.45,
+   "price": 56.21,
    "flags": ""
   },
   {
@@ -39,31 +39,31 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 116.46,
+   "price": 116.94,
    "flags": ""
   },
   {
    "rank": 6,
-   "ticker": "CDNA",
-   "name": "CareDx Inc.",
+   "ticker": "INCY",
+   "name": "Incyte Corp.",
    "score": 79,
-   "price": 63.79,
+   "price": 113.44,
    "flags": ""
   },
   {
    "rank": 7,
-   "ticker": "INCY",
-   "name": "Incyte Corp.",
+   "ticker": "CDNA",
+   "name": "CareDx Inc.",
    "score": 79,
-   "price": 112.73,
+   "price": 63.04,
    "flags": ""
   },
   {
    "rank": 8,
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
-   "score": 78,
-   "price": 58.33,
+   "score": 79,
+   "price": 58.44,
    "flags": ""
   },
   {
@@ -71,7 +71,7 @@
    "ticker": "BFH",
    "name": "Bread Financial Holdings Inc.",
    "score": 78,
-   "price": 97.8,
+   "price": 97.64,
    "flags": ""
   },
   {
@@ -79,7 +79,7 @@
    "ticker": "KNSA",
    "name": "Kiniksa Pharmaceuticals International plc",
    "score": 77,
-   "price": 77.09,
+   "price": 77.96,
    "flags": ""
   }
  ],
@@ -100,16 +100,9 @@
   {
    "ticker": "BORR",
    "name": "Borr Drilling Limited",
-   "value": 20960133,
+   "value": 27324333,
    "buyers": 3,
-   "last": "2026-10-05"
-  },
-  {
-   "ticker": "GME",
-   "name": "GameStop Corporation",
-   "value": 76304219,
-   "buyers": 5,
-   "last": "2026-10-02"
+   "last": "2026-10-06"
   }
  ]
 }

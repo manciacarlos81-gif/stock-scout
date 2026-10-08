@@ -3,17 +3,17 @@ ticker: "AVBC"
 company: "Avidia Bancorp Inc."
 sector: "Finance"
 industry: "Banks"
-price: 22.2
-market_cap: "$443.3M"
+price: 21.92
+market_cap: "$437.7M"
 score: 53
 value: 40
 quality: null
 growth: null
-momentum: 70
-health: 62
-pe: 25.2
+momentum: 69
+health: 63
+pe: 24.9
 piotroski: null
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,24 +28,24 @@ Finance · Banks
 ## In plain English
 
 - More expensive than about 60% of Finance peers (value score).
-- Share price up 53% over 12 months (2% below its 52-week high).
+- Share price up 48% over 12 months (3% below its 52-week high).
 - Insiders bought $643.8K of shares recently (Murphy Michael Dennis (Chairman of the Board); Nelson Jonathan Michael (CFO, Treasurer); Grimaldo Joseph F (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 40 | – | – | 70 | 62 |
+| **53** | 40 | – | – | 69 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $22.20 |
-| Market value | $443.3M |
-| P/E | 25.2 |
+| Price | $21.92 |
+| Market value | $437.7M |
+| P/E | 24.9 |
 | Price/Sales | – |
-| Price/Book | 1.14 |
+| Price/Book | 1.12 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | – |
@@ -60,10 +60,10 @@ Finance · Banks
 | Piotroski F-score | – |
 | Altman Z | – |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | +0.5% / +8.3% / +52.6% |
-| vs. 200-day average | +11.7% |
-| RSI (14d) | 56 |
-| Volatility (1y) | 24.7% |
+| Return 1m / 6m / 12m | -0.0% / +7.8% / +48.2% |
+| vs. 200-day average | +10.2% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 24.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Finance · Banks
 - Insider trades: http://openinsider.com/AVBC
 - Full deep dive: run `python scout.py stock AVBC` → `research/AVBC.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

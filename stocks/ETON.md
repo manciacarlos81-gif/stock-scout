@@ -3,17 +3,17 @@ ticker: "ETON"
 company: "Eton Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 54.77
+price: 54.88
 market_cap: "$1.6B"
 score: 72
-value: 50
+value: 49
 quality: 72
 growth: 88
 momentum: 97
 health: 62
-pe: 123.4
+pe: 123.6
 piotroski: 5
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- More expensive than about 50% of Health Care peers (value score).
+- More expensive than about 51% of Health Care peers (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 159% over 12 months (15% below its 52-week high).
+- Share price up 162% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 50 | 72 | 88 | 97 | 62 |
+| **72** | 49 | 72 | 88 | 97 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $54.77 |
+| Price | $54.88 |
 | Market value | $1.6B |
-| P/E | 123.4 |
-| Price/Sales | 14.83 |
-| Price/Book | 33.61 |
-| Free-cash-flow yield | 0.7% |
+| P/E | 123.6 |
+| Price/Sales | 14.86 |
+| Price/Book | 33.67 |
+| Free-cash-flow yield | 0.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $105.6M |
 | Sales growth | +81.5% |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.60 |
 | Current ratio | 1.52 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 13.99 |
+| Altman Z | 14.02 |
 | Share count change (1y) | +21.9% |
-| Return 1m / 6m / 12m | -6.3% / +102.1% / +159.0% |
-| vs. 200-day average | +67.0% |
-| RSI (14d) | 47 |
-| Volatility (1y) | 71.8% |
+| Return 1m / 6m / 12m | -7.5% / +108.2% / +162.2% |
+| vs. 200-day average | +66.4% |
+| RSI (14d) | 48 |
+| Volatility (1y) | 71.7% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ETON
 - Full deep dive: run `python scout.py stock ETON` → `research/ETON.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

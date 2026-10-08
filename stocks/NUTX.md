@@ -3,7 +3,7 @@ ticker: "NUTX"
 company: "Nutex Health Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 218.4
+price: 213.02
 market_cap: "$1.5B"
 score: 80
 value: 80
@@ -11,9 +11,9 @@ quality: 87
 growth: 62
 momentum: 94
 health: 69
-pe: 8.3
+pe: 8.1
 piotroski: 7
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,7 +31,7 @@ Consumer Discretionary · Business Services
 - Cheaper than about 80% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 113% over 12 months (3% below its 52-week high).
+- Share price up 107% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Consumer Discretionary · Business Services
 
 | | |
 |---|---:|
-| Price | $218.40 |
+| Price | $213.02 |
 | Market value | $1.5B |
-| P/E | 8.3 |
-| Price/Sales | 1.77 |
-| Price/Book | 3.79 |
-| Free-cash-flow yield | 16.4% |
+| P/E | 8.1 |
+| Price/Sales | 1.72 |
+| Price/Book | 3.70 |
+| Free-cash-flow yield | 16.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $846.7M |
 | Sales growth | +6.9% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Business Services
 | Debt / equity | 0.10 |
 | Current ratio | 5.00 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.42 |
+| Altman Z | 4.37 |
 | Share count change (1y) | +17.1% |
-| Return 1m / 6m / 12m | +13.0% / +106.6% / +112.5% |
-| vs. 200-day average | +48.0% |
-| RSI (14d) | 59 |
+| Return 1m / 6m / 12m | +11.7% / +110.8% / +107.3% |
+| vs. 200-day average | +44.2% |
+| RSI (14d) | 55 |
 | Volatility (1y) | 92.0% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/NUTX
 - Full deep dive: run `python scout.py stock NUTX` → `research/NUTX.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

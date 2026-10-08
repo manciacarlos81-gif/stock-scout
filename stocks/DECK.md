@@ -3,17 +3,17 @@ ticker: "DECK"
 company: "Deckers Outdoor Corporation"
 sector: "Consumer Discretionary"
 industry: "Shoe Manufacturing"
-price: 81.66
-market_cap: "$11.1B"
+price: 80.38
+market_cap: "$11.0B"
 score: 60
 value: 71
-quality: 84
+quality: 83
 growth: 47
-momentum: 14
+momentum: 13
 health: 76
-pe: 11.0
+pe: 10.8
 piotroski: 7
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -28,26 +28,26 @@ Consumer Discretionary · Shoe Manufacturing
 ## In plain English
 
 - Cheaper than about 71% of stocks in Consumer Discretionary (value score).
-- Business quality ranks above 84% of all stocks scanned.
+- Business quality ranks above 83% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price down 17% over 12 months (32% below its 52-week high).
+- Share price down 21% over 12 months (34% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 71 | 84 | 47 | 14 | 76 |
+| **60** | 71 | 83 | 47 | 13 | 76 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $81.66 |
-| Market value | $11.1B |
-| P/E | 11.0 |
-| Price/Sales | 2.02 |
-| Price/Book | 4.84 |
-| Free-cash-flow yield | 9.9% |
+| Price | $80.38 |
+| Market value | $11.0B |
+| P/E | 10.8 |
+| Price/Sales | 1.98 |
+| Price/Book | 4.76 |
+| Free-cash-flow yield | 10.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.5B |
 | Sales growth | +7.9% |
@@ -61,11 +61,15 @@ Consumer Discretionary · Shoe Manufacturing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.4% |
-| Return 1m / 6m / 12m | -4.8% / -25.6% / -16.7% |
-| vs. 200-day average | -19.2% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 44.5% |
+| Return 1m / 6m / 12m | -2.7% / -25.5% / -20.9% |
+| vs. 200-day average | -20.3% |
+| RSI (14d) | 45 |
+| Volatility (1y) | 44.4% |
 | Financials as of | 2026-06-30 |
+
+## Watch out
+
+- well below 200-day average
 
 ## Dig deeper
 
@@ -74,4 +78,4 @@ Consumer Discretionary · Shoe Manufacturing
 - Insider trades: http://openinsider.com/DECK
 - Full deep dive: run `python scout.py stock DECK` → `research/DECK.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

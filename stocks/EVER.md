@@ -5,16 +5,17 @@ sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
 price: 19.39
 market_cap: "$683.3M"
-score: 73
+score: 74
 value: 94
 quality: 69
 growth: 83
-momentum: 55
+momentum: 58
 health: 63
 pe: 6.0
 piotroski: 7
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
+  - "🏆 Top overall"
   - "🪙 Deep value"
 tags: [stock]
 ---
@@ -23,7 +24,7 @@ tags: [stock]
 
 Technology · Computer Software: Programming Data Processing
 
-**In screens today:** 🪙 Deep value
+**In screens today:** 🏆 Top overall, 🪙 Deep value
 
 ## In plain English
 
@@ -36,7 +37,7 @@ Technology · Computer Software: Programming Data Processing
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 94 | 69 | 83 | 55 | 63 |
+| **74** | 94 | 69 | 83 | 58 | 63 |
 
 ## Key numbers
 
@@ -61,8 +62,8 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 7/9 |
 | Altman Z | 8.39 |
 | Share count change (1y) | -4.9% |
-| Return 1m / 6m / 12m | -22.2% / +22.1% / -12.8% |
-| vs. 200-day average | -6.7% |
+| Return 1m / 6m / 12m | -22.3% / +28.5% / -12.9% |
+| vs. 200-day average | -6.5% |
 | RSI (14d) | 36 |
 | Volatility (1y) | 83.7% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +75,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/EVER
 - Full deep dive: run `python scout.py stock EVER` → `research/EVER.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

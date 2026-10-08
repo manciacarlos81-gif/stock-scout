@@ -3,17 +3,17 @@ ticker: "INMD"
 company: "InMode Ltd."
 sector: "Health Care"
 industry: "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
-price: 13.99
-market_cap: "$804.2M"
-score: 62
+price: 14.01
+market_cap: "$805.3M"
+score: 63
 value: 93
 quality: 61
 growth: 23
-momentum: 40
+momentum: 42
 health: 84
 pe: 8.6
 piotroski: 4
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -36,14 +36,14 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **62** | 93 | 61 | 23 | 40 | 84 |
+| **63** | 93 | 61 | 23 | 42 | 84 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $13.99 |
-| Market value | $804.2M |
+| Price | $14.01 |
+| Market value | $805.3M |
 | P/E | 8.6 |
 | Price/Sales | 2.17 |
 | Price/Book | 1.18 |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 | Debt / equity | – |
 | Current ratio | 9.88 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 9.40 |
+| Altman Z | 9.41 |
 | Share count change (1y) | -18.8% |
-| Return 1m / 6m / 12m | -6.2% / +2.2% / -6.9% |
-| vs. 200-day average | -2.8% |
-| RSI (14d) | 29 |
-| Volatility (1y) | 31.3% |
+| Return 1m / 6m / 12m | -5.4% / +3.5% / -6.9% |
+| vs. 200-day average | -2.6% |
+| RSI (14d) | 31 |
+| Volatility (1y) | 30.8% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 - Insider trades: http://openinsider.com/INMD
 - Full deep dive: run `python scout.py stock INMD` → `research/INMD.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

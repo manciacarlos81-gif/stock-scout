@@ -3,17 +3,17 @@ ticker: "DXCM"
 company: "DexCom Inc."
 sector: "Health Care"
 industry: "Medical/Dental Instruments"
-price: 83.39
-market_cap: "$31.5B"
+price: 84.3
+market_cap: "$31.8B"
 score: 75
 value: 63
 quality: 86
 growth: 76
-momentum: 74
+momentum: 73
 health: 75
-pe: 31.5
+pe: 31.8
 piotroski: 8
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,23 +30,23 @@ Health Care · Medical/Dental Instruments
 - Cheaper than about 63% of stocks in Health Care (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 16% over the last 12 months.
-- Share price up 26% over 12 months (10% below its 52-week high).
+- Share price up 24% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 63 | 86 | 76 | 74 | 75 |
+| **75** | 63 | 86 | 76 | 73 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $83.39 |
-| Market value | $31.5B |
-| P/E | 31.5 |
-| Price/Sales | 6.33 |
-| Price/Book | 12.00 |
+| Price | $84.30 |
+| Market value | $31.8B |
+| P/E | 31.8 |
+| Price/Sales | 6.40 |
+| Price/Book | 12.14 |
 | Free-cash-flow yield | 3.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.0B |
@@ -59,11 +59,11 @@ Health Care · Medical/Dental Instruments
 | Debt / equity | – |
 | Current ratio | 1.73 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 7.22 |
+| Altman Z | 7.28 |
 | Share count change (1y) | -4.4% |
-| Return 1m / 6m / 12m | -5.1% / +27.0% / +26.3% |
-| vs. 200-day average | +13.6% |
-| RSI (14d) | 39 |
+| Return 1m / 6m / 12m | -0.3% / +31.7% / +24.4% |
+| vs. 200-day average | +14.7% |
+| RSI (14d) | 42 |
 | Volatility (1y) | 39.7% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/DXCM
 - Full deep dive: run `python scout.py stock DXCM` → `research/DXCM.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

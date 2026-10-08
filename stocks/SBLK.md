@@ -3,7 +3,7 @@ ticker: "SBLK"
 company: "Star Bulk Carriers Corp."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 29.86
+price: 29.69
 market_cap: "$3.3B"
 score: 50
 value: 43
@@ -11,9 +11,9 @@ quality: 59
 growth: 10
 momentum: 85
 health: 40
-pe: 39.6
+pe: 39.3
 piotroski: 6
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Marine Transportation
 - More expensive than about 57% of Consumer Discretionary peers (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales fell 18% over the last 12 months.
-- Share price up 74% over 12 months (8% below its 52-week high).
+- Share price up 77% over 12 months (9% below its 52-week high).
 - Insiders bought $6.9M of shares recently (Zagari Raffaele (Dir); Plakantonaki Charis (Chief Strategy Officer); Pappa Milena Maria (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -43,10 +43,10 @@ Consumer Discretionary · Marine Transportation
 
 | | |
 |---|---:|
-| Price | $29.86 |
+| Price | $29.69 |
 | Market value | $3.3B |
-| P/E | 39.6 |
-| Price/Sales | 3.19 |
+| P/E | 39.3 |
+| Price/Sales | 3.18 |
 | Price/Book | 1.32 |
 | Free-cash-flow yield | 6.4% |
 | Dividend yield | 1.0% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | – |
 | Current ratio | 1.91 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 1.84 |
+| Altman Z | 1.83 |
 | Share count change (1y) | +6.2% |
-| Return 1m / 6m / 12m | -7.9% / +29.6% / +73.9% |
-| vs. 200-day average | +20.2% |
-| RSI (14d) | 47 |
+| Return 1m / 6m / 12m | -4.3% / +28.7% / +76.7% |
+| vs. 200-day average | +19.2% |
+| RSI (14d) | 45 |
 | Volatility (1y) | 33.0% |
 | Financials as of | 2025-12-31 |
 
@@ -80,4 +80,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/SBLK
 - Full deep dive: run `python scout.py stock SBLK` → `research/SBLK.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

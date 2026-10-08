@@ -3,17 +3,17 @@ ticker: "MU"
 company: "Micron Technology Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 1045.56
+price: 1088.0
 market_cap: "$1.2T"
 score: 76
-value: 48
+value: 47
 quality: 73
 growth: 92
-momentum: 98
+momentum: 99
 health: 80
-pe: 23.4
+pe: 24.3
 piotroski: 7
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,26 +28,26 @@ Technology · Semiconductors
 
 ## In plain English
 
-- More expensive than about 52% of Technology peers (value score).
+- More expensive than about 53% of Technology peers (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 167% over the last 12 months.
-- Share price up 464% over 12 months (14% below its 52-week high).
+- Share price up 454% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 48 | 73 | 92 | 98 | 80 |
+| **76** | 47 | 73 | 92 | 99 | 80 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $1,045.56 |
+| Price | $1,088.00 |
 | Market value | $1.2T |
-| P/E | 23.4 |
-| Price/Sales | 13.08 |
-| Price/Book | 11.72 |
+| P/E | 24.3 |
+| Price/Sales | 13.61 |
+| Price/Book | 12.20 |
 | Free-cash-flow yield | 0.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $90.3B |
@@ -60,11 +60,11 @@ Technology · Semiconductors
 | Debt / equity | 0.06 |
 | Current ratio | 3.42 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 24.76 |
+| Altman Z | 25.62 |
 | Share count change (1y) | +1.8% |
-| Return 1m / 6m / 12m | +2.8% / +148.1% / +463.6% |
-| vs. 200-day average | +50.2% |
-| RSI (14d) | 54 |
+| Return 1m / 6m / 12m | +8.8% / +158.7% / +454.1% |
+| vs. 200-day average | +55.4% |
+| RSI (14d) | 60 |
 | Volatility (1y) | 81.0% |
 | Financials as of | 2026-05-28 |
 
@@ -75,4 +75,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MU
 - Full deep dive: run `python scout.py stock MU` → `research/MU.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

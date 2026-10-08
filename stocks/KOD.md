@@ -3,8 +3,8 @@ ticker: "KOD"
 company: "Kodiak Sciences Inc"
 sector: "Health Care"
 industry: "Biotechnology: Biological Products (No Diagnostic Substances)"
-price: 92.34
-market_cap: "$5.8B"
+price: 91.08
+market_cap: "$5.7B"
 score: 43
 value: 37
 quality: 23
@@ -13,7 +13,7 @@ momentum: 97
 health: 33
 pe: null
 piotroski: 3
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -29,7 +29,7 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 
 - More expensive than about 63% of Health Care peers (value score).
 - Business quality ranks above 23% of all stocks scanned.
-- Share price up 549% over 12 months (6% below its 52-week high).
+- Share price up 530% over 12 months (7% below its 52-week high).
 - Insiders bought $157.0M of shares recently (Baker Bros. Advisors LP (Dir, 10%)).
 
 ## Scores (0–100, higher is better)
@@ -42,11 +42,11 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 
 | | |
 |---|---:|
-| Price | $92.34 |
-| Market value | $5.8B |
+| Price | $91.08 |
+| Market value | $5.7B |
 | P/E | – |
 | Price/Sales | – |
-| Price/Book | 94.99 |
+| Price/Book | 93.69 |
 | Free-cash-flow yield | -2.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | – |
@@ -61,10 +61,10 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 3/9 |
 | Altman Z | – |
 | Share count change (1y) | +18.7% |
-| Return 1m / 6m / 12m | +161.1% / +118.0% / +548.9% |
-| vs. 200-day average | +153.7% |
-| RSI (14d) | 82 |
-| Volatility (1y) | 208.7% |
+| Return 1m / 6m / 12m | +159.7% / +111.3% / +529.9% |
+| vs. 200-day average | +148.1% |
+| RSI (14d) | 80 |
+| Volatility (1y) | 208.6% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -80,4 +80,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/KOD
 - Full deep dive: run `python scout.py stock KOD` → `research/KOD.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

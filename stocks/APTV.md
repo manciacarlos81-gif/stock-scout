@@ -3,17 +3,17 @@ ticker: "APTV"
 company: "Aptiv PLC"
 sector: "Consumer Discretionary"
 industry: "Auto Parts:O.E.M."
-price: 44.72
-market_cap: "$9.3B"
+price: 44.22
+market_cap: "$9.2B"
 score: 46
 value: 71
 quality: 54
 growth: 41
 momentum: 7
 health: 46
-pe: 42.2
+pe: 41.7
 piotroski: 8
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -43,12 +43,12 @@ Consumer Discretionary · Auto Parts:O.E.M.
 
 | | |
 |---|---:|
-| Price | $44.72 |
-| Market value | $9.3B |
-| P/E | 42.2 |
-| Price/Sales | 0.45 |
-| Price/Book | 1.06 |
-| Free-cash-flow yield | 23.5% |
+| Price | $44.22 |
+| Market value | $9.2B |
+| P/E | 41.7 |
+| Price/Sales | 0.44 |
+| Price/Book | 1.05 |
+| Free-cash-flow yield | 23.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $20.7B |
 | Sales growth | +16.6% |
@@ -62,10 +62,10 @@ Consumer Discretionary · Auto Parts:O.E.M.
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.60 |
 | Share count change (1y) | -2.8% |
-| Return 1m / 6m / 12m | -6.7% / -25.6% / -47.5% |
-| vs. 200-day average | -28.7% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 43.6% |
+| Return 1m / 6m / 12m | -3.3% / -25.9% / -47.6% |
+| vs. 200-day average | -29.3% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 43.5% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Auto Parts:O.E.M.
 - Insider trades: http://openinsider.com/APTV
 - Full deep dive: run `python scout.py stock APTV` → `research/APTV.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

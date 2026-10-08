@@ -3,17 +3,17 @@ ticker: "MPC"
 company: "Marathon Petroleum Corporation"
 sector: "Energy"
 industry: "Integrated oil Companies"
-price: 432.36
-market_cap: "$121.4B"
+price: 442.26
+market_cap: "$124.2B"
 score: 66
-value: 58
+value: 57
 quality: 55
 growth: 83
-momentum: 95
-health: 39
-pe: 14.2
+momentum: 96
+health: 40
+pe: 14.5
 piotroski: 7
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Energy · Integrated oil Companies
 
 ## In plain English
 
-- Cheaper than about 58% of stocks in Energy (value score).
+- Cheaper than about 57% of stocks in Energy (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 15% over the last 12 months.
-- Share price up 129% over 12 months (0% below its 52-week high).
+- Share price up 138% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 58 | 55 | 83 | 95 | 39 |
+| **66** | 57 | 55 | 83 | 96 | 40 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $432.36 |
-| Market value | $121.4B |
-| P/E | 14.2 |
-| Price/Sales | 0.79 |
-| Price/Book | 6.36 |
-| Free-cash-flow yield | 3.9% |
+| Price | $442.26 |
+| Market value | $124.2B |
+| P/E | 14.5 |
+| Price/Sales | 0.81 |
+| Price/Book | 6.51 |
+| Free-cash-flow yield | 3.8% |
 | Dividend yield | 0.9% |
 | Sales (12m) | $153.6B |
 | Sales growth | +15.0% |
@@ -59,11 +59,11 @@ Energy · Integrated oil Companies
 | Debt / equity | 1.72 |
 | Current ratio | 1.25 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.94 |
+| Altman Z | 3.96 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | +11.2% / +94.7% / +129.5% |
-| vs. 200-day average | +63.3% |
-| RSI (14d) | 72 |
+| Return 1m / 6m / 12m | +11.2% / +100.0% / +138.3% |
+| vs. 200-day average | +66.2% |
+| RSI (14d) | 75 |
 | Volatility (1y) | 35.4% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/MPC
 - Full deep dive: run `python scout.py stock MPC` → `research/MPC.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

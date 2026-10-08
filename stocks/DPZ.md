@@ -3,17 +3,17 @@ ticker: "DPZ"
 company: "Domino's Pizza Inc"
 sector: "Consumer Discretionary"
 industry: "Food Distributors"
-price: 302.87
+price: 303.1
 market_cap: "$10.0B"
 score: 51
 value: 49
 quality: 85
-growth: 42
-momentum: 18
-health: 51
+growth: 43
+momentum: 20
+health: 52
 pe: 16.8
 piotroski: 8
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,13 +36,13 @@ Consumer Discretionary · Food Distributors
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 49 | 85 | 42 | 18 | 51 |
+| **51** | 49 | 85 | 43 | 20 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $302.87 |
+| Price | $303.10 |
 | Market value | $10.0B |
 | P/E | 16.8 |
 | Price/Sales | 1.99 |
@@ -61,8 +61,8 @@ Consumer Discretionary · Food Distributors
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.82 |
 | Share count change (1y) | -3.1% |
-| Return 1m / 6m / 12m | -10.7% / -17.9% / -24.8% |
-| vs. 200-day average | -12.8% |
+| Return 1m / 6m / 12m | -9.1% / -16.1% / -25.1% |
+| vs. 200-day average | -12.6% |
 | RSI (14d) | 45 |
 | Volatility (1y) | 30.7% |
 | Financials as of | 2026-06-14 |
@@ -78,4 +78,4 @@ Consumer Discretionary · Food Distributors
 - Insider trades: http://openinsider.com/DPZ
 - Full deep dive: run `python scout.py stock DPZ` → `research/DPZ.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

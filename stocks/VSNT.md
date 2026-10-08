@@ -3,17 +3,17 @@ ticker: "VSNT"
 company: "Versant Media Group Inc."
 sector: "Industrials"
 industry: "Broadcasting"
-price: 31.47
+price: 31.44
 market_cap: "$4.4B"
 score: 62
 value: 97
 quality: 70
 growth: null
-momentum: 18
+momentum: 17
 health: 61
 pe: 5.8
 piotroski: 6
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -34,13 +34,13 @@ Industrials · Broadcasting
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **62** | 97 | 70 | – | 18 | 61 |
+| **62** | 97 | 70 | – | 17 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $31.47 |
+| Price | $31.44 |
 | Market value | $4.4B |
 | P/E | 5.8 |
 | Price/Sales | 0.66 |
@@ -59,10 +59,10 @@ Industrials · Broadcasting
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.0% |
-| Return 1m / 6m / 12m | -17.5% / -17.1% / – |
-| vs. 200-day average | -13.6% |
+| Return 1m / 6m / 12m | -16.8% / -19.1% / – |
+| vs. 200-day average | -13.5% |
 | RSI (14d) | 29 |
-| Volatility (1y) | 41.4% |
+| Volatility (1y) | 41.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -72,4 +72,4 @@ Industrials · Broadcasting
 - Insider trades: http://openinsider.com/VSNT
 - Full deep dive: run `python scout.py stock VSNT` → `research/VSNT.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "MD"
 company: "Pediatrix Medical Group Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 26.0
+price: 25.83
 market_cap: "$2.1B"
 score: 72
 value: 91
 quality: 75
 growth: 53
-momentum: 76
+momentum: 77
 health: 48
-pe: 12.1
+pe: 12.0
 piotroski: 8
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Hospital/Nursing Management
 - Cheaper than about 91% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 48% over 12 months (5% below its 52-week high).
+- Share price up 51% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 91 | 75 | 53 | 76 | 48 |
+| **72** | 91 | 75 | 53 | 77 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $26.00 |
+| Price | $25.83 |
 | Market value | $2.1B |
-| P/E | 12.1 |
+| P/E | 12.0 |
 | Price/Sales | 1.08 |
-| Price/Book | 2.40 |
-| Free-cash-flow yield | 12.8% |
+| Price/Book | 2.38 |
+| Free-cash-flow yield | 12.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +0.5% |
@@ -61,10 +61,10 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.34 |
 | Share count change (1y) | -4.8% |
-| Return 1m / 6m / 12m | -3.8% / +21.8% / +47.7% |
-| vs. 200-day average | +11.3% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 42.2% |
+| Return 1m / 6m / 12m | -4.1% / +20.4% / +50.8% |
+| vs. 200-day average | +10.5% |
+| RSI (14d) | 45 |
+| Volatility (1y) | 41.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/MD
 - Full deep dive: run `python scout.py stock MD` → `research/MD.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

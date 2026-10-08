@@ -3,17 +3,17 @@ ticker: "GME"
 company: "GameStop Corporation"
 sector: "Consumer Discretionary"
 industry: "Electronics Distribution"
-price: 24.76
-market_cap: "$12.5B"
+price: 24.58
+market_cap: "$12.4B"
 score: 50
 value: 47
 quality: 53
 growth: 54
-momentum: 43
+momentum: 42
 health: 54
-pe: 14.0
+pe: 13.9
 piotroski: 6
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Electronics Distribution
 - More expensive than about 53% of Consumer Discretionary peers (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales fell 8% over the last 12 months.
-- Share price up 2% over 12 months (7% below its 52-week high).
+- Share price up 1% over 12 months (7% below its 52-week high).
 - Insiders bought $76.3M of shares recently (Cohen Ryan (Pres, CEO, COB); Turner Nat (Dir); Attal Alain (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 47 | 53 | 54 | 43 | 54 |
+| **50** | 47 | 53 | 54 | 42 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $24.76 |
-| Market value | $12.5B |
-| P/E | 14.0 |
-| Price/Sales | 3.52 |
-| Price/Book | 2.03 |
+| Price | $24.58 |
+| Market value | $12.4B |
+| P/E | 13.9 |
+| Price/Sales | 3.49 |
+| Price/Book | 2.02 |
 | Free-cash-flow yield | 4.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $3.6B |
@@ -60,11 +60,11 @@ Consumer Discretionary · Electronics Distribution
 | Debt / equity | 0.68 |
 | Current ratio | 8.72 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.64 |
+| Altman Z | 2.62 |
 | Share count change (1y) | +8.4% |
-| Return 1m / 6m / 12m | +29.2% / +8.3% / +1.7% |
-| vs. 200-day average | +11.2% |
-| RSI (14d) | 66 |
+| Return 1m / 6m / 12m | +30.1% / +5.9% / +0.7% |
+| vs. 200-day average | +10.3% |
+| RSI (14d) | 64 |
 | Volatility (1y) | 38.0% |
 | Financials as of | 2026-08-01 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Electronics Distribution
 - Insider trades: http://openinsider.com/GME
 - Full deep dive: run `python scout.py stock GME` → `research/GME.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

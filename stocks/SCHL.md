@@ -3,17 +3,17 @@ ticker: "SCHL"
 company: "Scholastic Corporation"
 sector: "Consumer Discretionary"
 industry: "Books"
-price: 37.01
-market_cap: "$681.3M"
-score: 52
-value: 63
+price: 37.96
+market_cap: "$698.8M"
+score: 53
+value: 62
 quality: 47
 growth: 49
-momentum: 47
+momentum: 52
 health: 52
-pe: 12.0
+pe: 12.3
 piotroski: 8
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Books
 
 ## In plain English
 
-- Cheaper than about 63% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 62% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 32% over 12 months (21% below its 52-week high).
+- Share price up 35% over 12 months (19% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 63 | 47 | 49 | 47 | 52 |
+| **53** | 62 | 47 | 49 | 52 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $37.01 |
-| Market value | $681.3M |
-| P/E | 12.0 |
-| Price/Sales | 0.43 |
-| Price/Book | 0.91 |
-| Free-cash-flow yield | 7.5% |
+| Price | $37.96 |
+| Market value | $698.8M |
+| P/E | 12.3 |
+| Price/Sales | 0.44 |
+| Price/Book | 0.93 |
+| Free-cash-flow yield | 7.3% |
 | Dividend yield | 2.9% |
 | Sales (12m) | $1.6B |
 | Sales growth | -2.7% |
@@ -61,10 +61,10 @@ Consumer Discretionary · Books
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -12.3% |
-| Return 1m / 6m / 12m | +3.8% / -5.1% / +31.8% |
-| vs. 200-day average | -2.7% |
-| RSI (14d) | 54 |
-| Volatility (1y) | 35.0% |
+| Return 1m / 6m / 12m | +4.6% / -3.0% / +35.3% |
+| vs. 200-day average | -0.4% |
+| RSI (14d) | 59 |
+| Volatility (1y) | 35.1% |
 | Financials as of | 2026-05-31 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Books
 - Insider trades: http://openinsider.com/SCHL
 - Full deep dive: run `python scout.py stock SCHL` → `research/SCHL.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_

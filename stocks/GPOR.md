@@ -3,17 +3,17 @@ ticker: "GPOR"
 company: "Gulfport Energy Corporation"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 161.24
+price: 162.04
 market_cap: "$2.9B"
-score: 67
+score: 68
 value: 81
 quality: 84
 growth: 90
-momentum: 21
+momentum: 23
 health: 54
-pe: 5.7
+pe: 5.8
 piotroski: 8
-updated: "2026-10-07"
+updated: "2026-10-08"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -31,25 +31,25 @@ Energy · Oil & Gas Production
 - Cheaper than about 81% of stocks in Energy (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 35% over the last 12 months.
-- Share price down 15% over 12 months (28% below its 52-week high).
+- Share price down 14% over 12 months (27% below its 52-week high).
 - Insiders bought $257.0K of shares recently (Dell'Osso Domenic J Jr (Pres, CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 81 | 84 | 90 | 21 | 54 |
+| **68** | 81 | 84 | 90 | 23 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $161.24 |
+| Price | $162.04 |
 | Market value | $2.9B |
-| P/E | 5.7 |
-| Price/Sales | 1.85 |
-| Price/Book | 1.56 |
-| Free-cash-flow yield | 28.2% |
+| P/E | 5.8 |
+| Price/Sales | 1.86 |
+| Price/Book | 1.57 |
+| Free-cash-flow yield | 28.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.5B |
 | Sales growth | +35.2% |
@@ -61,11 +61,11 @@ Energy · Oil & Gas Production
 | Debt / equity | 0.50 |
 | Current ratio | 0.58 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 3.22 |
+| Altman Z | 3.23 |
 | Share count change (1y) | +0.2% |
-| Return 1m / 6m / 12m | -10.1% / -20.7% / -15.3% |
-| vs. 200-day average | -11.2% |
-| RSI (14d) | 48 |
+| Return 1m / 6m / 12m | -10.0% / -20.4% / -13.7% |
+| vs. 200-day average | -10.6% |
+| RSI (14d) | 50 |
 | Volatility (1y) | 33.4% |
 | Financials as of | 2026-06-30 |
 
@@ -76,4 +76,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/GPOR
 - Full deep dive: run `python scout.py stock GPOR` → `research/GPOR.md`
 
-_Updated 2026-10-07 · [latest report](../reports/latest.md)_
+_Updated 2026-10-08 · [latest report](../reports/latest.md)_
