@@ -3,17 +3,17 @@ ticker: "INTU"
 company: "Intuit Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 297.24
-market_cap: "$79.4B"
+price: 303.88
+market_cap: "$81.2B"
 score: 62
-value: 80
+value: 79
 quality: 87
 growth: 62
-momentum: 12
+momentum: 11
 health: 55
-pe: 17.4
+pe: 17.8
 piotroski: 8
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -28,27 +28,27 @@ Technology · Computer Software: Prepackaged Software
 
 ## In plain English
 
-- Cheaper than about 80% of stocks in Technology (value score).
+- Cheaper than about 79% of stocks in Technology (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 14% over the last 12 months.
-- Share price down 54% over 12 months (56% below its 52-week high).
+- Share price down 52% over 12 months (55% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **62** | 80 | 87 | 62 | 12 | 55 |
+| **62** | 79 | 87 | 62 | 11 | 55 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $297.24 |
-| Market value | $79.4B |
-| P/E | 17.4 |
-| Price/Sales | 3.70 |
-| Price/Book | 4.18 |
-| Free-cash-flow yield | 10.9% |
+| Price | $303.88 |
+| Market value | $81.2B |
+| P/E | 17.8 |
+| Price/Sales | 3.79 |
+| Price/Book | 4.28 |
+| Free-cash-flow yield | 10.7% |
 | Dividend yield | 1.7% |
 | Sales (12m) | $21.4B |
 | Sales growth | +13.9% |
@@ -60,17 +60,13 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.40 |
 | Current ratio | 1.51 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 4.68 |
+| Altman Z | 4.74 |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -6.8% / -14.9% / -54.3% |
-| vs. 200-day average | -22.3% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 49.6% |
+| Return 1m / 6m / 12m | -2.8% / -17.0% / -52.2% |
+| vs. 200-day average | -19.9% |
+| RSI (14d) | 52 |
+| Volatility (1y) | 49.7% |
 | Financials as of | 2026-07-31 |
-
-## Watch out
-
-- well below 200-day average
 
 ## Dig deeper
 
@@ -79,4 +75,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/INTU
 - Full deep dive: run `python scout.py stock INTU` → `research/INTU.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

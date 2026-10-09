@@ -3,17 +3,17 @@ ticker: "NRDS"
 company: "NerdWallet Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 9.09
-market_cap: "$580.7M"
-score: 71
-value: 96
+price: 9.79
+market_cap: "$625.8M"
+score: 72
+value: 95
 quality: 79
 growth: 74
-momentum: 25
-health: 74
-pe: 8.9
+momentum: 30
+health: 75
+pe: 9.6
 piotroski: 9
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -28,27 +28,27 @@ Technology · EDP Services
 
 ## In plain English
 
-- Cheaper than about 96% of stocks in Technology (value score).
+- Cheaper than about 95% of stocks in Technology (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price down 14% over 12 months (43% below its 52-week high).
+- Share price down 8% over 12 months (39% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **71** | 96 | 79 | 74 | 25 | 74 |
+| **72** | 95 | 79 | 74 | 30 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $9.09 |
-| Market value | $580.7M |
-| P/E | 8.9 |
-| Price/Sales | 0.68 |
-| Price/Book | 1.78 |
-| Free-cash-flow yield | 22.4% |
+| Price | $9.79 |
+| Market value | $625.8M |
+| P/E | 9.6 |
+| Price/Sales | 0.73 |
+| Price/Book | 1.92 |
+| Free-cash-flow yield | 20.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $860.0M |
 | Sales growth | +11.5% |
@@ -60,12 +60,12 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 2.62 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 6.04 |
+| Altman Z | 6.34 |
 | Share count change (1y) | -14.1% |
-| Return 1m / 6m / 12m | -5.0% / -13.2% / -14.1% |
-| vs. 200-day average | -9.8% |
-| RSI (14d) | 52 |
-| Volatility (1y) | 47.2% |
+| Return 1m / 6m / 12m | +4.5% / -8.1% / -8.1% |
+| vs. 200-day average | -2.6% |
+| RSI (14d) | 64 |
+| Volatility (1y) | 47.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/NRDS
 - Full deep dive: run `python scout.py stock NRDS` → `research/NRDS.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "FLXS"
 company: "Flexsteel Industries Inc."
 sector: "Consumer Discretionary"
 industry: "Home Furnishings"
-price: 86.5
-market_cap: "$353.9M"
+price: 86.52
+market_cap: "$354.0M"
 score: 77
-value: 80
+value: 81
 quality: 73
 growth: 61
 momentum: 93
 health: 71
 pe: 10.7
 piotroski: 8
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,23 +27,23 @@ Consumer Discretionary · Home Furnishings
 
 ## In plain English
 
-- Cheaper than about 80% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 81% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price up 102% over 12 months (3% below its 52-week high).
+- Share price up 107% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 80 | 73 | 61 | 93 | 71 |
+| **77** | 81 | 73 | 61 | 93 | 71 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $86.50 |
-| Market value | $353.9M |
+| Price | $86.52 |
+| Market value | $354.0M |
 | P/E | 10.7 |
 | Price/Sales | 0.77 |
 | Price/Book | 2.65 |
@@ -61,10 +61,10 @@ Consumer Discretionary · Home Furnishings
 | Piotroski F-score | 8/9 |
 | Altman Z | 5.72 |
 | Share count change (1y) | -3.9% |
-| Return 1m / 6m / 12m | +3.0% / +79.6% / +102.3% |
-| vs. 200-day average | +43.6% |
+| Return 1m / 6m / 12m | +4.4% / +73.3% / +106.5% |
+| vs. 200-day average | +43.1% |
 | RSI (14d) | 57 |
-| Volatility (1y) | 49.3% |
+| Volatility (1y) | 49.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/FLXS
 - Full deep dive: run `python scout.py stock FLXS` → `research/FLXS.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

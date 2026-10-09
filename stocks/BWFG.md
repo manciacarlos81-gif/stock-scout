@@ -3,17 +3,17 @@ ticker: "BWFG"
 company: "Bankwell Financial Group Inc."
 sector: "Finance"
 industry: "Major Banks"
-price: 65.32
-market_cap: "$520.7M"
-score: 55
+price: 65.66
+market_cap: "$523.4M"
+score: 56
 value: 40
 quality: null
 growth: 75
-momentum: 80
+momentum: 81
 health: 39
-pe: 12.1
+pe: 12.2
 piotroski: 6
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -29,24 +29,24 @@ Finance · Major Banks
 
 - More expensive than about 60% of Finance peers (value score).
 - Sales grew 23% over the last 12 months.
-- Share price up 54% over 12 months (5% below its 52-week high).
+- Share price up 56% over 12 months (4% below its 52-week high).
 - Insiders bought $1.3M of shares recently (Seidman Lawrence B (Dir, 10%); Dale Eric J (Dir); Dunne Jeffrey R (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 40 | – | 75 | 80 | 39 |
+| **56** | 40 | – | 75 | 81 | 39 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $65.32 |
-| Market value | $520.7M |
-| P/E | 12.1 |
-| Price/Sales | 173.87 |
-| Price/Book | 1.61 |
+| Price | $65.66 |
+| Market value | $523.4M |
+| P/E | 12.2 |
+| Price/Sales | 174.77 |
+| Price/Book | 1.62 |
 | Free-cash-flow yield | – |
 | Dividend yield | 1.2% |
 | Sales (12m) | $3.0M |
@@ -61,10 +61,10 @@ Finance · Major Banks
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +2.1% |
-| Return 1m / 6m / 12m | -1.3% / +24.3% / +53.9% |
-| vs. 200-day average | +18.5% |
-| RSI (14d) | 45 |
-| Volatility (1y) | 25.0% |
+| Return 1m / 6m / 12m | -1.6% / +25.7% / +55.7% |
+| vs. 200-day average | +18.9% |
+| RSI (14d) | 47 |
+| Volatility (1y) | 24.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/BWFG
 - Full deep dive: run `python scout.py stock BWFG` → `research/BWFG.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

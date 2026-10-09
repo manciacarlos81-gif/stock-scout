@@ -3,17 +3,17 @@ ticker: "SPB"
 company: "Spectrum Brands Holdings Inc."
 sector: "Miscellaneous"
 industry: "Industrial Machinery/Components"
-price: 76.95
+price: 77.58
 market_cap: "$1.8B"
 score: 58
-value: 79
-quality: 46
+value: 78
+quality: 45
 growth: 38
-momentum: 61
+momentum: 62
 health: 58
-pe: 22.3
+pe: 22.5
 piotroski: 5
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,26 +27,26 @@ Miscellaneous · Industrial Machinery/Components
 
 ## In plain English
 
-- Cheaper than about 79% of stocks in Miscellaneous (value score).
-- Business quality ranks above 46% of all stocks scanned.
+- Cheaper than about 78% of stocks in Miscellaneous (value score).
+- Business quality ranks above 45% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 51% over 12 months (15% below its 52-week high).
+- Share price up 55% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 79 | 46 | 38 | 61 | 58 |
+| **58** | 78 | 45 | 38 | 62 | 58 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $76.95 |
+| Price | $77.58 |
 | Market value | $1.8B |
-| P/E | 22.3 |
+| P/E | 22.5 |
 | Price/Sales | 0.62 |
-| Price/Book | 0.96 |
+| Price/Book | 0.97 |
 | Free-cash-flow yield | 9.3% |
 | Dividend yield | 2.7% |
 | Sales (12m) | $2.9B |
@@ -61,10 +61,10 @@ Miscellaneous · Industrial Machinery/Components
 | Piotroski F-score | 5/9 |
 | Altman Z | 2.71 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -12.0% / -1.5% / +51.3% |
-| vs. 200-day average | -2.1% |
-| RSI (14d) | 29 |
-| Volatility (1y) | 33.7% |
+| Return 1m / 6m / 12m | -9.4% / -0.6% / +54.5% |
+| vs. 200-day average | -1.4% |
+| RSI (14d) | 32 |
+| Volatility (1y) | 33.6% |
 | Financials as of | 2026-06-28 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Miscellaneous · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/SPB
 - Full deep dive: run `python scout.py stock SPB` → `research/SPB.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

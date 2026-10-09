@@ -1,13 +1,13 @@
 {
- "date": "2026-10-08",
- "scanned": 2594,
+ "date": "2026-10-09",
+ "scanned": 2588,
  "top": [
   {
    "rank": 1,
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 81,
-   "price": 1692.42,
+   "price": 1609.46,
    "flags": ""
   },
   {
@@ -15,7 +15,7 @@
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 99.27,
+   "price": 100.06,
    "flags": "heavy debt"
   },
   {
@@ -23,7 +23,7 @@
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 213.02,
+   "price": 205.01,
    "flags": "shares up 17% in a year"
   },
   {
@@ -31,7 +31,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 80,
-   "price": 56.21,
+   "price": 58.23,
    "flags": ""
   },
   {
@@ -39,7 +39,7 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 116.94,
+   "price": 121.82,
    "flags": ""
   },
   {
@@ -47,7 +47,7 @@
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 79,
-   "price": 113.44,
+   "price": 112.75,
    "flags": ""
   },
   {
@@ -55,7 +55,7 @@
    "ticker": "CDNA",
    "name": "CareDx Inc.",
    "score": 79,
-   "price": 63.04,
+   "price": 62.21,
    "flags": ""
   },
   {
@@ -63,23 +63,23 @@
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
    "score": 79,
-   "price": 58.44,
+   "price": 59.02,
    "flags": ""
   },
   {
    "rank": 9,
    "ticker": "BFH",
    "name": "Bread Financial Holdings Inc.",
-   "score": 78,
-   "price": 97.64,
+   "score": 79,
+   "price": 100.73,
    "flags": ""
   },
   {
    "rank": 10,
    "ticker": "KNSA",
    "name": "Kiniksa Pharmaceuticals International plc",
-   "score": 77,
-   "price": 77.96,
+   "score": 78,
+   "price": 78.75,
    "flags": ""
   }
  ],
@@ -100,9 +100,9 @@
   {
    "ticker": "BORR",
    "name": "Borr Drilling Limited",
-   "value": 27324333,
+   "value": 32714583,
    "buyers": 3,
-   "last": "2026-10-06"
+   "last": "2026-10-07"
   }
  ]
 }

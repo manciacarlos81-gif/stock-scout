@@ -3,17 +3,17 @@ ticker: "FTK"
 company: "Flotek Industries Inc."
 sector: "Industrials"
 industry: "Major Chemicals"
-price: 28.06
-market_cap: "$1.0B"
-score: 60
-value: 39
+price: 27.22
+market_cap: "$985.9M"
+score: 61
+value: 40
 quality: 45
 growth: 83
-momentum: 87
+momentum: 91
 health: 60
-pe: 26.7
+pe: 25.9
 piotroski: 4
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,27 +27,27 @@ Industrials · Major Chemicals
 
 ## In plain English
 
-- More expensive than about 61% of Industrials peers (value score).
+- More expensive than about 60% of Industrials peers (value score).
 - Business quality ranks above 45% of all stocks scanned.
 - Sales grew 37% over the last 12 months.
-- Share price up 72% over 12 months (28% below its 52-week high).
+- Share price up 75% over 12 months (30% below its 52-week high).
 - Insiders bought $34.3M of shares recently (Wilks Matthew (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 39 | 45 | 83 | 87 | 60 |
+| **61** | 40 | 45 | 83 | 91 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $28.06 |
-| Market value | $1.0B |
-| P/E | 26.7 |
-| Price/Sales | 3.47 |
-| Price/Book | 7.87 |
+| Price | $27.22 |
+| Market value | $985.9M |
+| P/E | 25.9 |
+| Price/Sales | 3.37 |
+| Price/Book | 7.63 |
 | Free-cash-flow yield | 0.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $293.0M |
@@ -60,11 +60,11 @@ Industrials · Major Chemicals
 | Debt / equity | 0.31 |
 | Current ratio | 1.78 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 4.86 |
+| Altman Z | 4.73 |
 | Share count change (1y) | +6.2% |
-| Return 1m / 6m / 12m | +15.1% / +77.8% / +71.7% |
-| vs. 200-day average | +30.8% |
-| RSI (14d) | 48 |
+| Return 1m / 6m / 12m | -2.4% / +73.3% / +74.6% |
+| vs. 200-day average | +26.6% |
+| RSI (14d) | 45 |
 | Volatility (1y) | 77.7% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Industrials · Major Chemicals
 - Insider trades: http://openinsider.com/FTK
 - Full deep dive: run `python scout.py stock FTK` → `research/FTK.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

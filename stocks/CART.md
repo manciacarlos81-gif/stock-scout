@@ -3,17 +3,17 @@ ticker: "CART"
 company: "Maplebear Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 45.21
-market_cap: "$10.7B"
+price: 46.3
+market_cap: "$11.0B"
 score: 64
 value: 48
 quality: 83
 growth: 56
-momentum: 63
-health: 66
-pe: 22.4
+momentum: 64
+health: 67
+pe: 22.9
 piotroski: 7
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Business Services
 - More expensive than about 52% of Consumer Discretionary peers (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 14% over 12 months (13% below its 52-week high).
+- Share price up 18% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 48 | 83 | 56 | 63 | 66 |
+| **64** | 48 | 83 | 56 | 64 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $45.21 |
-| Market value | $10.7B |
-| P/E | 22.4 |
-| Price/Sales | 2.69 |
-| Price/Book | 4.62 |
-| Free-cash-flow yield | 8.5% |
+| Price | $46.30 |
+| Market value | $11.0B |
+| P/E | 22.9 |
+| Price/Sales | 2.75 |
+| Price/Book | 4.73 |
+| Free-cash-flow yield | 8.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $4.0B |
 | Sales growth | +12.6% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 2.28 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 6.64 |
+| Altman Z | 6.79 |
 | Share count change (1y) | -11.5% |
-| Return 1m / 6m / 12m | -5.8% / +15.2% / +14.0% |
-| vs. 200-day average | +6.1% |
-| RSI (14d) | 46 |
+| Return 1m / 6m / 12m | -0.7% / +15.8% / +18.4% |
+| vs. 200-day average | +8.7% |
+| RSI (14d) | 52 |
 | Volatility (1y) | 41.6% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/CART
 - Full deep dive: run `python scout.py stock CART` → `research/CART.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

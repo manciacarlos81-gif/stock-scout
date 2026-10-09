@@ -3,17 +3,17 @@ ticker: "CTVA"
 company: "Corteva Inc."
 sector: "Consumer Staples"
 industry: "Farming/Seeds/Milling"
-price: 14.45
-market_cap: "$9.6B"
+price: 13.75
+market_cap: "$9.2B"
 score: 68
-value: 91
+value: 93
 quality: 60
 growth: 32
-momentum: 73
+momentum: 70
 health: 72
-pe: 9.6
+pe: 9.1
 piotroski: 7
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Staples · Farming/Seeds/Milling
 
 ## In plain English
 
-- Cheaper than about 91% of stocks in Consumer Staples (value score).
+- Cheaper than about 93% of stocks in Consumer Staples (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price up 54% over 12 months (0% below its 52-week high).
+- Share price up 47% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 91 | 60 | 32 | 73 | 72 |
+| **68** | 93 | 60 | 32 | 70 | 72 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $14.45 |
-| Market value | $9.6B |
-| P/E | 9.6 |
-| Price/Sales | 0.54 |
-| Price/Book | 0.38 |
-| Free-cash-flow yield | 35.3% |
-| Dividend yield | 4.9% |
+| Price | $13.75 |
+| Market value | $9.2B |
+| P/E | 9.1 |
+| Price/Sales | 0.52 |
+| Price/Book | 0.36 |
+| Free-cash-flow yield | 37.1% |
+| Dividend yield | 5.2% |
 | Sales (12m) | $17.8B |
 | Sales growth | +3.7% |
 | Net profit (12m) | $1.0B |
@@ -61,10 +61,10 @@ Consumer Staples · Farming/Seeds/Milling
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | +12.1% / +15.4% / +54.0% |
-| vs. 200-day average | +21.8% |
-| RSI (14d) | 72 |
-| Volatility (1y) | 29.6% |
+| Return 1m / 6m / 12m | +8.1% / +10.2% / +47.4% |
+| vs. 200-day average | +15.7% |
+| RSI (14d) | 62 |
+| Volatility (1y) | 30.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Staples · Farming/Seeds/Milling
 - Insider trades: http://openinsider.com/CTVA
 - Full deep dive: run `python scout.py stock CTVA` → `research/CTVA.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

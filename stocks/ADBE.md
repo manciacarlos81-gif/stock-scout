@@ -3,17 +3,17 @@ ticker: "ADBE"
 company: "Adobe Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 232.77
-market_cap: "$90.6B"
+price: 241.05
+market_cap: "$93.8B"
 score: 66
 value: 80
 quality: 90
 growth: 55
 momentum: 31
 health: 63
-pe: 12.5
+pe: 13.0
 piotroski: 7
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -31,7 +31,7 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 80% of stocks in Technology (value score).
 - Business quality ranks above 90% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price down 33% over 12 months (35% below its 52-week high).
+- Share price down 31% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Technology · Computer Software: Prepackaged Software
 
 | | |
 |---|---:|
-| Price | $232.77 |
-| Market value | $90.6B |
-| P/E | 12.5 |
-| Price/Sales | 3.60 |
-| Price/Book | 7.87 |
-| Free-cash-flow yield | 10.9% |
+| Price | $241.05 |
+| Market value | $93.8B |
+| P/E | 13.0 |
+| Price/Sales | 3.72 |
+| Price/Book | 8.15 |
+| Free-cash-flow yield | 10.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $25.2B |
 | Sales growth | +11.5% |
@@ -60,12 +60,12 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.58 |
 | Current ratio | 0.75 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 6.96 |
+| Altman Z | 7.06 |
 | Share count change (1y) | -6.2% |
-| Return 1m / 6m / 12m | -9.5% / +3.3% / -33.3% |
-| vs. 200-day average | -9.5% |
-| RSI (14d) | 38 |
-| Volatility (1y) | 40.8% |
+| Return 1m / 6m / 12m | -5.4% / +0.4% / -30.6% |
+| vs. 200-day average | -6.0% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 40.9% |
 | Financials as of | 2026-05-29 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADBE
 - Full deep dive: run `python scout.py stock ADBE` → `research/ADBE.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

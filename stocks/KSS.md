@@ -3,17 +3,17 @@ ticker: "KSS"
 company: "Kohl's Corporation"
 sector: "Consumer Discretionary"
 industry: "Department/Specialty Retail Stores"
-price: 20.12
+price: 20.11
 market_cap: "$2.3B"
 score: 65
 value: 97
 quality: 52
 growth: 35
-momentum: 76
+momentum: 75
 health: 47
 pe: 8.4
 piotroski: 6
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,19 +30,19 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Cheaper than about 97% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 52% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 32% over 12 months (16% below its 52-week high).
+- Share price up 36% over 12 months (16% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 97 | 52 | 35 | 76 | 47 |
+| **65** | 97 | 52 | 35 | 75 | 47 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $20.12 |
+| Price | $20.11 |
 | Market value | $2.3B |
 | P/E | 8.4 |
 | Price/Sales | 0.15 |
@@ -61,10 +61,10 @@ Consumer Discretionary · Department/Specialty Retail Stores
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.5% |
-| Return 1m / 6m / 12m | +8.8% / +53.7% / +31.8% |
+| Return 1m / 6m / 12m | +14.8% / +51.6% / +35.7% |
 | vs. 200-day average | +21.4% |
 | RSI (14d) | 66 |
-| Volatility (1y) | 73.9% |
+| Volatility (1y) | 73.4% |
 | Financials as of | 2026-08-01 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Insider trades: http://openinsider.com/KSS
 - Full deep dive: run `python scout.py stock KSS` → `research/KSS.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

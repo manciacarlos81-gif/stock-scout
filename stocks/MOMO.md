@@ -3,17 +3,17 @@ ticker: "MOMO"
 company: "Hello Group Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 4.76
-market_cap: "$703.3M"
+price: 4.68
+market_cap: "$691.5M"
 score: 56
 value: 97
 quality: 51
 growth: 33
 momentum: 14
 health: 78
-pe: 6.1
+pe: 6.0
 piotroski: 7
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,7 +31,7 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 97% of stocks in Technology (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 32% over 12 months (30% below its 52-week high).
+- Share price down 31% over 12 months (31% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Technology · Computer Software: Prepackaged Software
 
 | | |
 |---|---:|
-| Price | $4.76 |
-| Market value | $703.3M |
-| P/E | 6.1 |
+| Price | $4.68 |
+| Market value | $691.5M |
+| P/E | 6.0 |
 | Price/Sales | 0.47 |
 | Price/Book | 0.44 |
-| Free-cash-flow yield | 14.0% |
+| Free-cash-flow yield | 14.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.5B |
 | Sales growth | +2.4% |
@@ -60,17 +60,18 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.00 |
 | Current ratio | 4.68 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.56 |
+| Altman Z | 3.54 |
 | Share count change (1y) | -9.4% |
-| Return 1m / 6m / 12m | -9.5% / -19.3% / -31.5% |
-| vs. 200-day average | -19.1% |
-| RSI (14d) | 35 |
-| Volatility (1y) | 28.5% |
+| Return 1m / 6m / 12m | -9.7% / -20.9% / -31.2% |
+| vs. 200-day average | -20.3% |
+| RSI (14d) | 32 |
+| Volatility (1y) | 28.4% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
 
 - financials over 6 months old
+- well below 200-day average
 
 ## Dig deeper
 
@@ -79,4 +80,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/MOMO
 - Full deep dive: run `python scout.py stock MOMO` → `research/MOMO.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

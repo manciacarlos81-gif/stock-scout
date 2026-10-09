@@ -3,17 +3,17 @@ ticker: "IDXX"
 company: "IDEXX Laboratories Inc."
 sector: "Health Care"
 industry: "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
-price: 506.67
-market_cap: "$39.9B"
+price: 513.14
+market_cap: "$40.4B"
 score: 61
 value: 59
 quality: 88
 growth: 59
 momentum: 23
 health: 75
-pe: 35.0
+pe: 35.5
 piotroski: 8
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 - Cheaper than about 59% of stocks in Health Care (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price down 20% over 12 months (34% below its 52-week high).
+- Share price down 18% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 
 | | |
 |---|---:|
-| Price | $506.67 |
-| Market value | $39.9B |
-| P/E | 35.0 |
-| Price/Sales | 8.77 |
-| Price/Book | 24.75 |
+| Price | $513.14 |
+| Market value | $40.4B |
+| P/E | 35.5 |
+| Price/Sales | 8.88 |
+| Price/Book | 25.07 |
 | Free-cash-flow yield | 2.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $4.6B |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 | Debt / equity | 0.28 |
 | Current ratio | 1.17 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 18.74 |
+| Altman Z | 18.90 |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -2.6% / -10.0% / -19.6% |
-| vs. 200-day average | -13.2% |
-| RSI (14d) | 40 |
+| Return 1m / 6m / 12m | -0.4% / -10.6% / -18.4% |
+| vs. 200-day average | -12.0% |
+| RSI (14d) | 44 |
 | Volatility (1y) | 32.0% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 - Insider trades: http://openinsider.com/IDXX
 - Full deep dive: run `python scout.py stock IDXX` → `research/IDXX.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

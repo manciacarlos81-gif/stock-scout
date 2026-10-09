@@ -3,17 +3,17 @@ ticker: "INCY"
 company: "Incyte Corp."
 sector: "Health Care"
 industry: "Biotechnology: Commercial Physical & Biological Resarch"
-price: 113.44
-market_cap: "$23.0B"
+price: 112.75
+market_cap: "$22.9B"
 score: 79
 value: 81
 quality: 81
 growth: 75
-momentum: 72
+momentum: 73
 health: 86
-pe: 14.3
+pe: 14.2
 piotroski: 7
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -36,18 +36,18 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **79** | 81 | 81 | 75 | 72 | 86 |
+| **79** | 81 | 81 | 75 | 73 | 86 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $113.44 |
-| Market value | $23.0B |
-| P/E | 14.3 |
-| Price/Sales | 3.95 |
-| Price/Book | 3.62 |
-| Free-cash-flow yield | 6.1% |
+| Price | $112.75 |
+| Market value | $22.9B |
+| P/E | 14.2 |
+| Price/Sales | 3.93 |
+| Price/Book | 3.60 |
+| Free-cash-flow yield | 6.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.8B |
 | Sales growth | +26.9% |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 | Debt / equity | – |
 | Current ratio | 4.59 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 11.43 |
+| Altman Z | 11.37 |
 | Share count change (1y) | +4.8% |
-| Return 1m / 6m / 12m | -8.8% / +18.1% / +32.9% |
-| vs. 200-day average | +5.8% |
-| RSI (14d) | 32 |
+| Return 1m / 6m / 12m | -10.5% / +18.0% / +33.0% |
+| vs. 200-day average | +5.1% |
+| RSI (14d) | 31 |
 | Volatility (1y) | 33.3% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Commercial Physical & Biological Resarch
 - Insider trades: http://openinsider.com/INCY
 - Full deep dive: run `python scout.py stock INCY` → `research/INCY.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

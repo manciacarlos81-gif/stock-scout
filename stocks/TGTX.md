@@ -3,17 +3,17 @@ ticker: "TGTX"
 company: "TG Therapeutics Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 52.95
-market_cap: "$8.1B"
+price: 53.34
+market_cap: "$8.2B"
 score: 68
 value: 57
 quality: 58
 growth: 90
 momentum: 87
 health: 57
-pe: 18.4
+pe: 18.5
 piotroski: 5
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 57% of stocks in Health Care (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 76% over the last 12 months.
-- Share price up 48% over 12 months (10% below its 52-week high).
+- Share price up 53% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $52.95 |
-| Market value | $8.1B |
-| P/E | 18.4 |
-| Price/Sales | 10.14 |
-| Price/Book | 13.42 |
+| Price | $53.34 |
+| Market value | $8.2B |
+| P/E | 18.5 |
+| Price/Sales | 10.21 |
+| Price/Book | 13.52 |
 | Free-cash-flow yield | -0.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $799.5M |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 1.23 |
 | Current ratio | 4.27 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 5.20 |
+| Altman Z | 5.23 |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | -5.0% / +57.0% / +48.1% |
-| vs. 200-day average | +26.6% |
-| RSI (14d) | 43 |
-| Volatility (1y) | 45.4% |
+| Return 1m / 6m / 12m | -2.4% / +57.9% / +52.5% |
+| vs. 200-day average | +27.2% |
+| RSI (14d) | 44 |
+| Volatility (1y) | 45.3% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/TGTX
 - Full deep dive: run `python scout.py stock TGTX` → `research/TGTX.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

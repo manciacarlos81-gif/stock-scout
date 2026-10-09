@@ -3,17 +3,17 @@ ticker: "SEZL"
 company: "Sezzle Inc."
 sector: "Finance"
 industry: "Finance: Consumer Services"
-price: 113.85
-market_cap: "$3.8B"
+price: 117.22
+market_cap: "$3.9B"
 score: 70
 value: 33
 quality: 93
 growth: 81
-momentum: 83
+momentum: 84
 health: 63
-pe: 23.7
+pe: 24.5
 piotroski: 9
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,24 +30,24 @@ Finance · Finance: Consumer Services
 - More expensive than about 67% of Finance peers (value score).
 - Business quality ranks above 93% of all stocks scanned.
 - Sales grew 43% over the last 12 months.
-- Share price up 40% over 12 months (40% below its 52-week high).
+- Share price up 43% over 12 months (38% below its 52-week high).
 - Insiders bought $44.0K of shares recently (Hunt Bryan Cecil (Dir); Khurana Rajeev (GC)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **70** | 33 | 93 | 81 | 83 | 63 |
+| **70** | 33 | 93 | 81 | 84 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $113.85 |
-| Market value | $3.8B |
-| P/E | 23.7 |
-| Price/Sales | 7.21 |
-| Price/Book | 16.46 |
+| Price | $117.22 |
+| Market value | $3.9B |
+| P/E | 24.5 |
+| Price/Sales | 7.42 |
+| Price/Book | 16.94 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | $531.9M |
@@ -62,10 +62,10 @@ Finance · Finance: Consumer Services
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.2% |
-| Return 1m / 6m / 12m | -3.8% / +90.7% / +39.7% |
-| vs. 200-day average | +9.4% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 86.4% |
+| Return 1m / 6m / 12m | +0.1% / +91.2% / +43.5% |
+| vs. 200-day average | +12.4% |
+| RSI (14d) | 52 |
+| Volatility (1y) | 86.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Finance · Finance: Consumer Services
 - Insider trades: http://openinsider.com/SEZL
 - Full deep dive: run `python scout.py stock SEZL` → `research/SEZL.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

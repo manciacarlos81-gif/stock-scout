@@ -3,7 +3,7 @@ ticker: "HRMY"
 company: "Harmony Biosciences Holdings Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 39.34
+price: 39.6
 market_cap: "$2.3B"
 score: 77
 value: 90
@@ -11,9 +11,9 @@ quality: 77
 growth: 55
 momentum: 83
 health: 71
-pe: 12.6
+pe: 12.7
 piotroski: 5
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -43,12 +43,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $39.34 |
+| Price | $39.60 |
 | Market value | $2.3B |
-| P/E | 12.6 |
-| Price/Sales | 2.39 |
-| Price/Book | 2.29 |
-| Free-cash-flow yield | 15.2% |
+| P/E | 12.7 |
+| Price/Sales | 2.40 |
+| Price/Book | 2.31 |
+| Free-cash-flow yield | 15.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $959.9M |
 | Sales growth | +24.3% |
@@ -60,11 +60,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.15 |
 | Current ratio | 3.48 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 5.71 |
+| Altman Z | 5.74 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -6.5% / +36.2% / +48.1% |
-| vs. 200-day average | +13.6% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | -4.9% / +36.3% / +47.9% |
+| vs. 200-day average | +14.3% |
+| RSI (14d) | 45 |
 | Volatility (1y) | 40.9% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/HRMY
 - Full deep dive: run `python scout.py stock HRMY` → `research/HRMY.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

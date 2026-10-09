@@ -3,17 +3,17 @@ ticker: "INSW"
 company: "International Seaways Inc."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 116.94
-market_cap: "$5.8B"
+price: 121.82
+market_cap: "$6.0B"
 score: 80
 value: 67
 quality: 78
 growth: 88
-momentum: 95
+momentum: 96
 health: 74
-pe: 7.4
+pe: 7.7
 piotroski: 6
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,25 +31,25 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 67% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 57% over the last 12 months.
-- Share price up 209% over 12 months (0% below its 52-week high).
+- Share price up 218% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 67 | 78 | 88 | 95 | 74 |
+| **80** | 67 | 78 | 88 | 96 | 74 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $116.94 |
-| Market value | $5.8B |
-| P/E | 7.4 |
-| Price/Sales | 4.61 |
-| Price/Book | 2.56 |
-| Free-cash-flow yield | 6.6% |
-| Dividend yield | 2.5% |
+| Price | $121.82 |
+| Market value | $6.0B |
+| P/E | 7.7 |
+| Price/Sales | 4.80 |
+| Price/Book | 2.66 |
+| Free-cash-flow yield | 6.3% |
+| Dividend yield | 2.4% |
 | Sales (12m) | $1.3B |
 | Sales growth | +57.4% |
 | Net profit (12m) | $779.1M |
@@ -60,11 +60,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.29 |
 | Current ratio | 5.94 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 6.53 |
+| Altman Z | 6.72 |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | +18.4% / +76.1% / +209.1% |
-| vs. 200-day average | +56.3% |
-| RSI (14d) | 74 |
+| Return 1m / 6m / 12m | +22.3% / +80.1% / +217.7% |
+| vs. 200-day average | +62.0% |
+| RSI (14d) | 79 |
 | Volatility (1y) | 38.5% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/INSW
 - Full deep dive: run `python scout.py stock INSW` → `research/INSW.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

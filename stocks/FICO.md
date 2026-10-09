@@ -3,17 +3,17 @@ ticker: "FICO"
 company: "Fair Isaac Corporation"
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 681.77
-market_cap: "$14.7B"
+price: 707.43
+market_cap: "$15.3B"
 score: 53
-value: 40
+value: 39
 quality: 88
 growth: 74
 momentum: 6
 health: 60
-pe: 18.1
+pe: 18.7
 piotroski: 7
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Business Services
 
 ## In plain English
 
-- More expensive than about 60% of Consumer Discretionary peers (value score).
+- More expensive than about 61% of Consumer Discretionary peers (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price down 60% over 12 months (63% below its 52-week high).
+- Share price down 59% over 12 months (62% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 40 | 88 | 74 | 6 | 60 |
+| **53** | 39 | 88 | 74 | 6 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $681.77 |
-| Market value | $14.7B |
-| P/E | 18.1 |
-| Price/Sales | 6.15 |
+| Price | $707.43 |
+| Market value | $15.3B |
+| P/E | 18.7 |
+| Price/Sales | 6.38 |
 | Price/Book | – |
-| Free-cash-flow yield | 5.2% |
+| Free-cash-flow yield | 5.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.4B |
 | Sales growth | +24.1% |
@@ -59,12 +59,12 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 1.18 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 8.28 |
+| Altman Z | 8.33 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -27.0% / -26.1% / -59.8% |
-| vs. 200-day average | -43.0% |
-| RSI (14d) | 30 |
-| Volatility (1y) | 60.6% |
+| Return 1m / 6m / 12m | -28.0% / -29.3% / -58.6% |
+| vs. 200-day average | -40.6% |
+| RSI (14d) | 34 |
+| Volatility (1y) | 60.7% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/FICO
 - Full deep dive: run `python scout.py stock FICO` → `research/FICO.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_

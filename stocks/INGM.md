@@ -3,17 +3,17 @@ ticker: "INGM"
 company: "Ingram Micro Holding Corporation"
 sector: "Technology"
 industry: "Retail: Computer Software & Peripheral Equipment"
-price: 27.65
+price: 27.6
 market_cap: "$6.4B"
-score: 60
+score: 59
 value: 93
 quality: 36
 growth: 65
-momentum: 60
+momentum: 54
 health: 42
 pe: 14.8
 piotroski: 6
-updated: "2026-10-08"
+updated: "2026-10-09"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,19 +30,19 @@ Technology · Retail: Computer Software & Peripheral Equipment
 - Cheaper than about 93% of stocks in Technology (value score).
 - Business quality ranks above 36% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price up 28% over 12 months (12% below its 52-week high).
+- Share price up 29% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 93 | 36 | 65 | 60 | 42 |
+| **59** | 93 | 36 | 65 | 54 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $27.65 |
+| Price | $27.60 |
 | Market value | $6.4B |
 | P/E | 14.8 |
 | Price/Sales | 0.11 |
@@ -61,10 +61,10 @@ Technology · Retail: Computer Software & Peripheral Equipment
 | Piotroski F-score | 6/9 |
 | Altman Z | 3.33 |
 | Share count change (1y) | -1.1% |
-| Return 1m / 6m / 12m | -2.6% / +2.4% / +28.0% |
-| vs. 200-day average | +7.1% |
+| Return 1m / 6m / 12m | +5.1% / -1.8% / +29.0% |
+| vs. 200-day average | +6.8% |
 | RSI (14d) | 51 |
-| Volatility (1y) | 43.7% |
+| Volatility (1y) | 43.5% |
 | Financials as of | 2026-06-27 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Retail: Computer Software & Peripheral Equipment
 - Insider trades: http://openinsider.com/INGM
 - Full deep dive: run `python scout.py stock INGM` → `research/INGM.md`
 
-_Updated 2026-10-08 · [latest report](../reports/latest.md)_
+_Updated 2026-10-09 · [latest report](../reports/latest.md)_
