@@ -3,17 +3,17 @@ ticker: "NPB"
 company: "Northpointe Bancshares Inc."
 sector: "Finance"
 industry: "Major Banks"
-price: 15.69
-market_cap: "$542.6M"
+price: 15.84
+market_cap: "$547.8M"
 score: 55
 value: 92
 quality: null
 growth: 59
-momentum: 27
+momentum: 28
 health: 32
-pe: 6.0
+pe: 6.1
 piotroski: 6
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,24 +28,24 @@ Finance · Major Banks
 ## In plain English
 
 - Cheaper than about 92% of stocks in Finance (value score).
-- Share price down 9% over 12 months (19% below its 52-week high).
+- Share price down 4% over 12 months (18% below its 52-week high).
 - Insiders bought $2.8M of shares recently (Williams Charles Alan (COB, CEO, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 92 | – | 59 | 27 | 32 |
+| **55** | 92 | – | 59 | 28 | 32 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.69 |
-| Market value | $542.6M |
-| P/E | 6.0 |
+| Price | $15.84 |
+| Market value | $547.8M |
+| P/E | 6.1 |
 | Price/Sales | – |
-| Price/Book | 0.89 |
+| Price/Book | 0.90 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.6% |
 | Sales (12m) | – |
@@ -60,10 +60,10 @@ Finance · Major Banks
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -7.9% / -16.1% / -9.3% |
-| vs. 200-day average | -10.1% |
-| RSI (14d) | 44 |
-| Volatility (1y) | 28.6% |
+| Return 1m / 6m / 12m | -6.8% / -16.4% / -4.3% |
+| vs. 200-day average | -9.2% |
+| RSI (14d) | 48 |
+| Volatility (1y) | 28.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/NPB
 - Full deep dive: run `python scout.py stock NPB` → `research/NPB.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

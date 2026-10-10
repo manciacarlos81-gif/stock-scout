@@ -3,8 +3,8 @@ ticker: "IBTA"
 company: "Ibotta Inc."
 sector: "Consumer Discretionary"
 industry: "Advertising"
-price: 43.28
-market_cap: "$1.0B"
+price: 43.07
+market_cap: "$997.9M"
 score: 47
 value: 27
 quality: 55
@@ -13,7 +13,7 @@ momentum: 77
 health: 58
 pe: null
 piotroski: 6
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -42,11 +42,11 @@ Consumer Discretionary · Advertising
 
 | | |
 |---|---:|
-| Price | $43.28 |
-| Market value | $1.0B |
+| Price | $43.07 |
+| Market value | $997.9M |
 | P/E | – |
-| Price/Sales | 2.92 |
-| Price/Book | 4.15 |
+| Price/Sales | 2.91 |
+| Price/Book | 4.13 |
 | Free-cash-flow yield | 7.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $343.2M |
@@ -59,11 +59,11 @@ Consumer Discretionary · Advertising
 | Debt / equity | 0.00 |
 | Current ratio | 1.71 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 3.04 |
+| Altman Z | 3.03 |
 | Share count change (1y) | -23.5% |
-| Return 1m / 6m / 12m | +10.6% / +29.7% / +41.1% |
-| vs. 200-day average | +39.6% |
-| RSI (14d) | 66 |
+| Return 1m / 6m / 12m | +7.2% / +28.0% / +40.8% |
+| vs. 200-day average | +38.5% |
+| RSI (14d) | 64 |
 | Volatility (1y) | 81.9% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/IBTA
 - Full deep dive: run `python scout.py stock IBTA` → `research/IBTA.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

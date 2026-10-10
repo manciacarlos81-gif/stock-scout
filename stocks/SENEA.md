@@ -3,17 +3,17 @@ ticker: "SENEA"
 company: "Seneca Foods Corp."
 sector: "Consumer Staples"
 industry: "Packaged Foods"
-price: 177.03
+price: 178.34
 market_cap: "$1.2B"
 score: 74
 value: 81
-quality: 70
+quality: 69
 growth: 84
-momentum: 74
+momentum: 75
 health: 61
-pe: 10.0
+pe: 10.1
 piotroski: 8
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -28,25 +28,25 @@ Consumer Staples · Packaged Foods
 ## In plain English
 
 - Cheaper than about 81% of stocks in Consumer Staples (value score).
-- Business quality ranks above 70% of all stocks scanned.
-- Share price up 57% over 12 months (15% below its 52-week high).
+- Business quality ranks above 69% of all stocks scanned.
+- Share price up 59% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 81 | 70 | 84 | 74 | 61 |
+| **74** | 81 | 69 | 84 | 75 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $177.03 |
+| Price | $178.34 |
 | Market value | $1.2B |
-| P/E | 10.0 |
-| Price/Sales | 0.74 |
-| Price/Book | 1.55 |
-| Free-cash-flow yield | 24.9% |
+| P/E | 10.1 |
+| Price/Sales | 0.75 |
+| Price/Book | 1.56 |
+| Free-cash-flow yield | 24.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.6B |
 | Sales growth | – |
@@ -58,12 +58,12 @@ Consumer Staples · Packaged Foods
 | Debt / equity | 0.30 |
 | Current ratio | 3.77 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 4.60 |
+| Altman Z | 4.61 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -7.6% / +7.7% / +56.6% |
-| vs. 200-day average | +15.5% |
-| RSI (14d) | 44 |
-| Volatility (1y) | 41.4% |
+| Return 1m / 6m / 12m | -4.2% / +9.6% / +59.1% |
+| vs. 200-day average | +16.1% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 41.3% |
 | Financials as of | 2025-12-27 |
 
 ## Watch out
@@ -77,4 +77,4 @@ Consumer Staples · Packaged Foods
 - Insider trades: http://openinsider.com/SENEA
 - Full deep dive: run `python scout.py stock SENEA` → `research/SENEA.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

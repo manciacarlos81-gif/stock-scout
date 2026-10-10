@@ -1,89 +1,91 @@
 {
- "date": "2026-10-09",
- "scanned": 2588,
+ "date": "2026-10-10",
+ "scanned": 2589,
  "top": [
   {
    "rank": 1,
-   "ticker": "SNDK",
-   "name": "Sandisk Corporation",
-   "score": 81,
-   "price": 1609.46,
+   "ticker": "MU",
+   "name": "Micron Technology Inc.",
+   "score": 85,
+   "price": 1029.0,
    "flags": ""
   },
   {
    "rank": 2,
-   "ticker": "ECPG",
-   "name": "Encore Capital Group Inc",
+   "ticker": "SNDK",
+   "name": "Sandisk Corporation",
    "score": 81,
-   "price": 100.06,
-   "flags": "heavy debt"
-  },
-  {
-   "rank": 3,
-   "ticker": "NUTX",
-   "name": "Nutex Health Inc.",
-   "score": 80,
-   "price": 205.01,
-   "flags": "shares up 17% in a year"
-  },
-  {
-   "rank": 4,
-   "ticker": "LPG",
-   "name": "Dorian LPG Ltd.",
-   "score": 80,
-   "price": 58.23,
+   "price": 1581.82,
    "flags": ""
   },
   {
-   "rank": 5,
-   "ticker": "INSW",
-   "name": "International Seaways Inc.",
+   "rank": 3,
+   "ticker": "ECPG",
+   "name": "Encore Capital Group Inc",
+   "score": 81,
+   "price": 99.77,
+   "flags": "heavy debt"
+  },
+  {
+   "rank": 4,
+   "ticker": "NUTX",
+   "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 121.82,
+   "price": 206.29,
+   "flags": "shares up 17% in a year"
+  },
+  {
+   "rank": 5,
+   "ticker": "LPG",
+   "name": "Dorian LPG Ltd.",
+   "score": 80,
+   "price": 57.64,
    "flags": ""
   },
   {
    "rank": 6,
-   "ticker": "INCY",
-   "name": "Incyte Corp.",
-   "score": 79,
-   "price": 112.75,
+   "ticker": "INSW",
+   "name": "International Seaways Inc.",
+   "score": 80,
+   "price": 119.82,
    "flags": ""
   },
   {
    "rank": 7,
-   "ticker": "CDNA",
-   "name": "CareDx Inc.",
+   "ticker": "INCY",
+   "name": "Incyte Corp.",
    "score": 79,
-   "price": 62.21,
+   "price": 112.79,
    "flags": ""
   },
   {
    "rank": 8,
-   "ticker": "EXEL",
-   "name": "Exelixis Inc.",
+   "ticker": "CDNA",
+   "name": "CareDx Inc.",
    "score": 79,
-   "price": 59.02,
+   "price": 63.67,
    "flags": ""
   },
   {
    "rank": 9,
-   "ticker": "BFH",
-   "name": "Bread Financial Holdings Inc.",
+   "ticker": "EXEL",
+   "name": "Exelixis Inc.",
    "score": 79,
-   "price": 100.73,
+   "price": 59.86,
    "flags": ""
   },
   {
    "rank": 10,
-   "ticker": "KNSA",
-   "name": "Kiniksa Pharmaceuticals International plc",
+   "ticker": "BFH",
+   "name": "Bread Financial Holdings Inc.",
    "score": 78,
-   "price": 78.75,
+   "price": 100.58,
    "flags": ""
   }
  ],
- "new_top": [],
+ "new_top": [
+  "MU"
+ ],
  "prev_top": [
   "BFH",
   "CDNA",

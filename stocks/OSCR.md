@@ -3,17 +3,17 @@ ticker: "OSCR"
 company: "Oscar Health Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 33.1
-market_cap: "$10.2B"
+price: 33.37
+market_cap: "$10.3B"
 score: 75
 value: 86
 quality: 58
 growth: 87
-momentum: 91
+momentum: 93
 health: 52
-pe: 18.5
+pe: 18.7
 piotroski: 3
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,24 +31,24 @@ Health Care · Medical Specialities
 - Cheaper than about 86% of stocks in Health Care (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 43% over the last 12 months.
-- Share price up 61% over 12 months (2% below its 52-week high).
+- Share price up 78% over 12 months (1% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 86 | 58 | 87 | 91 | 52 |
+| **75** | 86 | 58 | 87 | 93 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $33.10 |
-| Market value | $10.2B |
-| P/E | 18.5 |
+| Price | $33.37 |
+| Market value | $10.3B |
+| P/E | 18.7 |
 | Price/Sales | 0.67 |
-| Price/Book | 4.98 |
-| Free-cash-flow yield | 10.7% |
+| Price/Book | 5.02 |
+| Free-cash-flow yield | 10.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $15.3B |
 | Sales growth | +42.8% |
@@ -60,12 +60,12 @@ Health Care · Medical Specialities
 | Debt / equity | 0.21 |
 | Current ratio | 1.08 |
 | Piotroski F-score | 3/9 |
-| Altman Z | 2.01 |
+| Altman Z | 2.02 |
 | Share count change (1y) | +30.5% |
-| Return 1m / 6m / 12m | +4.2% / +113.8% / +61.1% |
-| vs. 200-day average | +47.8% |
-| RSI (14d) | 60 |
-| Volatility (1y) | 68.5% |
+| Return 1m / 6m / 12m | +2.4% / +118.2% / +77.8% |
+| vs. 200-day average | +48.4% |
+| RSI (14d) | 61 |
+| Volatility (1y) | 68.0% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/OSCR
 - Full deep dive: run `python scout.py stock OSCR` → `research/OSCR.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

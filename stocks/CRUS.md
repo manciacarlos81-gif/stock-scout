@@ -3,19 +3,20 @@ ticker: "CRUS"
 company: "Cirrus Logic Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 113.2
-market_cap: "$5.7B"
-score: 65
-value: 87
+price: 106.87
+market_cap: "$5.4B"
+score: 66
+value: 89
 quality: 82
 growth: 49
-momentum: 15
+momentum: 18
 health: 86
-pe: 13.2
+pe: 12.4
 piotroski: 8
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "💎 Quality at a fair price"
+  - "🎯 Quality on sale"
 tags: [stock]
 ---
 
@@ -23,31 +24,31 @@ tags: [stock]
 
 Technology · Semiconductors
 
-**In screens today:** 💎 Quality at a fair price
+**In screens today:** 💎 Quality at a fair price, 🎯 Quality on sale
 
 ## In plain English
 
-- Cheaper than about 87% of stocks in Technology (value score).
+- Cheaper than about 89% of stocks in Technology (value score).
 - Business quality ranks above 82% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price down 9% over 12 months (37% below its 52-week high).
+- Share price down 8% over 12 months (40% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 87 | 82 | 49 | 15 | 86 |
+| **66** | 89 | 82 | 49 | 18 | 86 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $113.20 |
-| Market value | $5.7B |
-| P/E | 13.2 |
-| Price/Sales | 2.77 |
-| Price/Book | 2.59 |
-| Free-cash-flow yield | 11.2% |
+| Price | $106.87 |
+| Market value | $5.4B |
+| P/E | 12.4 |
+| Price/Sales | 2.61 |
+| Price/Book | 2.45 |
+| Free-cash-flow yield | 11.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +6.2% |
@@ -61,11 +62,15 @@ Technology · Semiconductors
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.8% |
-| Return 1m / 6m / 12m | +2.2% / -29.7% / -9.3% |
-| vs. 200-day average | -19.1% |
-| RSI (14d) | 38 |
-| Volatility (1y) | 35.9% |
+| Return 1m / 6m / 12m | -8.3% / -33.5% / -7.6% |
+| vs. 200-day average | -23.6% |
+| RSI (14d) | 30 |
+| Volatility (1y) | 36.1% |
 | Financials as of | 2026-06-27 |
+
+## Watch out
+
+- well below 200-day average
 
 ## Dig deeper
 
@@ -74,4 +79,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/CRUS
 - Full deep dive: run `python scout.py stock CRUS` → `research/CRUS.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

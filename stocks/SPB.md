@@ -3,17 +3,17 @@ ticker: "SPB"
 company: "Spectrum Brands Holdings Inc."
 sector: "Miscellaneous"
 industry: "Industrial Machinery/Components"
-price: 77.58
+price: 77.37
 market_cap: "$1.8B"
-score: 58
+score: 57
 value: 78
 quality: 45
 growth: 38
-momentum: 62
+momentum: 60
 health: 58
-pe: 22.5
+pe: 22.4
 piotroski: 5
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,23 +30,23 @@ Miscellaneous · Industrial Machinery/Components
 - Cheaper than about 78% of stocks in Miscellaneous (value score).
 - Business quality ranks above 45% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 55% over 12 months (14% below its 52-week high).
+- Share price up 58% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 78 | 45 | 38 | 62 | 58 |
+| **57** | 78 | 45 | 38 | 60 | 58 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $77.58 |
+| Price | $77.37 |
 | Market value | $1.8B |
-| P/E | 22.5 |
+| P/E | 22.4 |
 | Price/Sales | 0.62 |
-| Price/Book | 0.97 |
+| Price/Book | 0.96 |
 | Free-cash-flow yield | 9.3% |
 | Dividend yield | 2.7% |
 | Sales (12m) | $2.9B |
@@ -61,9 +61,9 @@ Miscellaneous · Industrial Machinery/Components
 | Piotroski F-score | 5/9 |
 | Altman Z | 2.71 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -9.4% / -0.6% / +54.5% |
-| vs. 200-day average | -1.4% |
-| RSI (14d) | 32 |
+| Return 1m / 6m / 12m | -9.6% / -2.5% / +57.7% |
+| vs. 200-day average | -1.8% |
+| RSI (14d) | 31 |
 | Volatility (1y) | 33.6% |
 | Financials as of | 2026-06-28 |
 
@@ -74,4 +74,4 @@ Miscellaneous · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/SPB
 - Full deep dive: run `python scout.py stock SPB` → `research/SPB.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

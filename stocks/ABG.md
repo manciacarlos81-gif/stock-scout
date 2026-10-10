@@ -3,17 +3,17 @@ ticker: "ABG"
 company: "Asbury Automotive Group Inc"
 sector: "Consumer Discretionary"
 industry: "Retail-Auto Dealers and Gas Stations"
-price: 168.96
+price: 167.6
 market_cap: "$3.0B"
 score: 50
 value: 95
 quality: 43
 growth: 35
-momentum: 19
+momentum: 18
 health: 44
-pe: 6.0
+pe: 5.9
 piotroski: 6
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 - Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 43% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 31% over 12 months (34% below its 52-week high).
+- Share price down 29% over 12 months (35% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 95 | 43 | 35 | 19 | 44 |
+| **50** | 95 | 43 | 35 | 18 | 44 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $168.96 |
+| Price | $167.60 |
 | Market value | $3.0B |
-| P/E | 6.0 |
+| P/E | 5.9 |
 | Price/Sales | 0.17 |
 | Price/Book | 0.77 |
-| Free-cash-flow yield | 25.6% |
+| Free-cash-flow yield | 25.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $18.0B |
 | Sales growth | +4.1% |
@@ -61,10 +61,10 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -20.4% / -17.9% / -30.7% |
-| vs. 200-day average | -19.1% |
-| RSI (14d) | 30 |
-| Volatility (1y) | 32.8% |
+| Return 1m / 6m / 12m | -19.7% / -18.9% / -28.7% |
+| vs. 200-day average | -19.6% |
+| RSI (14d) | 29 |
+| Volatility (1y) | 32.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 - Insider trades: http://openinsider.com/ABG
 - Full deep dive: run `python scout.py stock ABG` → `research/ABG.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

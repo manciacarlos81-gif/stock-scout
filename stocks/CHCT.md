@@ -3,17 +3,17 @@ ticker: "CHCT"
 company: "Community Healthcare Trust Incorporated"
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 13.68
-market_cap: "$392.0M"
-score: 56
-value: 76
+price: 13.61
+market_cap: "$390.0M"
+score: 57
+value: 77
 quality: 51
 growth: 59
 momentum: 34
 health: 60
-pe: 18.7
+pe: 18.6
 piotroski: 6
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,29 +27,29 @@ Real Estate · Real Estate Investment Trusts
 
 ## In plain English
 
-- Cheaper than about 76% of stocks in Real Estate (value score).
+- Cheaper than about 77% of stocks in Real Estate (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price up 12% over 12 months (26% below its 52-week high).
+- Share price up 14% over 12 months (27% below its 52-week high).
 - Insiders bought $273.0K of shares recently (Dupuy David H. (CEO, Pres); Hensley Robert Z (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 76 | 51 | 59 | 34 | 60 |
+| **57** | 77 | 51 | 59 | 34 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $13.68 |
-| Market value | $392.0M |
-| P/E | 18.7 |
-| Price/Sales | 3.14 |
-| Price/Book | 0.95 |
-| Free-cash-flow yield | 14.4% |
-| Dividend yield | 13.7% |
+| Price | $13.61 |
+| Market value | $390.0M |
+| P/E | 18.6 |
+| Price/Sales | 3.13 |
+| Price/Book | 0.94 |
+| Free-cash-flow yield | 14.5% |
+| Dividend yield | 13.8% |
 | Sales (12m) | $124.8M |
 | Sales growth | +5.7% |
 | Net profit (12m) | $21.0M |
@@ -62,9 +62,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | -5.6% / -16.4% / +12.0% |
-| vs. 200-day average | -14.8% |
-| RSI (14d) | 35 |
+| Return 1m / 6m / 12m | -7.0% / -17.7% / +14.3% |
+| vs. 200-day average | -15.2% |
+| RSI (14d) | 34 |
 | Volatility (1y) | 26.9% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/CHCT
 - Full deep dive: run `python scout.py stock CHCT` → `research/CHCT.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "DPZ"
 company: "Domino's Pizza Inc"
 sector: "Consumer Discretionary"
 industry: "Food Distributors"
-price: 308.65
+price: 309.36
 market_cap: "$10.2B"
 score: 52
-value: 49
+value: 48
 quality: 85
 growth: 43
 momentum: 20
 health: 52
-pe: 17.1
+pe: 17.2
 piotroski: 8
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,7 +27,7 @@ Consumer Discretionary · Food Distributors
 
 ## In plain English
 
-- More expensive than about 51% of Consumer Discretionary peers (value score).
+- More expensive than about 52% of Consumer Discretionary peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
 - Share price down 22% over 12 months (28% below its 52-week high).
@@ -36,16 +36,16 @@ Consumer Discretionary · Food Distributors
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 49 | 85 | 43 | 20 | 52 |
+| **52** | 48 | 85 | 43 | 20 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $308.65 |
+| Price | $309.36 |
 | Market value | $10.2B |
-| P/E | 17.1 |
-| Price/Sales | 2.03 |
+| P/E | 17.2 |
+| Price/Sales | 2.04 |
 | Price/Book | – |
 | Free-cash-flow yield | 6.6% |
 | Dividend yield | 2.3% |
@@ -61,9 +61,9 @@ Consumer Discretionary · Food Distributors
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.84 |
 | Share count change (1y) | -3.1% |
-| Return 1m / 6m / 12m | -3.4% / -15.3% / -22.2% |
-| vs. 200-day average | -10.9% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | -1.9% / -15.2% / -22.2% |
+| vs. 200-day average | -10.5% |
+| RSI (14d) | 51 |
 | Volatility (1y) | 30.7% |
 | Financials as of | 2026-06-14 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Food Distributors
 - Insider trades: http://openinsider.com/DPZ
 - Full deep dive: run `python scout.py stock DPZ` → `research/DPZ.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

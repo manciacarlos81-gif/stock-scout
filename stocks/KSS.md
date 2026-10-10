@@ -3,17 +3,17 @@ ticker: "KSS"
 company: "Kohl's Corporation"
 sector: "Consumer Discretionary"
 industry: "Department/Specialty Retail Stores"
-price: 20.11
+price: 20.35
 market_cap: "$2.3B"
 score: 65
 value: 97
 quality: 52
 growth: 35
-momentum: 75
+momentum: 76
 health: 47
-pe: 8.4
+pe: 8.5
 piotroski: 6
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Cheaper than about 97% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 52% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 36% over 12 months (16% below its 52-week high).
+- Share price up 50% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 97 | 52 | 35 | 75 | 47 |
+| **65** | 97 | 52 | 35 | 76 | 47 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $20.11 |
+| Price | $20.35 |
 | Market value | $2.3B |
-| P/E | 8.4 |
+| P/E | 8.5 |
 | Price/Sales | 0.15 |
 | Price/Book | 0.55 |
-| Free-cash-flow yield | 60.5% |
-| Dividend yield | 2.5% |
+| Free-cash-flow yield | 59.8% |
+| Dividend yield | 2.4% |
 | Sales (12m) | $15.4B |
 | Sales growth | -2.9% |
 | Net profit (12m) | $271.0M |
@@ -61,10 +61,10 @@ Consumer Discretionary · Department/Specialty Retail Stores
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.5% |
-| Return 1m / 6m / 12m | +14.8% / +51.6% / +35.7% |
-| vs. 200-day average | +21.4% |
-| RSI (14d) | 66 |
-| Volatility (1y) | 73.4% |
+| Return 1m / 6m / 12m | +21.2% / +51.6% / +50.0% |
+| vs. 200-day average | +22.8% |
+| RSI (14d) | 67 |
+| Volatility (1y) | 72.6% |
 | Financials as of | 2026-08-01 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Insider trades: http://openinsider.com/KSS
 - Full deep dive: run `python scout.py stock KSS` → `research/KSS.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

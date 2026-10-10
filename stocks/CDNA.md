@@ -3,17 +3,17 @@ ticker: "CDNA"
 company: "CareDx Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 62.21
-market_cap: "$3.2B"
+price: 63.67
+market_cap: "$3.3B"
 score: 79
 value: 62
 quality: 75
 growth: 84
 momentum: 99
 health: 84
-pe: 29.0
+pe: 29.7
 piotroski: 6
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,7 +31,7 @@ Health Care · Medical Specialities
 - Cheaper than about 62% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 322% over 12 months (11% below its 52-week high).
+- Share price up 342% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,11 +43,11 @@ Health Care · Medical Specialities
 
 | | |
 |---|---:|
-| Price | $62.21 |
-| Market value | $3.2B |
-| P/E | 29.0 |
-| Price/Sales | 7.03 |
-| Price/Book | 7.56 |
+| Price | $63.67 |
+| Market value | $3.3B |
+| P/E | 29.7 |
+| Price/Sales | 7.19 |
+| Price/Book | 7.74 |
 | Free-cash-flow yield | 1.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $458.1M |
@@ -60,11 +60,11 @@ Health Care · Medical Specialities
 | Debt / equity | 0.00 |
 | Current ratio | 4.58 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 18.94 |
+| Altman Z | 19.36 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +24.3% / +269.6% / +322.3% |
-| vs. 200-day average | +108.6% |
-| RSI (14d) | 59 |
+| Return 1m / 6m / 12m | +27.3% / +261.1% / +342.5% |
+| vs. 200-day average | +111.9% |
+| RSI (14d) | 62 |
 | Volatility (1y) | 73.0% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CDNA
 - Full deep dive: run `python scout.py stock CDNA` → `research/CDNA.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

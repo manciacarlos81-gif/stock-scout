@@ -3,7 +3,7 @@ ticker: "HRMY"
 company: "Harmony Biosciences Holdings Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 39.6
+price: 40.28
 market_cap: "$2.3B"
 score: 77
 value: 90
@@ -11,9 +11,9 @@ quality: 77
 growth: 55
 momentum: 83
 health: 71
-pe: 12.7
+pe: 12.9
 piotroski: 5
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,7 +31,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 90% of stocks in Health Care (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price up 48% over 12 months (8% below its 52-week high).
+- Share price up 52% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $39.60 |
+| Price | $40.28 |
 | Market value | $2.3B |
-| P/E | 12.7 |
-| Price/Sales | 2.40 |
-| Price/Book | 2.31 |
-| Free-cash-flow yield | 15.1% |
+| P/E | 12.9 |
+| Price/Sales | 2.44 |
+| Price/Book | 2.35 |
+| Free-cash-flow yield | 14.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $959.9M |
 | Sales growth | +24.3% |
@@ -60,11 +60,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.15 |
 | Current ratio | 3.48 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 5.74 |
+| Altman Z | 5.80 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -4.9% / +36.3% / +47.9% |
-| vs. 200-day average | +14.3% |
-| RSI (14d) | 45 |
+| Return 1m / 6m / 12m | -2.0% / +37.5% / +51.8% |
+| vs. 200-day average | +16.2% |
+| RSI (14d) | 51 |
 | Volatility (1y) | 40.9% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/HRMY
 - Full deep dive: run `python scout.py stock HRMY` → `research/HRMY.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

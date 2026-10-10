@@ -3,17 +3,17 @@ ticker: "FTK"
 company: "Flotek Industries Inc."
 sector: "Industrials"
 industry: "Major Chemicals"
-price: 27.22
-market_cap: "$985.9M"
+price: 26.79
+market_cap: "$970.3M"
 score: 61
 value: 40
 quality: 45
 growth: 83
-momentum: 91
-health: 60
-pe: 25.9
+momentum: 90
+health: 59
+pe: 25.5
 piotroski: 4
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,24 +30,24 @@ Industrials · Major Chemicals
 - More expensive than about 60% of Industrials peers (value score).
 - Business quality ranks above 45% of all stocks scanned.
 - Sales grew 37% over the last 12 months.
-- Share price up 75% over 12 months (30% below its 52-week high).
+- Share price up 76% over 12 months (31% below its 52-week high).
 - Insiders bought $34.3M of shares recently (Wilks Matthew (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 40 | 45 | 83 | 91 | 60 |
+| **61** | 40 | 45 | 83 | 90 | 59 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $27.22 |
-| Market value | $985.9M |
-| P/E | 25.9 |
-| Price/Sales | 3.37 |
-| Price/Book | 7.63 |
+| Price | $26.79 |
+| Market value | $970.3M |
+| P/E | 25.5 |
+| Price/Sales | 3.31 |
+| Price/Book | 7.51 |
 | Free-cash-flow yield | 0.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $293.0M |
@@ -60,12 +60,12 @@ Industrials · Major Chemicals
 | Debt / equity | 0.31 |
 | Current ratio | 1.78 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 4.73 |
+| Altman Z | 4.66 |
 | Share count change (1y) | +6.2% |
-| Return 1m / 6m / 12m | -2.4% / +73.3% / +74.6% |
-| vs. 200-day average | +26.6% |
-| RSI (14d) | 45 |
-| Volatility (1y) | 77.7% |
+| Return 1m / 6m / 12m | -2.3% / +70.7% / +76.3% |
+| vs. 200-day average | +24.4% |
+| RSI (14d) | 43 |
+| Volatility (1y) | 77.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Industrials · Major Chemicals
 - Insider trades: http://openinsider.com/FTK
 - Full deep dive: run `python scout.py stock FTK` → `research/FTK.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_

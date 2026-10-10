@@ -3,8 +3,8 @@ ticker: "QFIN"
 company: "Qfin Holdings Inc."
 sector: "Finance"
 industry: "Finance: Consumer Services"
-price: 6.09
-market_cap: "$742.1M"
+price: 6.2
+market_cap: "$754.9M"
 score: 61
 value: 100
 quality: 73
@@ -13,7 +13,7 @@ momentum: 1
 health: 65
 pe: 0.9
 piotroski: 6
-updated: "2026-10-09"
+updated: "2026-10-10"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,7 +31,7 @@ Finance · Finance: Consumer Services
 - Cheaper than about 100% of stocks in Finance (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 17% over the last 12 months.
-- Share price down 76% over 12 months (75% below its 52-week high).
+- Share price down 74% over 12 months (74% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,8 +43,8 @@ Finance · Finance: Consumer Services
 
 | | |
 |---|---:|
-| Price | $6.09 |
-| Market value | $742.1M |
+| Price | $6.20 |
+| Market value | $754.9M |
 | P/E | 0.9 |
 | Price/Sales | 0.27 |
 | Price/Book | 0.22 |
@@ -62,10 +62,10 @@ Finance · Finance: Consumer Services
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -10.3% |
-| Return 1m / 6m / 12m | -29.1% / -50.2% / -75.6% |
-| vs. 200-day average | -51.0% |
-| RSI (14d) | 17 |
-| Volatility (1y) | 58.5% |
+| Return 1m / 6m / 12m | -26.8% / -50.5% / -74.3% |
+| vs. 200-day average | -49.9% |
+| RSI (14d) | 20 |
+| Volatility (1y) | 58.6% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -80,4 +80,4 @@ Finance · Finance: Consumer Services
 - Insider trades: http://openinsider.com/QFIN
 - Full deep dive: run `python scout.py stock QFIN` → `research/QFIN.md`
 
-_Updated 2026-10-09 · [latest report](../reports/latest.md)_
+_Updated 2026-10-10 · [latest report](../reports/latest.md)_
