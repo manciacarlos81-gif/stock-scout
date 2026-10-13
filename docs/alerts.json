@@ -1,21 +1,21 @@
 {
- "date": "2026-10-10",
- "scanned": 2589,
+ "date": "2026-10-13",
+ "scanned": 2585,
  "top": [
   {
    "rank": 1,
    "ticker": "MU",
    "name": "Micron Technology Inc.",
-   "score": 85,
-   "price": 1029.0,
+   "score": 86,
+   "price": 989.04,
    "flags": ""
   },
   {
    "rank": 2,
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
-   "score": 81,
-   "price": 1581.82,
+   "score": 82,
+   "price": 1487.33,
    "flags": ""
   },
   {
@@ -23,7 +23,7 @@
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 99.77,
+   "price": 100.85,
    "flags": "heavy debt"
   },
   {
@@ -31,7 +31,7 @@
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 206.29,
+   "price": 206.15,
    "flags": "shares up 17% in a year"
   },
   {
@@ -39,7 +39,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 80,
-   "price": 57.64,
+   "price": 58.24,
    "flags": ""
   },
   {
@@ -47,23 +47,23 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 119.82,
+   "price": 124.22,
    "flags": ""
   },
   {
    "rank": 7,
-   "ticker": "INCY",
-   "name": "Incyte Corp.",
+   "ticker": "CDNA",
+   "name": "CareDx Inc.",
    "score": 79,
-   "price": 112.79,
+   "price": 63.12,
    "flags": ""
   },
   {
    "rank": 8,
-   "ticker": "CDNA",
-   "name": "CareDx Inc.",
+   "ticker": "INCY",
+   "name": "Incyte Corp.",
    "score": 79,
-   "price": 63.67,
+   "price": 111.36,
    "flags": ""
   },
   {
@@ -71,7 +71,7 @@
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
    "score": 79,
-   "price": 59.86,
+   "price": 59.82,
    "flags": ""
   },
   {
@@ -79,13 +79,11 @@
    "ticker": "BFH",
    "name": "Bread Financial Holdings Inc.",
    "score": 78,
-   "price": 100.58,
+   "price": 101.63,
    "flags": ""
   }
  ],
- "new_top": [
-  "MU"
- ],
+ "new_top": [],
  "prev_top": [
   "BFH",
   "CDNA",
@@ -93,18 +91,10 @@
   "EXEL",
   "INCY",
   "INSW",
-  "KNSA",
   "LPG",
+  "MU",
   "NUTX",
   "SNDK"
  ],
- "insider": [
-  {
-   "ticker": "BORR",
-   "name": "Borr Drilling Limited",
-   "value": 32714583,
-   "buyers": 3,
-   "last": "2026-10-07"
-  }
- ]
+ "insider": []
 }

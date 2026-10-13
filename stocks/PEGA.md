@@ -3,17 +3,17 @@ ticker: "PEGA"
 company: "Pegasystems Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 35.65
-market_cap: "$5.9B"
-score: 58
+price: 34.91
+market_cap: "$5.7B"
+score: 57
 value: 68
 quality: 85
 growth: 42
-momentum: 20
+momentum: 17
 health: 62
-pe: 18.1
+pe: 17.7
 piotroski: 9
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,24 +30,24 @@ Technology · EDP Services
 - Cheaper than about 68% of stocks in Technology (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 33% over 12 months (46% below its 52-week high).
+- Share price down 36% over 12 months (47% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 68 | 85 | 42 | 20 | 62 |
+| **57** | 68 | 85 | 42 | 17 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $35.65 |
-| Market value | $5.9B |
-| P/E | 18.1 |
-| Price/Sales | 3.38 |
-| Price/Book | 10.46 |
-| Free-cash-flow yield | 8.4% |
+| Price | $34.91 |
+| Market value | $5.7B |
+| P/E | 17.7 |
+| Price/Sales | 3.31 |
+| Price/Book | 10.24 |
+| Free-cash-flow yield | 8.6% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $1.7B |
 | Sales growth | +3.6% |
@@ -59,11 +59,11 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 1.06 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 6.48 |
+| Altman Z | 6.39 |
 | Share count change (1y) | -5.7% |
-| Return 1m / 6m / 12m | -0.1% / -13.1% / -33.3% |
-| vs. 200-day average | -7.4% |
-| RSI (14d) | 56 |
+| Return 1m / 6m / 12m | -3.6% / -18.0% / -36.0% |
+| vs. 200-day average | -9.0% |
+| RSI (14d) | 51 |
 | Volatility (1y) | 52.6% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PEGA
 - Full deep dive: run `python scout.py stock PEGA` → `research/PEGA.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

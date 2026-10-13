@@ -3,17 +3,17 @@ ticker: "PAYS"
 company: "Paysign Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 15.37
-market_cap: "$867.8M"
+price: 15.17
+market_cap: "$856.5M"
 score: 70
 value: 51
 quality: 70
 growth: 84
 momentum: 98
 health: 50
-pe: 55.0
+pe: 54.3
 piotroski: 6
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · EDP Services
 - Cheaper than about 51% of stocks in Technology (value score).
 - Business quality ranks above 70% of all stocks scanned.
 - Sales grew 47% over the last 12 months.
-- Share price up 187% over 12 months (0% below its 52-week high).
+- Share price up 177% over 12 months (1% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Technology · EDP Services
 
 | | |
 |---|---:|
-| Price | $15.37 |
-| Market value | $867.8M |
-| P/E | 55.0 |
-| Price/Sales | 8.62 |
-| Price/Book | 14.43 |
-| Free-cash-flow yield | 5.9% |
+| Price | $15.17 |
+| Market value | $856.5M |
+| P/E | 54.3 |
+| Price/Sales | 8.51 |
+| Price/Book | 14.24 |
+| Free-cash-flow yield | 6.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $100.6M |
 | Sales growth | +46.8% |
@@ -59,11 +59,11 @@ Technology · EDP Services
 | Debt / equity | 0.09 |
 | Current ratio | 1.14 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.77 |
+| Altman Z | 2.75 |
 | Share count change (1y) | +7.1% |
-| Return 1m / 6m / 12m | +15.2% / +168.7% / +187.3% |
-| vs. 200-day average | +101.2% |
-| RSI (14d) | 70 |
+| Return 1m / 6m / 12m | +16.6% / +161.6% / +177.3% |
+| vs. 200-day average | +97.3% |
+| RSI (14d) | 67 |
 | Volatility (1y) | 69.4% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PAYS
 - Full deep dive: run `python scout.py stock PAYS` → `research/PAYS.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

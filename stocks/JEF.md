@@ -3,17 +3,17 @@ ticker: "JEF"
 company: "Jefferies Financial Group Inc."
 sector: "Finance"
 industry: "Investment Bankers/Brokers/Service"
-price: 44.38
-market_cap: "$8.6B"
-score: 58
+price: 45.01
+market_cap: "$8.7B"
+score: 57
 value: 85
 quality: null
 growth: 63
-momentum: 36
+momentum: 35
 health: 48
-pe: 10.0
+pe: 10.1
 piotroski: 4
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -29,26 +29,26 @@ Finance · Investment Bankers/Brokers/Service
 
 - Cheaper than about 85% of stocks in Finance (value score).
 - Sales grew 14% over the last 12 months.
-- Share price down 10% over 12 months (31% below its 52-week high).
+- Share price down 14% over 12 months (31% below its 52-week high).
 - Insiders bought $642.7M of shares recently (Sumitomo Mitsui Financial Group, Inc. (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 85 | – | 63 | 36 | 48 |
+| **57** | 85 | – | 63 | 35 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $44.38 |
-| Market value | $8.6B |
-| P/E | 10.0 |
-| Price/Sales | 0.73 |
-| Price/Book | 0.81 |
+| Price | $45.01 |
+| Market value | $8.7B |
+| P/E | 10.1 |
+| Price/Sales | 0.74 |
+| Price/Book | 0.83 |
 | Free-cash-flow yield | – |
-| Dividend yield | 4.4% |
+| Dividend yield | 4.3% |
 | Sales (12m) | $11.8B |
 | Sales growth | +13.8% |
 | Net profit (12m) | $863.1M |
@@ -61,9 +61,9 @@ Finance · Investment Bankers/Brokers/Service
 | Piotroski F-score | 4/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.4% |
-| Return 1m / 6m / 12m | -17.7% / -4.3% / -10.2% |
-| vs. 200-day average | -13.9% |
-| RSI (14d) | 29 |
+| Return 1m / 6m / 12m | -13.4% / -2.5% / -13.7% |
+| vs. 200-day average | -12.5% |
+| RSI (14d) | 34 |
 | Volatility (1y) | 41.5% |
 | Financials as of | 2026-05-31 |
 
@@ -74,4 +74,4 @@ Finance · Investment Bankers/Brokers/Service
 - Insider trades: http://openinsider.com/JEF
 - Full deep dive: run `python scout.py stock JEF` → `research/JEF.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

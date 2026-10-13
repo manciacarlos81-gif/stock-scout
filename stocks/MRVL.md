@@ -3,17 +3,17 @@ ticker: "MRVL"
 company: "Marvell Technology Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 275.28
-market_cap: "$241.4B"
+price: 265.86
+market_cap: "$233.1B"
 score: 63
-value: 28
+value: 29
 quality: 54
 growth: 87
 momentum: 97
 health: 67
-pe: 91.4
+pe: 88.3
 piotroski: 7
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,26 +27,26 @@ Technology · Semiconductors
 
 ## In plain English
 
-- More expensive than about 72% of Technology peers (value score).
+- More expensive than about 71% of Technology peers (value score).
 - Business quality ranks above 54% of all stocks scanned.
 - Sales grew 31% over the last 12 months.
-- Share price up 222% over 12 months (13% below its 52-week high).
+- Share price up 198% over 12 months (16% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 28 | 54 | 87 | 97 | 67 |
+| **63** | 29 | 54 | 87 | 97 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $275.28 |
-| Market value | $241.4B |
-| P/E | 91.4 |
-| Price/Sales | 25.54 |
-| Price/Book | 13.03 |
+| Price | $265.86 |
+| Market value | $233.1B |
+| P/E | 88.3 |
+| Price/Sales | 24.67 |
+| Price/Book | 12.58 |
 | Free-cash-flow yield | 0.6% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $9.5B |
@@ -59,11 +59,11 @@ Technology · Semiconductors
 | Debt / equity | 0.27 |
 | Current ratio | 3.17 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 16.90 |
+| Altman Z | 16.35 |
 | Share count change (1y) | +5.8% |
-| Return 1m / 6m / 12m | +21.3% / +105.8% / +222.1% |
-| vs. 200-day average | +59.2% |
-| RSI (14d) | 62 |
+| Return 1m / 6m / 12m | +12.6% / +97.6% / +197.9% |
+| vs. 200-day average | +52.9% |
+| RSI (14d) | 55 |
 | Volatility (1y) | 79.0% |
 | Financials as of | 2026-08-01 |
 
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MRVL
 - Full deep dive: run `python scout.py stock MRVL` → `research/MRVL.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "CHCT"
 company: "Community Healthcare Trust Incorporated"
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 13.61
-market_cap: "$390.0M"
-score: 57
+price: 13.53
+market_cap: "$387.7M"
+score: 56
 value: 77
 quality: 51
 growth: 59
-momentum: 34
+momentum: 33
 health: 60
-pe: 18.6
+pe: 18.5
 piotroski: 6
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 77% of stocks in Real Estate (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price up 14% over 12 months (27% below its 52-week high).
+- Share price up 12% over 12 months (27% below its 52-week high).
 - Insiders bought $273.0K of shares recently (Dupuy David H. (CEO, Pres); Hensley Robert Z (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 77 | 51 | 59 | 34 | 60 |
+| **56** | 77 | 51 | 59 | 33 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $13.61 |
-| Market value | $390.0M |
-| P/E | 18.6 |
-| Price/Sales | 3.13 |
+| Price | $13.53 |
+| Market value | $387.7M |
+| P/E | 18.5 |
+| Price/Sales | 3.11 |
 | Price/Book | 0.94 |
-| Free-cash-flow yield | 14.5% |
+| Free-cash-flow yield | 14.6% |
 | Dividend yield | 13.8% |
 | Sales (12m) | $124.8M |
 | Sales growth | +5.7% |
@@ -62,10 +62,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | -7.0% / -17.7% / +14.3% |
-| vs. 200-day average | -15.2% |
-| RSI (14d) | 34 |
-| Volatility (1y) | 26.9% |
+| Return 1m / 6m / 12m | -7.4% / -18.2% / +11.5% |
+| vs. 200-day average | -15.6% |
+| RSI (14d) | 33 |
+| Volatility (1y) | 26.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/CHCT
 - Full deep dive: run `python scout.py stock CHCT` → `research/CHCT.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

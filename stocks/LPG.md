@@ -3,7 +3,7 @@ ticker: "LPG"
 company: "Dorian LPG Ltd."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 57.64
+price: 58.24
 market_cap: "$2.5B"
 score: 80
 value: 73
@@ -13,7 +13,7 @@ momentum: 95
 health: 61
 pe: 7.7
 piotroski: 7
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,7 +31,7 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 73% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 142% over 12 months (1% below its 52-week high).
+- Share price up 143% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,13 +43,13 @@ Consumer Discretionary · Marine Transportation
 
 | | |
 |---|---:|
-| Price | $57.64 |
+| Price | $58.24 |
 | Market value | $2.5B |
 | P/E | 7.7 |
-| Price/Sales | 4.21 |
-| Price/Book | 1.99 |
-| Free-cash-flow yield | 8.5% |
-| Dividend yield | 4.3% |
+| Price/Sales | 4.26 |
+| Price/Book | 2.02 |
+| Free-cash-flow yield | 8.4% |
+| Dividend yield | 4.2% |
 | Sales (12m) | $585.2M |
 | Sales growth | +81.1% |
 | Net profit (12m) | $321.9M |
@@ -60,11 +60,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.41 |
 | Current ratio | 3.26 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.80 |
+| Altman Z | 3.82 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | +5.9% / +74.7% / +141.9% |
-| vs. 200-day average | +47.2% |
-| RSI (14d) | 61 |
+| Return 1m / 6m / 12m | +5.5% / +71.4% / +143.4% |
+| vs. 200-day average | +48.1% |
+| RSI (14d) | 63 |
 | Volatility (1y) | 41.6% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/LPG
 - Full deep dive: run `python scout.py stock LPG` → `research/LPG.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

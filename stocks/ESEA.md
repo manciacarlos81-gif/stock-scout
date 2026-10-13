@@ -3,17 +3,17 @@ ticker: "ESEA"
 company: "Euroseas Ltd."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 71.24
-market_cap: "$502.7M"
-score: 74
+price: 71.21
+market_cap: "$502.4M"
+score: 73
 value: 88
 quality: 84
 growth: 53
-momentum: 65
+momentum: 61
 health: 63
 pe: 3.7
 piotroski: 8
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,23 +30,23 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 88% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 40% over 12 months (9% below its 52-week high).
+- Share price up 28% over 12 months (9% below its 52-week high).
 - Insiders bought $131.5K of shares recently (Pittas Aristeidis P (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 88 | 84 | 53 | 65 | 63 |
+| **73** | 88 | 84 | 53 | 61 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $71.24 |
-| Market value | $502.7M |
+| Price | $71.21 |
+| Market value | $502.4M |
 | P/E | 3.7 |
-| Price/Sales | 2.21 |
+| Price/Sales | 2.20 |
 | Price/Book | 0.97 |
 | Free-cash-flow yield | 28.1% |
 | Dividend yield | 3.8% |
@@ -62,10 +62,10 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 8/9 |
 | Altman Z | 3.04 |
 | Share count change (1y) | -0.2% |
-| Return 1m / 6m / 12m | -3.3% / +4.2% / +39.7% |
-| vs. 200-day average | +7.3% |
+| Return 1m / 6m / 12m | -4.5% / +2.8% / +28.4% |
+| vs. 200-day average | +7.1% |
 | RSI (14d) | 44 |
-| Volatility (1y) | 41.5% |
+| Volatility (1y) | 41.4% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/ESEA
 - Full deep dive: run `python scout.py stock ESEA` → `research/ESEA.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

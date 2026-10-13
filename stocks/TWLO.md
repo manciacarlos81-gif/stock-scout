@@ -3,17 +3,17 @@ ticker: "TWLO"
 company: "Twilio Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 289.47
-market_cap: "$44.5B"
+price: 282.66
+market_cap: "$43.4B"
 score: 68
 value: 45
 quality: 55
 growth: 84
 momentum: 96
 health: 76
-pe: 38.7
+pe: 37.8
 piotroski: 6
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Computer Software: Prepackaged Software
 - More expensive than about 55% of Technology peers (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 18% over the last 12 months.
-- Share price up 170% over 12 months (4% below its 52-week high).
+- Share price up 156% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Technology · Computer Software: Prepackaged Software
 
 | | |
 |---|---:|
-| Price | $289.47 |
-| Market value | $44.5B |
-| P/E | 38.7 |
-| Price/Sales | 7.98 |
-| Price/Book | 4.95 |
+| Price | $282.66 |
+| Market value | $43.4B |
+| P/E | 37.8 |
+| Price/Sales | 7.79 |
+| Price/Book | 4.84 |
 | Free-cash-flow yield | 2.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.6B |
@@ -59,11 +59,11 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.11 |
 | Current ratio | 4.62 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 14.29 |
+| Altman Z | 13.95 |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | +25.2% / +133.4% / +170.2% |
-| vs. 200-day average | +60.5% |
-| RSI (14d) | 59 |
+| Return 1m / 6m / 12m | +24.3% / +110.8% / +155.7% |
+| vs. 200-day average | +56.1% |
+| RSI (14d) | 56 |
 | Volatility (1y) | 62.8% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/TWLO
 - Full deep dive: run `python scout.py stock TWLO` → `research/TWLO.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "MLAB"
 company: "Mesa Laboratories Inc."
 sector: "Industrials"
 industry: "Industrial Machinery/Components"
-price: 127.51
-market_cap: "$713.5M"
+price: 128.07
+market_cap: "$716.7M"
 score: 60
 value: 44
 quality: 64
 growth: 60
 momentum: 86
-health: 43
-pe: 148.7
+health: 44
+pe: 149.3
 piotroski: 8
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -37,17 +37,17 @@ Industrials · Industrial Machinery/Components
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 44 | 64 | 60 | 86 | 43 |
+| **60** | 44 | 64 | 60 | 86 | 44 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $127.51 |
-| Market value | $713.5M |
-| P/E | 148.7 |
-| Price/Sales | 2.86 |
-| Price/Book | 3.78 |
+| Price | $128.07 |
+| Market value | $716.7M |
+| P/E | 149.3 |
+| Price/Sales | 2.87 |
+| Price/Book | 3.80 |
 | Free-cash-flow yield | 5.5% |
 | Dividend yield | 0.5% |
 | Sales (12m) | $249.7M |
@@ -62,10 +62,10 @@ Industrials · Industrial Machinery/Components
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.15 |
 | Share count change (1y) | +3.7% |
-| Return 1m / 6m / 12m | +5.5% / +29.2% / +89.5% |
-| vs. 200-day average | +26.3% |
+| Return 1m / 6m / 12m | +6.0% / +29.3% / +88.7% |
+| vs. 200-day average | +26.6% |
 | RSI (14d) | 49 |
-| Volatility (1y) | 53.6% |
+| Volatility (1y) | 53.4% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Industrials · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/MLAB
 - Full deep dive: run `python scout.py stock MLAB` → `research/MLAB.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

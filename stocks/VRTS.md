@@ -3,17 +3,17 @@ ticker: "VRTS"
 company: "Virtus Investment Partners Inc."
 sector: "Finance"
 industry: "Investment Managers"
-price: 131.22
-market_cap: "$869.0M"
-score: 51
+price: 130.51
+market_cap: "$864.3M"
+score: 50
 value: 88
 quality: 41
 growth: 21
-momentum: 29
+momentum: 27
 health: 63
 pe: 7.5
 piotroski: 3
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Finance · Investment Managers
 - Cheaper than about 88% of stocks in Finance (value score).
 - Business quality ranks above 41% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price down 24% over 12 months (28% below its 52-week high).
+- Share price down 26% over 12 months (28% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 88 | 41 | 21 | 29 | 63 |
+| **50** | 88 | 41 | 21 | 27 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $131.22 |
-| Market value | $869.0M |
+| Price | $130.51 |
+| Market value | $864.3M |
 | P/E | 7.5 |
 | Price/Sales | 1.05 |
-| Price/Book | 0.92 |
+| Price/Book | 0.91 |
 | Free-cash-flow yield | – |
-| Dividend yield | 7.4% |
+| Dividend yield | 7.5% |
 | Sales (12m) | $825.3M |
 | Sales growth | -7.2% |
 | Net profit (12m) | $116.0M |
@@ -61,10 +61,10 @@ Finance · Investment Managers
 | Piotroski F-score | 3/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -13.6% / -4.5% / -24.2% |
-| vs. 200-day average | -9.7% |
-| RSI (14d) | 35 |
-| Volatility (1y) | 35.2% |
+| Return 1m / 6m / 12m | -11.5% / -6.1% / -26.2% |
+| vs. 200-day average | -10.1% |
+| RSI (14d) | 34 |
+| Volatility (1y) | 35.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Finance · Investment Managers
 - Insider trades: http://openinsider.com/VRTS
 - Full deep dive: run `python scout.py stock VRTS` → `research/VRTS.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

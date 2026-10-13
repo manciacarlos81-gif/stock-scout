@@ -3,17 +3,17 @@ ticker: "COKE"
 company: "Coca-Cola Consolidated Inc."
 sector: "Consumer Staples"
 industry: "Beverages (Production/Distribution)"
-price: 196.24
+price: 197.22
 market_cap: "$13.1B"
-score: 56
-value: 42
+score: 57
+value: 43
 quality: 71
 growth: 47
-momentum: 65
+momentum: 69
 health: 51
-pe: 23.8
+pe: 23.9
 piotroski: 6
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,7 +27,7 @@ Consumer Staples · Beverages (Production/Distribution)
 
 ## In plain English
 
-- More expensive than about 58% of Consumer Staples peers (value score).
+- More expensive than about 57% of Consumer Staples peers (value score).
 - Business quality ranks above 71% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
 - Share price up 59% over 12 months (9% below its 52-week high).
@@ -36,16 +36,16 @@ Consumer Staples · Beverages (Production/Distribution)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 42 | 71 | 47 | 65 | 51 |
+| **57** | 43 | 71 | 47 | 69 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $196.24 |
+| Price | $197.22 |
 | Market value | $13.1B |
-| P/E | 23.8 |
-| Price/Sales | 1.70 |
+| P/E | 23.9 |
+| Price/Sales | 1.71 |
 | Price/Book | – |
 | Free-cash-flow yield | 4.7% |
 | Dividend yield | 0.7% |
@@ -59,11 +59,11 @@ Consumer Staples · Beverages (Production/Distribution)
 | Debt / equity | – |
 | Current ratio | 1.21 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 3.95 |
+| Altman Z | 3.96 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | +3.9% / +2.4% / +58.6% |
-| vs. 200-day average | +7.3% |
-| RSI (14d) | 56 |
+| Return 1m / 6m / 12m | +2.4% / +5.5% / +59.1% |
+| vs. 200-day average | +7.8% |
+| RSI (14d) | 57 |
 | Volatility (1y) | 36.5% |
 | Financials as of | 2026-07-03 |
 
@@ -78,4 +78,4 @@ Consumer Staples · Beverages (Production/Distribution)
 - Insider trades: http://openinsider.com/COKE
 - Full deep dive: run `python scout.py stock COKE` → `research/COKE.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

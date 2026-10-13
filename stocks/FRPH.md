@@ -3,17 +3,17 @@ ticker: "FRPH"
 company: "FRP Holdings Inc."
 sector: "Finance"
 industry: "Real Estate"
-price: 20.04
-market_cap: "$384.7M"
+price: 20.09
+market_cap: "$385.7M"
 score: 40
-value: 32
+value: 31
 quality: 41
 growth: 20
 momentum: 27
 health: 90
 pe: null
 piotroski: 6
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,26 +27,26 @@ Finance · Real Estate
 
 ## In plain English
 
-- More expensive than about 68% of Finance peers (value score).
+- More expensive than about 69% of Finance peers (value score).
 - Business quality ranks above 41% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 17% over 12 months (22% below its 52-week high).
+- Share price down 18% over 12 months (21% below its 52-week high).
 - Insiders bought $349.9K of shares recently (Baker John D II (Dir, 10%); Baker John D. III (CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **40** | 32 | 41 | 20 | 27 | 90 |
+| **40** | 31 | 41 | 20 | 27 | 90 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $20.04 |
-| Market value | $384.7M |
+| Price | $20.09 |
+| Market value | $385.7M |
 | P/E | – |
-| Price/Sales | 8.87 |
+| Price/Sales | 8.89 |
 | Price/Book | 0.90 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
@@ -62,9 +62,9 @@ Finance · Real Estate
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.2% |
-| Return 1m / 6m / 12m | -9.9% / -9.2% / -16.6% |
-| vs. 200-day average | -11.8% |
-| RSI (14d) | 31 |
+| Return 1m / 6m / 12m | -9.3% / -8.2% / -17.7% |
+| vs. 200-day average | -11.6% |
+| RSI (14d) | 32 |
 | Volatility (1y) | 25.3% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Finance · Real Estate
 - Insider trades: http://openinsider.com/FRPH
 - Full deep dive: run `python scout.py stock FRPH` → `research/FRPH.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

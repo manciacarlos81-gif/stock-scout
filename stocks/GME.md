@@ -3,17 +3,17 @@ ticker: "GME"
 company: "GameStop Corporation"
 sector: "Consumer Discretionary"
 industry: "Electronics Distribution"
-price: 26.56
-market_cap: "$13.4B"
+price: 27.23
+market_cap: "$13.7B"
 score: 51
 value: 44
 quality: 53
 growth: 54
-momentum: 51
-health: 54
-pe: 15.0
+momentum: 52
+health: 55
+pe: 15.4
 piotroski: 6
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Electronics Distribution
 - More expensive than about 56% of Consumer Discretionary peers (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales fell 8% over the last 12 months.
-- Share price up 14% over 12 months (0% below its 52-week high).
+- Share price up 15% over 12 months (0% below its 52-week high).
 - Insiders bought $76.3M of shares recently (Cohen Ryan (Pres, CEO, COB); Turner Nat (Dir); Attal Alain (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 44 | 53 | 54 | 51 | 54 |
+| **51** | 44 | 53 | 54 | 52 | 55 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $26.56 |
-| Market value | $13.4B |
-| P/E | 15.0 |
-| Price/Sales | 3.77 |
-| Price/Book | 2.18 |
-| Free-cash-flow yield | 4.5% |
+| Price | $27.23 |
+| Market value | $13.7B |
+| P/E | 15.4 |
+| Price/Sales | 3.87 |
+| Price/Book | 2.24 |
+| Free-cash-flow yield | 4.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $3.6B |
 | Sales growth | -7.7% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Electronics Distribution
 | Debt / equity | 0.68 |
 | Current ratio | 8.72 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.74 |
+| Altman Z | 2.79 |
 | Share count change (1y) | +8.4% |
-| Return 1m / 6m / 12m | +30.3% / +10.5% / +14.0% |
-| vs. 200-day average | +19.0% |
-| RSI (14d) | 73 |
+| Return 1m / 6m / 12m | +28.7% / +9.8% / +15.4% |
+| vs. 200-day average | +21.8% |
+| RSI (14d) | 75 |
 | Volatility (1y) | 38.3% |
 | Financials as of | 2026-08-01 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Electronics Distribution
 - Insider trades: http://openinsider.com/GME
 - Full deep dive: run `python scout.py stock GME` → `research/GME.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

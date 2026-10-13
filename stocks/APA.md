@@ -3,17 +3,17 @@ ticker: "APA"
 company: "APA Corporation"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 45.88
-market_cap: "$16.1B"
+price: 46.84
+market_cap: "$16.4B"
 score: 77
-value: 82
+value: 81
 quality: 87
 growth: 77
-momentum: 87
+momentum: 88
 health: 41
-pe: 9.6
+pe: 9.8
 piotroski: 8
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -28,26 +28,26 @@ Energy · Oil & Gas Production
 
 ## In plain English
 
-- Cheaper than about 82% of stocks in Energy (value score).
+- Cheaper than about 81% of stocks in Energy (value score).
 - Business quality ranks above 87% of all stocks scanned.
-- Share price up 116% over 12 months (3% below its 52-week high).
+- Share price up 112% over 12 months (1% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 82 | 87 | 77 | 87 | 41 |
+| **77** | 81 | 87 | 77 | 88 | 41 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $45.88 |
-| Market value | $16.1B |
-| P/E | 9.6 |
+| Price | $46.84 |
+| Market value | $16.4B |
+| P/E | 9.8 |
 | Price/Sales | – |
-| Price/Book | 2.29 |
-| Free-cash-flow yield | 28.3% |
+| Price/Book | 2.34 |
+| Free-cash-flow yield | 27.7% |
 | Dividend yield | 2.2% |
 | Sales (12m) | – |
 | Sales growth | – |
@@ -61,9 +61,9 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | +3.0% / +25.6% / +116.4% |
-| vs. 200-day average | +28.4% |
-| RSI (14d) | 62 |
+| Return 1m / 6m / 12m | +4.7% / +29.7% / +112.4% |
+| vs. 200-day average | +30.6% |
+| RSI (14d) | 65 |
 | Volatility (1y) | 44.8% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/APA
 - Full deep dive: run `python scout.py stock APA` → `research/APA.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

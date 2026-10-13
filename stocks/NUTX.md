@@ -3,7 +3,7 @@ ticker: "NUTX"
 company: "Nutex Health Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 206.29
+price: 206.15
 market_cap: "$1.4B"
 score: 80
 value: 81
@@ -11,9 +11,9 @@ quality: 87
 growth: 62
 momentum: 94
 health: 69
-pe: 7.9
+pe: 7.8
 piotroski: 7
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,7 +31,7 @@ Consumer Discretionary · Business Services
 - Cheaper than about 81% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 118% over 12 months (8% below its 52-week high).
+- Share price up 102% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,9 +43,9 @@ Consumer Discretionary · Business Services
 
 | | |
 |---|---:|
-| Price | $206.29 |
+| Price | $206.15 |
 | Market value | $1.4B |
-| P/E | 7.9 |
+| P/E | 7.8 |
 | Price/Sales | 1.67 |
 | Price/Book | 3.58 |
 | Free-cash-flow yield | 17.4% |
@@ -62,8 +62,8 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 4.31 |
 | Share count change (1y) | +17.1% |
-| Return 1m / 6m / 12m | +5.7% / +91.3% / +117.5% |
-| vs. 200-day average | +39.3% |
+| Return 1m / 6m / 12m | +3.0% / +89.1% / +101.8% |
+| vs. 200-day average | +39.0% |
 | RSI (14d) | 50 |
 | Volatility (1y) | 91.4% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/NUTX
 - Full deep dive: run `python scout.py stock NUTX` → `research/NUTX.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

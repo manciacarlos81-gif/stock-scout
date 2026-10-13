@@ -3,17 +3,17 @@ ticker: "CARG"
 company: "CarGurus Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 28.85
-market_cap: "$2.6B"
+price: 28.39
+market_cap: "$2.5B"
 score: 69
 value: 81
 quality: 91
 growth: 56
 momentum: 24
 health: 83
-pe: 14.6
+pe: 14.4
 piotroski: 8
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "💎 Quality at a fair price"
   - "💵 Dividends & buybacks"
@@ -32,7 +32,7 @@ Technology · EDP Services
 - Cheaper than about 81% of stocks in Technology (value score).
 - Business quality ranks above 91% of all stocks scanned.
 - Sales grew 14% over the last 12 months.
-- Share price down 14% over 12 months (26% below its 52-week high).
+- Share price down 16% over 12 months (27% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -44,12 +44,12 @@ Technology · EDP Services
 
 | | |
 |---|---:|
-| Price | $28.85 |
-| Market value | $2.6B |
-| P/E | 14.6 |
-| Price/Sales | 2.66 |
-| Price/Book | 9.72 |
-| Free-cash-flow yield | 11.2% |
+| Price | $28.39 |
+| Market value | $2.5B |
+| P/E | 14.4 |
+| Price/Sales | 2.61 |
+| Price/Book | 9.57 |
+| Free-cash-flow yield | 11.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $967.3M |
 | Sales growth | +13.9% |
@@ -61,12 +61,12 @@ Technology · EDP Services
 | Debt / equity | 0.00 |
 | Current ratio | 1.85 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 9.30 |
+| Altman Z | 9.22 |
 | Share count change (1y) | -9.1% |
-| Return 1m / 6m / 12m | -13.4% / -19.3% / -13.9% |
-| vs. 200-day average | -13.4% |
-| RSI (14d) | 30 |
-| Volatility (1y) | 39.1% |
+| Return 1m / 6m / 12m | -17.5% / -20.8% / -16.5% |
+| vs. 200-day average | -14.6% |
+| RSI (14d) | 28 |
+| Volatility (1y) | 39.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -76,4 +76,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/CARG
 - Full deep dive: run `python scout.py stock CARG` → `research/CARG.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

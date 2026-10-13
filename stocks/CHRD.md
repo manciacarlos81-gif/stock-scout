@@ -3,17 +3,17 @@ ticker: "CHRD"
 company: "Chord Energy Corporation"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 141.54
-market_cap: "$7.7B"
-score: 74
+price: 144.57
+market_cap: "$7.9B"
+score: 75
 value: 86
 quality: 65
 growth: 83
-momentum: 76
+momentum: 78
 health: 59
-pe: 9.1
+pe: 9.3
 piotroski: 6
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,25 +30,25 @@ Energy · Oil & Gas Production
 - Cheaper than about 86% of stocks in Energy (value score).
 - Business quality ranks above 65% of all stocks scanned.
 - Sales grew 19% over the last 12 months.
-- Share price up 63% over 12 months (10% below its 52-week high).
+- Share price up 63% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 86 | 65 | 83 | 76 | 59 |
+| **75** | 86 | 65 | 83 | 78 | 59 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $141.54 |
-| Market value | $7.7B |
-| P/E | 9.1 |
-| Price/Sales | 1.23 |
-| Price/Book | 0.93 |
-| Free-cash-flow yield | 26.4% |
-| Dividend yield | 4.1% |
+| Price | $144.57 |
+| Market value | $7.9B |
+| P/E | 9.3 |
+| Price/Sales | 1.25 |
+| Price/Book | 0.95 |
+| Free-cash-flow yield | 25.8% |
+| Dividend yield | 4.0% |
 | Sales (12m) | $6.3B |
 | Sales growth | +19.2% |
 | Net profit (12m) | $848.3M |
@@ -59,11 +59,11 @@ Energy · Oil & Gas Production
 | Debt / equity | 0.18 |
 | Current ratio | 1.22 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 1.91 |
+| Altman Z | 1.93 |
 | Share count change (1y) | -2.0% |
-| Return 1m / 6m / 12m | -6.8% / +11.5% / +63.0% |
-| vs. 200-day average | +12.7% |
-| RSI (14d) | 52 |
+| Return 1m / 6m / 12m | -4.9% / +13.3% / +62.8% |
+| vs. 200-day average | +14.8% |
+| RSI (14d) | 56 |
 | Volatility (1y) | 39.2% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/CHRD
 - Full deep dive: run `python scout.py stock CHRD` → `research/CHRD.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "AVBC"
 company: "Avidia Bancorp Inc."
 sector: "Finance"
 industry: "Banks"
-price: 21.89
-market_cap: "$437.1M"
+price: 22.07
+market_cap: "$440.7M"
 score: 53
 value: 40
 quality: null
 growth: null
-momentum: 68
+momentum: 69
 health: 62
-pe: 24.8
+pe: 25.1
 piotroski: null
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,24 +28,24 @@ Finance · Banks
 ## In plain English
 
 - More expensive than about 60% of Finance peers (value score).
-- Share price up 52% over 12 months (3% below its 52-week high).
+- Share price up 51% over 12 months (2% below its 52-week high).
 - Insiders bought $643.8K of shares recently (Murphy Michael Dennis (Chairman of the Board); Nelson Jonathan Michael (CFO, Treasurer); Grimaldo Joseph F (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 40 | – | – | 68 | 62 |
+| **53** | 40 | – | – | 69 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $21.89 |
-| Market value | $437.1M |
-| P/E | 24.8 |
+| Price | $22.07 |
+| Market value | $440.7M |
+| P/E | 25.1 |
 | Price/Sales | – |
-| Price/Book | 1.12 |
+| Price/Book | 1.13 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | – |
@@ -60,9 +60,9 @@ Finance · Banks
 | Piotroski F-score | – |
 | Altman Z | – |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | +0.6% / +6.3% / +51.5% |
-| vs. 200-day average | +9.8% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | +1.4% / +7.0% / +51.0% |
+| vs. 200-day average | +10.5% |
+| RSI (14d) | 53 |
 | Volatility (1y) | 24.7% |
 | Financials as of | 2026-06-30 |
 
@@ -73,4 +73,4 @@ Finance · Banks
 - Insider trades: http://openinsider.com/AVBC
 - Full deep dive: run `python scout.py stock AVBC` → `research/AVBC.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

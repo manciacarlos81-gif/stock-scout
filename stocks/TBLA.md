@@ -3,17 +3,17 @@ ticker: "TBLA"
 company: "Taboola.com Ltd."
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 3.45
-market_cap: "$869.8M"
-score: 68
+price: 3.4
+market_cap: "$857.2M"
+score: 67
 value: 97
 quality: 60
 growth: 77
-momentum: 44
+momentum: 41
 health: 56
-pe: 7.3
+pe: 7.2
 piotroski: 7
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,24 +31,24 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 97% of stocks in Technology (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 12% over 12 months (38% below its 52-week high).
+- Share price up 10% over 12 months (39% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 97 | 60 | 77 | 44 | 56 |
+| **67** | 97 | 60 | 77 | 41 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $3.45 |
-| Market value | $869.8M |
-| P/E | 7.3 |
+| Price | $3.40 |
+| Market value | $857.2M |
+| P/E | 7.2 |
 | Price/Sales | 0.44 |
-| Price/Book | 0.93 |
-| Free-cash-flow yield | 18.8% |
+| Price/Book | 0.91 |
+| Free-cash-flow yield | 19.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +8.0% |
@@ -62,10 +62,10 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -7.5% / +0.6% / +11.7% |
-| vs. 200-day average | -15.4% |
-| RSI (14d) | 45 |
-| Volatility (1y) | 56.5% |
+| Return 1m / 6m / 12m | -10.5% / -5.6% / +10.0% |
+| vs. 200-day average | -16.5% |
+| RSI (14d) | 42 |
+| Volatility (1y) | 56.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/TBLA
 - Full deep dive: run `python scout.py stock TBLA` → `research/TBLA.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

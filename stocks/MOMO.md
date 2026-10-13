@@ -3,17 +3,17 @@ ticker: "MOMO"
 company: "Hello Group Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 4.72
-market_cap: "$697.4M"
+price: 4.75
+market_cap: "$701.8M"
 score: 56
 value: 97
 quality: 50
 growth: 33
-momentum: 14
+momentum: 13
 health: 78
-pe: 6.0
+pe: 6.1
 piotroski: 7
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,24 +31,24 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 97% of stocks in Technology (value score).
 - Business quality ranks above 50% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 29% over 12 months (30% below its 52-week high).
+- Share price down 30% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 97 | 50 | 33 | 14 | 78 |
+| **56** | 97 | 50 | 33 | 13 | 78 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $4.72 |
-| Market value | $697.4M |
-| P/E | 6.0 |
+| Price | $4.75 |
+| Market value | $701.8M |
+| P/E | 6.1 |
 | Price/Sales | 0.47 |
 | Price/Book | 0.44 |
-| Free-cash-flow yield | 14.2% |
+| Free-cash-flow yield | 14.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.5B |
 | Sales growth | +2.4% |
@@ -60,12 +60,12 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.00 |
 | Current ratio | 4.68 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.55 |
+| Altman Z | 3.56 |
 | Share count change (1y) | -9.4% |
-| Return 1m / 6m / 12m | -6.3% / -22.7% / -28.5% |
-| vs. 200-day average | -19.6% |
-| RSI (14d) | 35 |
-| Volatility (1y) | 28.3% |
+| Return 1m / 6m / 12m | -4.0% / -23.3% / -29.7% |
+| vs. 200-day average | -18.9% |
+| RSI (14d) | 37 |
+| Volatility (1y) | 28.2% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/MOMO
 - Full deep dive: run `python scout.py stock MOMO` → `research/MOMO.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

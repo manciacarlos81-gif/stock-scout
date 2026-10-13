@@ -3,17 +3,17 @@ ticker: "GSAT"
 company: "Globalstar Inc."
 sector: "Consumer Discretionary"
 industry: "Telecommunications Equipment"
-price: 83.82
-market_cap: "$10.9B"
+price: 83.04
+market_cap: "$10.8B"
 score: 43
 value: 20
 quality: 47
 growth: 51
-momentum: 73
+momentum: 72
 health: 29
 pe: null
 piotroski: 4
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Telecommunications Equipment
 - More expensive than about 80% of Consumer Discretionary peers (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 93% over 12 months (1% below its 52-week high).
+- Share price up 87% over 12 months (2% below its 52-week high).
 - Insiders bought $29.8M of shares recently (Monroe James III (Dir, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **43** | 20 | 47 | 51 | 73 | 29 |
+| **43** | 20 | 47 | 51 | 72 | 29 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $83.82 |
-| Market value | $10.9B |
+| Price | $83.04 |
+| Market value | $10.8B |
 | P/E | – |
-| Price/Sales | 38.70 |
-| Price/Book | 37.11 |
-| Free-cash-flow yield | 5.7% |
+| Price/Sales | 38.34 |
+| Price/Book | 36.77 |
+| Free-cash-flow yield | 5.8% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $280.6M |
 | Sales growth | +7.7% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Telecommunications Equipment
 | Debt / equity | 1.23 |
 | Current ratio | 1.55 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 1.98 |
+| Altman Z | 1.95 |
 | Share count change (1y) | +1.0% |
-| Return 1m / 6m / 12m | +2.3% / +4.9% / +93.2% |
-| vs. 200-day average | +12.3% |
-| RSI (14d) | 63 |
+| Return 1m / 6m / 12m | +0.7% / +3.0% / +87.4% |
+| vs. 200-day average | +11.1% |
+| RSI (14d) | 53 |
 | Volatility (1y) | 57.8% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Telecommunications Equipment
 - Insider trades: http://openinsider.com/GSAT
 - Full deep dive: run `python scout.py stock GSAT` → `research/GSAT.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

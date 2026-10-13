@@ -3,17 +3,17 @@ ticker: "VIPS"
 company: "Vipshop Holdings Limited"
 sector: "Consumer Discretionary"
 industry: "Catalog/Specialty Distribution"
-price: 12.9
+price: 12.86
 market_cap: "$6.2B"
 score: 54
 value: 92
 quality: 50
 growth: 34
-momentum: 18
+momentum: 17
 health: 66
 pe: 6.0
 piotroski: 6
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Catalog/Specialty Distribution
 - Cheaper than about 92% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 50% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 29% over 12 months (34% below its 52-week high).
+- Share price down 30% over 12 months (34% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 92 | 50 | 34 | 18 | 66 |
+| **54** | 92 | 50 | 34 | 17 | 66 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.90 |
+| Price | $12.86 |
 | Market value | $6.2B |
 | P/E | 6.0 |
 | Price/Sales | 0.41 |
-| Price/Book | 1.06 |
-| Free-cash-flow yield | 12.6% |
-| Dividend yield | 4.1% |
+| Price/Book | 1.05 |
+| Free-cash-flow yield | 12.7% |
+| Dividend yield | 4.2% |
 | Sales (12m) | $15.1B |
 | Sales growth | +2.0% |
 | Net profit (12m) | $1.0B |
@@ -61,10 +61,10 @@ Consumer Discretionary · Catalog/Specialty Distribution
 | Piotroski F-score | 6/9 |
 | Altman Z | 3.43 |
 | Share count change (1y) | -5.1% |
-| Return 1m / 6m / 12m | +2.5% / -13.2% / -29.5% |
-| vs. 200-day average | -12.5% |
-| RSI (14d) | 53 |
-| Volatility (1y) | 31.6% |
+| Return 1m / 6m / 12m | +3.1% / -14.8% / -30.0% |
+| vs. 200-day average | -12.6% |
+| RSI (14d) | 52 |
+| Volatility (1y) | 31.2% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Catalog/Specialty Distribution
 - Insider trades: http://openinsider.com/VIPS
 - Full deep dive: run `python scout.py stock VIPS` → `research/VIPS.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

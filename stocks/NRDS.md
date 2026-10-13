@@ -3,17 +3,17 @@ ticker: "NRDS"
 company: "NerdWallet Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 9.74
-market_cap: "$622.6M"
+price: 9.82
+market_cap: "$627.7M"
 score: 72
 value: 95
 quality: 79
 growth: 74
-momentum: 30
+momentum: 33
 health: 75
-pe: 9.6
+pe: 9.7
 piotroski: 9
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -31,24 +31,24 @@ Technology · EDP Services
 - Cheaper than about 95% of stocks in Technology (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price down 5% over 12 months (39% below its 52-week high).
+- Share price down 7% over 12 months (38% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 95 | 79 | 74 | 30 | 75 |
+| **72** | 95 | 79 | 74 | 33 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $9.74 |
-| Market value | $622.6M |
-| P/E | 9.6 |
-| Price/Sales | 0.72 |
-| Price/Book | 1.91 |
-| Free-cash-flow yield | 20.9% |
+| Price | $9.82 |
+| Market value | $627.7M |
+| P/E | 9.7 |
+| Price/Sales | 0.73 |
+| Price/Book | 1.93 |
+| Free-cash-flow yield | 20.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $860.0M |
 | Sales growth | +11.5% |
@@ -60,11 +60,11 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 2.62 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 6.31 |
+| Altman Z | 6.35 |
 | Share count change (1y) | -14.1% |
-| Return 1m / 6m / 12m | +4.5% / -9.7% / -5.3% |
-| vs. 200-day average | -2.9% |
-| RSI (14d) | 63 |
+| Return 1m / 6m / 12m | +4.1% / -6.4% / -6.6% |
+| vs. 200-day average | -1.9% |
+| RSI (14d) | 64 |
 | Volatility (1y) | 47.7% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/NRDS
 - Full deep dive: run `python scout.py stock NRDS` → `research/NRDS.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_

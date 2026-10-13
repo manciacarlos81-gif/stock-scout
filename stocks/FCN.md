@@ -3,17 +3,17 @@ ticker: "FCN"
 company: "FTI Consulting Inc."
 sector: "Consumer Discretionary"
 industry: "Professional Services"
-price: 136.16
+price: 138.09
 market_cap: "$3.8B"
 score: 46
-value: 56
+value: 55
 quality: 46
 growth: 51
-momentum: 19
-health: 60
-pe: 14.9
+momentum: 21
+health: 61
+pe: 15.1
 piotroski: 5
-updated: "2026-10-10"
+updated: "2026-10-13"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,26 +27,26 @@ Consumer Discretionary · Professional Services
 
 ## In plain English
 
-- Cheaper than about 56% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 55% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 46% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price down 16% over 12 months (27% below its 52-week high).
+- Share price down 12% over 12 months (26% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **46** | 56 | 46 | 51 | 19 | 60 |
+| **46** | 55 | 46 | 51 | 21 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $136.16 |
+| Price | $138.09 |
 | Market value | $3.8B |
-| P/E | 14.9 |
-| Price/Sales | 0.96 |
-| Price/Book | 2.82 |
+| P/E | 15.1 |
+| Price/Sales | 0.97 |
+| Price/Book | 2.86 |
 | Free-cash-flow yield | 2.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $3.9B |
@@ -59,12 +59,12 @@ Consumer Discretionary · Professional Services
 | Debt / equity | 0.76 |
 | Current ratio | 2.03 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 3.35 |
+| Altman Z | 3.36 |
 | Share count change (1y) | -13.6% |
-| Return 1m / 6m / 12m | -9.4% / -23.9% / -15.8% |
-| vs. 200-day average | -15.5% |
-| RSI (14d) | 42 |
-| Volatility (1y) | 30.9% |
+| Return 1m / 6m / 12m | -6.7% / -23.1% / -12.4% |
+| vs. 200-day average | -14.2% |
+| RSI (14d) | 46 |
+| Volatility (1y) | 31.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Professional Services
 - Insider trades: http://openinsider.com/FCN
 - Full deep dive: run `python scout.py stock FCN` → `research/FCN.md`
 
-_Updated 2026-10-10 · [latest report](../reports/latest.md)_
+_Updated 2026-10-13 · [latest report](../reports/latest.md)_
