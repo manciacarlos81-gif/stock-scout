@@ -13,7 +13,7 @@ momentum: 97
 health: 67
 pe: 88.3
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Semiconductors
 - More expensive than about 71% of Technology peers (value score).
 - Business quality ranks above 54% of all stocks scanned.
 - Sales grew 31% over the last 12 months.
-- Share price up 198% over 12 months (16% below its 52-week high).
+- Share price up 209% over 12 months (16% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Technology · Semiconductors
 | Piotroski F-score | 7/9 |
 | Altman Z | 16.35 |
 | Share count change (1y) | +5.8% |
-| Return 1m / 6m / 12m | +12.6% / +97.6% / +197.9% |
-| vs. 200-day average | +52.9% |
+| Return 1m / 6m / 12m | +21.5% / +99.4% / +208.9% |
+| vs. 200-day average | +52.2% |
 | RSI (14d) | 55 |
 | Volatility (1y) | 79.0% |
 | Financials as of | 2026-08-01 |
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MRVL
 - Full deep dive: run `python scout.py stock MRVL` → `research/MRVL.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

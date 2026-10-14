@@ -6,14 +6,14 @@ industry: "Major Banks"
 price: 65.74
 market_cap: "$524.1M"
 score: 56
-value: 40
+value: 39
 quality: null
 growth: 75
 momentum: 83
 health: 39
 pe: 12.2
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,16 +27,16 @@ Finance · Major Banks
 
 ## In plain English
 
-- More expensive than about 60% of Finance peers (value score).
+- More expensive than about 61% of Finance peers (value score).
 - Sales grew 23% over the last 12 months.
-- Share price up 58% over 12 months (4% below its 52-week high).
+- Share price up 54% over 12 months (4% below its 52-week high).
 - Insiders bought $1.3M of shares recently (Seidman Lawrence B (Dir, 10%); Dale Eric J (Dir); Dunne Jeffrey R (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 40 | – | 75 | 83 | 39 |
+| **56** | 39 | – | 75 | 83 | 39 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Finance · Major Banks
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +2.1% |
-| Return 1m / 6m / 12m | -4.1% / +26.2% / +58.4% |
-| vs. 200-day average | +18.7% |
+| Return 1m / 6m / 12m | -3.7% / +29.3% / +54.4% |
+| vs. 200-day average | +18.5% |
 | RSI (14d) | 49 |
 | Volatility (1y) | 24.8% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/BWFG
 - Full deep dive: run `python scout.py stock BWFG` → `research/BWFG.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

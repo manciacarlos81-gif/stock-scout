@@ -13,7 +13,7 @@ momentum: 99
 health: 44
 pe: 32.2
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Computer Manufacturing
 - Cheaper than about 54% of stocks in Technology (value score).
 - Business quality ranks above 50% of all stocks scanned.
 - Sales grew 49% over the last 12 months.
-- Share price up 281% over 12 months (2% below its 52-week high).
+- Share price up 293% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,10 +61,10 @@ Technology · Computer Manufacturing
 | Piotroski F-score | 7/9 |
 | Altman Z | 3.34 |
 | Share count change (1y) | -5.0% |
-| Return 1m / 6m / 12m | +1.7% / +226.9% / +280.8% |
-| vs. 200-day average | +86.7% |
+| Return 1m / 6m / 12m | +8.0% / +200.1% / +292.6% |
+| vs. 200-day average | +85.4% |
 | RSI (14d) | 59 |
-| Volatility (1y) | 74.4% |
+| Volatility (1y) | 74.3% |
 | Financials as of | 2026-07-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Technology · Computer Manufacturing
 - Insider trades: http://openinsider.com/DELL
 - Full deep dive: run `python scout.py stock DELL` → `research/DELL.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 75
 value: 86
 quality: 84
 growth: 44
-momentum: 73
+momentum: 74
 health: 76
 pe: 15.5
 piotroski: 8
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -37,7 +37,7 @@ Technology · Industrial Machinery/Components
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 86 | 84 | 44 | 73 | 76 |
+| **75** | 86 | 84 | 44 | 74 | 76 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Technology · Industrial Machinery/Components
 | Piotroski F-score | 8/9 |
 | Altman Z | 6.24 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +15.3% / +54.2% / +26.2% |
-| vs. 200-day average | +38.5% |
+| Return 1m / 6m / 12m | +14.7% / +52.4% / +26.0% |
+| vs. 200-day average | +38.3% |
 | RSI (14d) | 70 |
-| Volatility (1y) | 42.7% |
+| Volatility (1y) | 42.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/CRCT
 - Full deep dive: run `python scout.py stock CRCT` → `research/CRCT.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

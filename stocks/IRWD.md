@@ -9,11 +9,11 @@ score: 74
 value: 84
 quality: 91
 growth: 91
-momentum: 55
+momentum: 56
 health: 41
 pe: 4.8
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -36,7 +36,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 84 | 91 | 91 | 55 | 41 |
+| **74** | 84 | 91 | 91 | 56 | 41 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 7/9 |
 | Altman Z | -2.16 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | -7.8% / -14.0% / +154.1% |
+| Return 1m / 6m / 12m | -9.8% / -13.2% / +154.1% |
 | vs. 200-day average | -6.5% |
 | RSI (14d) | 41 |
-| Volatility (1y) | 91.2% |
+| Volatility (1y) | 90.9% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/IRWD
 - Full deep dive: run `python scout.py stock IRWD` → `research/IRWD.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

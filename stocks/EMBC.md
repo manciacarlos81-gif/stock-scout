@@ -13,7 +13,7 @@ momentum: 8
 health: 28
 pe: 3.9
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -62,10 +62,10 @@ Health Care · Medical/Dental Instruments
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | +21.3% / -37.4% / -53.7% |
-| vs. 200-day average | -10.7% |
+| Return 1m / 6m / 12m | +14.3% / -36.7% / -54.3% |
+| vs. 200-day average | -10.3% |
 | RSI (14d) | 62 |
-| Volatility (1y) | 81.2% |
+| Volatility (1y) | 81.1% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/EMBC
 - Full deep dive: run `python scout.py stock EMBC` → `research/EMBC.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

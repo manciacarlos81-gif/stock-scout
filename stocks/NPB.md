@@ -9,11 +9,11 @@ score: 55
 value: 92
 quality: null
 growth: 59
-momentum: 29
+momentum: 28
 health: 32
 pe: 6.1
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,14 +28,14 @@ Finance · Major Banks
 ## In plain English
 
 - Cheaper than about 92% of stocks in Finance (value score).
-- Share price down 6% over 12 months (18% below its 52-week high).
+- Share price down 9% over 12 months (18% below its 52-week high).
 - Insiders bought $2.8M of shares recently (Williams Charles Alan (COB, CEO, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 92 | – | 59 | 29 | 32 |
+| **55** | 92 | – | 59 | 28 | 32 |
 
 ## Key numbers
 
@@ -60,7 +60,7 @@ Finance · Major Banks
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -7.8% / -15.5% / -6.2% |
+| Return 1m / 6m / 12m | -6.5% / -14.0% / -9.2% |
 | vs. 200-day average | -8.9% |
 | RSI (14d) | 49 |
 | Volatility (1y) | 28.3% |
@@ -73,4 +73,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/NPB
 - Full deep dive: run `python scout.py stock NPB` → `research/NPB.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

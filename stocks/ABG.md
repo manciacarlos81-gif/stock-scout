@@ -13,7 +13,7 @@ momentum: 18
 health: 44
 pe: 5.8
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 - Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 43% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 32% over 12 months (36% below its 52-week high).
+- Share price down 33% over 12 months (36% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,10 +61,10 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -21.4% / -19.1% / -31.5% |
-| vs. 200-day average | -21.2% |
+| Return 1m / 6m / 12m | -21.5% / -19.7% / -33.4% |
+| vs. 200-day average | -21.1% |
 | RSI (14d) | 26 |
-| Volatility (1y) | 32.7% |
+| Volatility (1y) | 32.6% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 - Insider trades: http://openinsider.com/ABG
 - Full deep dive: run `python scout.py stock ABG` → `research/ABG.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

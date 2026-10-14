@@ -9,11 +9,11 @@ score: 66
 value: 89
 quality: 82
 growth: 49
-momentum: 18
+momentum: 17
 health: 86
 pe: 12.4
 piotroski: 8
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -37,7 +37,7 @@ Technology · Semiconductors
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 89 | 82 | 49 | 18 | 86 |
+| **66** | 89 | 82 | 49 | 17 | 86 |
 
 ## Key numbers
 
@@ -62,7 +62,7 @@ Technology · Semiconductors
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.8% |
-| Return 1m / 6m / 12m | -10.5% / -32.6% / -11.9% |
+| Return 1m / 6m / 12m | -8.6% / -35.5% / -12.1% |
 | vs. 200-day average | -23.9% |
 | RSI (14d) | 29 |
 | Volatility (1y) | 36.1% |
@@ -79,4 +79,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/CRUS
 - Full deep dive: run `python scout.py stock CRUS` → `research/CRUS.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

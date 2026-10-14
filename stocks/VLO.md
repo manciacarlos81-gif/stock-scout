@@ -10,10 +10,10 @@ value: 54
 quality: 49
 growth: 85
 momentum: 96
-health: 64
+health: 63
 pe: 17.4
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,13 +30,13 @@ Energy · Integrated oil Companies
 - Cheaper than about 54% of stocks in Energy (value score).
 - Business quality ranks above 49% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 176% over 12 months (2% below its 52-week high).
+- Share price up 175% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 54 | 49 | 85 | 96 | 64 |
+| **67** | 54 | 49 | 85 | 96 | 63 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Energy · Integrated oil Companies
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.8% |
-| Return 1m / 6m / 12m | +11.7% / +87.1% / +175.8% |
-| vs. 200-day average | +62.4% |
+| Return 1m / 6m / 12m | +13.9% / +81.9% / +174.5% |
+| vs. 200-day average | +61.6% |
 | RSI (14d) | 70 |
 | Volatility (1y) | 37.2% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/VLO
 - Full deep dive: run `python scout.py stock VLO` → `research/VLO.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

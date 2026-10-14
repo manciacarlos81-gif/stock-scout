@@ -13,7 +13,7 @@ momentum: 98
 health: 33
 pe: null
 piotroski: 3
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -29,7 +29,7 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 
 - More expensive than about 62% of Health Care peers (value score).
 - Business quality ranks above 23% of all stocks scanned.
-- Share price up 756% over 12 months (1% below its 52-week high).
+- Share price up 695% over 12 months (1% below its 52-week high).
 - Insiders bought $157.0M of shares recently (Baker Bros. Advisors LP (Dir, 10%)).
 
 ## Scores (0–100, higher is better)
@@ -61,10 +61,10 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 3/9 |
 | Altman Z | – |
 | Share count change (1y) | +18.7% |
-| Return 1m / 6m / 12m | +201.8% / +136.4% / +755.7% |
-| vs. 200-day average | +163.0% |
+| Return 1m / 6m / 12m | +199.5% / +145.6% / +695.4% |
+| vs. 200-day average | +160.6% |
 | RSI (14d) | 82 |
-| Volatility (1y) | 208.1% |
+| Volatility (1y) | 207.3% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -80,4 +80,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/KOD
 - Full deep dive: run `python scout.py stock KOD` → `research/KOD.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

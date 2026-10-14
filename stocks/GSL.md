@@ -13,7 +13,7 @@ momentum: 81
 health: 56
 pe: 3.9
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 89% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 74% over 12 months (3% below its 52-week high).
+- Share price up 73% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,10 +61,10 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.36 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -1.3% / +19.7% / +73.6% |
-| vs. 200-day average | +15.0% |
+| Return 1m / 6m / 12m | -1.1% / +18.8% / +73.3% |
+| vs. 200-day average | +14.9% |
 | RSI (14d) | 53 |
-| Volatility (1y) | 28.0% |
+| Volatility (1y) | 27.9% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/GSL
 - Full deep dive: run `python scout.py stock GSL` → `research/GSL.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

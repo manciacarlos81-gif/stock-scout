@@ -9,11 +9,11 @@ score: 50
 value: 36
 quality: null
 growth: 62
-momentum: 65
+momentum: 66
 health: 38
 pe: 14.6
 piotroski: 9
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,14 +28,14 @@ Finance · Major Banks
 ## In plain English
 
 - More expensive than about 64% of Finance peers (value score).
-- Share price up 38% over 12 months (13% below its 52-week high).
+- Share price up 32% over 12 months (13% below its 52-week high).
 - Insiders bought $6.3M of shares recently (Allbaugh Larry Eugene (Dir, 10%); Perry-Smith Robert Truxtun (Dir); Deary-Bell Shannon (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 36 | – | 62 | 65 | 38 |
+| **50** | 36 | – | 62 | 66 | 38 |
 
 ## Key numbers
 
@@ -60,8 +60,8 @@ Finance · Major Banks
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.3% |
-| Return 1m / 6m / 12m | -7.9% / +6.2% / +38.1% |
-| vs. 200-day average | +1.7% |
+| Return 1m / 6m / 12m | -7.0% / +7.5% / +32.4% |
+| vs. 200-day average | +1.6% |
 | RSI (14d) | 39 |
 | Volatility (1y) | 23.9% |
 | Financials as of | 2026-06-30 |
@@ -73,4 +73,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/FSBC
 - Full deep dive: run `python scout.py stock FSBC` → `research/FSBC.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

@@ -5,15 +5,15 @@ sector: "Energy"
 industry: "Oil & Gas Production"
 price: 164.96
 market_cap: "$2.9B"
-score: 68
+score: 69
 value: 81
 quality: 84
 growth: 90
-momentum: 27
+momentum: 28
 health: 54
 pe: 5.9
 piotroski: 8
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -31,14 +31,14 @@ Energy · Oil & Gas Production
 - Cheaper than about 81% of stocks in Energy (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales grew 35% over the last 12 months.
-- Share price down 9% over 12 months (26% below its 52-week high).
+- Share price down 8% over 12 months (26% below its 52-week high).
 - Insiders bought $257.0K of shares recently (Dell'Osso Domenic J Jr (Pres, CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 81 | 84 | 90 | 27 | 54 |
+| **69** | 81 | 84 | 90 | 28 | 54 |
 
 ## Key numbers
 
@@ -63,8 +63,8 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 8/9 |
 | Altman Z | 3.25 |
 | Share count change (1y) | +0.2% |
-| Return 1m / 6m / 12m | -4.8% / -14.1% / -8.7% |
-| vs. 200-day average | -8.7% |
+| Return 1m / 6m / 12m | -4.7% / -14.6% / -7.7% |
+| vs. 200-day average | -8.6% |
 | RSI (14d) | 54 |
 | Volatility (1y) | 33.0% |
 | Financials as of | 2026-06-30 |
@@ -76,4 +76,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/GPOR
 - Full deep dive: run `python scout.py stock GPOR` → `research/GPOR.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

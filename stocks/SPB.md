@@ -9,11 +9,11 @@ score: 57
 value: 78
 quality: 45
 growth: 38
-momentum: 61
+momentum: 60
 health: 58
 pe: 22.4
 piotroski: 5
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,13 +30,13 @@ Miscellaneous · Industrial Machinery/Components
 - Cheaper than about 78% of stocks in Miscellaneous (value score).
 - Business quality ranks above 45% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 56% over 12 months (15% below its 52-week high).
+- Share price up 55% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 78 | 45 | 38 | 61 | 58 |
+| **57** | 78 | 45 | 38 | 60 | 58 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Miscellaneous · Industrial Machinery/Components
 | Piotroski F-score | 5/9 |
 | Altman Z | 2.71 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -10.6% / -1.5% / +55.8% |
-| vs. 200-day average | -2.2% |
+| Return 1m / 6m / 12m | -9.8% / -3.7% / +54.8% |
+| vs. 200-day average | -2.4% |
 | RSI (14d) | 30 |
 | Volatility (1y) | 33.6% |
 | Financials as of | 2026-06-28 |
@@ -74,4 +74,4 @@ Miscellaneous · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/SPB
 - Full deep dive: run `python scout.py stock SPB` → `research/SPB.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

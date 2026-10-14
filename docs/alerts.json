@@ -1,6 +1,6 @@
 {
- "date": "2026-10-13",
- "scanned": 2585,
+ "date": "2026-10-14",
+ "scanned": 2582,
  "top": [
   {
    "rank": 1,
@@ -30,7 +30,7 @@
    "rank": 4,
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
-   "score": 80,
+   "score": 81,
    "price": 206.15,
    "flags": "shares up 17% in a year"
   },
@@ -52,18 +52,18 @@
   },
   {
    "rank": 7,
-   "ticker": "CDNA",
-   "name": "CareDx Inc.",
-   "score": 79,
-   "price": 63.12,
-   "flags": ""
-  },
-  {
-   "rank": 8,
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 79,
    "price": 111.36,
+   "flags": ""
+  },
+  {
+   "rank": 8,
+   "ticker": "CDNA",
+   "name": "CareDx Inc.",
+   "score": 79,
+   "price": 63.12,
    "flags": ""
   },
   {
@@ -76,14 +76,16 @@
   },
   {
    "rank": 10,
-   "ticker": "BFH",
-   "name": "Bread Financial Holdings Inc.",
-   "score": 78,
-   "price": 101.63,
-   "flags": ""
+   "ticker": "AUPH",
+   "name": "Aurinia Pharmaceuticals Inc",
+   "score": 79,
+   "price": 16.55,
+   "flags": "profits not backed by cash"
   }
  ],
- "new_top": [],
+ "new_top": [
+  "AUPH"
+ ],
  "prev_top": [
   "BFH",
   "CDNA",
@@ -96,5 +98,20 @@
   "NUTX",
   "SNDK"
  ],
- "insider": []
+ "insider": [
+  {
+   "ticker": "BORR",
+   "name": "Borr Drilling Limited",
+   "value": 44558083,
+   "buyers": 3,
+   "last": "2026-10-09"
+  },
+  {
+   "ticker": "GME",
+   "name": "GameStop Corporation",
+   "value": 99078947,
+   "buyers": 5,
+   "last": "2026-10-13"
+  }
+ ]
 }

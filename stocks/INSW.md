@@ -13,7 +13,7 @@ momentum: 97
 health: 74
 pe: 7.9
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,7 +31,7 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 66% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 57% over the last 12 months.
-- Share price up 230% over 12 months (0% below its 52-week high).
+- Share price up 235% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 6/9 |
 | Altman Z | 6.81 |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | +19.8% / +85.4% / +229.5% |
-| vs. 200-day average | +63.4% |
+| Return 1m / 6m / 12m | +17.4% / +82.6% / +234.5% |
+| vs. 200-day average | +62.6% |
 | RSI (14d) | 77 |
 | Volatility (1y) | 38.7% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/INSW
 - Full deep dive: run `python scout.py stock INSW` → `research/INSW.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

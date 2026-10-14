@@ -5,7 +5,7 @@ sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
 price: 270.87
 market_cap: "$90.6B"
-score: 60
+score: 61
 value: 59
 quality: 95
 growth: 85
@@ -13,7 +13,7 @@ momentum: 4
 health: 56
 pe: 20.6
 piotroski: 9
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,7 +36,7 @@ Technology · Computer Software: Programming Data Processing
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 59 | 95 | 85 | 4 | 56 |
+| **61** | 59 | 95 | 85 | 4 | 56 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 9/9 |
 | Altman Z | 14.64 |
 | Share count change (1y) | -1.5% |
-| Return 1m / 6m / 12m | -16.4% / -41.7% / -54.1% |
-| vs. 200-day average | -38.5% |
+| Return 1m / 6m / 12m | -19.0% / -41.9% / -54.1% |
+| vs. 200-day average | -38.2% |
 | RSI (14d) | 33 |
-| Volatility (1y) | 71.7% |
+| Volatility (1y) | 71.6% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/APP
 - Full deep dive: run `python scout.py stock APP` → `research/APP.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

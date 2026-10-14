@@ -13,7 +13,7 @@ momentum: 21
 health: 61
 pe: 15.1
 piotroski: 5
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -61,10 +61,10 @@ Consumer Discretionary · Professional Services
 | Piotroski F-score | 5/9 |
 | Altman Z | 3.36 |
 | Share count change (1y) | -13.6% |
-| Return 1m / 6m / 12m | -6.7% / -23.1% / -12.4% |
-| vs. 200-day average | -14.2% |
+| Return 1m / 6m / 12m | -8.5% / -24.2% / -12.3% |
+| vs. 200-day average | -14.1% |
 | RSI (14d) | 46 |
-| Volatility (1y) | 31.0% |
+| Volatility (1y) | 30.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Professional Services
 - Insider trades: http://openinsider.com/FCN
 - Full deep dive: run `python scout.py stock FCN` → `research/FCN.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

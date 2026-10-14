@@ -5,15 +5,15 @@ sector: "Technology"
 industry: "Retail: Computer Software & Peripheral Equipment"
 price: 27.48
 market_cap: "$6.3B"
-score: 60
+score: 59
 value: 93
 quality: 36
 growth: 65
-momentum: 57
+momentum: 53
 health: 42
 pe: 14.7
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,13 +30,13 @@ Technology · Retail: Computer Software & Peripheral Equipment
 - Cheaper than about 93% of stocks in Technology (value score).
 - Business quality ranks above 36% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price up 32% over 12 months (13% below its 52-week high).
+- Share price up 28% over 12 months (13% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 93 | 36 | 65 | 57 | 42 |
+| **59** | 93 | 36 | 65 | 53 | 42 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Technology · Retail: Computer Software & Peripheral Equipment
 | Piotroski F-score | 6/9 |
 | Altman Z | 3.33 |
 | Share count change (1y) | -1.1% |
-| Return 1m / 6m / 12m | -0.3% / -2.0% / +31.5% |
-| vs. 200-day average | +6.1% |
+| Return 1m / 6m / 12m | +2.3% / -6.2% / +28.4% |
+| vs. 200-day average | +6.0% |
 | RSI (14d) | 50 |
-| Volatility (1y) | 43.5% |
+| Volatility (1y) | 43.4% |
 | Financials as of | 2026-06-27 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Retail: Computer Software & Peripheral Equipment
 - Insider trades: http://openinsider.com/INGM
 - Full deep dive: run `python scout.py stock INGM` → `research/INGM.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

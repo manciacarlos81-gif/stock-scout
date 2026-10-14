@@ -13,7 +13,7 @@ momentum: 33
 health: 60
 pe: 18.5
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,7 +30,7 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 77% of stocks in Real Estate (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price up 12% over 12 months (27% below its 52-week high).
+- Share price up 9% over 12 months (27% below its 52-week high).
 - Insiders bought $273.0K of shares recently (Dupuy David H. (CEO, Pres); Hensley Robert Z (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -62,7 +62,7 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.8% |
-| Return 1m / 6m / 12m | -7.4% / -18.2% / +11.5% |
+| Return 1m / 6m / 12m | -8.2% / -18.9% / +8.6% |
 | vs. 200-day average | -15.6% |
 | RSI (14d) | 33 |
 | Volatility (1y) | 26.7% |
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/CHCT
 - Full deep dive: run `python scout.py stock CHCT` → `research/CHCT.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

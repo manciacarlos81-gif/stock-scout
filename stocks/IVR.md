@@ -9,11 +9,11 @@ score: 61
 value: 96
 quality: 62
 growth: 69
-momentum: 24
+momentum: 25
 health: 40
 pe: 5.1
 piotroski: 8
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -29,13 +29,13 @@ Real Estate · Real Estate Investment Trusts
 
 - Cheaper than about 96% of stocks in Real Estate (value score).
 - Business quality ranks above 62% of all stocks scanned.
-- Share price down 8% over 12 months (31% below its 52-week high).
+- Share price down 7% over 12 months (31% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 96 | 62 | 69 | 24 | 40 |
+| **61** | 96 | 62 | 69 | 25 | 40 |
 
 ## Key numbers
 
@@ -60,8 +60,8 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +43.8% |
-| Return 1m / 6m / 12m | -15.5% / -26.1% / -8.0% |
-| vs. 200-day average | -22.6% |
+| Return 1m / 6m / 12m | -13.8% / -24.7% / -6.7% |
+| vs. 200-day average | -22.5% |
 | RSI (14d) | 22 |
 | Volatility (1y) | 22.7% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/IVR
 - Full deep dive: run `python scout.py stock IVR` → `research/IVR.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

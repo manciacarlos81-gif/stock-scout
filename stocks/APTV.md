@@ -13,7 +13,7 @@ momentum: 8
 health: 46
 pe: 41.1
 piotroski: 8
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -62,8 +62,8 @@ Consumer Discretionary · Auto Parts:O.E.M.
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.59 |
 | Share count change (1y) | -2.8% |
-| Return 1m / 6m / 12m | -4.4% / -25.5% / -46.7% |
-| vs. 200-day average | -29.8% |
+| Return 1m / 6m / 12m | -2.8% / -24.3% / -47.4% |
+| vs. 200-day average | -29.7% |
 | RSI (14d) | 42 |
 | Volatility (1y) | 43.4% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Auto Parts:O.E.M.
 - Insider trades: http://openinsider.com/APTV
 - Full deep dive: run `python scout.py stock APTV` → `research/APTV.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

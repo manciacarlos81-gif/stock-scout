@@ -9,11 +9,11 @@ score: 78
 value: 95
 quality: 82
 growth: 85
-momentum: 83
+momentum: 82
 health: 33
 pe: 6.9
 piotroski: 9
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -29,13 +29,13 @@ Consumer Discretionary · Business Services
 
 - Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 82% of all stocks scanned.
-- Share price up 82% over 12 months (10% below its 52-week high).
+- Share price up 74% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **78** | 95 | 82 | 85 | 83 | 33 |
+| **78** | 95 | 82 | 85 | 82 | 33 |
 
 ## Key numbers
 
@@ -60,8 +60,8 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -13.8% |
-| Return 1m / 6m / 12m | -4.5% / +22.8% / +82.2% |
-| vs. 200-day average | +13.2% |
+| Return 1m / 6m / 12m | -7.0% / +20.8% / +73.5% |
+| vs. 200-day average | +13.1% |
 | RSI (14d) | 48 |
 | Volatility (1y) | 39.4% |
 | Financials as of | 2026-06-30 |
@@ -73,4 +73,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/BFH
 - Full deep dive: run `python scout.py stock BFH` → `research/BFH.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

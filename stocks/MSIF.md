@@ -9,11 +9,11 @@ score: 69
 value: 95
 quality: null
 growth: 77
-momentum: 41
+momentum: 42
 health: 87
 pe: 5.4
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -35,7 +35,7 @@ Finance · Finance/Investors Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 95 | – | 77 | 41 | 87 |
+| **69** | 95 | – | 77 | 42 | 87 |
 
 ## Key numbers
 
@@ -60,10 +60,10 @@ Finance · Finance/Investors Services
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.6% |
-| Return 1m / 6m / 12m | -3.9% / -4.2% / -0.9% |
+| Return 1m / 6m / 12m | -3.2% / -3.4% / -1.1% |
 | vs. 200-day average | -0.0% |
 | RSI (14d) | 46 |
-| Volatility (1y) | 26.9% |
+| Volatility (1y) | 26.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Finance · Finance/Investors Services
 - Insider trades: http://openinsider.com/MSIF
 - Full deep dive: run `python scout.py stock MSIF` → `research/MSIF.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

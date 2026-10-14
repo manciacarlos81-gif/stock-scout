@@ -5,15 +5,15 @@ sector: "Energy"
 industry: "Oil & Gas Production"
 price: 83.12
 market_cap: "$4.2B"
-score: 75
+score: 74
 value: 79
 quality: 60
 growth: 84
-momentum: 91
+momentum: 90
 health: 61
 pe: 4.9
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,13 +30,13 @@ Energy · Oil & Gas Production
 - Cheaper than about 79% of stocks in Energy (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 133% over 12 months (5% below its 52-week high).
+- Share price up 130% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 79 | 60 | 84 | 91 | 61 |
+| **74** | 79 | 60 | 84 | 90 | 61 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 7/9 |
 | Altman Z | 4.35 |
 | Share count change (1y) | -2.7% |
-| Return 1m / 6m / 12m | -1.8% / +33.6% / +133.1% |
-| vs. 200-day average | +35.4% |
+| Return 1m / 6m / 12m | +1.7% / +30.5% / +130.1% |
+| vs. 200-day average | +34.8% |
 | RSI (14d) | 52 |
-| Volatility (1y) | 57.4% |
+| Volatility (1y) | 57.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/PARR
 - Full deep dive: run `python scout.py stock PARR` → `research/PARR.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

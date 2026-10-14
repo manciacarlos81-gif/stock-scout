@@ -6,14 +6,14 @@ industry: "Advertising"
 price: 42.96
 market_cap: "$995.4M"
 score: 47
-value: 28
+value: 27
 quality: 55
 growth: 16
-momentum: 76
+momentum: 78
 health: 58
 pe: null
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,7 +27,7 @@ Consumer Discretionary · Advertising
 
 ## In plain English
 
-- More expensive than about 72% of Consumer Discretionary peers (value score).
+- More expensive than about 73% of Consumer Discretionary peers (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
 - Share price up 38% over 12 months (1% below its 52-week high).
@@ -36,7 +36,7 @@ Consumer Discretionary · Advertising
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **47** | 28 | 55 | 16 | 76 | 58 |
+| **47** | 27 | 55 | 16 | 78 | 58 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Consumer Discretionary · Advertising
 | Piotroski F-score | 6/9 |
 | Altman Z | 3.02 |
 | Share count change (1y) | -23.5% |
-| Return 1m / 6m / 12m | +4.4% / +21.5% / +37.6% |
-| vs. 200-day average | +37.7% |
+| Return 1m / 6m / 12m | +1.3% / +21.2% / +38.0% |
+| vs. 200-day average | +37.2% |
 | RSI (14d) | 64 |
 | Volatility (1y) | 81.9% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/IBTA
 - Full deep dive: run `python scout.py stock IBTA` → `research/IBTA.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

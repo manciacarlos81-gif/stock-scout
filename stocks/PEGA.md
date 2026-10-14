@@ -13,7 +13,7 @@ momentum: 17
 health: 62
 pe: 17.7
 piotroski: 9
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · EDP Services
 - Cheaper than about 68% of stocks in Technology (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 36% over 12 months (47% below its 52-week high).
+- Share price down 37% over 12 months (47% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Technology · EDP Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 6.39 |
 | Share count change (1y) | -5.7% |
-| Return 1m / 6m / 12m | -3.6% / -18.0% / -36.0% |
-| vs. 200-day average | -9.0% |
+| Return 1m / 6m / 12m | -9.7% / -19.0% / -37.1% |
+| vs. 200-day average | -8.7% |
 | RSI (14d) | 51 |
 | Volatility (1y) | 52.6% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PEGA
 - Full deep dive: run `python scout.py stock PEGA` → `research/PEGA.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

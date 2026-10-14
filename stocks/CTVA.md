@@ -13,7 +13,7 @@ momentum: 68
 health: 72
 pe: 8.8
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -61,8 +61,8 @@ Consumer Staples · Farming/Seeds/Milling
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | +5.7% / +9.5% / +42.8% |
-| vs. 200-day average | +11.6% |
+| Return 1m / 6m / 12m | +7.4% / +9.7% / +42.8% |
+| vs. 200-day average | +11.4% |
 | RSI (14d) | 57 |
 | Volatility (1y) | 30.2% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Consumer Staples · Farming/Seeds/Milling
 - Insider trades: http://openinsider.com/CTVA
 - Full deep dive: run `python scout.py stock CTVA` → `research/CTVA.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

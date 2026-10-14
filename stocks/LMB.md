@@ -9,11 +9,11 @@ score: 44
 value: 55
 quality: 51
 growth: 51
-momentum: 4
+momentum: 5
 health: 62
 pe: 20.2
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,14 +30,14 @@ Consumer Discretionary · Engineering & Construction
 - Cheaper than about 55% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price down 45% over 12 months (55% below its 52-week high).
+- Share price down 44% over 12 months (55% below its 52-week high).
 - Insiders bought $515.9K of shares recently (Krzeminski Laurel J (Dir); Gaboury David Richard (Dir); Horowitz Joshua (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **44** | 55 | 51 | 51 | 4 | 62 |
+| **44** | 55 | 51 | 51 | 5 | 62 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Consumer Discretionary · Engineering & Construction
 | Piotroski F-score | 6/9 |
 | Altman Z | 4.43 |
 | Share count change (1y) | -0.6% |
-| Return 1m / 6m / 12m | +1.1% / -42.5% / -44.5% |
-| vs. 200-day average | -30.7% |
+| Return 1m / 6m / 12m | -0.2% / -42.9% / -44.3% |
+| vs. 200-day average | -30.5% |
 | RSI (14d) | 53 |
-| Volatility (1y) | 71.5% |
+| Volatility (1y) | 71.2% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Engineering & Construction
 - Insider trades: http://openinsider.com/LMB
 - Full deep dive: run `python scout.py stock LMB` → `research/LMB.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

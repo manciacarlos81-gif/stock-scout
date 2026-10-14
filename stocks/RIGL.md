@@ -9,11 +9,11 @@ score: 75
 value: 89
 quality: 75
 growth: 43
-momentum: 90
+momentum: 89
 health: 64
 pe: 2.8
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,13 +30,13 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 89% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price up 82% over 12 months (4% below its 52-week high).
+- Share price up 78% over 12 months (4% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 89 | 75 | 43 | 90 | 64 |
+| **75** | 89 | 75 | 43 | 89 | 64 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 6/9 |
 | Altman Z | 4.33 |
 | Share count change (1y) | +7.8% |
-| Return 1m / 6m / 12m | +3.3% / +52.2% / +81.9% |
-| vs. 200-day average | +33.2% |
+| Return 1m / 6m / 12m | +7.6% / +53.6% / +78.3% |
+| vs. 200-day average | +33.1% |
 | RSI (14d) | 57 |
-| Volatility (1y) | 63.2% |
+| Volatility (1y) | 63.1% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/RIGL
 - Full deep dive: run `python scout.py stock RIGL` → `research/RIGL.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

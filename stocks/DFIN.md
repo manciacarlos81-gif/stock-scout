@@ -5,16 +5,17 @@ sector: "Consumer Discretionary"
 industry: "Other Consumer Services"
 price: 48.69
 market_cap: "$1.2B"
-score: 55
+score: 54
 value: 59
 quality: 72
 growth: 38
-momentum: 39
+momentum: 37
 health: 56
 pe: 34.0
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
+  - "🕵️ Insiders buying"
   - "💵 Dividends & buybacks"
 tags: [stock]
 ---
@@ -23,21 +24,21 @@ tags: [stock]
 
 Consumer Discretionary · Other Consumer Services
 
-**In screens today:** 💵 Dividends & buybacks
+**In screens today:** 🕵️ Insiders buying, 💵 Dividends & buybacks
 
 ## In plain English
 
 - Cheaper than about 59% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price down 8% over 12 months (12% below its 52-week high).
+- Share price down 12% over 12 months (12% below its 52-week high).
 - Insiders bought $1000.0K of shares recently (Binz Joseph Leo (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 59 | 72 | 38 | 39 | 56 |
+| **54** | 59 | 72 | 38 | 37 | 56 |
 
 ## Key numbers
 
@@ -62,7 +63,7 @@ Consumer Discretionary · Other Consumer Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 4.27 |
 | Share count change (1y) | -10.3% |
-| Return 1m / 6m / 12m | +1.5% / -1.9% / -8.0% |
+| Return 1m / 6m / 12m | +0.5% / -4.1% / -12.3% |
 | vs. 200-day average | +3.7% |
 | RSI (14d) | 51 |
 | Volatility (1y) | 46.5% |
@@ -75,4 +76,4 @@ Consumer Discretionary · Other Consumer Services
 - Insider trades: http://openinsider.com/DFIN
 - Full deep dive: run `python scout.py stock DFIN` → `research/DFIN.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

@@ -9,11 +9,11 @@ score: 66
 value: 80
 quality: 89
 growth: 55
-momentum: 28
+momentum: 29
 health: 63
 pe: 12.8
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -31,13 +31,13 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 80% of stocks in Technology (value score).
 - Business quality ranks above 89% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price down 30% over 12 months (34% below its 52-week high).
+- Share price down 29% over 12 months (34% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 80 | 89 | 55 | 28 | 63 |
+| **66** | 80 | 89 | 55 | 29 | 63 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 7/9 |
 | Altman Z | 7.02 |
 | Share count change (1y) | -6.2% |
-| Return 1m / 6m / 12m | -5.6% / -2.7% / -29.8% |
-| vs. 200-day average | -6.8% |
+| Return 1m / 6m / 12m | -10.3% / -4.0% / -29.1% |
+| vs. 200-day average | -6.6% |
 | RSI (14d) | 44 |
 | Volatility (1y) | 40.9% |
 | Financials as of | 2026-05-29 |
@@ -75,4 +75,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADBE
 - Full deep dive: run `python scout.py stock ADBE` → `research/ADBE.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

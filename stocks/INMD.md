@@ -13,7 +13,7 @@ momentum: 41
 health: 84
 pe: 8.8
 piotroski: 4
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -61,7 +61,7 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 | Piotroski F-score | 4/9 |
 | Altman Z | 9.53 |
 | Share count change (1y) | -18.8% |
-| Return 1m / 6m / 12m | -4.0% / +0.4% / -6.5% |
+| Return 1m / 6m / 12m | -4.0% / -0.2% / -7.4% |
 | vs. 200-day average | -0.6% |
 | RSI (14d) | 47 |
 | Volatility (1y) | 30.5% |
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 - Insider trades: http://openinsider.com/INMD
 - Full deep dive: run `python scout.py stock INMD` → `research/INMD.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

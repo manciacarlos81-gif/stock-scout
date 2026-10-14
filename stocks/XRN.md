@@ -13,7 +13,7 @@ momentum: 48
 health: 68
 pe: 7.1
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 87% of stocks in Real Estate (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 14% over 12 months (11% below its 52-week high).
+- Share price up 13% over 12 months (11% below its 52-week high).
 - Insiders bought $2.6M of shares recently (Whitlock Matthew Fitzsimmons (Chief Investment Officer); Decker Mark Okey Jr (CEO, Pres); Roseth Aaron Robert (COO)).
 
 ## Scores (0–100, higher is better)
@@ -62,10 +62,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.1% |
-| Return 1m / 6m / 12m | -6.4% / -2.5% / +13.9% |
+| Return 1m / 6m / 12m | -7.1% / -3.3% / +13.0% |
 | vs. 200-day average | -3.9% |
 | RSI (14d) | 31 |
-| Volatility (1y) | 27.6% |
+| Volatility (1y) | 27.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/XRN
 - Full deep dive: run `python scout.py stock XRN` → `research/XRN.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

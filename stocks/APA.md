@@ -13,7 +13,7 @@ momentum: 88
 health: 41
 pe: 9.8
 piotroski: 8
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -61,8 +61,8 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | +4.7% / +29.7% / +112.4% |
-| vs. 200-day average | +30.6% |
+| Return 1m / 6m / 12m | +4.0% / +25.3% / +111.6% |
+| vs. 200-day average | +30.2% |
 | RSI (14d) | 65 |
 | Volatility (1y) | 44.8% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/APA
 - Full deep dive: run `python scout.py stock APA` → `research/APA.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

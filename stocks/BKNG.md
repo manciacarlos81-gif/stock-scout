@@ -13,7 +13,7 @@ momentum: 22
 health: 60
 pe: 22.0
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -61,10 +61,10 @@ Consumer Discretionary · Transportation Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 5.86 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | -8.9% / -14.3% / -23.9% |
-| vs. 200-day average | -11.9% |
+| Return 1m / 6m / 12m | -9.6% / -13.7% / -24.3% |
+| vs. 200-day average | -11.7% |
 | RSI (14d) | 34 |
-| Volatility (1y) | 37.8% |
+| Volatility (1y) | 37.6% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Transportation Services
 - Insider trades: http://openinsider.com/BKNG
 - Full deep dive: run `python scout.py stock BKNG` → `research/BKNG.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

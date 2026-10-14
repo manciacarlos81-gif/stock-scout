@@ -13,7 +13,7 @@ momentum: 49
 health: 48
 pe: 9.8
 piotroski: 9
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -61,10 +61,10 @@ Industrials · Diversified Commercial Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 1.89 |
 | Share count change (1y) | -9.7% |
-| Return 1m / 6m / 12m | +4.3% / +13.7% / -17.7% |
+| Return 1m / 6m / 12m | +3.7% / +13.2% / -18.0% |
 | vs. 200-day average | +12.6% |
 | RSI (14d) | 59 |
-| Volatility (1y) | 43.0% |
+| Volatility (1y) | 42.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Industrials · Diversified Commercial Services
 - Insider trades: http://openinsider.com/PYPL
 - Full deep dive: run `python scout.py stock PYPL` → `research/PYPL.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

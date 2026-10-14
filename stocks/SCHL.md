@@ -13,7 +13,7 @@ momentum: 56
 health: 52
 pe: 12.8
 piotroski: 8
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Books
 - Cheaper than about 61% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 44% over 12 months (16% below its 52-week high).
+- Share price up 42% over 12 months (16% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Consumer Discretionary · Books
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -12.3% |
-| Return 1m / 6m / 12m | +12.5% / +0.9% / +44.0% |
-| vs. 200-day average | +3.0% |
+| Return 1m / 6m / 12m | +11.6% / +0.2% / +41.8% |
+| vs. 200-day average | +2.9% |
 | RSI (14d) | 65 |
 | Volatility (1y) | 35.0% |
 | Financials as of | 2026-05-31 |
@@ -74,4 +74,4 @@ Consumer Discretionary · Books
 - Insider trades: http://openinsider.com/SCHL
 - Full deep dive: run `python scout.py stock SCHL` → `research/SCHL.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

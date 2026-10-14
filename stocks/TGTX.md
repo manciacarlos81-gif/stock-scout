@@ -5,15 +5,15 @@ sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
 price: 55.27
 market_cap: "$8.5B"
-score: 68
+score: 69
 value: 57
 quality: 58
 growth: 90
-momentum: 88
+momentum: 89
 health: 57
 pe: 19.2
 piotroski: 5
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -36,7 +36,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 57 | 58 | 90 | 88 | 57 |
+| **69** | 57 | 58 | 90 | 89 | 57 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 5/9 |
 | Altman Z | 5.41 |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | +2.6% / +59.7% / +61.5% |
-| vs. 200-day average | +31.1% |
+| Return 1m / 6m / 12m | +2.4% / +61.1% / +61.9% |
+| vs. 200-day average | +30.7% |
 | RSI (14d) | 52 |
-| Volatility (1y) | 45.4% |
+| Volatility (1y) | 45.3% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/TGTX
 - Full deep dive: run `python scout.py stock TGTX` → `research/TGTX.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

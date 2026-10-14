@@ -13,7 +13,7 @@ momentum: 96
 health: 66
 pe: 11.4
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -62,8 +62,8 @@ Energy · Natural Gas Distribution
 | Piotroski F-score | 7/9 |
 | Altman Z | 4.34 |
 | Share count change (1y) | -4.6% |
-| Return 1m / 6m / 12m | +14.0% / +113.7% / +141.6% |
-| vs. 200-day average | +68.2% |
+| Return 1m / 6m / 12m | +15.0% / +107.2% / +141.5% |
+| vs. 200-day average | +67.3% |
 | RSI (14d) | 76 |
 | Volatility (1y) | 39.2% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Energy · Natural Gas Distribution
 - Insider trades: http://openinsider.com/DINO
 - Full deep dive: run `python scout.py stock DINO` → `research/DINO.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

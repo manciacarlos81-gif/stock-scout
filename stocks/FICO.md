@@ -13,7 +13,7 @@ momentum: 7
 health: 60
 pe: 19.6
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -61,8 +61,8 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 8.40 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -24.9% / -28.2% / -55.2% |
-| vs. 200-day average | -37.3% |
+| Return 1m / 6m / 12m | -26.1% / -30.8% / -55.1% |
+| vs. 200-day average | -37.0% |
 | RSI (14d) | 41 |
 | Volatility (1y) | 62.0% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/FICO
 - Full deep dive: run `python scout.py stock FICO` → `research/FICO.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

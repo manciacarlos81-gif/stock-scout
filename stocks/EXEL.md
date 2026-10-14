@@ -13,7 +13,7 @@ momentum: 82
 health: 80
 pe: 17.2
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Cheaper than about 75% of stocks in Health Care (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 9% over the last 12 months.
-- Share price up 56% over 12 months (0% below its 52-week high).
+- Share price up 51% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 7/9 |
 | Altman Z | 16.21 |
 | Share count change (1y) | -8.7% |
-| Return 1m / 6m / 12m | +6.6% / +35.1% / +55.6% |
-| vs. 200-day average | +20.6% |
+| Return 1m / 6m / 12m | +6.4% / +34.8% / +51.4% |
+| vs. 200-day average | +20.4% |
 | RSI (14d) | 62 |
 | Volatility (1y) | 36.5% |
 | Financials as of | 2026-07-03 |
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/EXEL
 - Full deep dive: run `python scout.py stock EXEL` → `research/EXEL.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

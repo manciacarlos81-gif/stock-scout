@@ -4,16 +4,16 @@ company: "Jefferies Financial Group Inc."
 sector: "Finance"
 industry: "Investment Bankers/Brokers/Service"
 price: 45.01
-market_cap: "$8.7B"
-score: 57
-value: 85
+market_cap: "$10.3B"
+score: 54
+value: 72
 quality: null
 growth: 63
-momentum: 35
+momentum: 34
 health: 48
-pe: 10.1
+pe: 12.0
 piotroski: 4
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,7 +27,7 @@ Finance · Investment Bankers/Brokers/Service
 
 ## In plain English
 
-- Cheaper than about 85% of stocks in Finance (value score).
+- Cheaper than about 72% of stocks in Finance (value score).
 - Sales grew 14% over the last 12 months.
 - Share price down 14% over 12 months (31% below its 52-week high).
 - Insiders bought $642.7M of shares recently (Sumitomo Mitsui Financial Group, Inc. (Dir)).
@@ -36,19 +36,19 @@ Finance · Investment Bankers/Brokers/Service
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 85 | – | 63 | 35 | 48 |
+| **54** | 72 | – | 63 | 34 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
 | Price | $45.01 |
-| Market value | $8.7B |
-| P/E | 10.1 |
-| Price/Sales | 0.74 |
-| Price/Book | 0.83 |
+| Market value | $10.3B |
+| P/E | 12.0 |
+| Price/Sales | 0.87 |
+| Price/Book | 0.98 |
 | Free-cash-flow yield | – |
-| Dividend yield | 4.3% |
+| Dividend yield | 3.6% |
 | Sales (12m) | $11.8B |
 | Sales growth | +13.8% |
 | Net profit (12m) | $863.1M |
@@ -61,8 +61,8 @@ Finance · Investment Bankers/Brokers/Service
 | Piotroski F-score | 4/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.4% |
-| Return 1m / 6m / 12m | -13.4% / -2.5% / -13.7% |
-| vs. 200-day average | -12.5% |
+| Return 1m / 6m / 12m | -10.2% / -1.9% / -13.8% |
+| vs. 200-day average | -12.4% |
 | RSI (14d) | 34 |
 | Volatility (1y) | 41.5% |
 | Financials as of | 2026-05-31 |
@@ -74,4 +74,4 @@ Finance · Investment Bankers/Brokers/Service
 - Insider trades: http://openinsider.com/JEF
 - Full deep dive: run `python scout.py stock JEF` → `research/JEF.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

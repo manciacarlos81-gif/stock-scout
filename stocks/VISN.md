@@ -13,7 +13,7 @@ momentum: 71
 health: 51
 pe: 0.2
 piotroski: 7
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 - Cheaper than about 93% of stocks in Technology (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 1333% over the last 12 months.
-- Share price up 44% over 12 months (17% below its 52-week high).
+- Share price up 41% over 12 months (17% below its 52-week high).
 - Insiders bought $107.5K of shares recently (Gilstrap Charles A (SVP, Treasury, Tax, CAO)).
 
 ## Scores (0–100, higher is better)
@@ -62,8 +62,8 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 | Piotroski F-score | 7/9 |
 | Altman Z | 2.04 |
 | Share count change (1y) | +7.2% |
-| Return 1m / 6m / 12m | -6.2% / +15.2% / +43.8% |
-| vs. 200-day average | +0.7% |
+| Return 1m / 6m / 12m | -6.0% / +15.2% / +40.8% |
+| vs. 200-day average | +0.6% |
 | RSI (14d) | 43 |
 | Volatility (1y) | 48.2% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 - Insider trades: http://openinsider.com/VISN
 - Full deep dive: run `python scout.py stock VISN` → `research/VISN.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_

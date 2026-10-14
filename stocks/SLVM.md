@@ -13,7 +13,7 @@ momentum: 16
 health: 42
 pe: 16.3
 piotroski: 6
-updated: "2026-10-13"
+updated: "2026-10-14"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -61,8 +61,8 @@ Basic Materials · Paper
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | -10.5% / -24.5% / -23.5% |
-| vs. 200-day average | -22.3% |
+| Return 1m / 6m / 12m | -10.4% / -24.5% / -23.4% |
+| vs. 200-day average | -22.2% |
 | RSI (14d) | 34 |
 | Volatility (1y) | 37.9% |
 | Financials as of | 2026-06-30 |
@@ -78,4 +78,4 @@ Basic Materials · Paper
 - Insider trades: http://openinsider.com/SLVM
 - Full deep dive: run `python scout.py stock SLVM` → `research/SLVM.md`
 
-_Updated 2026-10-13 · [latest report](../reports/latest.md)_
+_Updated 2026-10-14 · [latest report](../reports/latest.md)_
