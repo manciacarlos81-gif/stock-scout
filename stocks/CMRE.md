@@ -3,17 +3,17 @@ ticker: "CMRE"
 company: "Costamare Inc."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 15.41
-market_cap: "$1.9B"
-score: 66
+price: 14.79
+market_cap: "$1.8B"
+score: 65
 value: 88
 quality: 85
 growth: 30
-momentum: 51
+momentum: 47
 health: 52
-pe: 5.1
+pe: 4.9
 piotroski: 8
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 88% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales fell 1% over the last 12 months.
-- Share price up 42% over 12 months (13% below its 52-week high).
+- Share price up 32% over 12 months (16% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 88 | 85 | 30 | 51 | 52 |
+| **65** | 88 | 85 | 30 | 47 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.41 |
-| Market value | $1.9B |
-| P/E | 5.1 |
-| Price/Sales | 2.12 |
-| Price/Book | 0.89 |
-| Free-cash-flow yield | 28.9% |
-| Dividend yield | 4.3% |
+| Price | $14.79 |
+| Market value | $1.8B |
+| P/E | 4.9 |
+| Price/Sales | 2.03 |
+| Price/Book | 0.85 |
+| Free-cash-flow yield | 30.1% |
+| Dividend yield | 4.4% |
 | Sales (12m) | $877.9M |
 | Sales growth | -1.2% |
 | Net profit (12m) | $364.6M |
@@ -59,12 +59,12 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.73 |
 | Current ratio | 1.73 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 3.25 |
+| Altman Z | 3.16 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | +1.9% / -8.4% / +42.0% |
-| vs. 200-day average | -2.7% |
-| RSI (14d) | 56 |
-| Volatility (1y) | 31.3% |
+| Return 1m / 6m / 12m | -2.3% / -14.1% / +32.0% |
+| vs. 200-day average | -6.6% |
+| RSI (14d) | 44 |
+| Volatility (1y) | 31.6% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/CMRE
 - Full deep dive: run `python scout.py stock CMRE` → `research/CMRE.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

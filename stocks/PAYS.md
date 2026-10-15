@@ -3,17 +3,17 @@ ticker: "PAYS"
 company: "Paysign Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 15.17
-market_cap: "$856.5M"
+price: 15.16
+market_cap: "$856.0M"
 score: 70
-value: 51
+value: 50
 quality: 70
 growth: 84
 momentum: 98
-health: 49
+health: 50
 pe: 54.3
 piotroski: 6
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,26 +27,26 @@ Technology · EDP Services
 
 ## In plain English
 
-- Cheaper than about 51% of stocks in Technology (value score).
+- Cheaper than about 50% of stocks in Technology (value score).
 - Business quality ranks above 70% of all stocks scanned.
 - Sales grew 47% over the last 12 months.
-- Share price up 170% over 12 months (1% below its 52-week high).
+- Share price up 168% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **70** | 51 | 70 | 84 | 98 | 49 |
+| **70** | 50 | 70 | 84 | 98 | 50 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.17 |
-| Market value | $856.5M |
+| Price | $15.16 |
+| Market value | $856.0M |
 | P/E | 54.3 |
 | Price/Sales | 8.51 |
-| Price/Book | 14.24 |
+| Price/Book | 14.23 |
 | Free-cash-flow yield | 6.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $100.6M |
@@ -61,9 +61,9 @@ Technology · EDP Services
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.75 |
 | Share count change (1y) | +7.1% |
-| Return 1m / 6m / 12m | +18.2% / +159.8% / +169.9% |
-| vs. 200-day average | +96.0% |
-| RSI (14d) | 67 |
+| Return 1m / 6m / 12m | +24.6% / +141.0% / +167.8% |
+| vs. 200-day average | +94.6% |
+| RSI (14d) | 65 |
 | Volatility (1y) | 69.4% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PAYS
 - Full deep dive: run `python scout.py stock PAYS` → `research/PAYS.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

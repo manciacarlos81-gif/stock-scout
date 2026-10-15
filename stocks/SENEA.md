@@ -3,17 +3,17 @@ ticker: "SENEA"
 company: "Seneca Foods Corp."
 sector: "Consumer Staples"
 industry: "Packaged Foods"
-price: 183.41
+price: 181.78
 market_cap: "$1.2B"
 score: 76
-value: 79
+value: 80
 quality: 70
 growth: 84
-momentum: 85
+momentum: 83
 health: 61
-pe: 10.4
+pe: 10.3
 piotroski: 8
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,26 +27,26 @@ Consumer Staples · Packaged Foods
 
 ## In plain English
 
-- Cheaper than about 79% of stocks in Consumer Staples (value score).
+- Cheaper than about 80% of stocks in Consumer Staples (value score).
 - Business quality ranks above 70% of all stocks scanned.
-- Share price up 56% over 12 months (12% below its 52-week high).
+- Share price up 53% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 79 | 70 | 84 | 85 | 61 |
+| **76** | 80 | 70 | 84 | 83 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $183.41 |
+| Price | $181.78 |
 | Market value | $1.2B |
-| P/E | 10.4 |
-| Price/Sales | 0.77 |
-| Price/Book | 1.60 |
-| Free-cash-flow yield | 24.0% |
+| P/E | 10.3 |
+| Price/Sales | 0.76 |
+| Price/Book | 1.59 |
+| Free-cash-flow yield | 24.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.6B |
 | Sales growth | – |
@@ -58,11 +58,11 @@ Consumer Staples · Packaged Foods
 | Debt / equity | 0.30 |
 | Current ratio | 3.77 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 4.66 |
+| Altman Z | 4.64 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -1.6% / +38.8% / +56.2% |
-| vs. 200-day average | +18.8% |
-| RSI (14d) | 52 |
+| Return 1m / 6m / 12m | +1.2% / +29.6% / +53.0% |
+| vs. 200-day average | +17.5% |
+| RSI (14d) | 50 |
 | Volatility (1y) | 41.3% |
 | Financials as of | 2025-12-27 |
 
@@ -77,4 +77,4 @@ Consumer Staples · Packaged Foods
 - Insider trades: http://openinsider.com/SENEA
 - Full deep dive: run `python scout.py stock SENEA` → `research/SENEA.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

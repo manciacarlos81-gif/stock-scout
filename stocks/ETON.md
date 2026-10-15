@@ -3,17 +3,17 @@ ticker: "ETON"
 company: "Eton Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 55.25
-market_cap: "$1.6B"
+price: 53.33
+market_cap: "$1.5B"
 score: 73
 value: 49
 quality: 72
 growth: 88
 momentum: 98
 health: 62
-pe: 124.5
+pe: 120.1
 piotroski: 5
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - More expensive than about 51% of Health Care peers (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 194% over 12 months (14% below its 52-week high).
+- Share price up 178% over 12 months (17% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $55.25 |
-| Market value | $1.6B |
-| P/E | 124.5 |
-| Price/Sales | 14.96 |
-| Price/Book | 33.90 |
-| Free-cash-flow yield | 0.6% |
+| Price | $53.33 |
+| Market value | $1.5B |
+| P/E | 120.1 |
+| Price/Sales | 14.44 |
+| Price/Book | 32.72 |
+| Free-cash-flow yield | 0.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $105.6M |
 | Sales growth | +81.5% |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.60 |
 | Current ratio | 1.52 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 14.11 |
+| Altman Z | 13.63 |
 | Share count change (1y) | +21.9% |
-| Return 1m / 6m / 12m | -4.1% / +126.2% / +194.4% |
-| vs. 200-day average | +63.7% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 71.0% |
+| Return 1m / 6m / 12m | -2.9% / +113.0% / +178.5% |
+| vs. 200-day average | +57.2% |
+| RSI (14d) | 44 |
+| Volatility (1y) | 70.9% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ETON
 - Full deep dive: run `python scout.py stock ETON` → `research/ETON.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

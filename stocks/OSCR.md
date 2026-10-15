@@ -3,17 +3,17 @@ ticker: "OSCR"
 company: "Oscar Health Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 34.01
-market_cap: "$10.5B"
+price: 33.79
+market_cap: "$10.4B"
 score: 75
 value: 85
-quality: 58
+quality: 57
 growth: 87
-momentum: 93
+momentum: 92
 health: 53
-pe: 19.1
+pe: 18.9
 piotroski: 3
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -29,26 +29,26 @@ Health Care · Medical Specialities
 ## In plain English
 
 - Cheaper than about 85% of stocks in Health Care (value score).
-- Business quality ranks above 58% of all stocks scanned.
+- Business quality ranks above 57% of all stocks scanned.
 - Sales grew 43% over the last 12 months.
-- Share price up 64% over 12 months (0% below its 52-week high).
+- Share price up 63% over 12 months (1% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 85 | 58 | 87 | 93 | 53 |
+| **75** | 85 | 57 | 87 | 92 | 53 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $34.01 |
-| Market value | $10.5B |
-| P/E | 19.1 |
-| Price/Sales | 0.69 |
-| Price/Book | 5.12 |
-| Free-cash-flow yield | 10.4% |
+| Price | $33.79 |
+| Market value | $10.4B |
+| P/E | 18.9 |
+| Price/Sales | 0.68 |
+| Price/Book | 5.08 |
+| Free-cash-flow yield | 10.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $15.3B |
 | Sales growth | +42.8% |
@@ -60,11 +60,11 @@ Health Care · Medical Specialities
 | Debt / equity | 0.21 |
 | Current ratio | 1.08 |
 | Piotroski F-score | 3/9 |
-| Altman Z | 2.03 |
+| Altman Z | 2.02 |
 | Share count change (1y) | +30.5% |
-| Return 1m / 6m / 12m | +0.6% / +117.6% / +64.4% |
-| vs. 200-day average | +49.9% |
-| RSI (14d) | 64 |
+| Return 1m / 6m / 12m | +4.2% / +114.0% / +63.5% |
+| vs. 200-day average | +48.3% |
+| RSI (14d) | 63 |
 | Volatility (1y) | 68.0% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/OSCR
 - Full deep dive: run `python scout.py stock OSCR` → `research/OSCR.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

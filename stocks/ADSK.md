@@ -3,17 +3,17 @@ ticker: "ADSK"
 company: "Autodesk Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 233.54
-market_cap: "$48.8B"
+price: 231.14
+market_cap: "$48.3B"
 score: 62
 value: 59
 quality: 88
 growth: 74
-momentum: 31
+momentum: 32
 health: 53
-pe: 29.7
+pe: 29.4
 piotroski: 8
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,18 +36,18 @@ Technology · Computer Software: Prepackaged Software
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **62** | 59 | 88 | 74 | 31 | 53 |
+| **62** | 59 | 88 | 74 | 32 | 53 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $233.54 |
-| Market value | $48.8B |
-| P/E | 29.7 |
-| Price/Sales | 6.27 |
-| Price/Book | 14.43 |
-| Free-cash-flow yield | 4.9% |
+| Price | $231.14 |
+| Market value | $48.3B |
+| P/E | 29.4 |
+| Price/Sales | 6.20 |
+| Price/Book | 14.28 |
+| Free-cash-flow yield | 5.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $7.8B |
 | Sales growth | +17.9% |
@@ -61,9 +61,9 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | +2.0% / -4.0% / -23.8% |
-| vs. 200-day average | -1.0% |
-| RSI (14d) | 58 |
+| Return 1m / 6m / 12m | +2.0% / -4.5% / -24.2% |
+| vs. 200-day average | -1.9% |
+| RSI (14d) | 56 |
 | Volatility (1y) | 38.6% |
 | Financials as of | 2026-07-31 |
 
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADSK
 - Full deep dive: run `python scout.py stock ADSK` → `research/ADSK.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

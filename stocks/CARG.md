@@ -3,21 +3,20 @@ ticker: "CARG"
 company: "CarGurus Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 28.39
-market_cap: "$2.5B"
+price: 29.32
+market_cap: "$2.6B"
 score: 69
-value: 81
+value: 80
 quality: 91
 growth: 56
-momentum: 24
+momentum: 28
 health: 83
-pe: 14.4
+pe: 14.8
 piotroski: 8
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "💎 Quality at a fair price"
   - "💵 Dividends & buybacks"
-  - "🎯 Quality on sale"
 tags: [stock]
 ---
 
@@ -25,31 +24,31 @@ tags: [stock]
 
 Technology · EDP Services
 
-**In screens today:** 💎 Quality at a fair price, 💵 Dividends & buybacks, 🎯 Quality on sale
+**In screens today:** 💎 Quality at a fair price, 💵 Dividends & buybacks
 
 ## In plain English
 
-- Cheaper than about 81% of stocks in Technology (value score).
+- Cheaper than about 80% of stocks in Technology (value score).
 - Business quality ranks above 91% of all stocks scanned.
 - Sales grew 14% over the last 12 months.
-- Share price down 19% over 12 months (27% below its 52-week high).
+- Share price down 16% over 12 months (25% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 81 | 91 | 56 | 24 | 83 |
+| **69** | 80 | 91 | 56 | 28 | 83 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $28.39 |
-| Market value | $2.5B |
-| P/E | 14.4 |
-| Price/Sales | 2.61 |
-| Price/Book | 9.57 |
-| Free-cash-flow yield | 11.4% |
+| Price | $29.32 |
+| Market value | $2.6B |
+| P/E | 14.8 |
+| Price/Sales | 2.70 |
+| Price/Book | 9.88 |
+| Free-cash-flow yield | 11.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $967.3M |
 | Sales growth | +13.9% |
@@ -61,12 +60,12 @@ Technology · EDP Services
 | Debt / equity | 0.00 |
 | Current ratio | 1.85 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 9.22 |
+| Altman Z | 9.39 |
 | Share count change (1y) | -9.1% |
-| Return 1m / 6m / 12m | -18.7% / -21.6% / -18.9% |
-| vs. 200-day average | -14.5% |
-| RSI (14d) | 28 |
-| Volatility (1y) | 39.0% |
+| Return 1m / 6m / 12m | -16.2% / -20.5% / -16.3% |
+| vs. 200-day average | -11.6% |
+| RSI (14d) | 37 |
+| Volatility (1y) | 39.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -76,4 +75,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/CARG
 - Full deep dive: run `python scout.py stock CARG` → `research/CARG.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

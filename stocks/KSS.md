@@ -3,17 +3,17 @@ ticker: "KSS"
 company: "Kohl's Corporation"
 sector: "Consumer Discretionary"
 industry: "Department/Specialty Retail Stores"
-price: 21.17
+price: 21.15
 market_cap: "$2.4B"
 score: 64
 value: 96
 quality: 52
 growth: 35
-momentum: 75
+momentum: 74
 health: 47
-pe: 8.9
+pe: 8.8
 piotroski: 6
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Cheaper than about 96% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 52% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 41% over 12 months (12% below its 52-week high).
+- Share price up 42% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 96 | 52 | 35 | 75 | 47 |
+| **64** | 96 | 52 | 35 | 74 | 47 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $21.17 |
+| Price | $21.15 |
 | Market value | $2.4B |
-| P/E | 8.9 |
+| P/E | 8.8 |
 | Price/Sales | 0.16 |
 | Price/Book | 0.58 |
-| Free-cash-flow yield | 57.5% |
+| Free-cash-flow yield | 57.6% |
 | Dividend yield | 2.3% |
 | Sales (12m) | $15.4B |
 | Sales growth | -2.9% |
@@ -61,9 +61,9 @@ Consumer Discretionary · Department/Specialty Retail Stores
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.5% |
-| Return 1m / 6m / 12m | +23.3% / +49.9% / +40.8% |
-| vs. 200-day average | +27.8% |
-| RSI (14d) | 72 |
+| Return 1m / 6m / 12m | +29.3% / +47.8% / +42.0% |
+| vs. 200-day average | +27.6% |
+| RSI (14d) | 71 |
 | Volatility (1y) | 72.7% |
 | Financials as of | 2026-08-01 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Insider trades: http://openinsider.com/KSS
 - Full deep dive: run `python scout.py stock KSS` → `research/KSS.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

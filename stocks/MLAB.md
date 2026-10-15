@@ -3,17 +3,17 @@ ticker: "MLAB"
 company: "Mesa Laboratories Inc."
 sector: "Industrials"
 industry: "Industrial Machinery/Components"
-price: 128.07
-market_cap: "$716.7M"
+price: 126.16
+market_cap: "$706.0M"
 score: 60
 value: 44
 quality: 64
 growth: 60
 momentum: 86
 health: 44
-pe: 149.3
+pe: 147.1
 piotroski: 8
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Industrials · Industrial Machinery/Components
 - More expensive than about 56% of Industrials peers (value score).
 - Business quality ranks above 64% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price up 80% over 12 months (10% below its 52-week high).
+- Share price up 79% over 12 months (11% below its 52-week high).
 - Insiders bought $902.4K of shares recently (Kadia Siddhartha (Pres, CEO); Tripeny R Tony (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -43,12 +43,12 @@ Industrials · Industrial Machinery/Components
 
 | | |
 |---|---:|
-| Price | $128.07 |
-| Market value | $716.7M |
-| P/E | 149.3 |
-| Price/Sales | 2.87 |
-| Price/Book | 3.80 |
-| Free-cash-flow yield | 5.5% |
+| Price | $126.16 |
+| Market value | $706.0M |
+| P/E | 147.1 |
+| Price/Sales | 2.83 |
+| Price/Book | 3.74 |
+| Free-cash-flow yield | 5.6% |
 | Dividend yield | 0.5% |
 | Sales (12m) | $249.7M |
 | Sales growth | +3.0% |
@@ -60,12 +60,12 @@ Industrials · Industrial Machinery/Components
 | Debt / equity | 0.35 |
 | Current ratio | 1.79 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.15 |
+| Altman Z | 2.13 |
 | Share count change (1y) | +3.7% |
-| Return 1m / 6m / 12m | +5.4% / +30.1% / +80.3% |
-| vs. 200-day average | +26.2% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 53.4% |
+| Return 1m / 6m / 12m | -0.8% / +22.8% / +79.5% |
+| vs. 200-day average | +24.1% |
+| RSI (14d) | 47 |
+| Volatility (1y) | 53.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Industrials · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/MLAB
 - Full deep dive: run `python scout.py stock MLAB` → `research/MLAB.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "PEGA"
 company: "Pegasystems Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 34.91
-market_cap: "$5.7B"
+price: 33.83
+market_cap: "$5.6B"
 score: 57
-value: 68
+value: 69
 quality: 85
 growth: 42
 momentum: 17
 health: 62
-pe: 17.7
+pe: 17.2
 piotroski: 9
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · EDP Services
 
 ## In plain English
 
-- Cheaper than about 68% of stocks in Technology (value score).
+- Cheaper than about 69% of stocks in Technology (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 37% over 12 months (47% below its 52-week high).
+- Share price down 38% over 12 months (49% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 68 | 85 | 42 | 17 | 62 |
+| **57** | 69 | 85 | 42 | 17 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $34.91 |
-| Market value | $5.7B |
-| P/E | 17.7 |
-| Price/Sales | 3.31 |
-| Price/Book | 10.24 |
-| Free-cash-flow yield | 8.6% |
+| Price | $33.83 |
+| Market value | $5.6B |
+| P/E | 17.2 |
+| Price/Sales | 3.20 |
+| Price/Book | 9.93 |
+| Free-cash-flow yield | 8.8% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $1.7B |
 | Sales growth | +3.6% |
@@ -59,11 +59,11 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 1.06 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 6.39 |
+| Altman Z | 6.26 |
 | Share count change (1y) | -5.7% |
-| Return 1m / 6m / 12m | -9.7% / -19.0% / -37.1% |
-| vs. 200-day average | -8.7% |
-| RSI (14d) | 51 |
+| Return 1m / 6m / 12m | -10.0% / -22.1% / -38.4% |
+| vs. 200-day average | -11.2% |
+| RSI (14d) | 45 |
 | Volatility (1y) | 52.6% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PEGA
 - Full deep dive: run `python scout.py stock PEGA` → `research/PEGA.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

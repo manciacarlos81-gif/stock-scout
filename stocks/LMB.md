@@ -3,17 +3,17 @@ ticker: "LMB"
 company: "Limbach Holdings Inc."
 sector: "Consumer Discretionary"
 industry: "Engineering & Construction"
-price: 51.07
-market_cap: "$609.0M"
+price: 51.27
+market_cap: "$611.4M"
 score: 44
 value: 55
 quality: 51
 growth: 51
-momentum: 5
+momentum: 4
 health: 62
 pe: 20.2
 piotroski: 6
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Engineering & Construction
 - Cheaper than about 55% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price down 44% over 12 months (55% below its 52-week high).
+- Share price down 48% over 12 months (55% below its 52-week high).
 - Insiders bought $515.9K of shares recently (Krzeminski Laurel J (Dir); Gaboury David Richard (Dir); Horowitz Joshua (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **44** | 55 | 51 | 51 | 5 | 62 |
+| **44** | 55 | 51 | 51 | 4 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $51.07 |
-| Market value | $609.0M |
+| Price | $51.27 |
+| Market value | $611.4M |
 | P/E | 20.2 |
 | Price/Sales | 0.89 |
-| Price/Book | 3.00 |
+| Price/Book | 3.01 |
 | Free-cash-flow yield | 6.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $683.8M |
@@ -60,12 +60,12 @@ Consumer Discretionary · Engineering & Construction
 | Debt / equity | 0.20 |
 | Current ratio | 1.49 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.43 |
+| Altman Z | 4.44 |
 | Share count change (1y) | -0.6% |
-| Return 1m / 6m / 12m | -0.2% / -42.9% / -44.3% |
-| vs. 200-day average | -30.5% |
+| Return 1m / 6m / 12m | +1.5% / -45.2% / -47.8% |
+| vs. 200-day average | -30.1% |
 | RSI (14d) | 53 |
-| Volatility (1y) | 71.2% |
+| Volatility (1y) | 71.1% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Engineering & Construction
 - Insider trades: http://openinsider.com/LMB
 - Full deep dive: run `python scout.py stock LMB` → `research/LMB.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

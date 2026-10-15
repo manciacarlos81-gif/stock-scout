@@ -3,17 +3,17 @@ ticker: "MPC"
 company: "Marathon Petroleum Corporation"
 sector: "Energy"
 industry: "Integrated oil Companies"
-price: 458.81
-market_cap: "$128.8B"
+price: 484.92
+market_cap: "$136.2B"
 score: 66
-value: 57
+value: 56
 quality: 55
 growth: 83
-momentum: 97
+momentum: 98
 health: 40
-pe: 15.1
+pe: 15.9
 piotroski: 7
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,28 +27,28 @@ Energy · Integrated oil Companies
 
 ## In plain English
 
-- Cheaper than about 57% of stocks in Energy (value score).
+- Cheaper than about 56% of stocks in Energy (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 15% over the last 12 months.
-- Share price up 155% over 12 months (1% below its 52-week high).
+- Share price up 168% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 57 | 55 | 83 | 97 | 40 |
+| **66** | 56 | 55 | 83 | 98 | 40 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $458.81 |
-| Market value | $128.8B |
-| P/E | 15.1 |
-| Price/Sales | 0.84 |
-| Price/Book | 6.75 |
-| Free-cash-flow yield | 3.7% |
-| Dividend yield | 0.9% |
+| Price | $484.92 |
+| Market value | $136.2B |
+| P/E | 15.9 |
+| Price/Sales | 0.89 |
+| Price/Book | 7.14 |
+| Free-cash-flow yield | 3.5% |
+| Dividend yield | 0.8% |
 | Sales (12m) | $153.6B |
 | Sales growth | +15.0% |
 | Net profit (12m) | $8.6B |
@@ -59,12 +59,12 @@ Energy · Integrated oil Companies
 | Debt / equity | 1.72 |
 | Current ratio | 1.25 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.00 |
+| Altman Z | 4.07 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | +15.7% / +104.1% / +154.7% |
-| vs. 200-day average | +68.7% |
-| RSI (14d) | 74 |
-| Volatility (1y) | 35.5% |
+| Return 1m / 6m / 12m | +18.0% / +128.4% / +168.2% |
+| vs. 200-day average | +77.1% |
+| RSI (14d) | 80 |
+| Volatility (1y) | 35.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/MPC
 - Full deep dive: run `python scout.py stock MPC` → `research/MPC.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

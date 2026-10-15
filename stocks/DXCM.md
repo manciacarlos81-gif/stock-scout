@@ -3,17 +3,17 @@ ticker: "DXCM"
 company: "DexCom Inc."
 sector: "Health Care"
 industry: "Medical/Dental Instruments"
-price: 85.92
-market_cap: "$32.4B"
+price: 83.47
+market_cap: "$31.5B"
 score: 75
-value: 62
+value: 63
 quality: 86
 growth: 76
 momentum: 78
 health: 75
-pe: 32.4
+pe: 31.5
 piotroski: 8
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,27 +27,27 @@ Health Care · Medical/Dental Instruments
 
 ## In plain English
 
-- Cheaper than about 62% of stocks in Health Care (value score).
+- Cheaper than about 63% of stocks in Health Care (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 16% over the last 12 months.
-- Share price up 30% over 12 months (7% below its 52-week high).
+- Share price up 28% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 62 | 86 | 76 | 78 | 75 |
+| **75** | 63 | 86 | 76 | 78 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $85.92 |
-| Market value | $32.4B |
-| P/E | 32.4 |
-| Price/Sales | 6.52 |
-| Price/Book | 12.37 |
-| Free-cash-flow yield | 3.3% |
+| Price | $83.47 |
+| Market value | $31.5B |
+| P/E | 31.5 |
+| Price/Sales | 6.34 |
+| Price/Book | 12.02 |
+| Free-cash-flow yield | 3.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.0B |
 | Sales growth | +15.5% |
@@ -59,12 +59,12 @@ Health Care · Medical/Dental Instruments
 | Debt / equity | – |
 | Current ratio | 1.73 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 7.37 |
+| Altman Z | 7.23 |
 | Share count change (1y) | -4.4% |
-| Return 1m / 6m / 12m | +1.5% / +40.3% / +29.8% |
-| vs. 200-day average | +16.4% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 39.4% |
+| Return 1m / 6m / 12m | -3.4% / +30.5% / +27.6% |
+| vs. 200-day average | +13.0% |
+| RSI (14d) | 41 |
+| Volatility (1y) | 39.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/DXCM
 - Full deep dive: run `python scout.py stock DXCM` → `research/DXCM.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

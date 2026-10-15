@@ -13,7 +13,7 @@ momentum: 14
 health: 78
 pe: 6.1
 piotroski: 7
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -62,8 +62,8 @@ Technology · Computer Software: Prepackaged Software
 | Piotroski F-score | 7/9 |
 | Altman Z | 3.56 |
 | Share count change (1y) | -9.4% |
-| Return 1m / 6m / 12m | -3.7% / -24.0% / -27.7% |
-| vs. 200-day average | -18.8% |
+| Return 1m / 6m / 12m | -4.4% / -25.8% / -28.2% |
+| vs. 200-day average | -18.7% |
 | RSI (14d) | 37 |
 | Volatility (1y) | 28.2% |
 | Financials as of | 2025-12-31 |
@@ -79,4 +79,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/MOMO
 - Full deep dive: run `python scout.py stock MOMO` → `research/MOMO.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

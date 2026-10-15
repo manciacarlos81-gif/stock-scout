@@ -3,17 +3,17 @@ ticker: "ULS"
 company: "UL Solutions Inc."
 sector: "Health Care"
 industry: "Precision Instruments"
-price: 71.18
+price: 71.08
 market_cap: "$14.4B"
 score: 59
 value: 65
 quality: 82
 growth: 53
-momentum: 21
+momentum: 19
 health: 67
-pe: 28.5
+pe: 28.4
 piotroski: 8
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,23 +30,23 @@ Health Care · Precision Instruments
 - Cheaper than about 65% of stocks in Health Care (value score).
 - Business quality ranks above 82% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price down 8% over 12 months (32% below its 52-week high).
+- Share price down 7% over 12 months (32% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **59** | 65 | 82 | 53 | 21 | 67 |
+| **59** | 65 | 82 | 53 | 19 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $71.18 |
+| Price | $71.08 |
 | Market value | $14.4B |
-| P/E | 28.5 |
-| Price/Sales | 4.57 |
-| Price/Book | 9.01 |
+| P/E | 28.4 |
+| Price/Sales | 4.56 |
+| Price/Book | 9.00 |
 | Free-cash-flow yield | 2.8% |
 | Dividend yield | 0.7% |
 | Sales (12m) | $3.1B |
@@ -61,8 +61,8 @@ Health Care · Precision Instruments
 | Piotroski F-score | 8/9 |
 | Altman Z | 7.83 |
 | Share count change (1y) | +0.5% |
-| Return 1m / 6m / 12m | +2.4% / -20.3% / -7.6% |
-| vs. 200-day average | -14.2% |
+| Return 1m / 6m / 12m | +9.8% / -22.2% / -7.5% |
+| vs. 200-day average | -14.3% |
 | RSI (14d) | 57 |
 | Volatility (1y) | 42.9% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Health Care · Precision Instruments
 - Insider trades: http://openinsider.com/ULS
 - Full deep dive: run `python scout.py stock ULS` → `research/ULS.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

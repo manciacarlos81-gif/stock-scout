@@ -3,17 +3,17 @@ ticker: "GNL"
 company: "Global Net Lease Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 7.82
+price: 7.67
 market_cap: "$1.8B"
 score: 52
 value: 58
 quality: 51
 growth: 55
-momentum: 39
-health: 59
+momentum: 38
+health: 58
 pe: null
 piotroski: 5
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 58% of stocks in Real Estate (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales fell 14% over the last 12 months.
-- Share price up 10% over 12 months (16% below its 52-week high).
+- Share price up 5% over 12 months (18% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 58 | 51 | 55 | 39 | 59 |
+| **52** | 58 | 51 | 55 | 38 | 58 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $7.82 |
+| Price | $7.67 |
 | Market value | $1.8B |
 | P/E | – |
-| Price/Sales | 3.93 |
-| Price/Book | 1.20 |
-| Free-cash-flow yield | 12.3% |
-| Dividend yield | 10.6% |
+| Price/Sales | 3.86 |
+| Price/Book | 1.18 |
+| Free-cash-flow yield | 12.6% |
+| Dividend yield | 10.8% |
 | Sales (12m) | $459.7M |
 | Sales growth | -13.9% |
 | Net profit (12m) | -$13.5M |
@@ -61,9 +61,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 5/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.2% |
-| Return 1m / 6m / 12m | -11.2% / -14.9% / +10.2% |
-| vs. 200-day average | -10.7% |
-| RSI (14d) | 20 |
+| Return 1m / 6m / 12m | -12.8% / -17.3% / +5.2% |
+| vs. 200-day average | -12.4% |
+| RSI (14d) | 16 |
 | Volatility (1y) | 21.1% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/GNL
 - Full deep dive: run `python scout.py stock GNL` → `research/GNL.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

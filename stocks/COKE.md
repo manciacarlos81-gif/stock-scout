@@ -3,17 +3,17 @@ ticker: "COKE"
 company: "Coca-Cola Consolidated Inc."
 sector: "Consumer Staples"
 industry: "Beverages (Production/Distribution)"
-price: 197.22
-market_cap: "$13.1B"
-score: 57
+price: 200.0
+market_cap: "$13.3B"
+score: 58
 value: 43
 quality: 71
 growth: 47
-momentum: 70
+momentum: 72
 health: 51
-pe: 23.9
+pe: 24.2
 piotroski: 6
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,22 +30,22 @@ Consumer Staples · Beverages (Production/Distribution)
 - More expensive than about 57% of Consumer Staples peers (value score).
 - Business quality ranks above 71% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price up 57% over 12 months (9% below its 52-week high).
+- Share price up 59% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 43 | 71 | 47 | 70 | 51 |
+| **58** | 43 | 71 | 47 | 72 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $197.22 |
-| Market value | $13.1B |
-| P/E | 23.9 |
-| Price/Sales | 1.71 |
+| Price | $200.00 |
+| Market value | $13.3B |
+| P/E | 24.2 |
+| Price/Sales | 1.73 |
 | Price/Book | – |
 | Free-cash-flow yield | 4.7% |
 | Dividend yield | 0.7% |
@@ -59,11 +59,11 @@ Consumer Staples · Beverages (Production/Distribution)
 | Debt / equity | – |
 | Current ratio | 1.21 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 3.96 |
+| Altman Z | 3.98 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -1.7% / +6.2% / +56.6% |
-| vs. 200-day average | +7.6% |
-| RSI (14d) | 57 |
+| Return 1m / 6m / 12m | +0.7% / +5.4% / +58.6% |
+| vs. 200-day average | +9.0% |
+| RSI (14d) | 59 |
 | Volatility (1y) | 36.5% |
 | Financials as of | 2026-07-03 |
 
@@ -78,4 +78,4 @@ Consumer Staples · Beverages (Production/Distribution)
 - Insider trades: http://openinsider.com/COKE
 - Full deep dive: run `python scout.py stock COKE` → `research/COKE.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

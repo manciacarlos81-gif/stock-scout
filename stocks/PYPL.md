@@ -3,17 +3,17 @@ ticker: "PYPL"
 company: "PayPal Holdings Inc."
 sector: "Industrials"
 industry: "Diversified Commercial Services"
-price: 56.05
-market_cap: "$47.9B"
+price: 56.17
+market_cap: "$48.1B"
 score: 65
-value: 87
+value: 86
 quality: 77
 growth: 44
-momentum: 49
+momentum: 51
 health: 48
 pe: 9.8
 piotroski: 9
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -27,25 +27,25 @@ Industrials · Diversified Commercial Services
 
 ## In plain English
 
-- Cheaper than about 87% of stocks in Industrials (value score).
+- Cheaper than about 86% of stocks in Industrials (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price down 18% over 12 months (22% below its 52-week high).
+- Share price down 16% over 12 months (22% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 87 | 77 | 44 | 49 | 48 |
+| **65** | 86 | 77 | 44 | 51 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $56.05 |
-| Market value | $47.9B |
+| Price | $56.17 |
+| Market value | $48.1B |
 | P/E | 9.8 |
-| Price/Sales | 1.40 |
+| Price/Sales | 1.41 |
 | Price/Book | 2.42 |
 | Free-cash-flow yield | 11.6% |
 | Dividend yield | 0.3% |
@@ -61,8 +61,8 @@ Industrials · Diversified Commercial Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 1.89 |
 | Share count change (1y) | -9.7% |
-| Return 1m / 6m / 12m | +3.7% / +13.2% / -18.0% |
-| vs. 200-day average | +12.6% |
+| Return 1m / 6m / 12m | +4.4% / +11.2% / -16.5% |
+| vs. 200-day average | +12.9% |
 | RSI (14d) | 59 |
 | Volatility (1y) | 42.9% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Industrials · Diversified Commercial Services
 - Insider trades: http://openinsider.com/PYPL
 - Full deep dive: run `python scout.py stock PYPL` → `research/PYPL.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

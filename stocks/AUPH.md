@@ -3,17 +3,17 @@ ticker: "AUPH"
 company: "Aurinia Pharmaceuticals Inc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 16.55
+price: 16.36
 market_cap: "$2.2B"
-score: 79
+score: 78
 value: 81
 quality: 78
 growth: 86
-momentum: 66
+momentum: 65
 health: 84
-pe: 7.0
+pe: 6.9
 piotroski: 7
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,23 +30,23 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 81% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 47% over 12 months (11% below its 52-week high).
+- Share price up 43% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **79** | 81 | 78 | 86 | 66 | 84 |
+| **78** | 81 | 78 | 86 | 65 | 84 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $16.55 |
+| Price | $16.36 |
 | Market value | $2.2B |
-| P/E | 7.0 |
-| Price/Sales | 7.07 |
-| Price/Book | 3.58 |
+| P/E | 6.9 |
+| Price/Sales | 6.99 |
+| Price/Book | 3.54 |
 | Free-cash-flow yield | 6.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $311.5M |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 5.42 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 8.12 |
+| Altman Z | 8.03 |
 | Share count change (1y) | -2.9% |
-| Return 1m / 6m / 12m | +0.9% / +4.5% / +47.4% |
-| vs. 200-day average | +6.4% |
-| RSI (14d) | 56 |
+| Return 1m / 6m / 12m | +1.4% / +1.9% / +42.6% |
+| vs. 200-day average | +5.2% |
+| RSI (14d) | 52 |
 | Volatility (1y) | 37.6% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/AUPH
 - Full deep dive: run `python scout.py stock AUPH` → `research/AUPH.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

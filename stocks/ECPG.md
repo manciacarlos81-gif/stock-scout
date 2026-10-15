@@ -3,17 +3,17 @@ ticker: "ECPG"
 company: "Encore Capital Group Inc"
 sector: "Finance"
 industry: "Finance Companies"
-price: 100.85
+price: 100.86
 market_cap: "$2.1B"
 score: 81
 value: 76
 quality: 86
 growth: 89
 momentum: 89
-health: 62
+health: 63
 pe: 7.1
 piotroski: 8
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,19 +31,19 @@ Finance · Finance Companies
 - Cheaper than about 76% of stocks in Finance (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 30% over the last 12 months.
-- Share price up 125% over 12 months (3% below its 52-week high).
+- Share price up 129% over 12 months (4% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **81** | 76 | 86 | 89 | 89 | 62 |
+| **81** | 76 | 86 | 89 | 89 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $100.85 |
+| Price | $100.86 |
 | Market value | $2.1B |
 | P/E | 7.1 |
 | Price/Sales | 1.13 |
@@ -62,10 +62,10 @@ Finance · Finance Companies
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.3% |
-| Return 1m / 6m / 12m | +1.1% / +28.1% / +124.6% |
-| vs. 200-day average | +25.2% |
-| RSI (14d) | 59 |
-| Volatility (1y) | 34.9% |
+| Return 1m / 6m / 12m | +2.1% / +24.9% / +128.9% |
+| vs. 200-day average | +24.8% |
+| RSI (14d) | 55 |
+| Volatility (1y) | 34.5% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Finance · Finance Companies
 - Insider trades: http://openinsider.com/ECPG
 - Full deep dive: run `python scout.py stock ECPG` → `research/ECPG.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

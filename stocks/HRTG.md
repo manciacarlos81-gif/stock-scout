@@ -3,17 +3,17 @@ ticker: "HRTG"
 company: "Heritage Insurance Holdings Inc."
 sector: "Finance"
 industry: "Property-Casualty Insurers"
-price: 35.38
+price: 36.21
 market_cap: "$1.1B"
-score: 75
+score: 76
 value: 84
 quality: 86
 growth: 60
-momentum: 77
-health: 56
-pe: 4.9
+momentum: 79
+health: 57
+pe: 5.0
 piotroski: 8
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,23 +31,23 @@ Finance · Property-Casualty Insurers
 - Cheaper than about 84% of stocks in Finance (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price up 27% over 12 months (0% below its 52-week high).
+- Share price up 34% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 84 | 86 | 60 | 77 | 56 |
+| **76** | 84 | 86 | 60 | 79 | 57 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $35.38 |
+| Price | $36.21 |
 | Market value | $1.1B |
-| P/E | 4.9 |
-| Price/Sales | 1.23 |
-| Price/Book | 1.85 |
+| P/E | 5.0 |
+| Price/Sales | 1.26 |
+| Price/Book | 1.90 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | $854.6M |
@@ -62,10 +62,10 @@ Finance · Property-Casualty Insurers
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | +0.8% / +29.6% / +27.1% |
-| vs. 200-day average | +26.3% |
-| RSI (14d) | 63 |
-| Volatility (1y) | 51.3% |
+| Return 1m / 6m / 12m | +4.1% / +33.0% / +34.3% |
+| vs. 200-day average | +29.0% |
+| RSI (14d) | 69 |
+| Volatility (1y) | 50.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Finance · Property-Casualty Insurers
 - Insider trades: http://openinsider.com/HRTG
 - Full deep dive: run `python scout.py stock HRTG` → `research/HRTG.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

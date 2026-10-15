@@ -3,17 +3,17 @@ ticker: "NPB"
 company: "Northpointe Bancshares Inc."
 sector: "Finance"
 industry: "Major Banks"
-price: 15.88
-market_cap: "$549.2M"
+price: 15.82
+market_cap: "$547.1M"
 score: 55
 value: 92
 quality: null
-growth: 59
-momentum: 28
-health: 32
+growth: 58
+momentum: 29
+health: 33
 pe: 6.1
 piotroski: 6
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -35,17 +35,17 @@ Finance · Major Banks
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 92 | – | 59 | 28 | 32 |
+| **55** | 92 | – | 58 | 29 | 33 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.88 |
-| Market value | $549.2M |
+| Price | $15.82 |
+| Market value | $547.1M |
 | P/E | 6.1 |
 | Price/Sales | – |
-| Price/Book | 0.90 |
+| Price/Book | 0.89 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.6% |
 | Sales (12m) | – |
@@ -60,10 +60,10 @@ Finance · Major Banks
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -6.5% / -14.0% / -9.2% |
-| vs. 200-day average | -8.9% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 28.3% |
+| Return 1m / 6m / 12m | -6.4% / -17.5% / -8.8% |
+| vs. 200-day average | -9.2% |
+| RSI (14d) | 47 |
+| Volatility (1y) | 28.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/NPB
 - Full deep dive: run `python scout.py stock NPB` → `research/NPB.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "VLO"
 company: "Valero Energy Corporation"
 sector: "Energy"
 industry: "Integrated oil Companies"
-price: 436.0
-market_cap: "$125.5B"
+price: 459.78
+market_cap: "$132.4B"
 score: 67
 value: 54
 quality: 49
 growth: 85
-momentum: 96
-health: 63
-pe: 17.4
+momentum: 98
+health: 64
+pe: 18.4
 piotroski: 6
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,24 +30,24 @@ Energy · Integrated oil Companies
 - Cheaper than about 54% of stocks in Energy (value score).
 - Business quality ranks above 49% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 175% over 12 months (2% below its 52-week high).
+- Share price up 192% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 54 | 49 | 85 | 96 | 63 |
+| **67** | 54 | 49 | 85 | 98 | 64 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $436.00 |
-| Market value | $125.5B |
-| P/E | 17.4 |
-| Price/Sales | 0.90 |
-| Price/Book | 5.02 |
-| Free-cash-flow yield | 4.6% |
+| Price | $459.78 |
+| Market value | $132.4B |
+| P/E | 18.4 |
+| Price/Sales | 0.95 |
+| Price/Book | 5.30 |
+| Free-cash-flow yield | 4.4% |
 | Dividend yield | 1.1% |
 | Sales (12m) | $139.4B |
 | Sales growth | +12.6% |
@@ -61,10 +61,10 @@ Energy · Integrated oil Companies
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.8% |
-| Return 1m / 6m / 12m | +13.9% / +81.9% / +174.5% |
-| vs. 200-day average | +61.6% |
-| RSI (14d) | 70 |
-| Volatility (1y) | 37.2% |
+| Return 1m / 6m / 12m | +15.8% / +107.4% / +191.7% |
+| vs. 200-day average | +69.4% |
+| RSI (14d) | 77 |
+| Volatility (1y) | 37.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/VLO
 - Full deep dive: run `python scout.py stock VLO` → `research/VLO.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "FTK"
 company: "Flotek Industries Inc."
 sector: "Industrials"
 industry: "Major Chemicals"
-price: 25.65
-market_cap: "$929.1M"
+price: 24.83
+market_cap: "$899.4M"
 score: 61
-value: 41
+value: 42
 quality: 45
 growth: 83
-momentum: 88
+momentum: 89
 health: 59
-pe: 24.5
+pe: 23.7
 piotroski: 4
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,27 +27,27 @@ Industrials · Major Chemicals
 
 ## In plain English
 
-- More expensive than about 59% of Industrials peers (value score).
+- More expensive than about 58% of Industrials peers (value score).
 - Business quality ranks above 45% of all stocks scanned.
 - Sales grew 37% over the last 12 months.
-- Share price up 62% over 12 months (34% below its 52-week high).
+- Share price up 58% over 12 months (36% below its 52-week high).
 - Insiders bought $34.3M of shares recently (Wilks Matthew (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **61** | 41 | 45 | 83 | 88 | 59 |
+| **61** | 42 | 45 | 83 | 89 | 59 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $25.65 |
-| Market value | $929.1M |
-| P/E | 24.5 |
-| Price/Sales | 3.17 |
-| Price/Book | 7.19 |
+| Price | $24.83 |
+| Market value | $899.4M |
+| P/E | 23.7 |
+| Price/Sales | 3.07 |
+| Price/Book | 6.96 |
 | Free-cash-flow yield | 0.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $293.0M |
@@ -60,12 +60,12 @@ Industrials · Major Chemicals
 | Debt / equity | 0.31 |
 | Current ratio | 1.78 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 4.48 |
+| Altman Z | 4.35 |
 | Share count change (1y) | +6.2% |
-| Return 1m / 6m / 12m | -2.6% / +57.5% / +61.6% |
-| vs. 200-day average | +18.6% |
-| RSI (14d) | 40 |
-| Volatility (1y) | 77.8% |
+| Return 1m / 6m / 12m | -8.0% / +59.0% / +58.1% |
+| vs. 200-day average | +14.6% |
+| RSI (14d) | 39 |
+| Volatility (1y) | 78.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Industrials · Major Chemicals
 - Insider trades: http://openinsider.com/FTK
 - Full deep dive: run `python scout.py stock FTK` → `research/FTK.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

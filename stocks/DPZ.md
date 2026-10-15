@@ -3,17 +3,17 @@ ticker: "DPZ"
 company: "Domino's Pizza Inc"
 sector: "Consumer Discretionary"
 industry: "Food Distributors"
-price: 310.9
-market_cap: "$10.3B"
+price: 295.89
+market_cap: "$9.8B"
 score: 52
-value: 48
+value: 50
 quality: 85
-growth: 43
-momentum: 21
-health: 52
-pe: 17.2
+growth: 42
+momentum: 18
+health: 51
+pe: 16.4
 piotroski: 8
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Discretionary · Food Distributors
 
 ## In plain English
 
-- More expensive than about 52% of Consumer Discretionary peers (value score).
+- Cheaper than about 50% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price down 25% over 12 months (28% below its 52-week high).
+- Share price down 28% over 12 months (31% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 48 | 85 | 43 | 21 | 52 |
+| **52** | 50 | 85 | 42 | 18 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $310.90 |
-| Market value | $10.3B |
-| P/E | 17.2 |
-| Price/Sales | 2.05 |
+| Price | $295.89 |
+| Market value | $9.8B |
+| P/E | 16.4 |
+| Price/Sales | 1.95 |
 | Price/Book | – |
-| Free-cash-flow yield | 6.5% |
-| Dividend yield | 2.3% |
+| Free-cash-flow yield | 6.9% |
+| Dividend yield | 2.4% |
 | Sales (12m) | $5.0B |
 | Sales growth | +5.2% |
 | Net profit (12m) | $596.5M |
@@ -59,12 +59,12 @@ Consumer Discretionary · Food Distributors
 | Debt / equity | – |
 | Current ratio | 1.54 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.84 |
+| Altman Z | 2.79 |
 | Share count change (1y) | -3.1% |
-| Return 1m / 6m / 12m | -3.4% / -14.7% / -25.1% |
-| vs. 200-day average | -9.8% |
-| RSI (14d) | 52 |
-| Volatility (1y) | 30.4% |
+| Return 1m / 6m / 12m | -4.8% / -19.5% / -27.6% |
+| vs. 200-day average | -14.0% |
+| RSI (14d) | 40 |
+| Volatility (1y) | 30.8% |
 | Financials as of | 2026-06-14 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Food Distributors
 - Insider trades: http://openinsider.com/DPZ
 - Full deep dive: run `python scout.py stock DPZ` → `research/DPZ.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

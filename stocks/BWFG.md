@@ -3,17 +3,17 @@ ticker: "BWFG"
 company: "Bankwell Financial Group Inc."
 sector: "Finance"
 industry: "Major Banks"
-price: 65.74
-market_cap: "$524.1M"
+price: 64.97
+market_cap: "$517.9M"
 score: 56
 value: 39
 quality: null
 growth: 75
 momentum: 83
 health: 39
-pe: 12.2
+pe: 12.1
 piotroski: 6
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -29,7 +29,7 @@ Finance · Major Banks
 
 - More expensive than about 61% of Finance peers (value score).
 - Sales grew 23% over the last 12 months.
-- Share price up 54% over 12 months (4% below its 52-week high).
+- Share price up 54% over 12 months (5% below its 52-week high).
 - Insiders bought $1.3M of shares recently (Seidman Lawrence B (Dir, 10%); Dale Eric J (Dir); Dunne Jeffrey R (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -42,11 +42,11 @@ Finance · Major Banks
 
 | | |
 |---|---:|
-| Price | $65.74 |
-| Market value | $524.1M |
-| P/E | 12.2 |
-| Price/Sales | 174.98 |
-| Price/Book | 1.62 |
+| Price | $64.97 |
+| Market value | $517.9M |
+| P/E | 12.1 |
+| Price/Sales | 172.93 |
+| Price/Book | 1.60 |
 | Free-cash-flow yield | – |
 | Dividend yield | 1.2% |
 | Sales (12m) | $3.0M |
@@ -61,10 +61,10 @@ Finance · Major Banks
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +2.1% |
-| Return 1m / 6m / 12m | -3.7% / +29.3% / +54.4% |
-| vs. 200-day average | +18.5% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 24.8% |
+| Return 1m / 6m / 12m | -3.7% / +24.1% / +54.2% |
+| vs. 200-day average | +16.9% |
+| RSI (14d) | 44 |
+| Volatility (1y) | 24.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/BWFG
 - Full deep dive: run `python scout.py stock BWFG` → `research/BWFG.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

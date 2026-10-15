@@ -3,17 +3,17 @@ ticker: "DELL"
 company: "Dell Technologies Inc."
 sector: "Technology"
 industry: "Computer Manufacturing"
-price: 576.76
-market_cap: "$366.7B"
+price: 572.47
+market_cap: "$364.0B"
 score: 66
 value: 54
 quality: 50
 growth: 89
 momentum: 99
 health: 44
-pe: 32.2
+pe: 32.0
 piotroski: 7
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Computer Manufacturing
 - Cheaper than about 54% of stocks in Technology (value score).
 - Business quality ranks above 50% of all stocks scanned.
 - Sales grew 49% over the last 12 months.
-- Share price up 293% over 12 months (2% below its 52-week high).
+- Share price up 277% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,10 +42,10 @@ Technology · Computer Manufacturing
 
 | | |
 |---|---:|
-| Price | $576.76 |
-| Market value | $366.7B |
-| P/E | 32.2 |
-| Price/Sales | 2.43 |
+| Price | $572.47 |
+| Market value | $364.0B |
+| P/E | 32.0 |
+| Price/Sales | 2.41 |
 | Price/Book | – |
 | Free-cash-flow yield | 2.3% |
 | Dividend yield | 0.4% |
@@ -59,11 +59,11 @@ Technology · Computer Manufacturing
 | Debt / equity | – |
 | Current ratio | 0.96 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.34 |
+| Altman Z | 3.33 |
 | Share count change (1y) | -5.0% |
-| Return 1m / 6m / 12m | +8.0% / +200.1% / +292.6% |
-| vs. 200-day average | +85.4% |
-| RSI (14d) | 59 |
+| Return 1m / 6m / 12m | +5.3% / +192.6% / +277.2% |
+| vs. 200-day average | +82.7% |
+| RSI (14d) | 57 |
 | Volatility (1y) | 74.3% |
 | Financials as of | 2026-07-31 |
 
@@ -78,4 +78,4 @@ Technology · Computer Manufacturing
 - Insider trades: http://openinsider.com/DELL
 - Full deep dive: run `python scout.py stock DELL` → `research/DELL.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_

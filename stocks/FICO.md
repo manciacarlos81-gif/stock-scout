@@ -3,17 +3,17 @@ ticker: "FICO"
 company: "Fair Isaac Corporation"
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 740.0
-market_cap: "$16.0B"
+price: 719.63
+market_cap: "$15.5B"
 score: 53
-value: 37
+value: 38
 quality: 88
 growth: 74
 momentum: 7
 health: 60
-pe: 19.6
+pe: 19.1
 piotroski: 7
-updated: "2026-10-14"
+updated: "2026-10-15"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Business Services
 
 ## In plain English
 
-- More expensive than about 63% of Consumer Discretionary peers (value score).
+- More expensive than about 62% of Consumer Discretionary peers (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price down 55% over 12 months (60% below its 52-week high).
+- Share price down 56% over 12 months (61% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 37 | 88 | 74 | 7 | 60 |
+| **53** | 38 | 88 | 74 | 7 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $740.00 |
-| Market value | $16.0B |
-| P/E | 19.6 |
-| Price/Sales | 6.68 |
+| Price | $719.63 |
+| Market value | $15.5B |
+| P/E | 19.1 |
+| Price/Sales | 6.49 |
 | Price/Book | – |
-| Free-cash-flow yield | 4.8% |
+| Free-cash-flow yield | 5.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.4B |
 | Sales growth | +24.1% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 1.18 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 8.40 |
+| Altman Z | 8.36 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -26.1% / -30.8% / -55.1% |
-| vs. 200-day average | -37.0% |
-| RSI (14d) | 41 |
+| Return 1m / 6m / 12m | -27.0% / -33.0% / -56.0% |
+| vs. 200-day average | -38.5% |
+| RSI (14d) | 39 |
 | Volatility (1y) | 62.0% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/FICO
 - Full deep dive: run `python scout.py stock FICO` → `research/FICO.md`
 
-_Updated 2026-10-14 · [latest report](../reports/latest.md)_
+_Updated 2026-10-15 · [latest report](../reports/latest.md)_
