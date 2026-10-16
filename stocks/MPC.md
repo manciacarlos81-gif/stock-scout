@@ -3,17 +3,17 @@ ticker: "MPC"
 company: "Marathon Petroleum Corporation"
 sector: "Energy"
 industry: "Integrated oil Companies"
-price: 484.92
-market_cap: "$136.2B"
+price: 476.92
+market_cap: "$133.9B"
 score: 66
 value: 56
 quality: 55
 growth: 83
 momentum: 98
 health: 40
-pe: 15.9
+pe: 15.7
 piotroski: 7
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Energy · Integrated oil Companies
 - Cheaper than about 56% of stocks in Energy (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 15% over the last 12 months.
-- Share price up 168% over 12 months (0% below its 52-week high).
+- Share price up 168% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,13 +42,13 @@ Energy · Integrated oil Companies
 
 | | |
 |---|---:|
-| Price | $484.92 |
-| Market value | $136.2B |
-| P/E | 15.9 |
-| Price/Sales | 0.89 |
-| Price/Book | 7.14 |
-| Free-cash-flow yield | 3.5% |
-| Dividend yield | 0.8% |
+| Price | $476.92 |
+| Market value | $133.9B |
+| P/E | 15.7 |
+| Price/Sales | 0.87 |
+| Price/Book | 7.02 |
+| Free-cash-flow yield | 3.6% |
+| Dividend yield | 0.9% |
 | Sales (12m) | $153.6B |
 | Sales growth | +15.0% |
 | Net profit (12m) | $8.6B |
@@ -59,11 +59,11 @@ Energy · Integrated oil Companies
 | Debt / equity | 1.72 |
 | Current ratio | 1.25 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.07 |
+| Altman Z | 4.05 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | +18.0% / +128.4% / +168.2% |
-| vs. 200-day average | +77.1% |
-| RSI (14d) | 80 |
+| Return 1m / 6m / 12m | +15.2% / +124.2% / +167.7% |
+| vs. 200-day average | +73.2% |
+| RSI (14d) | 74 |
 | Volatility (1y) | 35.7% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/MPC
 - Full deep dive: run `python scout.py stock MPC` → `research/MPC.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

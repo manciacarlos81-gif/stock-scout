@@ -3,17 +3,17 @@ ticker: "EMBC"
 company: "Embecta Corp."
 sector: "Health Care"
 industry: "Medical/Dental Instruments"
-price: 6.2
-market_cap: "$351.3M"
+price: 6.18
+market_cap: "$350.2M"
 score: 52
 value: 86
 quality: 78
 growth: 30
-momentum: 10
+momentum: 11
 health: 28
 pe: 4.0
 piotroski: 7
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,25 +30,25 @@ Health Care · Medical/Dental Instruments
 - Cheaper than about 86% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales fell 8% over the last 12 months.
-- Share price down 54% over 12 months (56% below its 52-week high).
+- Share price down 53% over 12 months (56% below its 52-week high).
 - Insiders bought $557.9K of shares recently (Kurdikar Devdatt (Pres, CEO); Elguicze Jacob (SVP, CFO); Mann Jeffrey Z (Pres, Pharm Svc, Prod Mgmt, CL)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 86 | 78 | 30 | 10 | 28 |
+| **52** | 86 | 78 | 30 | 11 | 28 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.20 |
-| Market value | $351.3M |
+| Price | $6.18 |
+| Market value | $350.2M |
 | P/E | 4.0 |
 | Price/Sales | 0.34 |
 | Price/Book | – |
-| Free-cash-flow yield | 51.9% |
+| Free-cash-flow yield | 52.1% |
 | Dividend yield | 10.0% |
 | Sales (12m) | $1.0B |
 | Sales growth | -7.6% |
@@ -62,9 +62,9 @@ Health Care · Medical/Dental Instruments
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | +21.8% / -36.3% / -53.9% |
-| vs. 200-day average | -6.8% |
-| RSI (14d) | 66 |
+| Return 1m / 6m / 12m | +20.5% / -35.3% / -53.4% |
+| vs. 200-day average | -6.7% |
+| RSI (14d) | 65 |
 | Volatility (1y) | 81.2% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/EMBC
 - Full deep dive: run `python scout.py stock EMBC` → `research/EMBC.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

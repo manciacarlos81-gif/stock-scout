@@ -3,17 +3,17 @@ ticker: "CF"
 company: "CF Industries Holdings Inc."
 sector: "Industrials"
 industry: "Agricultural Chemicals"
-price: 119.46
+price: 119.77
 market_cap: "$18.1B"
 score: 77
 value: 83
 quality: 81
 growth: 78
-momentum: 72
+momentum: 70
 health: 67
-pe: 7.2
+pe: 7.3
 piotroski: 8
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,24 +31,24 @@ Industrials · Agricultural Chemicals
 - Cheaper than about 83% of stocks in Industrials (value score).
 - Business quality ranks above 81% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 43% over 12 months (14% below its 52-week high).
+- Share price up 47% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 83 | 81 | 78 | 72 | 67 |
+| **77** | 83 | 81 | 78 | 70 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $119.46 |
+| Price | $119.77 |
 | Market value | $18.1B |
-| P/E | 7.2 |
+| P/E | 7.3 |
 | Price/Sales | 2.34 |
 | Price/Book | 3.15 |
-| Free-cash-flow yield | 10.0% |
+| Free-cash-flow yield | 9.9% |
 | Dividend yield | 1.8% |
 | Sales (12m) | $7.7B |
 | Sales growth | +20.0% |
@@ -62,8 +62,8 @@ Industrials · Agricultural Chemicals
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.6% |
-| Return 1m / 6m / 12m | -11.9% / +7.0% / +42.7% |
-| vs. 200-day average | +5.0% |
+| Return 1m / 6m / 12m | -9.3% / +4.3% / +47.3% |
+| vs. 200-day average | +5.1% |
 | RSI (14d) | 50 |
 | Volatility (1y) | 42.8% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Industrials · Agricultural Chemicals
 - Insider trades: http://openinsider.com/CF
 - Full deep dive: run `python scout.py stock CF` → `research/CF.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

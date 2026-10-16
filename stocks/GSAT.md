@@ -3,17 +3,17 @@ ticker: "GSAT"
 company: "Globalstar Inc."
 sector: "Consumer Discretionary"
 industry: "Telecommunications Equipment"
-price: 82.4
+price: 82.97
 market_cap: "$10.7B"
 score: 43
-value: 20
-quality: 47
+value: 19
+quality: 46
 growth: 51
 momentum: 74
 health: 29
 pe: null
 piotroski: 4
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Telecommunications Equipment
 
 ## In plain English
 
-- More expensive than about 80% of Consumer Discretionary peers (value score).
-- Business quality ranks above 47% of all stocks scanned.
+- More expensive than about 81% of Consumer Discretionary peers (value score).
+- Business quality ranks above 46% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 85% over 12 months (2% below its 52-week high).
+- Share price up 87% over 12 months (2% below its 52-week high).
 - Insiders bought $29.8M of shares recently (Monroe James III (Dir, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **43** | 20 | 47 | 51 | 74 | 29 |
+| **43** | 19 | 46 | 51 | 74 | 29 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $82.40 |
+| Price | $82.97 |
 | Market value | $10.7B |
 | P/E | – |
-| Price/Sales | 38.04 |
-| Price/Book | 36.49 |
+| Price/Sales | 38.30 |
+| Price/Book | 36.74 |
 | Free-cash-flow yield | 5.8% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $280.6M |
@@ -60,11 +60,11 @@ Consumer Discretionary · Telecommunications Equipment
 | Debt / equity | 1.23 |
 | Current ratio | 1.55 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 1.93 |
+| Altman Z | 1.95 |
 | Share count change (1y) | +1.0% |
-| Return 1m / 6m / 12m | +0.7% / +3.0% / +84.9% |
-| vs. 200-day average | +9.9% |
-| RSI (14d) | 46 |
+| Return 1m / 6m / 12m | +1.3% / +3.2% / +87.4% |
+| vs. 200-day average | +10.5% |
+| RSI (14d) | 52 |
 | Volatility (1y) | 57.7% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Telecommunications Equipment
 - Insider trades: http://openinsider.com/GSAT
 - Full deep dive: run `python scout.py stock GSAT` → `research/GSAT.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "DPZ"
 company: "Domino's Pizza Inc"
 sector: "Consumer Discretionary"
 industry: "Food Distributors"
-price: 295.89
-market_cap: "$9.8B"
+price: 303.09
+market_cap: "$10.0B"
 score: 52
 value: 50
 quality: 85
 growth: 42
-momentum: 18
+momentum: 20
 health: 51
-pe: 16.4
+pe: 16.7
 piotroski: 8
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Food Distributors
 
 ## In plain English
 
-- Cheaper than about 50% of stocks in Consumer Discretionary (value score).
+- More expensive than about 50% of Consumer Discretionary peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price down 28% over 12 months (31% below its 52-week high).
+- Share price down 26% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 50 | 85 | 42 | 18 | 51 |
+| **52** | 50 | 85 | 42 | 20 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $295.89 |
-| Market value | $9.8B |
-| P/E | 16.4 |
-| Price/Sales | 1.95 |
+| Price | $303.09 |
+| Market value | $10.0B |
+| P/E | 16.7 |
+| Price/Sales | 1.98 |
 | Price/Book | – |
-| Free-cash-flow yield | 6.9% |
+| Free-cash-flow yield | 6.7% |
 | Dividend yield | 2.4% |
 | Sales (12m) | $5.0B |
 | Sales growth | +5.2% |
@@ -59,12 +59,12 @@ Consumer Discretionary · Food Distributors
 | Debt / equity | – |
 | Current ratio | 1.54 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.79 |
+| Altman Z | 2.81 |
 | Share count change (1y) | -3.1% |
-| Return 1m / 6m / 12m | -4.8% / -19.5% / -27.6% |
-| vs. 200-day average | -14.0% |
-| RSI (14d) | 40 |
-| Volatility (1y) | 30.8% |
+| Return 1m / 6m / 12m | +0.6% / -16.9% / -25.7% |
+| vs. 200-day average | -11.8% |
+| RSI (14d) | 47 |
+| Volatility (1y) | 30.9% |
 | Financials as of | 2026-06-14 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Food Distributors
 - Insider trades: http://openinsider.com/DPZ
 - Full deep dive: run `python scout.py stock DPZ` → `research/DPZ.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

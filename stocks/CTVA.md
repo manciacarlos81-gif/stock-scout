@@ -3,17 +3,17 @@ ticker: "CTVA"
 company: "Corteva Inc."
 sector: "Consumer Staples"
 industry: "Farming/Seeds/Milling"
-price: 13.36
+price: 13.4
 market_cap: "$8.9B"
 score: 68
 value: 93
 quality: 60
 growth: 32
-momentum: 72
+momentum: 71
 health: 72
-pe: 8.8
+pe: 8.9
 piotroski: 7
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,24 +31,24 @@ Consumer Staples · Farming/Seeds/Milling
 - Cheaper than about 93% of stocks in Consumer Staples (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price up 45% over 12 months (8% below its 52-week high).
+- Share price up 48% over 12 months (7% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 93 | 60 | 32 | 72 | 72 |
+| **68** | 93 | 60 | 32 | 71 | 72 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $13.36 |
+| Price | $13.40 |
 | Market value | $8.9B |
-| P/E | 8.8 |
+| P/E | 8.9 |
 | Price/Sales | 0.50 |
-| Price/Book | 0.35 |
-| Free-cash-flow yield | 38.2% |
+| Price/Book | 0.36 |
+| Free-cash-flow yield | 38.1% |
 | Dividend yield | 5.3% |
 | Sales (12m) | $17.8B |
 | Sales growth | +3.7% |
@@ -62,9 +62,9 @@ Consumer Staples · Farming/Seeds/Milling
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | +6.8% / +11.3% / +45.2% |
-| vs. 200-day average | +11.8% |
-| RSI (14d) | 57 |
+| Return 1m / 6m / 12m | +10.2% / +11.7% / +47.8% |
+| vs. 200-day average | +12.0% |
+| RSI (14d) | 58 |
 | Volatility (1y) | 30.2% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Staples · Farming/Seeds/Milling
 - Insider trades: http://openinsider.com/CTVA
 - Full deep dive: run `python scout.py stock CTVA` → `research/CTVA.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

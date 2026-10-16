@@ -3,17 +3,17 @@ ticker: "ETON"
 company: "Eton Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 53.33
+price: 52.88
 market_cap: "$1.5B"
 score: 73
-value: 49
+value: 50
 quality: 72
 growth: 88
 momentum: 98
 health: 62
-pe: 120.1
+pe: 119.1
 piotroski: 5
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,26 +27,26 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- More expensive than about 51% of Health Care peers (value score).
+- More expensive than about 50% of Health Care peers (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 178% over 12 months (17% below its 52-week high).
+- Share price up 188% over 12 months (18% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 49 | 72 | 88 | 98 | 62 |
+| **73** | 50 | 72 | 88 | 98 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $53.33 |
+| Price | $52.88 |
 | Market value | $1.5B |
-| P/E | 120.1 |
-| Price/Sales | 14.44 |
-| Price/Book | 32.72 |
+| P/E | 119.1 |
+| Price/Sales | 14.31 |
+| Price/Book | 32.45 |
 | Free-cash-flow yield | 0.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $105.6M |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.60 |
 | Current ratio | 1.52 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 13.63 |
+| Altman Z | 13.52 |
 | Share count change (1y) | +21.9% |
-| Return 1m / 6m / 12m | -2.9% / +113.0% / +178.5% |
-| vs. 200-day average | +57.2% |
-| RSI (14d) | 44 |
+| Return 1m / 6m / 12m | -6.2% / +109.2% / +188.3% |
+| vs. 200-day average | +55.1% |
+| RSI (14d) | 43 |
 | Volatility (1y) | 70.9% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ETON
 - Full deep dive: run `python scout.py stock ETON` → `research/ETON.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

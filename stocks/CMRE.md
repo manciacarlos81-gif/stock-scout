@@ -3,17 +3,17 @@ ticker: "CMRE"
 company: "Costamare Inc."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 14.79
-market_cap: "$1.8B"
-score: 65
-value: 88
+price: 14.28
+market_cap: "$1.7B"
+score: 64
+value: 89
 quality: 85
 growth: 30
-momentum: 47
-health: 52
-pe: 4.9
+momentum: 43
+health: 51
+pe: 4.7
 piotroski: 8
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Discretionary · Marine Transportation
 
 ## In plain English
 
-- Cheaper than about 88% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 89% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales fell 1% over the last 12 months.
-- Share price up 32% over 12 months (16% below its 52-week high).
+- Share price up 26% over 12 months (19% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 88 | 85 | 30 | 47 | 52 |
+| **64** | 89 | 85 | 30 | 43 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $14.79 |
-| Market value | $1.8B |
-| P/E | 4.9 |
-| Price/Sales | 2.03 |
-| Price/Book | 0.85 |
-| Free-cash-flow yield | 30.1% |
-| Dividend yield | 4.4% |
+| Price | $14.28 |
+| Market value | $1.7B |
+| P/E | 4.7 |
+| Price/Sales | 1.96 |
+| Price/Book | 0.83 |
+| Free-cash-flow yield | 31.2% |
+| Dividend yield | 4.6% |
 | Sales (12m) | $877.9M |
 | Sales growth | -1.2% |
 | Net profit (12m) | $364.6M |
@@ -59,12 +59,12 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.73 |
 | Current ratio | 1.73 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 3.16 |
+| Altman Z | 3.09 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -2.3% / -14.1% / +32.0% |
-| vs. 200-day average | -6.6% |
-| RSI (14d) | 44 |
-| Volatility (1y) | 31.6% |
+| Return 1m / 6m / 12m | -5.1% / -16.0% / +26.4% |
+| vs. 200-day average | -9.7% |
+| RSI (14d) | 37 |
+| Volatility (1y) | 31.8% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/CMRE
 - Full deep dive: run `python scout.py stock CMRE` → `research/CMRE.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

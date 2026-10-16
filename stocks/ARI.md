@@ -3,17 +3,17 @@ ticker: "ARI"
 company: "Apollo Commercial Real Estate Finance Inc"
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 6.31
-market_cap: "$809.0M"
+price: 6.41
+market_cap: "$821.8M"
 score: 66
-value: 87
+value: 86
 quality: 64
 growth: 50
-momentum: 36
+momentum: 39
 health: 92
-pe: 6.1
+pe: 6.2
 piotroski: 8
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,28 +27,28 @@ Real Estate · Real Estate Investment Trusts
 
 ## In plain English
 
-- Cheaper than about 87% of stocks in Real Estate (value score).
+- Cheaper than about 86% of stocks in Real Estate (value score).
 - Business quality ranks above 64% of all stocks scanned.
 - Sales fell 15% over the last 12 months.
-- Share price up 1% over 12 months (13% below its 52-week high).
+- Share price up 6% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 87 | 64 | 50 | 36 | 92 |
+| **66** | 86 | 64 | 50 | 39 | 92 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.31 |
-| Market value | $809.0M |
-| P/E | 6.1 |
-| Price/Sales | 3.40 |
-| Price/Book | 0.64 |
-| Free-cash-flow yield | 17.6% |
-| Dividend yield | 17.5% |
+| Price | $6.41 |
+| Market value | $821.8M |
+| P/E | 6.2 |
+| Price/Sales | 3.45 |
+| Price/Book | 0.65 |
+| Free-cash-flow yield | 17.3% |
+| Dividend yield | 17.2% |
 | Sales (12m) | $237.9M |
 | Sales growth | -14.7% |
 | Net profit (12m) | $132.0M |
@@ -61,10 +61,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | -3.1% / -12.2% / +1.0% |
-| vs. 200-day average | -6.2% |
-| RSI (14d) | 44 |
-| Volatility (1y) | 19.3% |
+| Return 1m / 6m / 12m | -1.4% / -9.7% / +5.8% |
+| vs. 200-day average | -4.8% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 19.4% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/ARI
 - Full deep dive: run `python scout.py stock ARI` → `research/ARI.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

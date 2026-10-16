@@ -3,17 +3,17 @@ ticker: "NRDS"
 company: "NerdWallet Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 9.64
-market_cap: "$616.2M"
+price: 9.55
+market_cap: "$610.5M"
 score: 72
 value: 95
-quality: 79
+quality: 78
 growth: 74
-momentum: 30
+momentum: 29
 health: 75
-pe: 9.5
+pe: 9.4
 piotroski: 9
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -29,26 +29,26 @@ Technology · EDP Services
 ## In plain English
 
 - Cheaper than about 95% of stocks in Technology (value score).
-- Business quality ranks above 79% of all stocks scanned.
+- Business quality ranks above 78% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price down 11% over 12 months (39% below its 52-week high).
+- Share price down 11% over 12 months (40% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 95 | 79 | 74 | 30 | 75 |
+| **72** | 95 | 78 | 74 | 29 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $9.64 |
-| Market value | $616.2M |
-| P/E | 9.5 |
-| Price/Sales | 0.72 |
-| Price/Book | 1.89 |
-| Free-cash-flow yield | 21.1% |
+| Price | $9.55 |
+| Market value | $610.5M |
+| P/E | 9.4 |
+| Price/Sales | 0.71 |
+| Price/Book | 1.87 |
+| Free-cash-flow yield | 21.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $860.0M |
 | Sales growth | +11.5% |
@@ -60,11 +60,11 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 2.62 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 6.27 |
+| Altman Z | 6.24 |
 | Share count change (1y) | -14.1% |
-| Return 1m / 6m / 12m | +1.3% / -12.0% / -11.5% |
-| vs. 200-day average | -3.2% |
-| RSI (14d) | 59 |
+| Return 1m / 6m / 12m | +1.5% / -13.2% / -11.3% |
+| vs. 200-day average | -4.0% |
+| RSI (14d) | 57 |
 | Volatility (1y) | 47.6% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/NRDS
 - Full deep dive: run `python scout.py stock NRDS` → `research/NRDS.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "EXEL"
 company: "Exelixis Inc."
 sector: "Health Care"
 industry: "Biotechnology: Biological Products (No Diagnostic Substances)"
-price: 60.99
-market_cap: "$15.1B"
+price: 62.83
+market_cap: "$15.6B"
 score: 79
 value: 74
 quality: 87
 growth: 65
-momentum: 83
+momentum: 85
 health: 81
-pe: 17.6
+pe: 18.1
 piotroski: 7
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Cheaper than about 74% of stocks in Health Care (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 9% over the last 12 months.
-- Share price up 52% over 12 months (0% below its 52-week high).
+- Share price up 60% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **79** | 74 | 87 | 65 | 83 | 81 |
+| **79** | 74 | 87 | 65 | 85 | 81 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $60.99 |
-| Market value | $15.1B |
-| P/E | 17.6 |
-| Price/Sales | 6.20 |
-| Price/Book | 8.20 |
-| Free-cash-flow yield | 5.8% |
+| Price | $62.83 |
+| Market value | $15.6B |
+| P/E | 18.1 |
+| Price/Sales | 6.39 |
+| Price/Book | 8.44 |
+| Free-cash-flow yield | 5.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.4B |
 | Sales growth | +9.2% |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Debt / equity | – |
 | Current ratio | 3.46 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 16.48 |
+| Altman Z | 16.90 |
 | Share count change (1y) | -8.7% |
-| Return 1m / 6m / 12m | +7.2% / +35.9% / +52.4% |
-| vs. 200-day average | +22.5% |
-| RSI (14d) | 66 |
-| Volatility (1y) | 36.5% |
+| Return 1m / 6m / 12m | +10.7% / +44.1% / +60.2% |
+| vs. 200-day average | +26.0% |
+| RSI (14d) | 72 |
+| Volatility (1y) | 36.6% |
 | Financials as of | 2026-07-03 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/EXEL
 - Full deep dive: run `python scout.py stock EXEL` → `research/EXEL.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

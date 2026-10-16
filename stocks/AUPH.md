@@ -3,17 +3,17 @@ ticker: "AUPH"
 company: "Aurinia Pharmaceuticals Inc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 16.36
+price: 16.61
 market_cap: "$2.2B"
-score: 78
+score: 79
 value: 81
 quality: 78
 growth: 86
-momentum: 65
+momentum: 68
 health: 84
-pe: 6.9
+pe: 7.0
 piotroski: 7
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 81% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 43% over 12 months (12% below its 52-week high).
+- Share price up 44% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **78** | 81 | 78 | 86 | 65 | 84 |
+| **79** | 81 | 78 | 86 | 68 | 84 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $16.36 |
+| Price | $16.61 |
 | Market value | $2.2B |
-| P/E | 6.9 |
-| Price/Sales | 6.99 |
-| Price/Book | 3.54 |
-| Free-cash-flow yield | 6.2% |
+| P/E | 7.0 |
+| Price/Sales | 7.09 |
+| Price/Book | 3.59 |
+| Free-cash-flow yield | 6.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $311.5M |
 | Sales growth | +19.8% |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 5.42 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 8.03 |
+| Altman Z | 8.14 |
 | Share count change (1y) | -2.9% |
-| Return 1m / 6m / 12m | +1.4% / +1.9% / +42.6% |
-| vs. 200-day average | +5.2% |
-| RSI (14d) | 52 |
+| Return 1m / 6m / 12m | -2.1% / +4.1% / +43.8% |
+| vs. 200-day average | +6.7% |
+| RSI (14d) | 56 |
 | Volatility (1y) | 37.6% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/AUPH
 - Full deep dive: run `python scout.py stock AUPH` → `research/AUPH.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

@@ -1,13 +1,13 @@
 {
- "date": "2026-10-15",
- "scanned": 2568,
+ "date": "2026-10-16",
+ "scanned": 2564,
  "top": [
   {
    "rank": 1,
    "ticker": "MU",
    "name": "Micron Technology Inc.",
    "score": 86,
-   "price": 914.13,
+   "price": 931.24,
    "flags": ""
   },
   {
@@ -15,7 +15,7 @@
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 82,
-   "price": 1482.33,
+   "price": 1403.34,
    "flags": ""
   },
   {
@@ -23,7 +23,7 @@
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 100.86,
+   "price": 102.6,
    "flags": "heavy debt"
   },
   {
@@ -31,7 +31,7 @@
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 81,
-   "price": 204.36,
+   "price": 196.91,
    "flags": "shares up 17% in a year"
   },
   {
@@ -39,7 +39,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 80,
-   "price": 57.98,
+   "price": 55.2,
    "flags": ""
   },
   {
@@ -47,7 +47,7 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 125.04,
+   "price": 118.74,
    "flags": ""
   },
   {
@@ -55,31 +55,31 @@
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 79,
-   "price": 111.57,
+   "price": 113.27,
    "flags": ""
   },
   {
    "rank": 8,
-   "ticker": "CDNA",
-   "name": "CareDx Inc.",
+   "ticker": "EXEL",
+   "name": "Exelixis Inc.",
    "score": 79,
-   "price": 65.43,
+   "price": 62.83,
    "flags": ""
   },
   {
    "rank": 9,
-   "ticker": "EXEL",
-   "name": "Exelixis Inc.",
+   "ticker": "CDNA",
+   "name": "CareDx Inc.",
    "score": 79,
-   "price": 60.99,
+   "price": 64.69,
    "flags": ""
   },
   {
    "rank": 10,
    "ticker": "AUPH",
    "name": "Aurinia Pharmaceuticals Inc",
-   "score": 78,
-   "price": 16.36,
+   "score": 79,
+   "price": 16.61,
    "flags": "profits not backed by cash"
   }
  ],
@@ -100,9 +100,9 @@
   {
    "ticker": "BORR",
    "name": "Borr Drilling Limited",
-   "value": 51959683,
+   "value": 55502233,
    "buyers": 3,
-   "last": "2026-10-13"
+   "last": "2026-10-14"
   },
   {
    "ticker": "GME",

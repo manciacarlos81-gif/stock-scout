@@ -3,17 +3,17 @@ ticker: "HOG"
 company: "Harley-Davidson Inc."
 sector: "Consumer Discretionary"
 industry: "Motor Vehicles"
-price: 26.96
-market_cap: "$2.8B"
-score: 59
-value: 80
+price: 27.59
+market_cap: "$2.9B"
+score: 58
+value: 79
 quality: 49
 growth: 34
-momentum: 64
-health: 57
-pe: 13.8
+momentum: 63
+health: 56
+pe: 14.2
 piotroski: 8
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,29 +27,29 @@ Consumer Discretionary · Motor Vehicles
 
 ## In plain English
 
-- Cheaper than about 80% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 79% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 49% of all stocks scanned.
 - Sales fell 5% over the last 12 months.
-- Share price up 4% over 12 months (5% below its 52-week high).
+- Share price up 6% over 12 months (2% below its 52-week high).
 - Insiders bought $1.4M of shares recently (Littleton Gayle (CLO, CCO, CAO, Corp Sec); Starrs Artie (Pres, CEO); Nova Daniel J (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **59** | 80 | 49 | 34 | 64 | 57 |
+| **58** | 79 | 49 | 34 | 63 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $26.96 |
-| Market value | $2.8B |
-| P/E | 13.8 |
-| Price/Sales | 0.66 |
-| Price/Book | 0.91 |
-| Free-cash-flow yield | 14.8% |
-| Dividend yield | 3.1% |
+| Price | $27.59 |
+| Market value | $2.9B |
+| P/E | 14.2 |
+| Price/Sales | 0.68 |
+| Price/Book | 0.93 |
+| Free-cash-flow yield | 14.5% |
+| Dividend yield | 3.0% |
 | Sales (12m) | $4.2B |
 | Sales growth | -5.2% |
 | Net profit (12m) | $202.6M |
@@ -62,9 +62,9 @@ Consumer Discretionary · Motor Vehicles
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -11.2% |
-| Return 1m / 6m / 12m | -2.2% / +16.5% / +3.6% |
-| vs. 200-day average | +15.7% |
-| RSI (14d) | 55 |
+| Return 1m / 6m / 12m | +2.8% / +16.9% / +6.4% |
+| vs. 200-day average | +18.2% |
+| RSI (14d) | 60 |
 | Volatility (1y) | 38.3% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Consumer Discretionary · Motor Vehicles
 - Insider trades: http://openinsider.com/HOG
 - Full deep dive: run `python scout.py stock HOG` → `research/HOG.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

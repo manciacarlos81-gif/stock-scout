@@ -3,17 +3,17 @@ ticker: "BCML"
 company: "BayCom Corp"
 sector: "Finance"
 industry: "Major Banks"
-price: 30.56
-market_cap: "$333.7M"
-score: 47
+price: 30.96
+market_cap: "$338.1M"
+score: 48
 value: 43
 quality: null
 growth: 30
-momentum: 56
+momentum: 60
 health: 57
-pe: 25.5
+pe: 25.8
 piotroski: 9
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,24 +28,24 @@ Finance · Major Banks
 ## In plain English
 
 - More expensive than about 57% of Finance peers (value score).
-- Share price up 11% over 12 months (11% below its 52-week high).
+- Share price up 19% over 12 months (10% below its 52-week high).
 - Insiders bought $461.4K of shares recently (Laverne Robert G. (Dir); Baron Christopher F (Pres, CEO); Perdue Michael J (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **47** | 43 | – | 30 | 56 | 57 |
+| **48** | 43 | – | 30 | 60 | 57 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $30.56 |
-| Market value | $333.7M |
-| P/E | 25.5 |
+| Price | $30.96 |
+| Market value | $338.1M |
+| P/E | 25.8 |
 | Price/Sales | – |
-| Price/Book | 1.00 |
+| Price/Book | 1.01 |
 | Free-cash-flow yield | – |
 | Dividend yield | 2.0% |
 | Sales (12m) | – |
@@ -60,9 +60,9 @@ Finance · Major Banks
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -0.9% |
-| Return 1m / 6m / 12m | +0.4% / +6.8% / +11.0% |
-| vs. 200-day average | +2.0% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | +3.1% / +10.1% / +18.7% |
+| vs. 200-day average | +3.3% |
+| RSI (14d) | 56 |
 | Volatility (1y) | 26.1% |
 | Financials as of | 2026-06-30 |
 
@@ -73,4 +73,4 @@ Finance · Major Banks
 - Insider trades: http://openinsider.com/BCML
 - Full deep dive: run `python scout.py stock BCML` → `research/BCML.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

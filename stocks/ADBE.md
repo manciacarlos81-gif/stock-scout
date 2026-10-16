@@ -3,17 +3,17 @@ ticker: "ADBE"
 company: "Adobe Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 240.68
-market_cap: "$93.7B"
+price: 251.67
+market_cap: "$97.9B"
 score: 67
-value: 80
+value: 78
 quality: 89
 growth: 55
-momentum: 33
-health: 63
-pe: 13.0
+momentum: 37
+health: 64
+pe: 13.5
 piotroski: 7
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -28,27 +28,27 @@ Technology · Computer Software: Prepackaged Software
 
 ## In plain English
 
-- Cheaper than about 80% of stocks in Technology (value score).
+- Cheaper than about 78% of stocks in Technology (value score).
 - Business quality ranks above 89% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price down 27% over 12 months (33% below its 52-week high).
+- Share price down 24% over 12 months (30% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 80 | 89 | 55 | 33 | 63 |
+| **67** | 78 | 89 | 55 | 37 | 64 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $240.68 |
-| Market value | $93.7B |
-| P/E | 13.0 |
-| Price/Sales | 3.72 |
-| Price/Book | 8.13 |
-| Free-cash-flow yield | 10.5% |
+| Price | $251.67 |
+| Market value | $97.9B |
+| P/E | 13.5 |
+| Price/Sales | 3.89 |
+| Price/Book | 8.50 |
+| Free-cash-flow yield | 10.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $25.2B |
 | Sales growth | +11.5% |
@@ -60,12 +60,12 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.58 |
 | Current ratio | 0.75 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 7.06 |
+| Altman Z | 7.20 |
 | Share count change (1y) | -6.2% |
-| Return 1m / 6m / 12m | -6.6% / -1.5% / -27.2% |
-| vs. 200-day average | -5.4% |
-| RSI (14d) | 47 |
-| Volatility (1y) | 41.0% |
+| Return 1m / 6m / 12m | +0.5% / +1.2% / -23.6% |
+| vs. 200-day average | -0.8% |
+| RSI (14d) | 55 |
+| Volatility (1y) | 41.2% |
 | Financials as of | 2026-05-29 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/ADBE
 - Full deep dive: run `python scout.py stock ADBE` → `research/ADBE.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

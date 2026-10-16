@@ -3,17 +3,17 @@ ticker: "ANIP"
 company: "ANI Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 70.16
-market_cap: "$1.6B"
-score: 67
+price: 72.28
+market_cap: "$1.7B"
+score: 68
 value: 88
 quality: 76
 growth: 87
-momentum: 24
+momentum: 26
 health: 56
-pe: 14.9
+pe: 15.4
 piotroski: 7
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 88% of stocks in Health Care (value score).
 - Business quality ranks above 76% of all stocks scanned.
 - Sales grew 31% over the last 12 months.
-- Share price down 22% over 12 months (26% below its 52-week high).
+- Share price down 21% over 12 months (24% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 88 | 76 | 87 | 24 | 56 |
+| **68** | 88 | 76 | 87 | 26 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $70.16 |
-| Market value | $1.6B |
-| P/E | 14.9 |
-| Price/Sales | 1.65 |
-| Price/Book | 2.70 |
-| Free-cash-flow yield | 10.6% |
+| Price | $72.28 |
+| Market value | $1.7B |
+| P/E | 15.4 |
+| Price/Sales | 1.70 |
+| Price/Book | 2.78 |
+| Free-cash-flow yield | 10.3% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $978.4M |
 | Sales growth | +30.9% |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.50 |
 | Current ratio | 2.91 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 2.53 |
+| Altman Z | 2.56 |
 | Share count change (1y) | +7.9% |
-| Return 1m / 6m / 12m | -2.7% / -13.3% / -22.1% |
-| vs. 200-day average | -10.2% |
-| RSI (14d) | 39 |
+| Return 1m / 6m / 12m | -1.8% / -11.6% / -21.4% |
+| vs. 200-day average | -7.4% |
+| RSI (14d) | 47 |
 | Volatility (1y) | 31.4% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ANIP
 - Full deep dive: run `python scout.py stock ANIP` → `research/ANIP.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

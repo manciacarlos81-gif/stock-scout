@@ -3,17 +3,17 @@ ticker: "STX"
 company: "Seagate Technology Holdings PLC"
 sector: "Technology"
 industry: "Electronic Components"
-price: 713.54
-market_cap: "$163.2B"
+price: 690.81
+market_cap: "$158.0B"
 score: 68
 value: 37
 quality: 85
 growth: 81
-momentum: 87
+momentum: 85
 health: 53
-pe: 51.3
+pe: 49.6
 piotroski: 8
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,24 +30,24 @@ Technology · Electronic Components
 - More expensive than about 63% of Technology peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 227% over 12 months (35% below its 52-week high).
+- Share price up 207% over 12 months (37% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 37 | 85 | 81 | 87 | 53 |
+| **68** | 37 | 85 | 81 | 85 | 53 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $713.54 |
-| Market value | $163.2B |
-| P/E | 51.3 |
-| Price/Sales | 13.38 |
-| Price/Book | 75.31 |
-| Free-cash-flow yield | 1.9% |
+| Price | $690.81 |
+| Market value | $158.0B |
+| P/E | 49.6 |
+| Price/Sales | 12.96 |
+| Price/Book | 72.91 |
+| Free-cash-flow yield | 2.0% |
 | Dividend yield | 0.4% |
 | Sales (12m) | $12.2B |
 | Sales growth | +34.1% |
@@ -59,12 +59,12 @@ Technology · Electronic Components
 | Debt / equity | 1.65 |
 | Current ratio | 1.67 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 14.55 |
+| Altman Z | 14.15 |
 | Share count change (1y) | +5.5% |
-| Return 1m / 6m / 12m | -7.5% / +30.5% / +227.2% |
-| vs. 200-day average | +5.7% |
-| RSI (14d) | 33 |
-| Volatility (1y) | 75.6% |
+| Return 1m / 6m / 12m | -11.7% / +28.2% / +207.4% |
+| vs. 200-day average | +2.0% |
+| RSI (14d) | 31 |
+| Volatility (1y) | 75.7% |
 | Financials as of | 2026-07-03 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/STX
 - Full deep dive: run `python scout.py stock STX` → `research/STX.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

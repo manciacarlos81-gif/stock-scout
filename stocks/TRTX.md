@@ -3,17 +3,17 @@ ticker: "TRTX"
 company: "TPG RE Finance Trust Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 5.77
-market_cap: "$443.0M"
+price: 5.64
+market_cap: "$433.0M"
 score: 50
-value: 92
+value: 93
 quality: 38
 growth: 41
 momentum: 18
 health: 47
-pe: 7.6
+pe: 7.5
 piotroski: 6
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,26 +27,26 @@ Real Estate · Real Estate Investment Trusts
 
 ## In plain English
 
-- Cheaper than about 92% of stocks in Real Estate (value score).
+- Cheaper than about 93% of stocks in Real Estate (value score).
 - Business quality ranks above 38% of all stocks scanned.
-- Share price down 25% over 12 months (32% below its 52-week high).
+- Share price down 25% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 92 | 38 | 41 | 18 | 47 |
+| **50** | 93 | 38 | 41 | 18 | 47 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $5.77 |
-| Market value | $443.0M |
-| P/E | 7.6 |
+| Price | $5.64 |
+| Market value | $433.0M |
+| P/E | 7.5 |
 | Price/Sales | – |
-| Price/Book | 0.42 |
-| Free-cash-flow yield | 20.4% |
+| Price/Book | 0.41 |
+| Free-cash-flow yield | 20.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | – |
 | Sales growth | – |
@@ -60,10 +60,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.7% |
-| Return 1m / 6m / 12m | -18.3% / -26.3% / -25.1% |
-| vs. 200-day average | -24.7% |
-| RSI (14d) | 14 |
-| Volatility (1y) | 20.5% |
+| Return 1m / 6m / 12m | -20.0% / -28.0% / -25.2% |
+| vs. 200-day average | -26.3% |
+| RSI (14d) | 12 |
+| Volatility (1y) | 20.6% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/TRTX
 - Full deep dive: run `python scout.py stock TRTX` → `research/TRTX.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

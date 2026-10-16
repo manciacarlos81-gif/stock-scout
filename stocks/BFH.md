@@ -3,17 +3,17 @@ ticker: "BFH"
 company: "Bread Financial Holdings Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 98.96
-market_cap: "$3.8B"
-score: 77
+price: 101.31
+market_cap: "$3.9B"
+score: 78
 value: 95
 quality: 82
 growth: 85
-momentum: 78
+momentum: 80
 health: 33
-pe: 6.7
+pe: 6.9
 piotroski: 9
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -29,25 +29,25 @@ Consumer Discretionary · Business Services
 
 - Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 82% of all stocks scanned.
-- Share price up 68% over 12 months (13% below its 52-week high).
+- Share price up 78% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 95 | 82 | 85 | 78 | 33 |
+| **78** | 95 | 82 | 85 | 80 | 33 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $98.96 |
-| Market value | $3.8B |
-| P/E | 6.7 |
+| Price | $101.31 |
+| Market value | $3.9B |
+| P/E | 6.9 |
 | Price/Sales | – |
-| Price/Book | 1.13 |
-| Free-cash-flow yield | 55.0% |
-| Dividend yield | 1.1% |
+| Price/Book | 1.16 |
+| Free-cash-flow yield | 53.7% |
+| Dividend yield | 1.0% |
 | Sales (12m) | – |
 | Sales growth | – |
 | Net profit (12m) | $568.0M |
@@ -60,10 +60,10 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -13.8% |
-| Return 1m / 6m / 12m | -8.1% / +9.8% / +67.5% |
-| vs. 200-day average | +9.9% |
-| RSI (14d) | 42 |
-| Volatility (1y) | 39.4% |
+| Return 1m / 6m / 12m | -6.1% / +10.9% / +77.9% |
+| vs. 200-day average | +12.4% |
+| RSI (14d) | 48 |
+| Volatility (1y) | 39.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -73,4 +73,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/BFH
 - Full deep dive: run `python scout.py stock BFH` → `research/BFH.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "MU"
 company: "Micron Technology Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 914.13
-market_cap: "$1.0T"
+price: 931.24
+market_cap: "$1.1T"
 score: 86
-value: 72
+value: 71
 quality: 91
-growth: 92
+growth: 93
 momentum: 97
-health: 80
-pe: 12.2
+health: 81
+pe: 12.4
 piotroski: null
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,27 +28,27 @@ Technology · Semiconductors
 
 ## In plain English
 
-- Cheaper than about 72% of stocks in Technology (value score).
+- Cheaper than about 71% of stocks in Technology (value score).
 - Business quality ranks above 91% of all stocks scanned.
 - Sales grew 256% over the last 12 months.
-- Share price up 377% over 12 months (25% below its 52-week high).
+- Share price up 360% over 12 months (23% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **86** | 72 | 91 | 92 | 97 | 80 |
+| **86** | 71 | 91 | 93 | 97 | 81 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $914.13 |
-| Market value | $1.0T |
-| P/E | 12.2 |
-| Price/Sales | 7.77 |
-| Price/Book | 10.27 |
-| Free-cash-flow yield | 5.7% |
+| Price | $931.24 |
+| Market value | $1.1T |
+| P/E | 12.4 |
+| Price/Sales | 7.91 |
+| Price/Book | 10.46 |
+| Free-cash-flow yield | 5.6% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $133.2B |
 | Sales growth | +256.3% |
@@ -60,11 +60,11 @@ Technology · Semiconductors
 | Debt / equity | 0.06 |
 | Current ratio | 3.42 |
 | Piotroski F-score | – |
-| Altman Z | 23.44 |
+| Altman Z | 23.78 |
 | Share count change (1y) | +1.6% |
-| Return 1m / 6m / 12m | -1.4% / +100.9% / +376.8% |
-| vs. 200-day average | +27.4% |
-| RSI (14d) | 36 |
+| Return 1m / 6m / 12m | +0.5% / +107.7% / +360.3% |
+| vs. 200-day average | +29.2% |
+| RSI (14d) | 39 |
 | Volatility (1y) | 81.0% |
 | Financials as of | 2026-09-03 |
 
@@ -75,4 +75,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MU
 - Full deep dive: run `python scout.py stock MU` → `research/MU.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

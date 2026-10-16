@@ -3,17 +3,17 @@ ticker: "CRUS"
 company: "Cirrus Logic Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 108.34
+price: 108.4
 market_cap: "$5.4B"
-score: 67
+score: 66
 value: 88
 quality: 82
 growth: 49
-momentum: 20
+momentum: 18
 health: 86
 pe: 12.6
 piotroski: 8
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -37,13 +37,13 @@ Technology · Semiconductors
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 88 | 82 | 49 | 20 | 86 |
+| **66** | 88 | 82 | 49 | 18 | 86 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $108.34 |
+| Price | $108.40 |
 | Market value | $5.4B |
 | P/E | 12.6 |
 | Price/Sales | 2.65 |
@@ -62,10 +62,10 @@ Technology · Semiconductors
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.8% |
-| Return 1m / 6m / 12m | -11.3% / -35.4% / -11.6% |
+| Return 1m / 6m / 12m | -8.1% / -35.6% / -12.0% |
 | vs. 200-day average | -22.4% |
 | RSI (14d) | 35 |
-| Volatility (1y) | 36.1% |
+| Volatility (1y) | 36.0% |
 | Financials as of | 2026-06-27 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/CRUS
 - Full deep dive: run `python scout.py stock CRUS` → `research/CRUS.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

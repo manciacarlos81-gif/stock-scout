@@ -3,17 +3,17 @@ ticker: "SCHL"
 company: "Scholastic Corporation"
 sector: "Consumer Discretionary"
 industry: "Books"
-price: 38.94
-market_cap: "$716.9M"
+price: 38.65
+market_cap: "$711.5M"
 score: 53
 value: 61
 quality: 47
 growth: 49
-momentum: 56
+momentum: 54
 health: 52
-pe: 12.6
+pe: 12.5
 piotroski: 8
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Books
 - Cheaper than about 61% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 47% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 38% over 12 months (17% below its 52-week high).
+- Share price up 39% over 12 months (18% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 61 | 47 | 49 | 56 | 52 |
+| **53** | 61 | 47 | 49 | 54 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $38.94 |
-| Market value | $716.9M |
-| P/E | 12.6 |
+| Price | $38.65 |
+| Market value | $711.5M |
+| P/E | 12.5 |
 | Price/Sales | 0.45 |
 | Price/Book | 0.95 |
-| Free-cash-flow yield | 7.1% |
+| Free-cash-flow yield | 7.2% |
 | Dividend yield | 2.8% |
 | Sales (12m) | $1.6B |
 | Sales growth | -2.7% |
@@ -61,9 +61,9 @@ Consumer Discretionary · Books
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -12.3% |
-| Return 1m / 6m / 12m | +11.1% / -1.0% / +38.1% |
-| vs. 200-day average | +1.5% |
-| RSI (14d) | 62 |
+| Return 1m / 6m / 12m | +10.4% / -1.7% / +38.6% |
+| vs. 200-day average | +0.6% |
+| RSI (14d) | 59 |
 | Volatility (1y) | 35.0% |
 | Financials as of | 2026-05-31 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Books
 - Insider trades: http://openinsider.com/SCHL
 - Full deep dive: run `python scout.py stock SCHL` → `research/SCHL.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_

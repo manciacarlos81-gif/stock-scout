@@ -3,17 +3,17 @@ ticker: "GNL"
 company: "Global Net Lease Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 7.67
-market_cap: "$1.8B"
+price: 7.52
+market_cap: "$1.7B"
 score: 52
-value: 58
+value: 59
 quality: 51
 growth: 55
-momentum: 38
-health: 58
+momentum: 36
+health: 59
 pe: null
 piotroski: 5
-updated: "2026-10-15"
+updated: "2026-10-16"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,28 +27,28 @@ Real Estate · Real Estate Investment Trusts
 
 ## In plain English
 
-- Cheaper than about 58% of stocks in Real Estate (value score).
+- Cheaper than about 59% of stocks in Real Estate (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales fell 14% over the last 12 months.
-- Share price up 5% over 12 months (18% below its 52-week high).
+- Share price up 6% over 12 months (19% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 58 | 51 | 55 | 38 | 58 |
+| **52** | 59 | 51 | 55 | 36 | 59 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $7.67 |
-| Market value | $1.8B |
+| Price | $7.52 |
+| Market value | $1.7B |
 | P/E | – |
-| Price/Sales | 3.86 |
-| Price/Book | 1.18 |
-| Free-cash-flow yield | 12.6% |
-| Dividend yield | 10.8% |
+| Price/Sales | 3.78 |
+| Price/Book | 1.15 |
+| Free-cash-flow yield | 12.8% |
+| Dividend yield | 11.0% |
 | Sales (12m) | $459.7M |
 | Sales growth | -13.9% |
 | Net profit (12m) | -$13.5M |
@@ -61,9 +61,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 5/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.2% |
-| Return 1m / 6m / 12m | -12.8% / -17.3% / +5.2% |
-| vs. 200-day average | -12.4% |
-| RSI (14d) | 16 |
+| Return 1m / 6m / 12m | -13.1% / -18.4% / +5.5% |
+| vs. 200-day average | -14.1% |
+| RSI (14d) | 14 |
 | Volatility (1y) | 21.1% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/GNL
 - Full deep dive: run `python scout.py stock GNL` → `research/GNL.md`
 
-_Updated 2026-10-15 · [latest report](../reports/latest.md)_
+_Updated 2026-10-16 · [latest report](../reports/latest.md)_
