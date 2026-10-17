@@ -13,7 +13,7 @@ momentum: 79
 health: 75
 pe: 33.1
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -61,10 +61,10 @@ Health Care · Medical/Dental Instruments
 | Piotroski F-score | 8/9 |
 | Altman Z | 7.48 |
 | Share count change (1y) | -4.4% |
-| Return 1m / 6m / 12m | +0.4% / +35.7% / +32.2% |
-| vs. 200-day average | +18.5% |
+| Return 1m / 6m / 12m | -0.3% / +40.1% / +31.7% |
+| vs. 200-day average | +18.3% |
 | RSI (14d) | 55 |
-| Volatility (1y) | 39.8% |
+| Volatility (1y) | 39.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/DXCM
 - Full deep dive: run `python scout.py stock DXCM` → `research/DXCM.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

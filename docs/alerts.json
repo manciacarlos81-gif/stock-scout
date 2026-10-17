@@ -1,6 +1,6 @@
 {
- "date": "2026-10-16",
- "scanned": 2564,
+ "date": "2026-10-17",
+ "scanned": 2558,
  "top": [
   {
    "rank": 1,
@@ -15,7 +15,7 @@
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 82,
-   "price": 1403.34,
+   "price": 1394.83,
    "flags": ""
   },
   {
@@ -31,15 +31,15 @@
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 81,
-   "price": 196.91,
+   "price": 200.8,
    "flags": "shares up 17% in a year"
   },
   {
    "rank": 5,
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
-   "score": 80,
-   "price": 55.2,
+   "score": 81,
+   "price": 53.68,
    "flags": ""
   },
   {
@@ -47,7 +47,7 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 118.74,
+   "price": 113.11,
    "flags": ""
   },
   {
@@ -71,7 +71,7 @@
    "ticker": "CDNA",
    "name": "CareDx Inc.",
    "score": 79,
-   "price": 64.69,
+   "price": 66.68,
    "flags": ""
   },
   {
@@ -79,7 +79,7 @@
    "ticker": "AUPH",
    "name": "Aurinia Pharmaceuticals Inc",
    "score": 79,
-   "price": 16.61,
+   "price": 16.73,
    "flags": "profits not backed by cash"
   }
  ],
@@ -100,9 +100,9 @@
   {
    "ticker": "BORR",
    "name": "Borr Drilling Limited",
-   "value": 55502233,
-   "buyers": 3,
-   "last": "2026-10-14"
+   "value": 59274383,
+   "buyers": 4,
+   "last": "2026-10-15"
   },
   {
    "ticker": "GME",

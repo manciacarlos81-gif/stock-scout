@@ -13,7 +13,7 @@ momentum: 77
 health: 56
 pe: 3.6
 piotroski: 6
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -61,8 +61,8 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.30 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -7.5% / +12.3% / +58.1% |
-| vs. 200-day average | +6.4% |
+| Return 1m / 6m / 12m | -9.0% / +15.9% / +57.5% |
+| vs. 200-day average | +6.3% |
 | RSI (14d) | 35 |
 | Volatility (1y) | 28.4% |
 | Financials as of | 2025-12-31 |
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/GSL
 - Full deep dive: run `python scout.py stock GSL` → `research/GSL.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

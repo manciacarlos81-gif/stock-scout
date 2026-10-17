@@ -3,7 +3,7 @@ ticker: "WB"
 company: "Weibo Corporation American Depositary Share"
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 6.51
+price: 6.55
 market_cap: "$1.6B"
 score: 54
 value: 98
@@ -13,7 +13,7 @@ momentum: 11
 health: 54
 pe: 3.6
 piotroski: 5
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 98% of stocks in Technology (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales grew 0% over the last 12 months.
-- Share price down 38% over 12 months (40% below its 52-week high).
+- Share price down 37% over 12 months (39% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Technology · Computer Software: Programming Data Processing
 
 | | |
 |---|---:|
-| Price | $6.51 |
+| Price | $6.55 |
 | Market value | $1.6B |
 | P/E | 3.6 |
-| Price/Sales | 0.91 |
+| Price/Sales | 0.92 |
 | Price/Book | 0.41 |
-| Free-cash-flow yield | 29.8% |
+| Free-cash-flow yield | 29.6% |
 | Dividend yield | 12.2% |
 | Sales (12m) | $1.8B |
 | Sales growth | +0.1% |
@@ -59,11 +59,11 @@ Technology · Computer Software: Programming Data Processing
 | Debt / equity | 0.53 |
 | Current ratio | 3.39 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 1.70 |
+| Altman Z | 1.71 |
 | Share count change (1y) | +1.3% |
-| Return 1m / 6m / 12m | +0.2% / -25.9% / -37.8% |
-| vs. 200-day average | -19.9% |
-| RSI (14d) | 43 |
+| Return 1m / 6m / 12m | +0.0% / -24.1% / -37.3% |
+| vs. 200-day average | -19.2% |
+| RSI (14d) | 46 |
 | Volatility (1y) | 25.3% |
 | Financials as of | 2025-12-31 |
 
@@ -79,4 +79,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/WB
 - Full deep dive: run `python scout.py stock WB` → `research/WB.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

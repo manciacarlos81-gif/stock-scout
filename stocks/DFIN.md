@@ -3,17 +3,17 @@ ticker: "DFIN"
 company: "Donnelley Financial Solutions Inc."
 sector: "Consumer Discretionary"
 industry: "Other Consumer Services"
-price: 49.28
-market_cap: "$1.2B"
+price: 51.37
+market_cap: "$1.3B"
 score: 55
-value: 59
+value: 58
 quality: 72
 growth: 38
-momentum: 40
+momentum: 42
 health: 56
-pe: 34.4
+pe: 35.9
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Discretionary · Other Consumer Services
 
 ## In plain English
 
-- Cheaper than about 59% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 58% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price down 5% over 12 months (11% below its 52-week high).
+- Share price down 1% over 12 months (7% below its 52-week high).
 - Insiders bought $1000.0K of shares recently (Binz Joseph Leo (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 59 | 72 | 38 | 40 | 56 |
+| **55** | 58 | 72 | 38 | 42 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $49.28 |
-| Market value | $1.2B |
-| P/E | 34.4 |
-| Price/Sales | 1.56 |
-| Price/Book | 3.13 |
-| Free-cash-flow yield | 8.9% |
+| Price | $51.37 |
+| Market value | $1.3B |
+| P/E | 35.9 |
+| Price/Sales | 1.62 |
+| Price/Book | 3.26 |
+| Free-cash-flow yield | 8.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $777.5M |
 | Sales growth | +3.0% |
@@ -60,12 +60,12 @@ Consumer Discretionary · Other Consumer Services
 | Debt / equity | 0.53 |
 | Current ratio | 1.33 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.29 |
+| Altman Z | 4.36 |
 | Share count change (1y) | -10.3% |
-| Return 1m / 6m / 12m | +0.8% / -6.2% / -5.1% |
-| vs. 200-day average | +4.9% |
-| RSI (14d) | 53 |
-| Volatility (1y) | 46.4% |
+| Return 1m / 6m / 12m | +7.0% / -3.1% / -0.6% |
+| vs. 200-day average | +9.2% |
+| RSI (14d) | 61 |
+| Volatility (1y) | 46.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Discretionary · Other Consumer Services
 - Insider trades: http://openinsider.com/DFIN
 - Full deep dive: run `python scout.py stock DFIN` → `research/DFIN.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

@@ -5,15 +5,15 @@ sector: "Consumer Discretionary"
 industry: "Marine Transportation"
 price: 14.28
 market_cap: "$1.7B"
-score: 64
+score: 65
 value: 89
 quality: 85
 growth: 30
-momentum: 43
+momentum: 45
 health: 51
 pe: 4.7
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,13 +30,13 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 89% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales fell 1% over the last 12 months.
-- Share price up 26% over 12 months (19% below its 52-week high).
+- Share price up 25% over 12 months (19% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 89 | 85 | 30 | 43 | 51 |
+| **65** | 89 | 85 | 30 | 45 | 51 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 8/9 |
 | Altman Z | 3.09 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -5.1% / -16.0% / +26.4% |
+| Return 1m / 6m / 12m | -7.1% / -11.2% / +25.2% |
 | vs. 200-day average | -9.7% |
 | RSI (14d) | 37 |
-| Volatility (1y) | 31.8% |
+| Volatility (1y) | 31.7% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/CMRE
 - Full deep dive: run `python scout.py stock CMRE` → `research/CMRE.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

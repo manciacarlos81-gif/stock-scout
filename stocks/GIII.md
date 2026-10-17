@@ -9,11 +9,11 @@ score: 58
 value: 87
 quality: 52
 growth: 38
-momentum: 37
+momentum: 34
 health: 70
 pe: 17.9
 piotroski: 5
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -37,7 +37,7 @@ Consumer Discretionary · Apparel
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 87 | 52 | 38 | 37 | 70 |
+| **58** | 87 | 52 | 38 | 34 | 70 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Apparel
 | Piotroski F-score | 5/9 |
 | Altman Z | 3.22 |
 | Share count change (1y) | +0.3% |
-| Return 1m / 6m / 12m | +0.8% / -8.9% / +5.4% |
-| vs. 200-day average | -7.5% |
+| Return 1m / 6m / 12m | +2.6% / -10.4% / +4.6% |
+| vs. 200-day average | -7.4% |
 | RSI (14d) | 55 |
 | Volatility (1y) | 34.0% |
 | Financials as of | 2026-07-31 |
@@ -75,4 +75,4 @@ Consumer Discretionary · Apparel
 - Insider trades: http://openinsider.com/GIII
 - Full deep dive: run `python scout.py stock GIII` → `research/GIII.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

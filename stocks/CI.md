@@ -9,11 +9,11 @@ score: 63
 value: 94
 quality: 59
 growth: 53
-momentum: 53
+momentum: 51
 health: 42
 pe: 12.3
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,13 +30,13 @@ Health Care · Medical Specialities
 - Cheaper than about 94% of stocks in Health Care (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 5% over 12 months (1% below its 52-week high).
+- Share price up 2% over 12 months (1% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 94 | 59 | 53 | 53 | 42 |
+| **63** | 94 | 59 | 53 | 51 | 42 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Health Care · Medical Specialities
 | Piotroski F-score | 7/9 |
 | Altman Z | 2.81 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +6.5% / +8.0% / +5.0% |
+| Return 1m / 6m / 12m | +8.3% / +9.2% / +2.1% |
 | vs. 200-day average | +7.5% |
 | RSI (14d) | 71 |
-| Volatility (1y) | 32.3% |
+| Volatility (1y) | 32.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CI
 - Full deep dive: run `python scout.py stock CI` → `research/CI.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

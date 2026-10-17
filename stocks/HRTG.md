@@ -3,17 +3,17 @@ ticker: "HRTG"
 company: "Heritage Insurance Holdings Inc."
 sector: "Finance"
 industry: "Property-Casualty Insurers"
-price: 36.29
+price: 36.61
 market_cap: "$1.1B"
 score: 77
 value: 84
 quality: 86
 growth: 60
-momentum: 84
+momentum: 86
 health: 57
-pe: 5.0
+pe: 5.1
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,23 +31,23 @@ Finance · Property-Casualty Insurers
 - Cheaper than about 84% of stocks in Finance (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price up 52% over 12 months (0% below its 52-week high).
+- Share price up 59% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 84 | 86 | 60 | 84 | 57 |
+| **77** | 84 | 86 | 60 | 86 | 57 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $36.29 |
+| Price | $36.61 |
 | Market value | $1.1B |
-| P/E | 5.0 |
-| Price/Sales | 1.26 |
-| Price/Book | 1.90 |
+| P/E | 5.1 |
+| Price/Sales | 1.27 |
+| Price/Book | 1.92 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | $854.6M |
@@ -62,9 +62,9 @@ Finance · Property-Casualty Insurers
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | +3.8% / +32.9% / +51.6% |
-| vs. 200-day average | +29.2% |
-| RSI (14d) | 69 |
+| Return 1m / 6m / 12m | +3.4% / +36.1% / +59.4% |
+| vs. 200-day average | +30.1% |
+| RSI (14d) | 71 |
 | Volatility (1y) | 49.9% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Finance · Property-Casualty Insurers
 - Insider trades: http://openinsider.com/HRTG
 - Full deep dive: run `python scout.py stock HRTG` → `research/HRTG.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

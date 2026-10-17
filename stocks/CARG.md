@@ -3,17 +3,17 @@ ticker: "CARG"
 company: "CarGurus Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 30.02
+price: 30.3
 market_cap: "$2.7B"
 score: 69
-value: 79
+value: 80
 quality: 91
 growth: 56
-momentum: 28
+momentum: 26
 health: 83
-pe: 15.2
+pe: 15.3
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "💎 Quality at a fair price"
   - "💵 Dividends & buybacks"
@@ -28,27 +28,27 @@ Technology · EDP Services
 
 ## In plain English
 
-- Cheaper than about 79% of stocks in Technology (value score).
+- Cheaper than about 80% of stocks in Technology (value score).
 - Business quality ranks above 91% of all stocks scanned.
 - Sales grew 14% over the last 12 months.
-- Share price down 15% over 12 months (23% below its 52-week high).
+- Share price down 13% over 12 months (22% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 79 | 91 | 56 | 28 | 83 |
+| **69** | 80 | 91 | 56 | 26 | 83 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $30.02 |
+| Price | $30.30 |
 | Market value | $2.7B |
-| P/E | 15.2 |
-| Price/Sales | 2.76 |
-| Price/Book | 10.12 |
-| Free-cash-flow yield | 10.8% |
+| P/E | 15.3 |
+| Price/Sales | 2.79 |
+| Price/Book | 10.21 |
+| Free-cash-flow yield | 10.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $967.3M |
 | Sales growth | +13.9% |
@@ -60,11 +60,11 @@ Technology · EDP Services
 | Debt / equity | 0.00 |
 | Current ratio | 1.85 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 9.52 |
+| Altman Z | 9.57 |
 | Share count change (1y) | -9.1% |
-| Return 1m / 6m / 12m | -13.5% / -19.1% / -14.8% |
-| vs. 200-day average | -9.4% |
-| RSI (14d) | 43 |
+| Return 1m / 6m / 12m | -10.2% / -20.0% / -13.2% |
+| vs. 200-day average | -8.5% |
+| RSI (14d) | 45 |
 | Volatility (1y) | 39.2% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/CARG
 - Full deep dive: run `python scout.py stock CARG` → `research/CARG.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

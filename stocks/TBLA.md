@@ -3,17 +3,17 @@ ticker: "TBLA"
 company: "Taboola.com Ltd."
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 3.42
-market_cap: "$862.2M"
+price: 3.54
+market_cap: "$892.5M"
 score: 67
 value: 97
 quality: 59
 growth: 77
 momentum: 42
 health: 56
-pe: 7.3
+pe: 7.5
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,7 +31,7 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 97% of stocks in Technology (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 11% over 12 months (39% below its 52-week high).
+- Share price up 16% over 12 months (37% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Technology · Computer Software: Programming Data Processing
 
 | | |
 |---|---:|
-| Price | $3.42 |
-| Market value | $862.2M |
-| P/E | 7.3 |
-| Price/Sales | 0.44 |
-| Price/Book | 0.92 |
-| Free-cash-flow yield | 19.0% |
+| Price | $3.54 |
+| Market value | $892.5M |
+| P/E | 7.5 |
+| Price/Sales | 0.45 |
+| Price/Book | 0.95 |
+| Free-cash-flow yield | 18.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +8.0% |
@@ -62,10 +62,10 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -10.2% / -9.3% / +11.0% |
-| vs. 200-day average | -15.6% |
-| RSI (14d) | 44 |
-| Volatility (1y) | 56.6% |
+| Return 1m / 6m / 12m | -3.8% / -7.1% / +16.1% |
+| vs. 200-day average | -12.6% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 56.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/TBLA
 - Full deep dive: run `python scout.py stock TBLA` → `research/TBLA.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

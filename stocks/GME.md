@@ -6,14 +6,14 @@ industry: "Electronics Distribution"
 price: 28.02
 market_cap: "$14.1B"
 score: 52
-value: 42
+value: 43
 quality: 53
 growth: 54
-momentum: 59
+momentum: 60
 health: 55
 pe: 15.8
 piotroski: 6
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,17 +27,17 @@ Consumer Discretionary · Electronics Distribution
 
 ## In plain English
 
-- More expensive than about 58% of Consumer Discretionary peers (value score).
+- More expensive than about 57% of Consumer Discretionary peers (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales fell 8% over the last 12 months.
-- Share price up 22% over 12 months (0% below its 52-week high).
+- Share price up 21% over 12 months (0% below its 52-week high).
 - Insiders bought $99.1M of shares recently (Cohen Ryan (Pres, CEO, COB); Turner Nat (Dir); Attal Alain (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 42 | 53 | 54 | 59 | 55 |
+| **52** | 43 | 53 | 54 | 60 | 55 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Electronics Distribution
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.83 |
 | Share count change (1y) | +8.4% |
-| Return 1m / 6m / 12m | +27.5% / +12.4% / +22.1% |
-| vs. 200-day average | +24.7% |
+| Return 1m / 6m / 12m | +23.1% / +14.6% / +21.5% |
+| vs. 200-day average | +24.5% |
 | RSI (14d) | 77 |
 | Volatility (1y) | 38.4% |
 | Financials as of | 2026-08-01 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Electronics Distribution
 - Insider trades: http://openinsider.com/GME
 - Full deep dive: run `python scout.py stock GME` → `research/GME.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

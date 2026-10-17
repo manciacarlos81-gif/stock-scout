@@ -13,7 +13,7 @@ momentum: 30
 health: 75
 pe: 37.8
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -61,8 +61,8 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 | Piotroski F-score | 8/9 |
 | Altman Z | 19.78 |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | +6.5% / -6.2% / -14.1% |
-| vs. 200-day average | -5.5% |
+| Return 1m / 6m / 12m | +8.0% / -3.8% / -13.9% |
+| vs. 200-day average | -5.4% |
 | RSI (14d) | 62 |
 | Volatility (1y) | 32.1% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 - Insider trades: http://openinsider.com/IDXX
 - Full deep dive: run `python scout.py stock IDXX` → `research/IDXX.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

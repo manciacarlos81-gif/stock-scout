@@ -3,17 +3,17 @@ ticker: "DELL"
 company: "Dell Technologies Inc."
 sector: "Technology"
 industry: "Computer Manufacturing"
-price: 507.93
-market_cap: "$322.9B"
+price: 473.39
+market_cap: "$301.0B"
 score: 66
-value: 56
+value: 58
 quality: 50
 growth: 89
 momentum: 99
 health: 43
-pe: 28.4
+pe: 26.5
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · Computer Manufacturing
 
 ## In plain English
 
-- Cheaper than about 56% of stocks in Technology (value score).
+- Cheaper than about 58% of stocks in Technology (value score).
 - Business quality ranks above 50% of all stocks scanned.
 - Sales grew 49% over the last 12 months.
-- Share price up 240% over 12 months (14% below its 52-week high).
+- Share price up 220% over 12 months (20% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 56 | 50 | 89 | 99 | 43 |
+| **66** | 58 | 50 | 89 | 99 | 43 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $507.93 |
-| Market value | $322.9B |
-| P/E | 28.4 |
-| Price/Sales | 2.14 |
+| Price | $473.39 |
+| Market value | $301.0B |
+| P/E | 26.5 |
+| Price/Sales | 1.99 |
 | Price/Book | – |
-| Free-cash-flow yield | 2.6% |
+| Free-cash-flow yield | 2.8% |
 | Dividend yield | 0.5% |
 | Sales (12m) | $151.2B |
 | Sales growth | +49.0% |
@@ -59,12 +59,12 @@ Technology · Computer Manufacturing
 | Debt / equity | – |
 | Current ratio | 0.96 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.14 |
+| Altman Z | 3.04 |
 | Share count change (1y) | -5.0% |
-| Return 1m / 6m / 12m | -9.8% / +149.9% / +240.0% |
-| vs. 200-day average | +61.3% |
-| RSI (14d) | 42 |
-| Volatility (1y) | 75.2% |
+| Return 1m / 6m / 12m | -19.5% / +123.3% / +220.5% |
+| vs. 200-day average | +49.6% |
+| RSI (14d) | 36 |
+| Volatility (1y) | 75.6% |
 | Financials as of | 2026-07-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Technology · Computer Manufacturing
 - Insider trades: http://openinsider.com/DELL
 - Full deep dive: run `python scout.py stock DELL` → `research/DELL.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "TWLO"
 company: "Twilio Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 271.12
-market_cap: "$41.6B"
+price: 273.4
+market_cap: "$42.0B"
 score: 68
 value: 45
 quality: 55
 growth: 84
 momentum: 96
 health: 76
-pe: 36.2
+pe: 36.5
 piotroski: 6
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Computer Software: Prepackaged Software
 - More expensive than about 55% of Technology peers (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 18% over the last 12 months.
-- Share price up 155% over 12 months (10% below its 52-week high).
+- Share price up 156% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Technology · Computer Software: Prepackaged Software
 
 | | |
 |---|---:|
-| Price | $271.12 |
-| Market value | $41.6B |
-| P/E | 36.2 |
-| Price/Sales | 7.47 |
-| Price/Book | 4.64 |
+| Price | $273.40 |
+| Market value | $42.0B |
+| P/E | 36.5 |
+| Price/Sales | 7.53 |
+| Price/Book | 4.68 |
 | Free-cash-flow yield | 2.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.6B |
@@ -59,11 +59,11 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.11 |
 | Current ratio | 4.62 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 13.38 |
+| Altman Z | 13.50 |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | +13.5% / +86.2% / +155.2% |
-| vs. 200-day average | +48.1% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | +11.0% / +88.2% / +156.4% |
+| vs. 200-day average | +48.8% |
+| RSI (14d) | 51 |
 | Volatility (1y) | 62.9% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/TWLO
 - Full deep dive: run `python scout.py stock TWLO` → `research/TWLO.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

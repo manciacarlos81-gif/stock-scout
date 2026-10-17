@@ -3,17 +3,17 @@ ticker: "SEZL"
 company: "Sezzle Inc."
 sector: "Finance"
 industry: "Finance: Consumer Services"
-price: 123.11
-market_cap: "$4.2B"
+price: 132.37
+market_cap: "$4.5B"
 score: 64
-value: 26
+value: 24
 quality: 81
 growth: 73
-momentum: 86
+momentum: 88
 health: 63
-pe: 146.3
+pe: 157.3
 piotroski: 9
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Finance · Finance: Consumer Services
 
 ## In plain English
 
-- More expensive than about 74% of Finance peers (value score).
+- More expensive than about 76% of Finance peers (value score).
 - Business quality ranks above 81% of all stocks scanned.
 - Sales grew 43% over the last 12 months.
-- Share price up 64% over 12 months (35% below its 52-week high).
+- Share price up 79% over 12 months (30% below its 52-week high).
 - Insiders bought $44.0K of shares recently (Hunt Bryan Cecil (Dir); Khurana Rajeev (GC)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 26 | 81 | 73 | 86 | 63 |
+| **64** | 24 | 81 | 73 | 88 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $123.11 |
-| Market value | $4.2B |
-| P/E | 146.3 |
-| Price/Sales | 7.82 |
-| Price/Book | 17.85 |
+| Price | $132.37 |
+| Market value | $4.5B |
+| P/E | 157.3 |
+| Price/Sales | 8.41 |
+| Price/Book | 19.19 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | $531.9M |
@@ -62,10 +62,10 @@ Finance · Finance: Consumer Services
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.2% |
-| Return 1m / 6m / 12m | +4.9% / +43.7% / +64.4% |
-| vs. 200-day average | +16.4% |
-| RSI (14d) | 55 |
-| Volatility (1y) | 86.7% |
+| Return 1m / 6m / 12m | +17.1% / +60.9% / +79.2% |
+| vs. 200-day average | +24.7% |
+| RSI (14d) | 63 |
+| Volatility (1y) | 87.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Finance · Finance: Consumer Services
 - Insider trades: http://openinsider.com/SEZL
 - Full deep dive: run `python scout.py stock SEZL` → `research/SEZL.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

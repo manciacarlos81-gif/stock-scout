@@ -8,12 +8,12 @@ market_cap: "$9.6B"
 score: 60
 value: 71
 quality: 81
-growth: 76
+growth: 75
 momentum: 7
 health: 62
 pe: 25.6
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -37,7 +37,7 @@ Health Care · Medical/Dental Instruments
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 71 | 81 | 76 | 7 | 62 |
+| **60** | 71 | 81 | 75 | 7 | 62 |
 
 ## Key numbers
 
@@ -62,10 +62,10 @@ Health Care · Medical/Dental Instruments
 | Piotroski F-score | 7/9 |
 | Altman Z | 5.44 |
 | Share count change (1y) | -1.8% |
-| Return 1m / 6m / 12m | -1.3% / -30.9% / -56.1% |
-| vs. 200-day average | -25.0% |
+| Return 1m / 6m / 12m | -2.0% / -27.8% / -56.4% |
+| vs. 200-day average | -24.8% |
 | RSI (14d) | 52 |
-| Volatility (1y) | 44.9% |
+| Volatility (1y) | 44.8% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/PODD
 - Full deep dive: run `python scout.py stock PODD` → `research/PODD.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

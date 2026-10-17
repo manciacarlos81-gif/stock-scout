@@ -5,15 +5,15 @@ sector: "Consumer Discretionary"
 industry: "Business Services"
 price: 101.31
 market_cap: "$3.9B"
-score: 78
+score: 77
 value: 95
 quality: 82
 growth: 85
-momentum: 80
+momentum: 78
 health: 33
 pe: 6.9
 piotroski: 9
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -29,13 +29,13 @@ Consumer Discretionary · Business Services
 
 - Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 82% of all stocks scanned.
-- Share price up 78% over 12 months (10% below its 52-week high).
+- Share price up 74% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **78** | 95 | 82 | 85 | 80 | 33 |
+| **77** | 95 | 82 | 85 | 78 | 33 |
 
 ## Key numbers
 
@@ -60,8 +60,8 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -13.8% |
-| Return 1m / 6m / 12m | -6.1% / +10.9% / +77.9% |
-| vs. 200-day average | +12.4% |
+| Return 1m / 6m / 12m | -6.4% / +11.5% / +73.6% |
+| vs. 200-day average | +12.2% |
 | RSI (14d) | 48 |
 | Volatility (1y) | 39.3% |
 | Financials as of | 2026-06-30 |
@@ -73,4 +73,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/BFH
 - Full deep dive: run `python scout.py stock BFH` → `research/BFH.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

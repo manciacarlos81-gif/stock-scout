@@ -9,11 +9,11 @@ score: 49
 value: 30
 quality: 90
 growth: 34
-momentum: 16
+momentum: 14
 health: 75
-pe: 27.7
+pe: 27.5
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,7 +36,7 @@ Consumer Discretionary · Other Specialty Stores
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **49** | 30 | 90 | 34 | 16 | 75 |
+| **49** | 30 | 90 | 34 | 14 | 75 |
 
 ## Key numbers
 
@@ -44,8 +44,8 @@ Consumer Discretionary · Other Specialty Stores
 |---|---:|
 | Price | $314.26 |
 | Market value | $1.1B |
-| P/E | 27.7 |
-| Price/Sales | 13.05 |
+| P/E | 27.5 |
+| Price/Sales | 12.93 |
 | Price/Book | – |
 | Free-cash-flow yield | 4.0% |
 | Dividend yield | 4.4% |
@@ -61,10 +61,10 @@ Consumer Discretionary · Other Specialty Stores
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | +6.6% / -18.4% / -26.0% |
-| vs. 200-day average | -18.1% |
+| Return 1m / 6m / 12m | +6.6% / -22.0% / -25.6% |
+| vs. 200-day average | -18.0% |
 | RSI (14d) | 58 |
-| Volatility (1y) | 36.9% |
+| Volatility (1y) | 36.8% |
 | Financials as of | 2026-06-27 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Discretionary · Other Specialty Stores
 - Insider trades: http://openinsider.com/WINA
 - Full deep dive: run `python scout.py stock WINA` → `research/WINA.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

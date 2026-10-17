@@ -3,17 +3,17 @@ ticker: "OPFI"
 company: "OppFi Inc."
 sector: "Finance"
 industry: "Finance: Consumer Services"
-price: 5.69
-market_cap: "$484.8M"
+price: 5.77
+market_cap: "$491.7M"
 score: 56
-value: 90
+value: 91
 quality: null
 growth: 54
 momentum: 10
 health: 74
 pe: 4.8
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,25 +27,25 @@ Finance · Finance: Consumer Services
 
 ## In plain English
 
-- Cheaper than about 90% of stocks in Finance (value score).
-- Share price down 40% over 12 months (50% below its 52-week high).
+- Cheaper than about 91% of stocks in Finance (value score).
+- Share price down 38% over 12 months (49% below its 52-week high).
 - Insiders bought $1.5M of shares recently (Schwartz Todd G. (CEO, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 90 | – | 54 | 10 | 74 |
+| **56** | 91 | – | 54 | 10 | 74 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $5.69 |
-| Market value | $484.8M |
+| Price | $5.77 |
+| Market value | $491.7M |
 | P/E | 4.8 |
 | Price/Sales | – |
-| Price/Book | 1.17 |
+| Price/Book | 1.19 |
 | Free-cash-flow yield | – |
 | Dividend yield | 1.3% |
 | Sales (12m) | – |
@@ -60,10 +60,10 @@ Finance · Finance: Consumer Services
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +223.3% |
-| Return 1m / 6m / 12m | -19.1% / -35.6% / -39.9% |
-| vs. 200-day average | -32.7% |
-| RSI (14d) | 27 |
-| Volatility (1y) | 48.5% |
+| Return 1m / 6m / 12m | -18.0% / -32.1% / -38.0% |
+| vs. 200-day average | -31.6% |
+| RSI (14d) | 30 |
+| Volatility (1y) | 48.2% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Finance · Finance: Consumer Services
 - Insider trades: http://openinsider.com/OPFI
 - Full deep dive: run `python scout.py stock OPFI` → `research/OPFI.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

@@ -8,12 +8,12 @@ market_cap: "$1.1T"
 score: 86
 value: 71
 quality: 91
-growth: 93
+growth: 92
 momentum: 97
 health: 81
 pe: 12.4
 piotroski: null
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,13 +31,13 @@ Technology · Semiconductors
 - Cheaper than about 71% of stocks in Technology (value score).
 - Business quality ranks above 91% of all stocks scanned.
 - Sales grew 256% over the last 12 months.
-- Share price up 360% over 12 months (23% below its 52-week high).
+- Share price up 361% over 12 months (23% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **86** | 71 | 91 | 93 | 97 | 81 |
+| **86** | 71 | 91 | 92 | 97 | 81 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Technology · Semiconductors
 | Piotroski F-score | – |
 | Altman Z | 23.78 |
 | Share count change (1y) | +1.6% |
-| Return 1m / 6m / 12m | +0.5% / +107.7% / +360.3% |
-| vs. 200-day average | +29.2% |
+| Return 1m / 6m / 12m | -4.7% / +107.3% / +360.7% |
+| vs. 200-day average | +28.7% |
 | RSI (14d) | 39 |
 | Volatility (1y) | 81.0% |
 | Financials as of | 2026-09-03 |
@@ -75,4 +75,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/MU
 - Full deep dive: run `python scout.py stock MU` → `research/MU.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

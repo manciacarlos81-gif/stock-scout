@@ -13,7 +13,7 @@ momentum: 26
 health: 56
 pe: 15.4
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 88% of stocks in Health Care (value score).
 - Business quality ranks above 76% of all stocks scanned.
 - Sales grew 31% over the last 12 months.
-- Share price down 21% over 12 months (24% below its 52-week high).
+- Share price down 24% over 12 months (24% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,7 +61,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 7/9 |
 | Altman Z | 2.56 |
 | Share count change (1y) | +7.9% |
-| Return 1m / 6m / 12m | -1.8% / -11.6% / -21.4% |
+| Return 1m / 6m / 12m | -4.1% / -9.6% / -23.7% |
 | vs. 200-day average | -7.4% |
 | RSI (14d) | 47 |
 | Volatility (1y) | 31.4% |
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ANIP
 - Full deep dive: run `python scout.py stock ANIP` → `research/ANIP.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

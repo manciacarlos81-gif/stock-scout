@@ -3,17 +3,17 @@ ticker: "NUTX"
 company: "Nutex Health Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 196.91
-market_cap: "$1.3B"
+price: 200.8
+market_cap: "$1.4B"
 score: 81
-value: 82
+value: 81
 quality: 87
 growth: 62
 momentum: 95
 health: 69
-pe: 7.5
+pe: 7.6
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -28,27 +28,27 @@ Consumer Discretionary · Business Services
 
 ## In plain English
 
-- Cheaper than about 82% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 81% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 104% over 12 months (12% below its 52-week high).
+- Share price up 112% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **81** | 82 | 87 | 62 | 95 | 69 |
+| **81** | 81 | 87 | 62 | 95 | 69 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $196.91 |
-| Market value | $1.3B |
-| P/E | 7.5 |
-| Price/Sales | 1.59 |
-| Price/Book | 3.42 |
-| Free-cash-flow yield | 18.2% |
+| Price | $200.80 |
+| Market value | $1.4B |
+| P/E | 7.6 |
+| Price/Sales | 1.62 |
+| Price/Book | 3.49 |
+| Free-cash-flow yield | 17.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $846.7M |
 | Sales growth | +6.9% |
@@ -60,12 +60,12 @@ Consumer Discretionary · Business Services
 | Debt / equity | 0.10 |
 | Current ratio | 5.00 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.22 |
+| Altman Z | 4.26 |
 | Share count change (1y) | +17.1% |
-| Return 1m / 6m / 12m | -9.4% / +80.2% / +103.6% |
-| vs. 200-day average | +32.5% |
-| RSI (14d) | 43 |
-| Volatility (1y) | 90.7% |
+| Return 1m / 6m / 12m | -6.3% / +89.1% / +111.7% |
+| vs. 200-day average | +34.9% |
+| RSI (14d) | 47 |
+| Volatility (1y) | 89.2% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/NUTX
 - Full deep dive: run `python scout.py stock NUTX` → `research/NUTX.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

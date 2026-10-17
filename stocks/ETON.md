@@ -3,7 +3,7 @@ ticker: "ETON"
 company: "Eton Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 52.88
+price: 51.33
 market_cap: "$1.5B"
 score: 73
 value: 50
@@ -11,9 +11,9 @@ quality: 72
 growth: 88
 momentum: 98
 health: 62
-pe: 119.1
+pe: 115.6
 piotroski: 5
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - More expensive than about 50% of Health Care peers (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 188% over 12 months (18% below its 52-week high).
+- Share price up 182% over 12 months (20% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $52.88 |
+| Price | $51.33 |
 | Market value | $1.5B |
-| P/E | 119.1 |
-| Price/Sales | 14.31 |
-| Price/Book | 32.45 |
+| P/E | 115.6 |
+| Price/Sales | 13.89 |
+| Price/Book | 31.49 |
 | Free-cash-flow yield | 0.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $105.6M |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.60 |
 | Current ratio | 1.52 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 13.52 |
+| Altman Z | 13.14 |
 | Share count change (1y) | +21.9% |
-| Return 1m / 6m / 12m | -6.2% / +109.2% / +188.3% |
-| vs. 200-day average | +55.1% |
-| RSI (14d) | 43 |
-| Volatility (1y) | 70.9% |
+| Return 1m / 6m / 12m | -10.1% / +118.1% / +182.3% |
+| vs. 200-day average | +49.8% |
+| RSI (14d) | 39 |
+| Volatility (1y) | 71.0% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ETON
 - Full deep dive: run `python scout.py stock ETON` → `research/ETON.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

@@ -8,12 +8,12 @@ market_cap: "$355.0M"
 score: 77
 value: 81
 quality: 73
-growth: 61
-momentum: 96
+growth: 60
+momentum: 95
 health: 72
 pe: 10.7
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,13 +30,13 @@ Consumer Discretionary · Home Furnishings
 - Cheaper than about 81% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 73% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price up 117% over 12 months (3% below its 52-week high).
+- Share price up 129% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 81 | 73 | 61 | 96 | 72 |
+| **77** | 81 | 73 | 60 | 95 | 72 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Consumer Discretionary · Home Furnishings
 | Piotroski F-score | 8/9 |
 | Altman Z | 5.73 |
 | Share count change (1y) | -3.9% |
-| Return 1m / 6m / 12m | +6.7% / +88.9% / +117.3% |
-| vs. 200-day average | +40.8% |
+| Return 1m / 6m / 12m | +9.5% / +74.6% / +129.2% |
+| vs. 200-day average | +40.3% |
 | RSI (14d) | 56 |
-| Volatility (1y) | 48.5% |
+| Volatility (1y) | 48.4% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/FLXS
 - Full deep dive: run `python scout.py stock FLXS` → `research/FLXS.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

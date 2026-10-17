@@ -6,14 +6,14 @@ industry: "Hospital/Nursing Management"
 price: 187.36
 market_cap: "$11.0B"
 score: 66
-value: 93
+value: 94
 quality: 67
 growth: 58
-momentum: 46
+momentum: 45
 health: 56
 pe: 7.2
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,7 +27,7 @@ Health Care · Hospital/Nursing Management
 
 ## In plain English
 
-- Cheaper than about 93% of stocks in Health Care (value score).
+- Cheaper than about 94% of stocks in Health Care (value score).
 - Business quality ranks above 67% of all stocks scanned.
 - Sales grew 10% over the last 12 months.
 - Share price down 8% over 12 months (23% below its 52-week high).
@@ -36,7 +36,7 @@ Health Care · Hospital/Nursing Management
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 93 | 67 | 58 | 46 | 56 |
+| **66** | 94 | 67 | 58 | 45 | 56 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.8% |
-| Return 1m / 6m / 12m | +3.4% / +4.5% / -7.9% |
-| vs. 200-day average | +5.4% |
+| Return 1m / 6m / 12m | +3.7% / +5.2% / -8.0% |
+| vs. 200-day average | +5.5% |
 | RSI (14d) | 69 |
-| Volatility (1y) | 32.1% |
+| Volatility (1y) | 32.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/UHS
 - Full deep dive: run `python scout.py stock UHS` → `research/UHS.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

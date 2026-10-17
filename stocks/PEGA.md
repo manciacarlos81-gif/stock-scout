@@ -5,15 +5,15 @@ sector: "Technology"
 industry: "EDP Services"
 price: 35.95
 market_cap: "$5.9B"
-score: 58
-value: 67
+score: 59
+value: 68
 quality: 85
 growth: 42
-momentum: 21
+momentum: 25
 health: 62
 pe: 18.2
 piotroski: 9
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,16 +27,16 @@ Technology · EDP Services
 
 ## In plain English
 
-- Cheaper than about 67% of stocks in Technology (value score).
+- Cheaper than about 68% of stocks in Technology (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 34% over 12 months (46% below its 52-week high).
+- Share price down 32% over 12 months (46% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 67 | 85 | 42 | 21 | 62 |
+| **59** | 68 | 85 | 42 | 25 | 62 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Technology · EDP Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 6.51 |
 | Share count change (1y) | -5.7% |
-| Return 1m / 6m / 12m | -2.3% / -17.6% / -33.8% |
-| vs. 200-day average | -5.3% |
+| Return 1m / 6m / 12m | -0.2% / -8.1% / -32.3% |
+| vs. 200-day average | -5.1% |
 | RSI (14d) | 57 |
-| Volatility (1y) | 53.0% |
+| Volatility (1y) | 52.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PEGA
 - Full deep dive: run `python scout.py stock PEGA` → `research/PEGA.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

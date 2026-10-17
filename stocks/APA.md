@@ -5,15 +5,15 @@ sector: "Energy"
 industry: "Oil & Gas Production"
 price: 47.23
 market_cap: "$16.5B"
-score: 78
+score: 77
 value: 81
 quality: 87
 growth: 76
-momentum: 91
-health: 41
+momentum: 89
+health: 42
 pe: 9.9
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -30,13 +30,13 @@ Energy · Oil & Gas Production
 
 - Cheaper than about 81% of stocks in Energy (value score).
 - Business quality ranks above 87% of all stocks scanned.
-- Share price up 113% over 12 months (2% below its 52-week high).
+- Share price up 117% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **78** | 81 | 87 | 76 | 91 | 41 |
+| **77** | 81 | 87 | 76 | 89 | 42 |
 
 ## Key numbers
 
@@ -61,8 +61,8 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | +5.4% / +33.1% / +112.5% |
-| vs. 200-day average | +30.4% |
+| Return 1m / 6m / 12m | +3.9% / +27.3% / +117.0% |
+| vs. 200-day average | +30.0% |
 | RSI (14d) | 64 |
 | Volatility (1y) | 44.8% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/APA
 - Full deep dive: run `python scout.py stock APA` → `research/APA.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

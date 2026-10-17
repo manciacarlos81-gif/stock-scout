@@ -3,8 +3,8 @@ ticker: "LMB"
 company: "Limbach Holdings Inc."
 sector: "Consumer Discretionary"
 industry: "Engineering & Construction"
-price: 47.88
-market_cap: "$571.0M"
+price: 47.8
+market_cap: "$570.0M"
 score: 45
 value: 59
 quality: 51
@@ -13,7 +13,7 @@ momentum: 4
 health: 62
 pe: 18.9
 piotroski: 6
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Engineering & Construction
 - Cheaper than about 59% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price down 49% over 12 months (58% below its 52-week high).
+- Share price down 48% over 12 months (58% below its 52-week high).
 - Insiders bought $515.9K of shares recently (Krzeminski Laurel J (Dir); Gaboury David Richard (Dir); Horowitz Joshua (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -43,10 +43,10 @@ Consumer Discretionary · Engineering & Construction
 
 | | |
 |---|---:|
-| Price | $47.88 |
-| Market value | $571.0M |
+| Price | $47.80 |
+| Market value | $570.0M |
 | P/E | 18.9 |
-| Price/Sales | 0.84 |
+| Price/Sales | 0.83 |
 | Price/Book | 2.81 |
 | Free-cash-flow yield | 7.3% |
 | Dividend yield | 0.0% |
@@ -62,7 +62,7 @@ Consumer Discretionary · Engineering & Construction
 | Piotroski F-score | 6/9 |
 | Altman Z | 4.31 |
 | Share count change (1y) | -0.6% |
-| Return 1m / 6m / 12m | -8.9% / -51.6% / -49.1% |
+| Return 1m / 6m / 12m | -4.5% / -49.3% / -47.9% |
 | vs. 200-day average | -34.6% |
 | RSI (14d) | 41 |
 | Volatility (1y) | 71.3% |
@@ -79,4 +79,4 @@ Consumer Discretionary · Engineering & Construction
 - Insider trades: http://openinsider.com/LMB
 - Full deep dive: run `python scout.py stock LMB` → `research/LMB.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

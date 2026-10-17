@@ -9,11 +9,11 @@ score: 73
 value: 89
 quality: 84
 growth: 53
-momentum: 59
+momentum: 61
 health: 62
 pe: 3.5
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -37,7 +37,7 @@ Consumer Discretionary · Marine Transportation
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 89 | 84 | 53 | 59 | 62 |
+| **73** | 89 | 84 | 53 | 61 | 62 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.97 |
 | Share count change (1y) | -0.2% |
-| Return 1m / 6m / 12m | -9.3% / -2.1% / +27.1% |
-| vs. 200-day average | +1.1% |
+| Return 1m / 6m / 12m | -10.2% / +2.5% / +27.2% |
+| vs. 200-day average | +1.0% |
 | RSI (14d) | 34 |
 | Volatility (1y) | 41.6% |
 | Financials as of | 2025-12-31 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/ESEA
 - Full deep dive: run `python scout.py stock ESEA` → `research/ESEA.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

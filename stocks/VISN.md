@@ -3,17 +3,17 @@ ticker: "VISN"
 company: "Vistance Networks Inc."
 sector: "Technology"
 industry: "Radio And Television Broadcasting And Communications Equipment"
-price: 5.9
+price: 5.89
 market_cap: "$1.4B"
 score: 72
 value: 94
 quality: 55
 growth: 89
-momentum: 69
+momentum: 68
 health: 51
 pe: 0.2
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,20 +30,20 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 - Cheaper than about 94% of stocks in Technology (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 1333% over the last 12 months.
-- Share price up 37% over 12 months (20% below its 52-week high).
+- Share price up 39% over 12 months (20% below its 52-week high).
 - Insiders bought $107.5K of shares recently (Gilstrap Charles A (SVP, Treasury, Tax, CAO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 94 | 55 | 89 | 69 | 51 |
+| **72** | 94 | 55 | 89 | 68 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $5.90 |
+| Price | $5.89 |
 | Market value | $1.4B |
 | P/E | 0.2 |
 | Price/Sales | 0.68 |
@@ -62,10 +62,10 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 | Piotroski F-score | 7/9 |
 | Altman Z | 2.02 |
 | Share count change (1y) | +7.2% |
-| Return 1m / 6m / 12m | -9.4% / +11.0% / +36.9% |
-| vs. 200-day average | -2.5% |
+| Return 1m / 6m / 12m | -8.7% / +12.4% / +38.6% |
+| vs. 200-day average | -2.8% |
 | RSI (14d) | 37 |
-| Volatility (1y) | 48.3% |
+| Volatility (1y) | 48.2% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Technology · Radio And Television Broadcasting And Communications Equipment
 - Insider trades: http://openinsider.com/VISN
 - Full deep dive: run `python scout.py stock VISN` → `research/VISN.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

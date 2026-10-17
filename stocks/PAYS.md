@@ -5,7 +5,7 @@ sector: "Technology"
 industry: "EDP Services"
 price: 15.6
 market_cap: "$880.8M"
-score: 69
+score: 70
 value: 49
 quality: 70
 growth: 84
@@ -13,7 +13,7 @@ momentum: 98
 health: 50
 pe: 55.8
 piotroski: 6
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,13 +30,13 @@ Technology · EDP Services
 - More expensive than about 51% of Technology peers (value score).
 - Business quality ranks above 70% of all stocks scanned.
 - Sales grew 47% over the last 12 months.
-- Share price up 183% over 12 months (0% below its 52-week high).
+- Share price up 188% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 49 | 70 | 84 | 98 | 50 |
+| **70** | 49 | 70 | 84 | 98 | 50 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Technology · EDP Services
 | Piotroski F-score | 6/9 |
 | Altman Z | 2.80 |
 | Share count change (1y) | +7.1% |
-| Return 1m / 6m / 12m | +32.0% / +147.2% / +182.6% |
-| vs. 200-day average | +98.9% |
+| Return 1m / 6m / 12m | +25.6% / +148.4% / +188.4% |
+| vs. 200-day average | +97.6% |
 | RSI (14d) | 68 |
-| Volatility (1y) | 69.4% |
+| Volatility (1y) | 69.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PAYS
 - Full deep dive: run `python scout.py stock PAYS` → `research/PAYS.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

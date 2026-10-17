@@ -3,17 +3,17 @@ ticker: "ALAB"
 company: "Astera Labs Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 300.28
-market_cap: "$52.1B"
+price: 301.98
+market_cap: "$52.4B"
 score: 67
 value: 24
 quality: 74
 growth: 90
 momentum: 90
 health: 73
-pe: 141.0
+pe: 141.8
 piotroski: 6
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Technology · Semiconductors
 - More expensive than about 76% of Technology peers (value score).
 - Business quality ranks above 74% of all stocks scanned.
 - Sales grew 98% over the last 12 months.
-- Share price up 84% over 12 months (38% below its 52-week high).
+- Share price up 89% over 12 months (37% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Technology · Semiconductors
 
 | | |
 |---|---:|
-| Price | $300.28 |
-| Market value | $52.1B |
-| P/E | 141.0 |
-| Price/Sales | 43.34 |
-| Price/Book | 30.19 |
+| Price | $301.98 |
+| Market value | $52.4B |
+| P/E | 141.8 |
+| Price/Sales | 43.59 |
+| Price/Book | 30.36 |
 | Free-cash-flow yield | 0.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.2B |
@@ -61,10 +61,10 @@ Technology · Semiconductors
 | Piotroski F-score | 6/9 |
 | Altman Z | 30.00 |
 | Share count change (1y) | +2.9% |
-| Return 1m / 6m / 12m | +11.6% / +70.8% / +83.6% |
-| vs. 200-day average | +19.8% |
-| RSI (14d) | 40 |
-| Volatility (1y) | 97.1% |
+| Return 1m / 6m / 12m | +2.9% / +57.3% / +89.0% |
+| vs. 200-day average | +20.2% |
+| RSI (14d) | 41 |
+| Volatility (1y) | 97.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/ALAB
 - Full deep dive: run `python scout.py stock ALAB` → `research/ALAB.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

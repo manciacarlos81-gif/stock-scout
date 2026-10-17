@@ -13,7 +13,7 @@ momentum: 98
 health: 40
 pe: 15.7
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Energy · Integrated oil Companies
 - Cheaper than about 56% of stocks in Energy (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 15% over the last 12 months.
-- Share price up 168% over 12 months (2% below its 52-week high).
+- Share price up 163% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -61,8 +61,8 @@ Energy · Integrated oil Companies
 | Piotroski F-score | 7/9 |
 | Altman Z | 4.05 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | +15.2% / +124.2% / +167.7% |
-| vs. 200-day average | +73.2% |
+| Return 1m / 6m / 12m | +13.0% / +117.9% / +162.9% |
+| vs. 200-day average | +72.2% |
 | RSI (14d) | 74 |
 | Volatility (1y) | 35.7% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/MPC
 - Full deep dive: run `python scout.py stock MPC` → `research/MPC.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

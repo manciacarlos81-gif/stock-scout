@@ -3,17 +3,17 @@ ticker: "MOMO"
 company: "Hello Group Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 4.71
-market_cap: "$695.9M"
+price: 4.77
+market_cap: "$704.8M"
 score: 56
 value: 97
 quality: 50
 growth: 33
 momentum: 14
 health: 78
-pe: 6.0
+pe: 6.1
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,7 +31,7 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 97% of stocks in Technology (value score).
 - Business quality ranks above 50% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 28% over 12 months (30% below its 52-week high).
+- Share price down 27% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Technology · Computer Software: Prepackaged Software
 
 | | |
 |---|---:|
-| Price | $4.71 |
-| Market value | $695.9M |
-| P/E | 6.0 |
-| Price/Sales | 0.47 |
+| Price | $4.77 |
+| Market value | $704.8M |
+| P/E | 6.1 |
+| Price/Sales | 0.48 |
 | Price/Book | 0.44 |
-| Free-cash-flow yield | 14.2% |
+| Free-cash-flow yield | 14.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.5B |
 | Sales growth | +2.4% |
@@ -60,11 +60,11 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.00 |
 | Current ratio | 4.68 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.55 |
+| Altman Z | 3.56 |
 | Share count change (1y) | -9.4% |
-| Return 1m / 6m / 12m | -4.5% / -26.6% / -27.8% |
-| vs. 200-day average | -19.3% |
-| RSI (14d) | 35 |
+| Return 1m / 6m / 12m | -2.7% / -24.2% / -26.8% |
+| vs. 200-day average | -18.2% |
+| RSI (14d) | 40 |
 | Volatility (1y) | 28.2% |
 | Financials as of | 2025-12-31 |
 
@@ -79,4 +79,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/MOMO
 - Full deep dive: run `python scout.py stock MOMO` → `research/MOMO.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

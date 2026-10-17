@@ -3,17 +3,17 @@ ticker: "LPG"
 company: "Dorian LPG Ltd."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 55.2
-market_cap: "$2.4B"
-score: 80
-value: 74
+price: 53.68
+market_cap: "$2.3B"
+score: 81
+value: 75
 quality: 80
 growth: 92
-momentum: 95
+momentum: 94
 health: 60
-pe: 7.3
+pe: 7.1
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,28 +28,28 @@ Consumer Discretionary · Marine Transportation
 
 ## In plain English
 
-- Cheaper than about 74% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 75% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 128% over 12 months (5% below its 52-week high).
+- Share price up 119% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 74 | 80 | 92 | 95 | 60 |
+| **81** | 75 | 80 | 92 | 94 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $55.20 |
-| Market value | $2.4B |
-| P/E | 7.3 |
-| Price/Sales | 4.04 |
-| Price/Book | 1.91 |
-| Free-cash-flow yield | 8.9% |
-| Dividend yield | 4.4% |
+| Price | $53.68 |
+| Market value | $2.3B |
+| P/E | 7.1 |
+| Price/Sales | 3.92 |
+| Price/Book | 1.86 |
+| Free-cash-flow yield | 9.2% |
+| Dividend yield | 4.6% |
 | Sales (12m) | $585.2M |
 | Sales growth | +81.1% |
 | Net profit (12m) | $321.9M |
@@ -60,12 +60,12 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.41 |
 | Current ratio | 3.26 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.70 |
+| Altman Z | 3.64 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -4.6% / +56.9% / +127.6% |
-| vs. 200-day average | +38.6% |
-| RSI (14d) | 50 |
-| Volatility (1y) | 41.9% |
+| Return 1m / 6m / 12m | -7.9% / +58.3% / +119.1% |
+| vs. 200-day average | +34.3% |
+| RSI (14d) | 44 |
+| Volatility (1y) | 42.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/LPG
 - Full deep dive: run `python scout.py stock LPG` → `research/LPG.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

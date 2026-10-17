@@ -9,11 +9,11 @@ score: 79
 value: 74
 quality: 87
 growth: 65
-momentum: 85
-health: 81
+momentum: 84
+health: 82
 pe: 18.1
 piotroski: 7
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -36,7 +36,7 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **79** | 74 | 87 | 65 | 85 | 81 |
+| **79** | 74 | 87 | 65 | 84 | 82 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 7/9 |
 | Altman Z | 16.90 |
 | Share count change (1y) | -8.7% |
-| Return 1m / 6m / 12m | +10.7% / +44.1% / +60.2% |
-| vs. 200-day average | +26.0% |
+| Return 1m / 6m / 12m | +7.4% / +36.9% / +60.1% |
+| vs. 200-day average | +25.8% |
 | RSI (14d) | 72 |
-| Volatility (1y) | 36.6% |
+| Volatility (1y) | 34.5% |
 | Financials as of | 2026-07-03 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/EXEL
 - Full deep dive: run `python scout.py stock EXEL` → `research/EXEL.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

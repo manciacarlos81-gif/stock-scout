@@ -5,15 +5,15 @@ sector: "Technology"
 industry: "Electronic Components"
 price: 690.81
 market_cap: "$158.0B"
-score: 68
-value: 37
+score: 67
+value: 38
 quality: 85
 growth: 81
-momentum: 85
+momentum: 82
 health: 53
 pe: 49.6
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,16 +27,16 @@ Technology · Electronic Components
 
 ## In plain English
 
-- More expensive than about 63% of Technology peers (value score).
+- More expensive than about 62% of Technology peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 34% over the last 12 months.
-- Share price up 207% over 12 months (37% below its 52-week high).
+- Share price up 208% over 12 months (37% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 37 | 85 | 81 | 85 | 53 |
+| **67** | 38 | 85 | 81 | 82 | 53 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Technology · Electronic Components
 | Piotroski F-score | 8/9 |
 | Altman Z | 14.15 |
 | Share count change (1y) | +5.5% |
-| Return 1m / 6m / 12m | -11.7% / +28.2% / +207.4% |
-| vs. 200-day average | +2.0% |
+| Return 1m / 6m / 12m | -13.9% / +23.6% / +208.3% |
+| vs. 200-day average | +1.7% |
 | RSI (14d) | 31 |
-| Volatility (1y) | 75.7% |
+| Volatility (1y) | 75.5% |
 | Financials as of | 2026-07-03 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Electronic Components
 - Insider trades: http://openinsider.com/STX
 - Full deep dive: run `python scout.py stock STX` → `research/STX.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

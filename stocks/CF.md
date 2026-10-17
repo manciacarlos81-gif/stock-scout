@@ -5,15 +5,15 @@ sector: "Industrials"
 industry: "Agricultural Chemicals"
 price: 119.77
 market_cap: "$18.1B"
-score: 77
+score: 76
 value: 83
 quality: 81
 growth: 78
-momentum: 70
+momentum: 65
 health: 67
 pe: 7.3
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,13 +31,13 @@ Industrials · Agricultural Chemicals
 - Cheaper than about 83% of stocks in Industrials (value score).
 - Business quality ranks above 81% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 47% over 12 months (14% below its 52-week high).
+- Share price up 46% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 83 | 81 | 78 | 70 | 67 |
+| **76** | 83 | 81 | 78 | 65 | 67 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Industrials · Agricultural Chemicals
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.6% |
-| Return 1m / 6m / 12m | -9.3% / +4.3% / +47.3% |
-| vs. 200-day average | +5.1% |
+| Return 1m / 6m / 12m | -10.5% / -0.4% / +46.4% |
+| vs. 200-day average | +4.9% |
 | RSI (14d) | 50 |
 | Volatility (1y) | 42.8% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Industrials · Agricultural Chemicals
 - Insider trades: http://openinsider.com/CF
 - Full deep dive: run `python scout.py stock CF` → `research/CF.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

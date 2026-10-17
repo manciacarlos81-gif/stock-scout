@@ -5,15 +5,15 @@ sector: "Consumer Discretionary"
 industry: "Professional Services"
 price: 146.24
 market_cap: "$4.0B"
-score: 47
+score: 46
 value: 53
 quality: 46
 growth: 51
-momentum: 26
+momentum: 23
 health: 61
 pe: 16.0
 piotroski: 5
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -36,7 +36,7 @@ Consumer Discretionary · Professional Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **47** | 53 | 46 | 51 | 26 | 61 |
+| **46** | 53 | 46 | 51 | 23 | 61 |
 
 ## Key numbers
 
@@ -61,10 +61,10 @@ Consumer Discretionary · Professional Services
 | Piotroski F-score | 5/9 |
 | Altman Z | 3.42 |
 | Share count change (1y) | -13.6% |
-| Return 1m / 6m / 12m | +0.8% / -20.0% / -3.6% |
-| vs. 200-day average | -8.9% |
+| Return 1m / 6m / 12m | +3.7% / -21.8% / -3.9% |
+| vs. 200-day average | -8.8% |
 | RSI (14d) | 58 |
-| Volatility (1y) | 31.2% |
+| Volatility (1y) | 31.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Professional Services
 - Insider trades: http://openinsider.com/FCN
 - Full deep dive: run `python scout.py stock FCN` → `research/FCN.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

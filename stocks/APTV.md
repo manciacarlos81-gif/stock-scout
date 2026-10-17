@@ -9,11 +9,11 @@ score: 46
 value: 71
 quality: 54
 growth: 41
-momentum: 9
+momentum: 8
 health: 46
 pe: 42.6
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,14 +30,14 @@ Consumer Discretionary · Auto Parts:O.E.M.
 - Cheaper than about 71% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 54% of all stocks scanned.
 - Sales grew 17% over the last 12 months.
-- Share price down 46% over 12 months (49% below its 52-week high).
+- Share price down 45% over 12 months (49% below its 52-week high).
 - Insiders bought $8.3M of shares recently (Agnevall Hakan (Dir); Mahoney Sean O (Dir); Clark Kevin P (Chair, CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **46** | 71 | 54 | 41 | 9 | 46 |
+| **46** | 71 | 54 | 41 | 8 | 46 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Consumer Discretionary · Auto Parts:O.E.M.
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.61 |
 | Share count change (1y) | -2.8% |
-| Return 1m / 6m / 12m | +4.3% / -25.7% / -45.9% |
-| vs. 200-day average | -26.6% |
+| Return 1m / 6m / 12m | +3.6% / -25.7% / -45.4% |
+| vs. 200-day average | -26.4% |
 | RSI (14d) | 53 |
 | Volatility (1y) | 43.6% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Consumer Discretionary · Auto Parts:O.E.M.
 - Insider trades: http://openinsider.com/APTV
 - Full deep dive: run `python scout.py stock APTV` → `research/APTV.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_

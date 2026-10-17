@@ -3,17 +3,17 @@ ticker: "ULS"
 company: "UL Solutions Inc."
 sector: "Health Care"
 industry: "Precision Instruments"
-price: 71.6
-market_cap: "$14.5B"
+price: 74.39
+market_cap: "$15.0B"
 score: 59
-value: 65
+value: 64
 quality: 82
 growth: 53
-momentum: 19
+momentum: 21
 health: 67
-pe: 28.6
+pe: 29.7
 piotroski: 8
-updated: "2026-10-16"
+updated: "2026-10-17"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Health Care · Precision Instruments
 
 ## In plain English
 
-- Cheaper than about 65% of stocks in Health Care (value score).
+- Cheaper than about 64% of stocks in Health Care (value score).
 - Business quality ranks above 82% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price down 6% over 12 months (32% below its 52-week high).
+- Share price down 1% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **59** | 65 | 82 | 53 | 19 | 67 |
+| **59** | 64 | 82 | 53 | 21 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $71.60 |
-| Market value | $14.5B |
-| P/E | 28.6 |
-| Price/Sales | 4.60 |
-| Price/Book | 9.06 |
-| Free-cash-flow yield | 2.8% |
+| Price | $74.39 |
+| Market value | $15.0B |
+| P/E | 29.7 |
+| Price/Sales | 4.77 |
+| Price/Book | 9.42 |
+| Free-cash-flow yield | 2.7% |
 | Dividend yield | 0.7% |
 | Sales (12m) | $3.1B |
 | Sales growth | +6.6% |
@@ -59,12 +59,12 @@ Health Care · Precision Instruments
 | Debt / equity | 0.19 |
 | Current ratio | 1.42 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 7.87 |
+| Altman Z | 8.09 |
 | Share count change (1y) | +0.5% |
-| Return 1m / 6m / 12m | +11.6% / -22.7% / -5.7% |
-| vs. 200-day average | -13.6% |
-| RSI (14d) | 58 |
-| Volatility (1y) | 42.8% |
+| Return 1m / 6m / 12m | +15.5% / -18.9% / -0.7% |
+| vs. 200-day average | -10.2% |
+| RSI (14d) | 66 |
+| Volatility (1y) | 43.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Precision Instruments
 - Insider trades: http://openinsider.com/ULS
 - Full deep dive: run `python scout.py stock ULS` → `research/ULS.md`
 
-_Updated 2026-10-16 · [latest report](../reports/latest.md)_
+_Updated 2026-10-17 · [latest report](../reports/latest.md)_
