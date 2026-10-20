@@ -3,17 +3,17 @@ ticker: "APA"
 company: "APA Corporation"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 47.23
-market_cap: "$16.5B"
-score: 77
+price: 49.15
+market_cap: "$17.2B"
+score: 78
 value: 81
 quality: 87
 growth: 76
-momentum: 89
-health: 42
-pe: 9.9
+momentum: 91
+health: 41
+pe: 10.3
 piotroski: 8
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -30,25 +30,25 @@ Energy · Oil & Gas Production
 
 - Cheaper than about 81% of stocks in Energy (value score).
 - Business quality ranks above 87% of all stocks scanned.
-- Share price up 117% over 12 months (2% below its 52-week high).
+- Share price up 126% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 81 | 87 | 76 | 89 | 42 |
+| **78** | 81 | 87 | 76 | 91 | 41 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $47.23 |
-| Market value | $16.5B |
-| P/E | 9.9 |
+| Price | $49.15 |
+| Market value | $17.2B |
+| P/E | 10.3 |
 | Price/Sales | – |
-| Price/Book | 2.36 |
-| Free-cash-flow yield | 27.5% |
-| Dividend yield | 2.2% |
+| Price/Book | 2.45 |
+| Free-cash-flow yield | 26.4% |
+| Dividend yield | 2.1% |
 | Sales (12m) | – |
 | Sales growth | – |
 | Net profit (12m) | $1.7B |
@@ -61,10 +61,10 @@ Energy · Oil & Gas Production
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | +3.9% / +27.3% / +117.0% |
-| vs. 200-day average | +30.0% |
-| RSI (14d) | 64 |
-| Volatility (1y) | 44.8% |
+| Return 1m / 6m / 12m | +9.5% / +30.0% / +126.2% |
+| vs. 200-day average | +34.8% |
+| RSI (14d) | 70 |
+| Volatility (1y) | 45.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/APA
 - Full deep dive: run `python scout.py stock APA` → `research/APA.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

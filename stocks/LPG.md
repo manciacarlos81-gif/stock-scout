@@ -3,17 +3,17 @@ ticker: "LPG"
 company: "Dorian LPG Ltd."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 53.68
+price: 53.6
 market_cap: "$2.3B"
 score: 81
 value: 75
 quality: 80
 growth: 92
-momentum: 94
+momentum: 95
 health: 60
 pe: 7.1
 piotroski: 7
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,23 +31,23 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 75% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 119% over 12 months (8% below its 52-week high).
+- Share price up 117% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **81** | 75 | 80 | 92 | 94 | 60 |
+| **81** | 75 | 80 | 92 | 95 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $53.68 |
+| Price | $53.60 |
 | Market value | $2.3B |
 | P/E | 7.1 |
 | Price/Sales | 3.92 |
-| Price/Book | 1.86 |
+| Price/Book | 1.85 |
 | Free-cash-flow yield | 9.2% |
 | Dividend yield | 4.6% |
 | Sales (12m) | $585.2M |
@@ -62,8 +62,8 @@ Consumer Discretionary · Marine Transportation
 | Piotroski F-score | 7/9 |
 | Altman Z | 3.64 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -7.9% / +58.3% / +119.1% |
-| vs. 200-day average | +34.3% |
+| Return 1m / 6m / 12m | -7.8% / +55.5% / +117.4% |
+| vs. 200-day average | +33.6% |
 | RSI (14d) | 44 |
 | Volatility (1y) | 42.0% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/LPG
 - Full deep dive: run `python scout.py stock LPG` → `research/LPG.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

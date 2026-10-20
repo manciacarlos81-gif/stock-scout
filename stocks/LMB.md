@@ -3,17 +3,17 @@ ticker: "LMB"
 company: "Limbach Holdings Inc."
 sector: "Consumer Discretionary"
 industry: "Engineering & Construction"
-price: 47.8
-market_cap: "$570.0M"
+price: 48.69
+market_cap: "$580.6M"
 score: 45
-value: 59
+value: 58
 quality: 51
 growth: 51
 momentum: 4
 health: 62
-pe: 18.9
+pe: 19.2
 piotroski: 6
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Discretionary · Engineering & Construction
 
 ## In plain English
 
-- Cheaper than about 59% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 58% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price down 48% over 12 months (58% below its 52-week high).
+- Share price down 48% over 12 months (57% below its 52-week high).
 - Insiders bought $515.9K of shares recently (Krzeminski Laurel J (Dir); Gaboury David Richard (Dir); Horowitz Joshua (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **45** | 59 | 51 | 51 | 4 | 62 |
+| **45** | 58 | 51 | 51 | 4 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $47.80 |
-| Market value | $570.0M |
-| P/E | 18.9 |
-| Price/Sales | 0.83 |
-| Price/Book | 2.81 |
-| Free-cash-flow yield | 7.3% |
+| Price | $48.69 |
+| Market value | $580.6M |
+| P/E | 19.2 |
+| Price/Sales | 0.85 |
+| Price/Book | 2.86 |
+| Free-cash-flow yield | 7.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $683.8M |
 | Sales growth | +23.7% |
@@ -60,11 +60,11 @@ Consumer Discretionary · Engineering & Construction
 | Debt / equity | 0.20 |
 | Current ratio | 1.49 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.31 |
+| Altman Z | 4.34 |
 | Share count change (1y) | -0.6% |
-| Return 1m / 6m / 12m | -4.5% / -49.3% / -47.9% |
-| vs. 200-day average | -34.6% |
-| RSI (14d) | 41 |
+| Return 1m / 6m / 12m | -5.9% / -49.0% / -48.1% |
+| vs. 200-day average | -33.2% |
+| RSI (14d) | 44 |
 | Volatility (1y) | 71.3% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Engineering & Construction
 - Insider trades: http://openinsider.com/LMB
 - Full deep dive: run `python scout.py stock LMB` → `research/LMB.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

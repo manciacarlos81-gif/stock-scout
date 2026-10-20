@@ -3,17 +3,17 @@ ticker: "XRN"
 company: "Chiron Real Estate Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 31.33
-market_cap: "$414.7M"
+price: 30.34
+market_cap: "$401.6M"
 score: 65
 value: 88
 quality: 57
 growth: 67
 momentum: 41
 health: 68
-pe: 6.6
+pe: 6.4
 piotroski: 6
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 88% of stocks in Real Estate (value score).
 - Business quality ranks above 57% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 4% over 12 months (17% below its 52-week high).
+- Share price up 1% over 12 months (19% below its 52-week high).
 - Insiders bought $2.6M of shares recently (Whitlock Matthew Fitzsimmons (Chief Investment Officer); Decker Mark Okey Jr (CEO, Pres); Roseth Aaron Robert (COO)).
 
 ## Scores (0–100, higher is better)
@@ -43,12 +43,12 @@ Real Estate · Real Estate Investment Trusts
 
 | | |
 |---|---:|
-| Price | $31.33 |
-| Market value | $414.7M |
-| P/E | 6.6 |
-| Price/Sales | 2.70 |
-| Price/Book | 0.63 |
-| Free-cash-flow yield | 17.7% |
+| Price | $30.34 |
+| Market value | $401.6M |
+| P/E | 6.4 |
+| Price/Sales | 2.62 |
+| Price/Book | 0.61 |
+| Free-cash-flow yield | 18.3% |
 | Dividend yield | 1.4% |
 | Sales (12m) | $153.4M |
 | Sales growth | +8.0% |
@@ -62,10 +62,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.1% |
-| Return 1m / 6m / 12m | -12.8% / -8.7% / +4.2% |
-| vs. 200-day average | -10.2% |
-| RSI (14d) | 20 |
-| Volatility (1y) | 27.9% |
+| Return 1m / 6m / 12m | -15.1% / -10.7% / +1.1% |
+| vs. 200-day average | -13.0% |
+| RSI (14d) | 17 |
+| Volatility (1y) | 28.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/XRN
 - Full deep dive: run `python scout.py stock XRN` → `research/XRN.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

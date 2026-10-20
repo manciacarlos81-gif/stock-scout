@@ -3,17 +3,17 @@ ticker: "DECK"
 company: "Deckers Outdoor Corporation"
 sector: "Consumer Discretionary"
 industry: "Shoe Manufacturing"
-price: 86.58
-market_cap: "$11.8B"
+price: 85.71
+market_cap: "$11.7B"
 score: 60
 value: 70
 quality: 83
 growth: 47
-momentum: 18
+momentum: 19
 health: 76
-pe: 11.6
+pe: 11.5
 piotroski: 7
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Shoe Manufacturing
 - Cheaper than about 70% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 83% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price down 13% over 12 months (28% below its 52-week high).
+- Share price down 14% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 70 | 83 | 47 | 18 | 76 |
+| **60** | 70 | 83 | 47 | 19 | 76 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $86.58 |
-| Market value | $11.8B |
-| P/E | 11.6 |
-| Price/Sales | 2.14 |
-| Price/Book | 5.13 |
-| Free-cash-flow yield | 9.3% |
+| Price | $85.71 |
+| Market value | $11.7B |
+| P/E | 11.5 |
+| Price/Sales | 2.12 |
+| Price/Book | 5.08 |
+| Free-cash-flow yield | 9.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.5B |
 | Sales growth | +7.9% |
@@ -61,10 +61,10 @@ Consumer Discretionary · Shoe Manufacturing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.4% |
-| Return 1m / 6m / 12m | +8.6% / -21.4% / -13.3% |
-| vs. 200-day average | -13.6% |
-| RSI (14d) | 62 |
-| Volatility (1y) | 44.3% |
+| Return 1m / 6m / 12m | +9.3% / -20.4% / -14.5% |
+| vs. 200-day average | -14.4% |
+| RSI (14d) | 59 |
+| Volatility (1y) | 44.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Shoe Manufacturing
 - Insider trades: http://openinsider.com/DECK
 - Full deep dive: run `python scout.py stock DECK` → `research/DECK.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

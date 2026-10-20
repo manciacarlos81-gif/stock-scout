@@ -3,17 +3,17 @@ ticker: "IDXX"
 company: "IDEXX Laboratories Inc."
 sector: "Health Care"
 industry: "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
-price: 547.18
-market_cap: "$43.1B"
+price: 560.36
+market_cap: "$44.1B"
 score: 63
 value: 58
-quality: 88
+quality: 87
 growth: 59
-momentum: 30
+momentum: 33
 health: 75
-pe: 37.8
+pe: 38.7
 piotroski: 8
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -28,26 +28,26 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 ## In plain English
 
 - Cheaper than about 58% of stocks in Health Care (value score).
-- Business quality ranks above 88% of all stocks scanned.
+- Business quality ranks above 87% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price down 14% over 12 months (29% below its 52-week high).
+- Share price down 13% over 12 months (27% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 58 | 88 | 59 | 30 | 75 |
+| **63** | 58 | 87 | 59 | 33 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $547.18 |
-| Market value | $43.1B |
-| P/E | 37.8 |
-| Price/Sales | 9.47 |
-| Price/Book | 26.73 |
-| Free-cash-flow yield | 2.5% |
+| Price | $560.36 |
+| Market value | $44.1B |
+| P/E | 38.7 |
+| Price/Sales | 9.70 |
+| Price/Book | 27.38 |
+| Free-cash-flow yield | 2.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $4.6B |
 | Sales growth | +12.8% |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 | Debt / equity | 0.28 |
 | Current ratio | 1.17 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 19.78 |
+| Altman Z | 20.12 |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | +8.0% / -3.8% / -13.9% |
-| vs. 200-day average | -5.4% |
-| RSI (14d) | 62 |
-| Volatility (1y) | 32.1% |
+| Return 1m / 6m / 12m | +9.5% / -3.1% / -12.9% |
+| vs. 200-day average | -3.0% |
+| RSI (14d) | 66 |
+| Volatility (1y) | 32.2% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Biotechnology: In Vitro & In Vivo Diagnostic Substances
 - Insider trades: http://openinsider.com/IDXX
 - Full deep dive: run `python scout.py stock IDXX` → `research/IDXX.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

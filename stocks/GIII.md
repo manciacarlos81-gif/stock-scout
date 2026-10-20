@@ -3,17 +3,17 @@ ticker: "GIII"
 company: "G-III Apparel Group LTD."
 sector: "Consumer Discretionary"
 industry: "Apparel"
-price: 28.4
+price: 28.38
 market_cap: "$1.2B"
 score: 58
 value: 87
 quality: 52
 growth: 38
-momentum: 34
+momentum: 36
 health: 70
 pe: 17.9
 piotroski: 5
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -37,13 +37,13 @@ Consumer Discretionary · Apparel
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 87 | 52 | 38 | 34 | 70 |
+| **58** | 87 | 52 | 38 | 36 | 70 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $28.40 |
+| Price | $28.38 |
 | Market value | $1.2B |
 | P/E | 17.9 |
 | Price/Sales | 0.43 |
@@ -62,8 +62,8 @@ Consumer Discretionary · Apparel
 | Piotroski F-score | 5/9 |
 | Altman Z | 3.22 |
 | Share count change (1y) | +0.3% |
-| Return 1m / 6m / 12m | +2.6% / -10.4% / +4.6% |
-| vs. 200-day average | -7.4% |
+| Return 1m / 6m / 12m | +2.9% / -8.8% / +4.7% |
+| vs. 200-day average | -7.5% |
 | RSI (14d) | 55 |
 | Volatility (1y) | 34.0% |
 | Financials as of | 2026-07-31 |
@@ -75,4 +75,4 @@ Consumer Discretionary · Apparel
 - Insider trades: http://openinsider.com/GIII
 - Full deep dive: run `python scout.py stock GIII` → `research/GIII.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

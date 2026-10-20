@@ -3,17 +3,17 @@ ticker: "WINA"
 company: "Winmark Corporation"
 sector: "Consumer Discretionary"
 industry: "Other Specialty Stores"
-price: 314.26
+price: 314.83
 market_cap: "$1.1B"
 score: 49
-value: 30
+value: 29
 quality: 90
 growth: 34
 momentum: 14
-health: 75
+health: 74
 pe: 27.5
 piotroski: 7
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,25 +27,25 @@ Consumer Discretionary · Other Specialty Stores
 
 ## In plain English
 
-- More expensive than about 70% of Consumer Discretionary peers (value score).
+- More expensive than about 71% of Consumer Discretionary peers (value score).
 - Business quality ranks above 90% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 26% over 12 months (34% below its 52-week high).
+- Share price down 24% over 12 months (34% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **49** | 30 | 90 | 34 | 14 | 75 |
+| **49** | 29 | 90 | 34 | 14 | 74 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $314.26 |
+| Price | $314.83 |
 | Market value | $1.1B |
 | P/E | 27.5 |
-| Price/Sales | 12.93 |
+| Price/Sales | 12.95 |
 | Price/Book | – |
 | Free-cash-flow yield | 4.0% |
 | Dividend yield | 4.4% |
@@ -61,9 +61,9 @@ Consumer Discretionary · Other Specialty Stores
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | +6.6% / -22.0% / -25.6% |
-| vs. 200-day average | -18.0% |
-| RSI (14d) | 58 |
+| Return 1m / 6m / 12m | +10.3% / -23.1% / -23.9% |
+| vs. 200-day average | -17.7% |
+| RSI (14d) | 59 |
 | Volatility (1y) | 36.8% |
 | Financials as of | 2026-06-27 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Other Specialty Stores
 - Insider trades: http://openinsider.com/WINA
 - Full deep dive: run `python scout.py stock WINA` → `research/WINA.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

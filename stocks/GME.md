@@ -3,17 +3,17 @@ ticker: "GME"
 company: "GameStop Corporation"
 sector: "Consumer Discretionary"
 industry: "Electronics Distribution"
-price: 28.02
-market_cap: "$14.1B"
-score: 52
-value: 43
+price: 26.81
+market_cap: "$13.5B"
+score: 51
+value: 44
 quality: 53
 growth: 54
-momentum: 60
-health: 55
-pe: 15.8
+momentum: 54
+health: 54
+pe: 15.1
 piotroski: 6
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Discretionary · Electronics Distribution
 
 ## In plain English
 
-- More expensive than about 57% of Consumer Discretionary peers (value score).
+- More expensive than about 56% of Consumer Discretionary peers (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales fell 8% over the last 12 months.
-- Share price up 21% over 12 months (0% below its 52-week high).
+- Share price up 15% over 12 months (4% below its 52-week high).
 - Insiders bought $99.1M of shares recently (Cohen Ryan (Pres, CEO, COB); Turner Nat (Dir); Attal Alain (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 43 | 53 | 54 | 60 | 55 |
+| **51** | 44 | 53 | 54 | 54 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $28.02 |
-| Market value | $14.1B |
-| P/E | 15.8 |
-| Price/Sales | 3.98 |
-| Price/Book | 2.30 |
-| Free-cash-flow yield | 4.2% |
+| Price | $26.81 |
+| Market value | $13.5B |
+| P/E | 15.1 |
+| Price/Sales | 3.81 |
+| Price/Book | 2.20 |
+| Free-cash-flow yield | 4.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $3.6B |
 | Sales growth | -7.7% |
@@ -60,12 +60,12 @@ Consumer Discretionary · Electronics Distribution
 | Debt / equity | 0.68 |
 | Current ratio | 8.72 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.83 |
+| Altman Z | 2.76 |
 | Share count change (1y) | +8.4% |
-| Return 1m / 6m / 12m | +23.1% / +14.6% / +21.5% |
-| vs. 200-day average | +24.5% |
-| RSI (14d) | 77 |
-| Volatility (1y) | 38.4% |
+| Return 1m / 6m / 12m | +18.4% / +4.5% / +14.7% |
+| vs. 200-day average | +19.0% |
+| RSI (14d) | 66 |
+| Volatility (1y) | 38.5% |
 | Financials as of | 2026-08-01 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Electronics Distribution
 - Insider trades: http://openinsider.com/GME
 - Full deep dive: run `python scout.py stock GME` → `research/GME.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

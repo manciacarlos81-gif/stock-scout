@@ -3,17 +3,17 @@ ticker: "BFH"
 company: "Bread Financial Holdings Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 101.31
+price: 102.56
 market_cap: "$3.9B"
-score: 77
+score: 78
 value: 95
 quality: 82
 growth: 85
-momentum: 78
+momentum: 80
 health: 33
 pe: 6.9
 piotroski: 9
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -29,24 +29,24 @@ Consumer Discretionary · Business Services
 
 - Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 82% of all stocks scanned.
-- Share price up 74% over 12 months (10% below its 52-week high).
+- Share price up 73% over 12 months (9% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 95 | 82 | 85 | 78 | 33 |
+| **78** | 95 | 82 | 85 | 80 | 33 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $101.31 |
+| Price | $102.56 |
 | Market value | $3.9B |
 | P/E | 6.9 |
 | Price/Sales | – |
-| Price/Book | 1.16 |
-| Free-cash-flow yield | 53.7% |
+| Price/Book | 1.17 |
+| Free-cash-flow yield | 53.1% |
 | Dividend yield | 1.0% |
 | Sales (12m) | – |
 | Sales growth | – |
@@ -60,9 +60,9 @@ Consumer Discretionary · Business Services
 | Piotroski F-score | 9/9 |
 | Altman Z | – |
 | Share count change (1y) | -13.8% |
-| Return 1m / 6m / 12m | -6.4% / +11.5% / +73.6% |
-| vs. 200-day average | +12.2% |
-| RSI (14d) | 48 |
+| Return 1m / 6m / 12m | -5.5% / +11.5% / +73.1% |
+| vs. 200-day average | +13.4% |
+| RSI (14d) | 51 |
 | Volatility (1y) | 39.3% |
 | Financials as of | 2026-06-30 |
 
@@ -73,4 +73,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/BFH
 - Full deep dive: run `python scout.py stock BFH` → `research/BFH.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

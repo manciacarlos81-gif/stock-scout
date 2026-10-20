@@ -3,17 +3,17 @@ ticker: "APTV"
 company: "Aptiv PLC"
 sector: "Consumer Discretionary"
 industry: "Auto Parts:O.E.M."
-price: 45.19
-market_cap: "$9.4B"
+price: 44.86
+market_cap: "$9.3B"
 score: 46
 value: 71
 quality: 54
 growth: 41
-momentum: 8
+momentum: 9
 health: 46
-pe: 42.6
+pe: 42.3
 piotroski: 8
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Auto Parts:O.E.M.
 - Cheaper than about 71% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 54% of all stocks scanned.
 - Sales grew 17% over the last 12 months.
-- Share price down 45% over 12 months (49% below its 52-week high).
+- Share price down 46% over 12 months (49% below its 52-week high).
 - Insiders bought $8.3M of shares recently (Agnevall Hakan (Dir); Mahoney Sean O (Dir); Clark Kevin P (Chair, CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **46** | 71 | 54 | 41 | 8 | 46 |
+| **46** | 71 | 54 | 41 | 9 | 46 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $45.19 |
-| Market value | $9.4B |
-| P/E | 42.6 |
+| Price | $44.86 |
+| Market value | $9.3B |
+| P/E | 42.3 |
 | Price/Sales | 0.45 |
-| Price/Book | 1.07 |
-| Free-cash-flow yield | 23.3% |
+| Price/Book | 1.06 |
+| Free-cash-flow yield | 23.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $20.7B |
 | Sales growth | +16.6% |
@@ -60,12 +60,12 @@ Consumer Discretionary · Auto Parts:O.E.M.
 | Debt / equity | 0.61 |
 | Current ratio | 2.02 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.61 |
+| Altman Z | 2.60 |
 | Share count change (1y) | -2.8% |
-| Return 1m / 6m / 12m | +3.6% / -25.7% / -45.4% |
-| vs. 200-day average | -26.4% |
-| RSI (14d) | 53 |
-| Volatility (1y) | 43.6% |
+| Return 1m / 6m / 12m | +2.9% / -26.3% / -46.2% |
+| vs. 200-day average | -26.8% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 43.5% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Auto Parts:O.E.M.
 - Insider trades: http://openinsider.com/APTV
 - Full deep dive: run `python scout.py stock APTV` → `research/APTV.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

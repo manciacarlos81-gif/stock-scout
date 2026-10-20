@@ -3,17 +3,17 @@ ticker: "CI"
 company: "The Cigna Group"
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 298.81
-market_cap: "$79.0B"
+price: 302.3
+market_cap: "$79.9B"
 score: 63
 value: 94
 quality: 59
 growth: 53
-momentum: 51
+momentum: 54
 health: 42
-pe: 12.3
+pe: 12.5
 piotroski: 7
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Medical Specialities
 - Cheaper than about 94% of stocks in Health Care (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 2% over 12 months (1% below its 52-week high).
+- Share price up 1% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 94 | 59 | 53 | 51 | 42 |
+| **63** | 94 | 59 | 53 | 54 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $298.81 |
-| Market value | $79.0B |
-| P/E | 12.3 |
+| Price | $302.30 |
+| Market value | $79.9B |
+| P/E | 12.5 |
 | Price/Sales | 0.28 |
-| Price/Book | 1.85 |
-| Free-cash-flow yield | 12.2% |
+| Price/Book | 1.87 |
+| Free-cash-flow yield | 12.0% |
 | Dividend yield | 2.0% |
 | Sales (12m) | $282.4B |
 | Sales growth | +7.8% |
@@ -61,10 +61,10 @@ Health Care · Medical Specialities
 | Piotroski F-score | 7/9 |
 | Altman Z | 2.81 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +8.3% / +9.2% / +2.1% |
-| vs. 200-day average | +7.5% |
-| RSI (14d) | 71 |
-| Volatility (1y) | 32.2% |
+| Return 1m / 6m / 12m | +9.8% / +11.3% / +0.8% |
+| vs. 200-day average | +8.7% |
+| RSI (14d) | 74 |
+| Volatility (1y) | 32.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CI
 - Full deep dive: run `python scout.py stock CI` → `research/CI.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

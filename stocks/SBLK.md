@@ -3,7 +3,7 @@ ticker: "SBLK"
 company: "Star Bulk Carriers Corp."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 27.98
+price: 27.79
 market_cap: "$3.1B"
 score: 50
 value: 45
@@ -11,9 +11,9 @@ quality: 59
 growth: 10
 momentum: 82
 health: 39
-pe: 37.1
+pe: 36.8
 piotroski: 6
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Marine Transportation
 - More expensive than about 55% of Consumer Discretionary peers (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales fell 18% over the last 12 months.
-- Share price up 70% over 12 months (14% below its 52-week high).
+- Share price up 69% over 12 months (14% below its 52-week high).
 - Insiders bought $6.9M of shares recently (Zagari Raffaele (Dir); Plakantonaki Charis (Chief Strategy Officer); Pappa Milena Maria (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -43,11 +43,11 @@ Consumer Discretionary · Marine Transportation
 
 | | |
 |---|---:|
-| Price | $27.98 |
+| Price | $27.79 |
 | Market value | $3.1B |
-| P/E | 37.1 |
-| Price/Sales | 2.99 |
-| Price/Book | 1.24 |
+| P/E | 36.8 |
+| Price/Sales | 2.97 |
+| Price/Book | 1.23 |
 | Free-cash-flow yield | 6.8% |
 | Dividend yield | 1.1% |
 | Sales (12m) | $1.0B |
@@ -60,11 +60,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | – |
 | Current ratio | 1.91 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 1.74 |
+| Altman Z | 1.73 |
 | Share count change (1y) | +6.2% |
-| Return 1m / 6m / 12m | -11.9% / +20.6% / +69.8% |
-| vs. 200-day average | +10.6% |
-| RSI (14d) | 36 |
+| Return 1m / 6m / 12m | -14.4% / +17.5% / +69.5% |
+| vs. 200-day average | +9.7% |
+| RSI (14d) | 35 |
 | Volatility (1y) | 32.9% |
 | Financials as of | 2025-12-31 |
 
@@ -81,4 +81,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/SBLK
 - Full deep dive: run `python scout.py stock SBLK` → `research/SBLK.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

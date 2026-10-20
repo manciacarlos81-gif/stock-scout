@@ -3,17 +3,17 @@ ticker: "NRDS"
 company: "NerdWallet Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 10.03
-market_cap: "$641.1M"
+price: 10.02
+market_cap: "$640.8M"
 score: 72
 value: 95
 quality: 78
 growth: 74
-momentum: 32
+momentum: 33
 health: 75
 pe: 9.9
 piotroski: 9
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -31,20 +31,20 @@ Technology · EDP Services
 - Cheaper than about 95% of stocks in Technology (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price down 7% over 12 months (37% below its 52-week high).
+- Share price down 11% over 12 months (37% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 95 | 78 | 74 | 32 | 75 |
+| **72** | 95 | 78 | 74 | 33 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $10.03 |
-| Market value | $641.1M |
+| Price | $10.02 |
+| Market value | $640.8M |
 | P/E | 9.9 |
 | Price/Sales | 0.75 |
 | Price/Book | 1.97 |
@@ -60,12 +60,12 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 2.62 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 6.44 |
+| Altman Z | 6.43 |
 | Share count change (1y) | -14.1% |
-| Return 1m / 6m / 12m | +9.0% / -8.4% / -7.1% |
-| vs. 200-day average | +1.0% |
+| Return 1m / 6m / 12m | +10.8% / -6.7% / -10.9% |
+| vs. 200-day average | +1.1% |
 | RSI (14d) | 65 |
-| Volatility (1y) | 47.7% |
+| Volatility (1y) | 47.6% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/NRDS
 - Full deep dive: run `python scout.py stock NRDS` → `research/NRDS.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

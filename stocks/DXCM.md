@@ -3,17 +3,17 @@ ticker: "DXCM"
 company: "DexCom Inc."
 sector: "Health Care"
 industry: "Medical/Dental Instruments"
-price: 87.71
-market_cap: "$33.1B"
+price: 86.04
+market_cap: "$32.5B"
 score: 76
 value: 62
 quality: 86
 growth: 76
 momentum: 79
 health: 75
-pe: 33.1
+pe: 32.5
 piotroski: 8
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Medical/Dental Instruments
 - Cheaper than about 62% of stocks in Health Care (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 16% over the last 12 months.
-- Share price up 32% over 12 months (5% below its 52-week high).
+- Share price up 26% over 12 months (7% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,11 +42,11 @@ Health Care · Medical/Dental Instruments
 
 | | |
 |---|---:|
-| Price | $87.71 |
-| Market value | $33.1B |
-| P/E | 33.1 |
-| Price/Sales | 6.66 |
-| Price/Book | 12.63 |
+| Price | $86.04 |
+| Market value | $32.5B |
+| P/E | 32.5 |
+| Price/Sales | 6.53 |
+| Price/Book | 12.39 |
 | Free-cash-flow yield | 3.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.0B |
@@ -59,11 +59,11 @@ Health Care · Medical/Dental Instruments
 | Debt / equity | – |
 | Current ratio | 1.73 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 7.48 |
+| Altman Z | 7.38 |
 | Share count change (1y) | -4.4% |
-| Return 1m / 6m / 12m | -0.3% / +40.1% / +31.7% |
-| vs. 200-day average | +18.3% |
-| RSI (14d) | 55 |
+| Return 1m / 6m / 12m | -3.7% / +35.7% / +25.7% |
+| vs. 200-day average | +16.0% |
+| RSI (14d) | 50 |
 | Volatility (1y) | 39.7% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/DXCM
 - Full deep dive: run `python scout.py stock DXCM` → `research/DXCM.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "OPFI"
 company: "OppFi Inc."
 sector: "Finance"
 industry: "Finance: Consumer Services"
-price: 5.77
-market_cap: "$491.7M"
+price: 5.65
+market_cap: "$481.4M"
 score: 56
 value: 91
 quality: null
 growth: 54
-momentum: 10
+momentum: 9
 health: 74
-pe: 4.8
+pe: 4.7
 piotroski: 8
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,24 +28,24 @@ Finance · Finance: Consumer Services
 ## In plain English
 
 - Cheaper than about 91% of stocks in Finance (value score).
-- Share price down 38% over 12 months (49% below its 52-week high).
+- Share price down 42% over 12 months (50% below its 52-week high).
 - Insiders bought $1.5M of shares recently (Schwartz Todd G. (CEO, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 91 | – | 54 | 10 | 74 |
+| **56** | 91 | – | 54 | 9 | 74 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $5.77 |
-| Market value | $491.7M |
-| P/E | 4.8 |
+| Price | $5.65 |
+| Market value | $481.4M |
+| P/E | 4.7 |
 | Price/Sales | – |
-| Price/Book | 1.19 |
+| Price/Book | 1.16 |
 | Free-cash-flow yield | – |
 | Dividend yield | 1.3% |
 | Sales (12m) | – |
@@ -60,9 +60,9 @@ Finance · Finance: Consumer Services
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +223.3% |
-| Return 1m / 6m / 12m | -18.0% / -32.1% / -38.0% |
-| vs. 200-day average | -31.6% |
-| RSI (14d) | 30 |
+| Return 1m / 6m / 12m | -13.5% / -34.8% / -42.3% |
+| vs. 200-day average | -32.8% |
+| RSI (14d) | 28 |
 | Volatility (1y) | 48.2% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Finance · Finance: Consumer Services
 - Insider trades: http://openinsider.com/OPFI
 - Full deep dive: run `python scout.py stock OPFI` → `research/OPFI.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

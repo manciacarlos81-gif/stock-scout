@@ -3,17 +3,17 @@ ticker: "HRMY"
 company: "Harmony Biosciences Holdings Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 38.27
+price: 37.95
 market_cap: "$2.2B"
 score: 77
 value: 90
 quality: 77
 growth: 55
-momentum: 79
+momentum: 80
 health: 71
-pe: 12.3
+pe: 12.2
 piotroski: 5
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,24 +31,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 90% of stocks in Health Care (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price up 48% over 12 months (11% below its 52-week high).
+- Share price up 46% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 90 | 77 | 55 | 79 | 71 |
+| **77** | 90 | 77 | 55 | 80 | 71 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $38.27 |
+| Price | $37.95 |
 | Market value | $2.2B |
-| P/E | 12.3 |
-| Price/Sales | 2.32 |
-| Price/Book | 2.23 |
-| Free-cash-flow yield | 15.6% |
+| P/E | 12.2 |
+| Price/Sales | 2.30 |
+| Price/Book | 2.21 |
+| Free-cash-flow yield | 15.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $959.9M |
 | Sales growth | +24.3% |
@@ -60,11 +60,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.15 |
 | Current ratio | 3.48 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 5.61 |
+| Altman Z | 5.58 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -10.5% / +19.1% / +47.8% |
-| vs. 200-day average | +10.4% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | -9.7% / +18.7% / +45.8% |
+| vs. 200-day average | +9.5% |
+| RSI (14d) | 40 |
 | Volatility (1y) | 41.3% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/HRMY
 - Full deep dive: run `python scout.py stock HRMY` → `research/HRMY.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

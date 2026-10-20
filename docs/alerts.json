@@ -1,21 +1,21 @@
 {
- "date": "2026-10-17",
- "scanned": 2558,
+ "date": "2026-10-20",
+ "scanned": 2543,
  "top": [
   {
    "rank": 1,
    "ticker": "MU",
    "name": "Micron Technology Inc.",
    "score": 86,
-   "price": 931.24,
+   "price": 878.84,
    "flags": ""
   },
   {
    "rank": 2,
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
-   "score": 82,
-   "price": 1394.83,
+   "score": 81,
+   "price": 1299.3,
    "flags": ""
   },
   {
@@ -23,7 +23,7 @@
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 102.6,
+   "price": 101.68,
    "flags": "heavy debt"
   },
   {
@@ -31,7 +31,7 @@
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 81,
-   "price": 200.8,
+   "price": 186.1,
    "flags": "shares up 17% in a year"
   },
   {
@@ -39,7 +39,7 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 81,
-   "price": 53.68,
+   "price": 53.6,
    "flags": ""
   },
   {
@@ -47,23 +47,23 @@
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 113.11,
+   "price": 109.99,
    "flags": ""
   },
   {
    "rank": 7,
-   "ticker": "INCY",
-   "name": "Incyte Corp.",
-   "score": 79,
-   "price": 113.27,
+   "ticker": "EXEL",
+   "name": "Exelixis Inc.",
+   "score": 80,
+   "price": 62.23,
    "flags": ""
   },
   {
    "rank": 8,
-   "ticker": "EXEL",
-   "name": "Exelixis Inc.",
-   "score": 79,
-   "price": 62.83,
+   "ticker": "INCY",
+   "name": "Incyte Corp.",
+   "score": 80,
+   "price": 113.07,
    "flags": ""
   },
   {
@@ -71,15 +71,15 @@
    "ticker": "CDNA",
    "name": "CareDx Inc.",
    "score": 79,
-   "price": 66.68,
+   "price": 64.0,
    "flags": ""
   },
   {
    "rank": 10,
    "ticker": "AUPH",
    "name": "Aurinia Pharmaceuticals Inc",
-   "score": 79,
-   "price": 16.73,
+   "score": 78,
+   "price": 16.51,
    "flags": "profits not backed by cash"
   }
  ],
@@ -103,13 +103,6 @@
    "value": 59274383,
    "buyers": 4,
    "last": "2026-10-15"
-  },
-  {
-   "ticker": "GME",
-   "name": "GameStop Corporation",
-   "value": 99078947,
-   "buyers": 5,
-   "last": "2026-10-13"
   }
  ]
 }

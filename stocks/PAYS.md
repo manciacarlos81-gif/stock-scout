@@ -3,17 +3,17 @@ ticker: "PAYS"
 company: "Paysign Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 15.6
-market_cap: "$880.8M"
+price: 14.8
+market_cap: "$835.6M"
 score: 70
-value: 49
+value: 50
 quality: 70
 growth: 84
 momentum: 98
-health: 50
-pe: 55.8
+health: 49
+pe: 53.0
 piotroski: 6
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · EDP Services
 
 ## In plain English
 
-- More expensive than about 51% of Technology peers (value score).
+- Cheaper than about 50% of stocks in Technology (value score).
 - Business quality ranks above 70% of all stocks scanned.
 - Sales grew 47% over the last 12 months.
-- Share price up 188% over 12 months (0% below its 52-week high).
+- Share price up 163% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **70** | 49 | 70 | 84 | 98 | 50 |
+| **70** | 50 | 70 | 84 | 98 | 49 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.60 |
-| Market value | $880.8M |
-| P/E | 55.8 |
-| Price/Sales | 8.75 |
-| Price/Book | 14.64 |
-| Free-cash-flow yield | 5.8% |
+| Price | $14.80 |
+| Market value | $835.6M |
+| P/E | 53.0 |
+| Price/Sales | 8.30 |
+| Price/Book | 13.89 |
+| Free-cash-flow yield | 6.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $100.6M |
 | Sales growth | +46.8% |
@@ -59,12 +59,12 @@ Technology · EDP Services
 | Debt / equity | 0.09 |
 | Current ratio | 1.14 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.80 |
+| Altman Z | 2.70 |
 | Share count change (1y) | +7.1% |
-| Return 1m / 6m / 12m | +25.6% / +148.4% / +188.4% |
-| vs. 200-day average | +97.6% |
-| RSI (14d) | 68 |
-| Volatility (1y) | 69.3% |
+| Return 1m / 6m / 12m | +19.9% / +131.2% / +162.9% |
+| vs. 200-day average | +86.4% |
+| RSI (14d) | 58 |
+| Volatility (1y) | 69.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PAYS
 - Full deep dive: run `python scout.py stock PAYS` → `research/PAYS.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

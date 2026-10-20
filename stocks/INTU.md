@@ -3,17 +3,17 @@ ticker: "INTU"
 company: "Intuit Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 330.17
-market_cap: "$88.2B"
-score: 62
+price: 325.15
+market_cap: "$86.9B"
+score: 61
 value: 77
 quality: 87
 growth: 62
 momentum: 14
 health: 56
-pe: 19.3
+pe: 19.0
 piotroski: 8
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -31,25 +31,25 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 77% of stocks in Technology (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 14% over the last 12 months.
-- Share price down 49% over 12 months (51% below its 52-week high).
+- Share price down 50% over 12 months (52% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **62** | 77 | 87 | 62 | 14 | 56 |
+| **61** | 77 | 87 | 62 | 14 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $330.17 |
-| Market value | $88.2B |
-| P/E | 19.3 |
-| Price/Sales | 4.11 |
-| Price/Book | 4.65 |
-| Free-cash-flow yield | 9.8% |
-| Dividend yield | 1.5% |
+| Price | $325.15 |
+| Market value | $86.9B |
+| P/E | 19.0 |
+| Price/Sales | 4.05 |
+| Price/Book | 4.58 |
+| Free-cash-flow yield | 10.0% |
+| Dividend yield | 1.6% |
 | Sales (12m) | $21.4B |
 | Sales growth | +13.9% |
 | Net profit (12m) | $4.6B |
@@ -60,12 +60,12 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.40 |
 | Current ratio | 1.51 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 4.98 |
+| Altman Z | 4.93 |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | +5.9% / -17.7% / -49.4% |
-| vs. 200-day average | -10.5% |
-| RSI (14d) | 65 |
-| Volatility (1y) | 50.2% |
+| Return 1m / 6m / 12m | +7.7% / -19.7% / -50.4% |
+| vs. 200-day average | -11.5% |
+| RSI (14d) | 61 |
+| Volatility (1y) | 50.1% |
 | Financials as of | 2026-07-31 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/INTU
 - Full deep dive: run `python scout.py stock INTU` → `research/INTU.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

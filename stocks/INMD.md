@@ -3,17 +3,17 @@ ticker: "INMD"
 company: "InMode Ltd."
 sector: "Health Care"
 industry: "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
-price: 14.32
-market_cap: "$823.1M"
+price: 14.16
+market_cap: "$813.9M"
 score: 62
 value: 93
 quality: 61
-growth: 23
-momentum: 40
+growth: 22
+momentum: 39
 health: 85
-pe: 8.8
+pe: 8.7
 piotroski: 4
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 - Cheaper than about 93% of stocks in Health Care (value score).
 - Business quality ranks above 61% of all stocks scanned.
 - Sales fell 6% over the last 12 months.
-- Share price down 6% over 12 months (14% below its 52-week high).
+- Share price down 12% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **62** | 93 | 61 | 23 | 40 | 85 |
+| **62** | 93 | 61 | 22 | 39 | 85 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $14.32 |
-| Market value | $823.1M |
-| P/E | 8.8 |
-| Price/Sales | 2.22 |
-| Price/Book | 1.20 |
-| Free-cash-flow yield | 10.2% |
+| Price | $14.16 |
+| Market value | $813.9M |
+| P/E | 8.7 |
+| Price/Sales | 2.20 |
+| Price/Book | 1.19 |
+| Free-cash-flow yield | 10.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $370.5M |
 | Sales growth | -6.2% |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 | Debt / equity | – |
 | Current ratio | 9.88 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 9.54 |
+| Altman Z | 9.47 |
 | Share count change (1y) | -18.8% |
-| Return 1m / 6m / 12m | -1.5% / -1.3% / -6.5% |
-| vs. 200-day average | -0.4% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 30.1% |
+| Return 1m / 6m / 12m | -1.3% / -1.7% / -11.6% |
+| vs. 200-day average | -1.4% |
+| RSI (14d) | 41 |
+| Volatility (1y) | 30.2% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 - Insider trades: http://openinsider.com/INMD
 - Full deep dive: run `python scout.py stock INMD` → `research/INMD.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

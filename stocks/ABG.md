@@ -3,17 +3,17 @@ ticker: "ABG"
 company: "Asbury Automotive Group Inc"
 sector: "Consumer Discretionary"
 industry: "Retail-Auto Dealers and Gas Stations"
-price: 169.87
-market_cap: "$3.0B"
+price: 170.05
+market_cap: "$3.1B"
 score: 50
 value: 95
 quality: 43
 growth: 35
-momentum: 17
+momentum: 19
 health: 44
 pe: 6.0
 piotroski: 6
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,20 +30,20 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 - Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 43% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 30% over 12 months (34% below its 52-week high).
+- Share price down 31% over 12 months (34% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 95 | 43 | 35 | 17 | 44 |
+| **50** | 95 | 43 | 35 | 19 | 44 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $169.87 |
-| Market value | $3.0B |
+| Price | $170.05 |
+| Market value | $3.1B |
 | P/E | 6.0 |
 | Price/Sales | 0.17 |
 | Price/Book | 0.78 |
@@ -61,10 +61,10 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -9.6% / -18.3% / -30.3% |
-| vs. 200-day average | -17.8% |
+| Return 1m / 6m / 12m | -7.1% / -16.0% / -30.8% |
+| vs. 200-day average | -17.6% |
 | RSI (14d) | 38 |
-| Volatility (1y) | 33.0% |
+| Volatility (1y) | 32.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 - Insider trades: http://openinsider.com/ABG
 - Full deep dive: run `python scout.py stock ABG` → `research/ABG.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_

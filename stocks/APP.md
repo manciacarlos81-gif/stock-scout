@@ -3,17 +3,17 @@ ticker: "APP"
 company: "Applovin Corporation"
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 279.29
-market_cap: "$93.5B"
-score: 60
-value: 58
+price: 266.13
+market_cap: "$89.1B"
+score: 61
+value: 59
 quality: 95
 growth: 85
 momentum: 4
 health: 56
-pe: 21.2
+pe: 20.2
 piotroski: 9
-updated: "2026-10-17"
+updated: "2026-10-20"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · Computer Software: Programming Data Processing
 
 ## In plain English
 
-- Cheaper than about 58% of stocks in Technology (value score).
+- Cheaper than about 59% of stocks in Technology (value score).
 - Business quality ranks above 95% of all stocks scanned.
 - Sales grew 76% over the last 12 months.
-- Share price down 53% over 12 months (62% below its 52-week high).
+- Share price down 53% over 12 months (64% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 58 | 95 | 85 | 4 | 56 |
+| **61** | 59 | 95 | 85 | 4 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $279.29 |
-| Market value | $93.5B |
-| P/E | 21.2 |
-| Price/Sales | 13.69 |
-| Price/Book | 29.55 |
-| Free-cash-flow yield | 4.2% |
+| Price | $266.13 |
+| Market value | $89.1B |
+| P/E | 20.2 |
+| Price/Sales | 13.04 |
+| Price/Book | 28.16 |
+| Free-cash-flow yield | 4.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $6.8B |
 | Sales growth | +76.3% |
@@ -59,12 +59,12 @@ Technology · Computer Software: Programming Data Processing
 | Debt / equity | 1.11 |
 | Current ratio | 4.30 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 14.97 |
+| Altman Z | 14.45 |
 | Share count change (1y) | -1.5% |
-| Return 1m / 6m / 12m | -13.2% / -41.0% / -53.4% |
-| vs. 200-day average | -35.4% |
-| RSI (14d) | 42 |
-| Volatility (1y) | 71.8% |
+| Return 1m / 6m / 12m | -13.6% / -45.0% / -53.0% |
+| vs. 200-day average | -38.2% |
+| RSI (14d) | 37 |
+| Volatility (1y) | 71.9% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/APP
 - Full deep dive: run `python scout.py stock APP` → `research/APP.md`
 
-_Updated 2026-10-17 · [latest report](../reports/latest.md)_
+_Updated 2026-10-20 · [latest report](../reports/latest.md)_
