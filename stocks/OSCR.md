@@ -3,20 +3,19 @@ ticker: "OSCR"
 company: "Oscar Health Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 31.89
-market_cap: "$9.8B"
+price: 32.54
+market_cap: "$10.0B"
 score: 75
-value: 87
+value: 86
 quality: 57
 growth: 87
-momentum: 92
+momentum: 89
 health: 52
-pe: 17.9
+pe: 18.2
 piotroski: 3
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🏆 Top overall"
-  - "🚀 Growth + momentum"
 tags: [stock]
 ---
 
@@ -24,31 +23,31 @@ tags: [stock]
 
 Health Care · Medical Specialities
 
-**In screens today:** 🏆 Top overall, 🚀 Growth + momentum
+**In screens today:** 🏆 Top overall
 
 ## In plain English
 
-- Cheaper than about 87% of stocks in Health Care (value score).
+- Cheaper than about 86% of stocks in Health Care (value score).
 - Business quality ranks above 57% of all stocks scanned.
 - Sales grew 43% over the last 12 months.
-- Share price up 58% over 12 months (7% below its 52-week high).
+- Share price up 49% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 87 | 57 | 87 | 92 | 52 |
+| **75** | 86 | 57 | 87 | 89 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $31.89 |
-| Market value | $9.8B |
-| P/E | 17.9 |
-| Price/Sales | 0.64 |
-| Price/Book | 4.80 |
-| Free-cash-flow yield | 11.1% |
+| Price | $32.54 |
+| Market value | $10.0B |
+| P/E | 18.2 |
+| Price/Sales | 0.66 |
+| Price/Book | 4.89 |
+| Free-cash-flow yield | 10.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $15.3B |
 | Sales growth | +42.8% |
@@ -60,12 +59,12 @@ Health Care · Medical Specialities
 | Debt / equity | 0.21 |
 | Current ratio | 1.08 |
 | Piotroski F-score | 3/9 |
-| Altman Z | 1.99 |
+| Altman Z | 2.00 |
 | Share count change (1y) | +30.5% |
-| Return 1m / 6m / 12m | -0.7% / +94.0% / +58.0% |
-| vs. 200-day average | +38.4% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 67.2% |
+| Return 1m / 6m / 12m | +4.0% / +98.1% / +49.5% |
+| vs. 200-day average | +40.7% |
+| RSI (14d) | 52 |
+| Volatility (1y) | 66.9% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +78,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/OSCR
 - Full deep dive: run `python scout.py stock OSCR` → `research/OSCR.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

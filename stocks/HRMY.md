@@ -3,17 +3,17 @@ ticker: "HRMY"
 company: "Harmony Biosciences Holdings Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 37.95
+price: 37.54
 market_cap: "$2.2B"
-score: 77
-value: 90
+score: 76
+value: 91
 quality: 77
 growth: 55
-momentum: 80
+momentum: 78
 health: 71
-pe: 12.2
+pe: 12.1
 piotroski: 5
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -28,27 +28,27 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- Cheaper than about 90% of stocks in Health Care (value score).
+- Cheaper than about 91% of stocks in Health Care (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price up 46% over 12 months (11% below its 52-week high).
+- Share price up 44% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 90 | 77 | 55 | 80 | 71 |
+| **76** | 91 | 77 | 55 | 78 | 71 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $37.95 |
+| Price | $37.54 |
 | Market value | $2.2B |
-| P/E | 12.2 |
-| Price/Sales | 2.30 |
-| Price/Book | 2.21 |
-| Free-cash-flow yield | 15.7% |
+| P/E | 12.1 |
+| Price/Sales | 2.28 |
+| Price/Book | 2.19 |
+| Free-cash-flow yield | 15.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $959.9M |
 | Sales growth | +24.3% |
@@ -60,11 +60,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.15 |
 | Current ratio | 3.48 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 5.58 |
+| Altman Z | 5.54 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -9.7% / +18.7% / +45.8% |
-| vs. 200-day average | +9.5% |
-| RSI (14d) | 40 |
+| Return 1m / 6m / 12m | -10.8% / +17.0% / +43.5% |
+| vs. 200-day average | +8.3% |
+| RSI (14d) | 38 |
 | Volatility (1y) | 41.3% |
 | Financials as of | 2026-06-30 |
 
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/HRMY
 - Full deep dive: run `python scout.py stock HRMY` → `research/HRMY.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

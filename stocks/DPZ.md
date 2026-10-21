@@ -3,17 +3,17 @@ ticker: "DPZ"
 company: "Domino's Pizza Inc"
 sector: "Consumer Discretionary"
 industry: "Food Distributors"
-price: 308.64
-market_cap: "$10.2B"
+price: 305.42
+market_cap: "$10.0B"
 score: 52
 value: 49
 quality: 85
 growth: 42
-momentum: 21
+momentum: 19
 health: 51
-pe: 17.0
+pe: 16.8
 piotroski: 8
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Food Distributors
 - More expensive than about 51% of Consumer Discretionary peers (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price down 25% over 12 months (28% below its 52-week high).
+- Share price down 26% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 49 | 85 | 42 | 21 | 51 |
+| **52** | 49 | 85 | 42 | 19 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $308.64 |
-| Market value | $10.2B |
-| P/E | 17.0 |
-| Price/Sales | 2.02 |
+| Price | $305.42 |
+| Market value | $10.0B |
+| P/E | 16.8 |
+| Price/Sales | 2.00 |
 | Price/Book | – |
-| Free-cash-flow yield | 6.6% |
-| Dividend yield | 2.3% |
+| Free-cash-flow yield | 6.7% |
+| Dividend yield | 2.4% |
 | Sales (12m) | $5.0B |
 | Sales growth | +5.2% |
 | Net profit (12m) | $596.5M |
@@ -59,11 +59,11 @@ Consumer Discretionary · Food Distributors
 | Debt / equity | – |
 | Current ratio | 1.54 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 2.83 |
+| Altman Z | 2.82 |
 | Share count change (1y) | -3.1% |
-| Return 1m / 6m / 12m | +4.9% / -14.6% / -25.4% |
-| vs. 200-day average | -9.9% |
-| RSI (14d) | 52 |
+| Return 1m / 6m / 12m | +3.2% / -17.0% / -25.7% |
+| vs. 200-day average | -10.7% |
+| RSI (14d) | 49 |
 | Volatility (1y) | 30.9% |
 | Financials as of | 2026-06-14 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Food Distributors
 - Insider trades: http://openinsider.com/DPZ
 - Full deep dive: run `python scout.py stock DPZ` → `research/DPZ.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

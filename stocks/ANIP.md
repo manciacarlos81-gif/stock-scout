@@ -3,17 +3,17 @@ ticker: "ANIP"
 company: "ANI Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 72.29
+price: 72.56
 market_cap: "$1.7B"
 score: 68
 value: 88
 quality: 76
 growth: 87
-momentum: 27
+momentum: 30
 health: 56
 pe: 15.4
 piotroski: 7
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -36,17 +36,17 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 88 | 76 | 87 | 27 | 56 |
+| **68** | 88 | 76 | 87 | 30 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $72.29 |
+| Price | $72.56 |
 | Market value | $1.7B |
 | P/E | 15.4 |
 | Price/Sales | 1.70 |
-| Price/Book | 2.78 |
+| Price/Book | 2.79 |
 | Free-cash-flow yield | 10.3% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $978.4M |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.50 |
 | Current ratio | 2.91 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 2.56 |
+| Altman Z | 2.57 |
 | Share count change (1y) | +7.9% |
-| Return 1m / 6m / 12m | -5.1% / -9.8% / -24.0% |
-| vs. 200-day average | -7.3% |
-| RSI (14d) | 47 |
+| Return 1m / 6m / 12m | -8.0% / -7.0% / -23.9% |
+| vs. 200-day average | -6.9% |
+| RSI (14d) | 48 |
 | Volatility (1y) | 31.4% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ANIP
 - Full deep dive: run `python scout.py stock ANIP` → `research/ANIP.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

@@ -3,8 +3,8 @@ ticker: "LMB"
 company: "Limbach Holdings Inc."
 sector: "Consumer Discretionary"
 industry: "Engineering & Construction"
-price: 48.69
-market_cap: "$580.6M"
+price: 48.55
+market_cap: "$579.0M"
 score: 45
 value: 58
 quality: 51
@@ -13,7 +13,7 @@ momentum: 4
 health: 62
 pe: 19.2
 piotroski: 6
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Engineering & Construction
 - Cheaper than about 58% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price down 48% over 12 months (57% below its 52-week high).
+- Share price down 49% over 12 months (57% below its 52-week high).
 - Insiders bought $515.9K of shares recently (Krzeminski Laurel J (Dir); Gaboury David Richard (Dir); Horowitz Joshua (Dir)).
 
 ## Scores (0–100, higher is better)
@@ -43,11 +43,11 @@ Consumer Discretionary · Engineering & Construction
 
 | | |
 |---|---:|
-| Price | $48.69 |
-| Market value | $580.6M |
+| Price | $48.55 |
+| Market value | $579.0M |
 | P/E | 19.2 |
 | Price/Sales | 0.85 |
-| Price/Book | 2.86 |
+| Price/Book | 2.85 |
 | Free-cash-flow yield | 7.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $683.8M |
@@ -62,10 +62,10 @@ Consumer Discretionary · Engineering & Construction
 | Piotroski F-score | 6/9 |
 | Altman Z | 4.34 |
 | Share count change (1y) | -0.6% |
-| Return 1m / 6m / 12m | -5.9% / -49.0% / -48.1% |
-| vs. 200-day average | -33.2% |
+| Return 1m / 6m / 12m | -7.0% / -51.3% / -48.8% |
+| vs. 200-day average | -33.3% |
 | RSI (14d) | 44 |
-| Volatility (1y) | 71.3% |
+| Volatility (1y) | 71.2% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Engineering & Construction
 - Insider trades: http://openinsider.com/LMB
 - Full deep dive: run `python scout.py stock LMB` → `research/LMB.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

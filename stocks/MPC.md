@@ -3,17 +3,17 @@ ticker: "MPC"
 company: "Marathon Petroleum Corporation"
 sector: "Energy"
 industry: "Integrated oil Companies"
-price: 478.07
-market_cap: "$134.3B"
+price: 473.69
+market_cap: "$133.0B"
 score: 66
 value: 57
 quality: 55
 growth: 83
-momentum: 98
-health: 40
-pe: 15.7
+momentum: 97
+health: 39
+pe: 15.6
 piotroski: 7
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,25 +30,25 @@ Energy · Integrated oil Companies
 - Cheaper than about 57% of stocks in Energy (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 15% over the last 12 months.
-- Share price up 161% over 12 months (1% below its 52-week high).
+- Share price up 163% over 12 months (2% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 57 | 55 | 83 | 98 | 40 |
+| **66** | 57 | 55 | 83 | 97 | 39 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $478.07 |
-| Market value | $134.3B |
-| P/E | 15.7 |
+| Price | $473.69 |
+| Market value | $133.0B |
+| P/E | 15.6 |
 | Price/Sales | 0.87 |
-| Price/Book | 7.04 |
+| Price/Book | 6.97 |
 | Free-cash-flow yield | 3.6% |
-| Dividend yield | 0.8% |
+| Dividend yield | 0.9% |
 | Sales (12m) | $153.6B |
 | Sales growth | +15.0% |
 | Net profit (12m) | $8.6B |
@@ -59,11 +59,11 @@ Energy · Integrated oil Companies
 | Debt / equity | 1.72 |
 | Current ratio | 1.25 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.05 |
+| Altman Z | 4.04 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | +12.5% / +116.7% / +160.9% |
-| vs. 200-day average | +71.7% |
-| RSI (14d) | 75 |
+| Return 1m / 6m / 12m | +17.7% / +115.6% / +163.4% |
+| vs. 200-day average | +69.2% |
+| RSI (14d) | 72 |
 | Volatility (1y) | 35.6% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/MPC
 - Full deep dive: run `python scout.py stock MPC` → `research/MPC.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

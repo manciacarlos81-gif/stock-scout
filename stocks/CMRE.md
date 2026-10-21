@@ -3,17 +3,17 @@ ticker: "CMRE"
 company: "Costamare Inc."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 13.97
+price: 13.76
 market_cap: "$1.7B"
 score: 65
 value: 89
 quality: 85
 growth: 30
-momentum: 46
+momentum: 44
 health: 51
 pe: 4.6
 piotroski: 8
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 89% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales fell 1% over the last 12 months.
-- Share price up 24% over 12 months (21% below its 52-week high).
+- Share price up 24% over 12 months (22% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 89 | 85 | 30 | 46 | 51 |
+| **65** | 89 | 85 | 30 | 44 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $13.97 |
+| Price | $13.76 |
 | Market value | $1.7B |
 | P/E | 4.6 |
-| Price/Sales | 1.92 |
-| Price/Book | 0.81 |
-| Free-cash-flow yield | 31.9% |
-| Dividend yield | 4.7% |
+| Price/Sales | 1.89 |
+| Price/Book | 0.80 |
+| Free-cash-flow yield | 32.4% |
+| Dividend yield | 4.8% |
 | Sales (12m) | $877.9M |
 | Sales growth | -1.2% |
 | Net profit (12m) | $364.6M |
@@ -59,11 +59,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.73 |
 | Current ratio | 1.73 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 3.04 |
+| Altman Z | 3.01 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -9.6% / -13.6% / +24.1% |
-| vs. 200-day average | -11.6% |
-| RSI (14d) | 34 |
+| Return 1m / 6m / 12m | -8.8% / -14.7% / +23.9% |
+| vs. 200-day average | -12.9% |
+| RSI (14d) | 32 |
 | Volatility (1y) | 31.8% |
 | Financials as of | 2025-12-31 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/CMRE
 - Full deep dive: run `python scout.py stock CMRE` → `research/CMRE.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

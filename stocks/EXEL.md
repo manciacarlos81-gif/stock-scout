@@ -3,17 +3,17 @@ ticker: "EXEL"
 company: "Exelixis Inc."
 sector: "Health Care"
 industry: "Biotechnology: Biological Products (No Diagnostic Substances)"
-price: 62.23
-market_cap: "$15.4B"
+price: 62.68
+market_cap: "$15.5B"
 score: 80
 value: 74
 quality: 87
 growth: 65
-momentum: 88
+momentum: 87
 health: 82
-pe: 17.9
+pe: 18.0
 piotroski: 7
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Cheaper than about 74% of stocks in Health Care (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 9% over the last 12 months.
-- Share price up 80% over 12 months (1% below its 52-week high).
+- Share price up 73% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 74 | 87 | 65 | 88 | 82 |
+| **80** | 74 | 87 | 65 | 87 | 82 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $62.23 |
-| Market value | $15.4B |
-| P/E | 17.9 |
-| Price/Sales | 6.33 |
-| Price/Book | 8.36 |
-| Free-cash-flow yield | 5.7% |
+| Price | $62.68 |
+| Market value | $15.5B |
+| P/E | 18.0 |
+| Price/Sales | 6.38 |
+| Price/Book | 8.42 |
+| Free-cash-flow yield | 5.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.4B |
 | Sales growth | +9.2% |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Debt / equity | – |
 | Current ratio | 3.46 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 16.77 |
+| Altman Z | 16.87 |
 | Share count change (1y) | -8.7% |
-| Return 1m / 6m / 12m | +6.6% / +32.8% / +80.2% |
-| vs. 200-day average | +24.3% |
-| RSI (14d) | 68 |
+| Return 1m / 6m / 12m | +9.5% / +36.1% / +73.5% |
+| vs. 200-day average | +25.0% |
+| RSI (14d) | 69 |
 | Volatility (1y) | 34.2% |
 | Financials as of | 2026-07-03 |
 
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/EXEL
 - Full deep dive: run `python scout.py stock EXEL` → `research/EXEL.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

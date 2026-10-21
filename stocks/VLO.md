@@ -3,17 +3,17 @@ ticker: "VLO"
 company: "Valero Energy Corporation"
 sector: "Energy"
 industry: "Integrated oil Companies"
-price: 444.71
-market_cap: "$128.0B"
+price: 433.31
+market_cap: "$124.8B"
 score: 67
-value: 53
-quality: 49
+value: 54
+quality: 48
 growth: 85
-momentum: 98
+momentum: 97
 health: 63
-pe: 17.8
+pe: 17.3
 piotroski: 6
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Energy · Integrated oil Companies
 
 ## In plain English
 
-- Cheaper than about 53% of stocks in Energy (value score).
-- Business quality ranks above 49% of all stocks scanned.
+- Cheaper than about 54% of stocks in Energy (value score).
+- Business quality ranks above 48% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 184% over 12 months (3% below its 52-week high).
+- Share price up 181% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 53 | 49 | 85 | 98 | 63 |
+| **67** | 54 | 48 | 85 | 97 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $444.71 |
-| Market value | $128.0B |
-| P/E | 17.8 |
-| Price/Sales | 0.92 |
-| Price/Book | 5.12 |
-| Free-cash-flow yield | 4.5% |
+| Price | $433.31 |
+| Market value | $124.8B |
+| P/E | 17.3 |
+| Price/Sales | 0.90 |
+| Price/Book | 4.99 |
+| Free-cash-flow yield | 4.7% |
 | Dividend yield | 1.1% |
 | Sales (12m) | $139.4B |
 | Sales growth | +12.6% |
@@ -61,10 +61,10 @@ Energy · Integrated oil Companies
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.8% |
-| Return 1m / 6m / 12m | +7.6% / +91.4% / +183.5% |
-| vs. 200-day average | +61.4% |
-| RSI (14d) | 66 |
-| Volatility (1y) | 37.4% |
+| Return 1m / 6m / 12m | +10.2% / +86.9% / +180.6% |
+| vs. 200-day average | +56.6% |
+| RSI (14d) | 60 |
+| Volatility (1y) | 37.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/VLO
 - Full deep dive: run `python scout.py stock VLO` → `research/VLO.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

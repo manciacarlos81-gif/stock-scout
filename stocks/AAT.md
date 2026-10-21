@@ -3,17 +3,17 @@ ticker: "AAT"
 company: "American Assets Trust Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 21.28
+price: 20.62
 market_cap: "$1.3B"
 score: 49
 value: 53
-quality: 52
+quality: 51
 growth: 16
-momentum: 59
-health: 61
-pe: 54.4
+momentum: 55
+health: 60
+pe: 52.8
 piotroski: 8
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,28 +28,28 @@ Real Estate · Real Estate Investment Trusts
 ## In plain English
 
 - Cheaper than about 53% of stocks in Real Estate (value score).
-- Business quality ranks above 52% of all stocks scanned.
+- Business quality ranks above 51% of all stocks scanned.
 - Sales fell 4% over the last 12 months.
-- Share price up 16% over 12 months (16% below its 52-week high).
+- Share price up 11% over 12 months (19% below its 52-week high).
 - Insiders bought $20.1M of shares recently (Rady Ernest S (Exec COB, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **49** | 53 | 52 | 16 | 59 | 61 |
+| **49** | 53 | 51 | 16 | 55 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $21.28 |
+| Price | $20.62 |
 | Market value | $1.3B |
-| P/E | 54.4 |
-| Price/Sales | 2.98 |
-| Price/Book | 1.15 |
-| Free-cash-flow yield | 12.8% |
-| Dividend yield | 8.1% |
+| P/E | 52.8 |
+| Price/Sales | 2.89 |
+| Price/Book | 1.11 |
+| Free-cash-flow yield | 13.2% |
+| Dividend yield | 8.3% |
 | Sales (12m) | $438.2M |
 | Sales growth | -3.9% |
 | Net profit (12m) | $24.0M |
@@ -62,10 +62,10 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.2% |
-| Return 1m / 6m / 12m | -3.1% / +6.2% / +15.8% |
-| vs. 200-day average | +1.9% |
-| RSI (14d) | 42 |
-| Volatility (1y) | 21.9% |
+| Return 1m / 6m / 12m | -6.2% / +2.6% / +10.6% |
+| vs. 200-day average | -1.3% |
+| RSI (14d) | 32 |
+| Volatility (1y) | 22.1% |
 | Financials as of | 2026-03-31 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/AAT
 - Full deep dive: run `python scout.py stock AAT` → `research/AAT.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

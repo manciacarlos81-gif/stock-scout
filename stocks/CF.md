@@ -3,17 +3,17 @@ ticker: "CF"
 company: "CF Industries Holdings Inc."
 sector: "Industrials"
 industry: "Agricultural Chemicals"
-price: 120.85
-market_cap: "$18.3B"
-score: 76
+price: 118.51
+market_cap: "$17.9B"
+score: 75
 value: 83
 quality: 81
 growth: 78
-momentum: 66
+momentum: 61
 health: 67
-pe: 7.3
+pe: 7.2
 piotroski: 8
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,24 +31,24 @@ Industrials · Agricultural Chemicals
 - Cheaper than about 83% of stocks in Industrials (value score).
 - Business quality ranks above 81% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 47% over 12 months (13% below its 52-week high).
+- Share price up 45% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 83 | 81 | 78 | 66 | 67 |
+| **75** | 83 | 81 | 78 | 61 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $120.85 |
-| Market value | $18.3B |
-| P/E | 7.3 |
-| Price/Sales | 2.36 |
-| Price/Book | 3.18 |
-| Free-cash-flow yield | 9.9% |
+| Price | $118.51 |
+| Market value | $17.9B |
+| P/E | 7.2 |
+| Price/Sales | 2.32 |
+| Price/Book | 3.12 |
+| Free-cash-flow yield | 10.0% |
 | Dividend yield | 1.8% |
 | Sales (12m) | $7.7B |
 | Sales growth | +20.0% |
@@ -62,10 +62,10 @@ Industrials · Agricultural Chemicals
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.6% |
-| Return 1m / 6m / 12m | -5.4% / -0.4% / +47.0% |
-| vs. 200-day average | +5.6% |
-| RSI (14d) | 52 |
-| Volatility (1y) | 42.8% |
+| Return 1m / 6m / 12m | -3.9% / -4.8% / +45.2% |
+| vs. 200-day average | +3.4% |
+| RSI (14d) | 48 |
+| Volatility (1y) | 42.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Industrials · Agricultural Chemicals
 - Insider trades: http://openinsider.com/CF
 - Full deep dive: run `python scout.py stock CF` → `research/CF.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

@@ -3,7 +3,7 @@ ticker: "CRUS"
 company: "Cirrus Logic Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 107.87
+price: 108.6
 market_cap: "$5.4B"
 score: 66
 value: 88
@@ -13,7 +13,7 @@ momentum: 17
 health: 86
 pe: 12.6
 piotroski: 8
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "💎 Quality at a fair price"
   - "🎯 Quality on sale"
@@ -31,7 +31,7 @@ Technology · Semiconductors
 - Cheaper than about 88% of stocks in Technology (value score).
 - Business quality ranks above 82% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price down 18% over 12 months (40% below its 52-week high).
+- Share price down 17% over 12 months (39% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Technology · Semiconductors
 
 | | |
 |---|---:|
-| Price | $107.87 |
+| Price | $108.60 |
 | Market value | $5.4B |
 | P/E | 12.6 |
-| Price/Sales | 2.64 |
-| Price/Book | 2.47 |
-| Free-cash-flow yield | 11.8% |
+| Price/Sales | 2.66 |
+| Price/Book | 2.49 |
+| Free-cash-flow yield | 11.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.0B |
 | Sales growth | +6.2% |
@@ -62,9 +62,9 @@ Technology · Semiconductors
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.8% |
-| Return 1m / 6m / 12m | -9.2% / -36.5% / -17.8% |
-| vs. 200-day average | -22.7% |
-| RSI (14d) | 34 |
+| Return 1m / 6m / 12m | -9.5% / -37.2% / -16.8% |
+| vs. 200-day average | -22.1% |
+| RSI (14d) | 36 |
 | Volatility (1y) | 35.8% |
 | Financials as of | 2026-06-27 |
 
@@ -79,4 +79,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/CRUS
 - Full deep dive: run `python scout.py stock CRUS` → `research/CRUS.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

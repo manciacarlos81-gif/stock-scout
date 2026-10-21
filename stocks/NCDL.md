@@ -3,17 +3,17 @@ ticker: "NCDL"
 company: "Nuveen Churchill Direct Lending Corp."
 sector: "Other"
 industry: ""
-price: 10.39
-market_cap: "$513.1M"
+price: 10.45
+market_cap: "$516.1M"
 score: 51
-value: 94
+value: 93
 quality: 48
 growth: 30
-momentum: 25
+momentum: 24
 health: 44
 pe: 11.0
 piotroski: 6
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,28 +27,28 @@ Other ·
 
 ## In plain English
 
-- Cheaper than about 94% of stocks in Other (value score).
+- Cheaper than about 93% of stocks in Other (value score).
 - Business quality ranks above 48% of all stocks scanned.
-- Share price down 14% over 12 months (25% below its 52-week high).
+- Share price down 15% over 12 months (25% below its 52-week high).
 - Insiders bought $61.2K of shares recently (Vichness Shaul (CFO, Treasurer)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **51** | 94 | 48 | 30 | 25 | 44 |
+| **51** | 93 | 48 | 30 | 24 | 44 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $10.39 |
-| Market value | $513.1M |
+| Price | $10.45 |
+| Market value | $516.1M |
 | P/E | 11.0 |
 | Price/Sales | – |
-| Price/Book | 0.60 |
-| Free-cash-flow yield | 37.8% |
-| Dividend yield | 19.9% |
+| Price/Book | 0.61 |
+| Free-cash-flow yield | 37.6% |
+| Dividend yield | 19.8% |
 | Sales (12m) | – |
 | Sales growth | – |
 | Net profit (12m) | $46.9M |
@@ -61,9 +61,9 @@ Other ·
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -11.0% / -22.5% / -14.5% |
-| vs. 200-day average | -14.4% |
-| RSI (14d) | 29 |
+| Return 1m / 6m / 12m | -10.4% / -20.5% / -15.5% |
+| vs. 200-day average | -13.9% |
+| RSI (14d) | 31 |
 | Volatility (1y) | 23.3% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Other ·
 - Insider trades: http://openinsider.com/NCDL
 - Full deep dive: run `python scout.py stock NCDL` → `research/NCDL.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

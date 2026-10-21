@@ -3,17 +3,17 @@ ticker: "NRDS"
 company: "NerdWallet Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 10.02
-market_cap: "$640.8M"
-score: 72
+price: 10.07
+market_cap: "$643.7M"
+score: 73
 value: 95
 quality: 78
 growth: 74
-momentum: 33
+momentum: 35
 health: 75
 pe: 9.9
 piotroski: 9
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -31,24 +31,24 @@ Technology · EDP Services
 - Cheaper than about 95% of stocks in Technology (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price down 11% over 12 months (37% below its 52-week high).
+- Share price down 13% over 12 months (37% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 95 | 78 | 74 | 33 | 75 |
+| **73** | 95 | 78 | 74 | 35 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $10.02 |
-| Market value | $640.8M |
+| Price | $10.07 |
+| Market value | $643.7M |
 | P/E | 9.9 |
 | Price/Sales | 0.75 |
-| Price/Book | 1.97 |
-| Free-cash-flow yield | 20.3% |
+| Price/Book | 1.98 |
+| Free-cash-flow yield | 20.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $860.0M |
 | Sales growth | +11.5% |
@@ -60,10 +60,10 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 2.62 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 6.43 |
+| Altman Z | 6.45 |
 | Share count change (1y) | -14.1% |
-| Return 1m / 6m / 12m | +10.8% / -6.7% / -10.9% |
-| vs. 200-day average | +1.1% |
+| Return 1m / 6m / 12m | +10.9% / -3.7% / -12.7% |
+| vs. 200-day average | +1.7% |
 | RSI (14d) | 65 |
 | Volatility (1y) | 47.6% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/NRDS
 - Full deep dive: run `python scout.py stock NRDS` → `research/NRDS.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

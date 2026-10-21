@@ -3,17 +3,17 @@ ticker: "CRTO"
 company: "Criteo S.A."
 sector: "Consumer Discretionary"
 industry: "Advertising"
-price: 15.34
-market_cap: "$751.6M"
+price: 15.21
+market_cap: "$745.3M"
 score: 58
 value: 97
-quality: 72
+quality: 71
 growth: 25
-momentum: 19
+momentum: 20
 health: 53
-pe: 6.9
+pe: 6.8
 piotroski: 9
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -29,26 +29,26 @@ Consumer Discretionary · Advertising
 ## In plain English
 
 - Cheaper than about 97% of stocks in Consumer Discretionary (value score).
-- Business quality ranks above 72% of all stocks scanned.
+- Business quality ranks above 71% of all stocks scanned.
 - Sales fell 4% over the last 12 months.
-- Share price down 25% over 12 months (34% below its 52-week high).
+- Share price down 25% over 12 months (35% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 97 | 72 | 25 | 19 | 53 |
+| **58** | 97 | 71 | 25 | 20 | 53 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.34 |
-| Market value | $751.6M |
-| P/E | 6.9 |
+| Price | $15.21 |
+| Market value | $745.3M |
+| P/E | 6.8 |
 | Price/Sales | 0.40 |
-| Price/Book | 0.67 |
-| Free-cash-flow yield | 41.4% |
+| Price/Book | 0.66 |
+| Free-cash-flow yield | 41.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.9B |
 | Sales growth | -4.2% |
@@ -62,10 +62,10 @@ Consumer Discretionary · Advertising
 | Piotroski F-score | 9/9 |
 | Altman Z | 2.24 |
 | Share count change (1y) | -8.3% |
-| Return 1m / 6m / 12m | -8.1% / -20.8% / -25.3% |
-| vs. 200-day average | -16.3% |
-| RSI (14d) | 43 |
-| Volatility (1y) | 55.9% |
+| Return 1m / 6m / 12m | -9.5% / -17.8% / -25.1% |
+| vs. 200-day average | -16.9% |
+| RSI (14d) | 42 |
+| Volatility (1y) | 55.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/CRTO
 - Full deep dive: run `python scout.py stock CRTO` → `research/CRTO.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

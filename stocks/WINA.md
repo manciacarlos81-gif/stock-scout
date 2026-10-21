@@ -3,17 +3,17 @@ ticker: "WINA"
 company: "Winmark Corporation"
 sector: "Consumer Discretionary"
 industry: "Other Specialty Stores"
-price: 314.83
+price: 302.11
 market_cap: "$1.1B"
 score: 49
-value: 29
+value: 30
 quality: 90
 growth: 34
-momentum: 14
+momentum: 13
 health: 74
-pe: 27.5
+pe: 26.4
 piotroski: 7
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Discretionary · Other Specialty Stores
 
 ## In plain English
 
-- More expensive than about 71% of Consumer Discretionary peers (value score).
+- More expensive than about 70% of Consumer Discretionary peers (value score).
 - Business quality ranks above 90% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 24% over 12 months (34% below its 52-week high).
+- Share price down 27% over 12 months (37% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **49** | 29 | 90 | 34 | 14 | 74 |
+| **49** | 30 | 90 | 34 | 13 | 74 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $314.83 |
+| Price | $302.11 |
 | Market value | $1.1B |
-| P/E | 27.5 |
-| Price/Sales | 12.95 |
+| P/E | 26.4 |
+| Price/Sales | 12.43 |
 | Price/Book | – |
-| Free-cash-flow yield | 4.0% |
-| Dividend yield | 4.4% |
+| Free-cash-flow yield | 4.2% |
+| Dividend yield | 4.6% |
 | Sales (12m) | $86.5M |
 | Sales growth | +3.8% |
 | Net profit (12m) | $40.7M |
@@ -61,15 +61,16 @@ Consumer Discretionary · Other Specialty Stores
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | +10.3% / -23.1% / -23.9% |
-| vs. 200-day average | -17.7% |
-| RSI (14d) | 59 |
-| Volatility (1y) | 36.8% |
+| Return 1m / 6m / 12m | +5.6% / -24.1% / -26.6% |
+| vs. 200-day average | -20.9% |
+| RSI (14d) | 49 |
+| Volatility (1y) | 37.0% |
 | Financials as of | 2026-06-27 |
 
 ## Watch out
 
 - negative equity
+- well below 200-day average
 
 ## Dig deeper
 
@@ -78,4 +79,4 @@ Consumer Discretionary · Other Specialty Stores
 - Insider trades: http://openinsider.com/WINA
 - Full deep dive: run `python scout.py stock WINA` → `research/WINA.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

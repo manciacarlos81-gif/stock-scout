@@ -3,17 +3,17 @@ ticker: "DINO"
 company: "HF Sinclair Corporation"
 sector: "Energy"
 industry: "Natural Gas Distribution"
-price: 125.29
-market_cap: "$22.3B"
+price: 124.42
+market_cap: "$22.1B"
 score: 72
 value: 65
-quality: 54
+quality: 53
 growth: 87
-momentum: 98
+momentum: 97
 health: 66
 pe: 11.6
 piotroski: 7
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -28,26 +28,26 @@ Energy · Natural Gas Distribution
 ## In plain English
 
 - Cheaper than about 65% of stocks in Energy (value score).
-- Business quality ranks above 54% of all stocks scanned.
+- Business quality ranks above 53% of all stocks scanned.
 - Sales grew 16% over the last 12 months.
-- Share price up 146% over 12 months (2% below its 52-week high).
+- Share price up 151% over 12 months (3% below its 52-week high).
 - Insiders bought $1.3M of shares recently (Myers Franklin (CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 65 | 54 | 87 | 98 | 66 |
+| **72** | 65 | 53 | 87 | 97 | 66 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $125.29 |
-| Market value | $22.3B |
+| Price | $124.42 |
+| Market value | $22.1B |
 | P/E | 11.6 |
 | Price/Sales | 0.71 |
-| Price/Book | 2.17 |
+| Price/Book | 2.15 |
 | Free-cash-flow yield | 3.9% |
 | Dividend yield | 1.7% |
 | Sales (12m) | $31.2B |
@@ -60,12 +60,12 @@ Energy · Natural Gas Distribution
 | Debt / equity | 0.27 |
 | Current ratio | 1.97 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.37 |
+| Altman Z | 4.35 |
 | Share count change (1y) | -4.6% |
-| Return 1m / 6m / 12m | +8.1% / +113.5% / +145.8% |
-| vs. 200-day average | +66.8% |
-| RSI (14d) | 71 |
-| Volatility (1y) | 39.1% |
+| Return 1m / 6m / 12m | +13.8% / +111.7% / +151.1% |
+| vs. 200-day average | +64.9% |
+| RSI (14d) | 69 |
+| Volatility (1y) | 39.0% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Energy · Natural Gas Distribution
 - Insider trades: http://openinsider.com/DINO
 - Full deep dive: run `python scout.py stock DINO` → `research/DINO.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

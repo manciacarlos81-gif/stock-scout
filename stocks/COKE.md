@@ -3,17 +3,17 @@ ticker: "COKE"
 company: "Coca-Cola Consolidated Inc."
 sector: "Consumer Staples"
 industry: "Beverages (Production/Distribution)"
-price: 210.33
+price: 209.92
 market_cap: "$14.0B"
-score: 58
+score: 57
 value: 42
-quality: 71
+quality: 70
 growth: 47
-momentum: 76
+momentum: 73
 health: 51
-pe: 25.5
+pe: 25.4
 piotroski: 6
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -28,23 +28,23 @@ Consumer Staples · Beverages (Production/Distribution)
 ## In plain English
 
 - More expensive than about 58% of Consumer Staples peers (value score).
-- Business quality ranks above 71% of all stocks scanned.
+- Business quality ranks above 70% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price up 60% over 12 months (3% below its 52-week high).
+- Share price up 59% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 42 | 71 | 47 | 76 | 51 |
+| **57** | 42 | 70 | 47 | 73 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $210.33 |
+| Price | $209.92 |
 | Market value | $14.0B |
-| P/E | 25.5 |
+| P/E | 25.4 |
 | Price/Sales | 1.82 |
 | Price/Book | – |
 | Free-cash-flow yield | 4.4% |
@@ -59,12 +59,12 @@ Consumer Staples · Beverages (Production/Distribution)
 | Debt / equity | – |
 | Current ratio | 1.21 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.07 |
+| Altman Z | 4.06 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | +9.5% / +12.6% / +59.6% |
-| vs. 200-day average | +14.1% |
-| RSI (14d) | 68 |
-| Volatility (1y) | 36.7% |
+| Return 1m / 6m / 12m | +10.5% / +9.2% / +59.1% |
+| vs. 200-day average | +13.7% |
+| RSI (14d) | 67 |
+| Volatility (1y) | 36.5% |
 | Financials as of | 2026-07-03 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Consumer Staples · Beverages (Production/Distribution)
 - Insider trades: http://openinsider.com/COKE
 - Full deep dive: run `python scout.py stock COKE` → `research/COKE.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

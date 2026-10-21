@@ -3,17 +3,17 @@ ticker: "ULS"
 company: "UL Solutions Inc."
 sector: "Health Care"
 industry: "Precision Instruments"
-price: 73.31
-market_cap: "$14.8B"
+price: 73.01
+market_cap: "$14.7B"
 score: 59
 value: 64
 quality: 82
 growth: 53
 momentum: 23
-health: 68
-pe: 29.3
+health: 67
+pe: 29.2
 piotroski: 8
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -36,17 +36,17 @@ Health Care · Precision Instruments
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **59** | 64 | 82 | 53 | 23 | 68 |
+| **59** | 64 | 82 | 53 | 23 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $73.31 |
-| Market value | $14.8B |
-| P/E | 29.3 |
-| Price/Sales | 4.70 |
-| Price/Book | 9.28 |
+| Price | $73.01 |
+| Market value | $14.7B |
+| P/E | 29.2 |
+| Price/Sales | 4.69 |
+| Price/Book | 9.24 |
 | Free-cash-flow yield | 2.7% |
 | Dividend yield | 0.7% |
 | Sales (12m) | $3.1B |
@@ -59,11 +59,11 @@ Health Care · Precision Instruments
 | Debt / equity | 0.19 |
 | Current ratio | 1.42 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 8.01 |
+| Altman Z | 7.98 |
 | Share count change (1y) | +0.5% |
-| Return 1m / 6m / 12m | +14.5% / -18.2% / -3.7% |
-| vs. 200-day average | -11.5% |
-| RSI (14d) | 61 |
+| Return 1m / 6m / 12m | +10.1% / -18.1% / -3.8% |
+| vs. 200-day average | -11.8% |
+| RSI (14d) | 60 |
 | Volatility (1y) | 43.0% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Precision Instruments
 - Insider trades: http://openinsider.com/ULS
 - Full deep dive: run `python scout.py stock ULS` → `research/ULS.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

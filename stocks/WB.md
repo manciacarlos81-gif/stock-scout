@@ -3,17 +3,17 @@ ticker: "WB"
 company: "Weibo Corporation American Depositary Share"
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 6.49
+price: 6.47
 market_cap: "$1.6B"
 score: 54
 value: 98
 quality: 53
 growth: 37
-momentum: 12
+momentum: 13
 health: 54
-pe: 3.6
+pe: 3.5
 piotroski: 5
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 98% of stocks in Technology (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales grew 0% over the last 12 months.
-- Share price down 39% over 12 months (40% below its 52-week high).
+- Share price down 38% over 12 months (40% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 98 | 53 | 37 | 12 | 54 |
+| **54** | 98 | 53 | 37 | 13 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.49 |
+| Price | $6.47 |
 | Market value | $1.6B |
-| P/E | 3.6 |
-| Price/Sales | 0.91 |
+| P/E | 3.5 |
+| Price/Sales | 0.90 |
 | Price/Book | 0.41 |
-| Free-cash-flow yield | 29.9% |
+| Free-cash-flow yield | 30.0% |
 | Dividend yield | 12.3% |
 | Sales (12m) | $1.8B |
 | Sales growth | +0.1% |
@@ -61,9 +61,9 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 5/9 |
 | Altman Z | 1.70 |
 | Share count change (1y) | +1.3% |
-| Return 1m / 6m / 12m | -0.8% / -24.2% / -38.7% |
-| vs. 200-day average | -19.8% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | -4.0% / -22.3% / -38.3% |
+| vs. 200-day average | -19.9% |
+| RSI (14d) | 41 |
 | Volatility (1y) | 25.3% |
 | Financials as of | 2025-12-31 |
 
@@ -79,4 +79,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/WB
 - Full deep dive: run `python scout.py stock WB` → `research/WB.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_

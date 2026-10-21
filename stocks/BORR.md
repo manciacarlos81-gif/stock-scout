@@ -3,17 +3,17 @@ ticker: "BORR"
 company: "Borr Drilling Limited"
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 4.54
+price: 4.44
 market_cap: "$1.4B"
-score: 48
+score: 47
 value: 67
-quality: 58
+quality: 57
 growth: 21
-momentum: 50
+momentum: 48
 health: 24
-pe: 31.0
+pe: 30.4
 piotroski: 6
-updated: "2026-10-20"
+updated: "2026-10-21"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -28,27 +28,27 @@ Energy · Oil & Gas Production
 ## In plain English
 
 - Cheaper than about 67% of stocks in Energy (value score).
-- Business quality ranks above 58% of all stocks scanned.
+- Business quality ranks above 57% of all stocks scanned.
 - Sales grew 1% over the last 12 months.
-- Share price up 64% over 12 months (31% below its 52-week high).
+- Share price up 66% over 12 months (33% below its 52-week high).
 - Insiders bought $59.3M of shares recently (Snowling Harvey Edward (COO); Troim Tor Olav (Dir); Morand De Oliveira Bruno (CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **48** | 67 | 58 | 21 | 50 | 24 |
+| **47** | 67 | 57 | 21 | 48 | 24 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $4.54 |
+| Price | $4.44 |
 | Market value | $1.4B |
-| P/E | 31.0 |
-| Price/Sales | 1.37 |
-| Price/Book | 1.45 |
-| Free-cash-flow yield | 18.0% |
+| P/E | 30.4 |
+| Price/Sales | 1.34 |
+| Price/Book | 1.42 |
+| Free-cash-flow yield | 18.4% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $1.0B |
 | Sales growth | +1.0% |
@@ -60,12 +60,12 @@ Energy · Oil & Gas Production
 | Debt / equity | 2.58 |
 | Current ratio | 2.53 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 0.42 |
+| Altman Z | 0.41 |
 | Share count change (1y) | +12.2% |
-| Return 1m / 6m / 12m | +1.8% / -16.8% / +64.5% |
-| vs. 200-day average | -7.5% |
-| RSI (14d) | 54 |
-| Volatility (1y) | 53.0% |
+| Return 1m / 6m / 12m | +0.2% / -20.3% / +65.7% |
+| vs. 200-day average | -9.5% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 52.7% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
@@ -82,4 +82,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/BORR
 - Full deep dive: run `python scout.py stock BORR` → `research/BORR.md`
 
-_Updated 2026-10-20 · [latest report](../reports/latest.md)_
+_Updated 2026-10-21 · [latest report](../reports/latest.md)_
