@@ -3,8 +3,8 @@ ticker: "DINO"
 company: "HF Sinclair Corporation"
 sector: "Energy"
 industry: "Natural Gas Distribution"
-price: 124.42
-market_cap: "$22.1B"
+price: 125.31
+market_cap: "$22.3B"
 score: 72
 value: 65
 quality: 53
@@ -13,7 +13,7 @@ momentum: 97
 health: 66
 pe: 11.6
 piotroski: 7
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Energy · Natural Gas Distribution
 - Cheaper than about 65% of stocks in Energy (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales grew 16% over the last 12 months.
-- Share price up 151% over 12 months (3% below its 52-week high).
+- Share price up 145% over 12 months (2% below its 52-week high).
 - Insiders bought $1.3M of shares recently (Myers Franklin (CEO)).
 
 ## Scores (0–100, higher is better)
@@ -43,11 +43,11 @@ Energy · Natural Gas Distribution
 
 | | |
 |---|---:|
-| Price | $124.42 |
-| Market value | $22.1B |
+| Price | $125.31 |
+| Market value | $22.3B |
 | P/E | 11.6 |
 | Price/Sales | 0.71 |
-| Price/Book | 2.15 |
+| Price/Book | 2.17 |
 | Free-cash-flow yield | 3.9% |
 | Dividend yield | 1.7% |
 | Sales (12m) | $31.2B |
@@ -60,12 +60,12 @@ Energy · Natural Gas Distribution
 | Debt / equity | 0.27 |
 | Current ratio | 1.97 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.35 |
+| Altman Z | 4.37 |
 | Share count change (1y) | -4.6% |
-| Return 1m / 6m / 12m | +13.8% / +111.7% / +151.1% |
-| vs. 200-day average | +64.9% |
-| RSI (14d) | 69 |
-| Volatility (1y) | 39.0% |
+| Return 1m / 6m / 12m | +17.5% / +110.7% / +144.7% |
+| vs. 200-day average | +65.2% |
+| RSI (14d) | 70 |
+| Volatility (1y) | 38.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Energy · Natural Gas Distribution
 - Insider trades: http://openinsider.com/DINO
 - Full deep dive: run `python scout.py stock DINO` → `research/DINO.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

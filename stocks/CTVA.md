@@ -3,17 +3,17 @@ ticker: "CTVA"
 company: "Corteva Inc."
 sector: "Consumer Staples"
 industry: "Farming/Seeds/Milling"
-price: 12.65
-market_cap: "$8.4B"
+price: 12.9
+market_cap: "$8.6B"
 score: 67
 value: 93
 quality: 60
 growth: 32
 momentum: 64
 health: 72
-pe: 8.4
+pe: 8.5
 piotroski: 7
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,7 +31,7 @@ Consumer Staples · Farming/Seeds/Milling
 - Cheaper than about 93% of stocks in Consumer Staples (value score).
 - Business quality ranks above 60% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price up 37% over 12 months (12% below its 52-week high).
+- Share price up 37% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,13 +43,13 @@ Consumer Staples · Farming/Seeds/Milling
 
 | | |
 |---|---:|
-| Price | $12.65 |
-| Market value | $8.4B |
-| P/E | 8.4 |
-| Price/Sales | 0.47 |
+| Price | $12.90 |
+| Market value | $8.6B |
+| P/E | 8.5 |
+| Price/Sales | 0.48 |
 | Price/Book | 0.34 |
-| Free-cash-flow yield | 40.4% |
-| Dividend yield | 5.6% |
+| Free-cash-flow yield | 39.6% |
+| Dividend yield | 5.5% |
 | Sales (12m) | $17.8B |
 | Sales growth | +3.7% |
 | Net profit (12m) | $1.0B |
@@ -62,10 +62,10 @@ Consumer Staples · Farming/Seeds/Milling
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -1.9% |
-| Return 1m / 6m / 12m | +6.6% / +6.4% / +37.3% |
-| vs. 200-day average | +5.4% |
-| RSI (14d) | 49 |
-| Volatility (1y) | 30.4% |
+| Return 1m / 6m / 12m | +7.0% / +8.2% / +37.5% |
+| vs. 200-day average | +7.3% |
+| RSI (14d) | 52 |
+| Volatility (1y) | 30.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Staples · Farming/Seeds/Milling
 - Insider trades: http://openinsider.com/CTVA
 - Full deep dive: run `python scout.py stock CTVA` → `research/CTVA.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

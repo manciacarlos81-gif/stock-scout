@@ -3,17 +3,17 @@ ticker: "CMRE"
 company: "Costamare Inc."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 13.76
+price: 13.78
 market_cap: "$1.7B"
-score: 65
+score: 64
 value: 89
 quality: 85
 growth: 30
-momentum: 44
+momentum: 42
 health: 51
 pe: 4.6
 piotroski: 8
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,19 +30,19 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 89% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales fell 1% over the last 12 months.
-- Share price up 24% over 12 months (22% below its 52-week high).
+- Share price up 23% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 89 | 85 | 30 | 44 | 51 |
+| **64** | 89 | 85 | 30 | 42 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $13.76 |
+| Price | $13.78 |
 | Market value | $1.7B |
 | P/E | 4.6 |
 | Price/Sales | 1.89 |
@@ -59,11 +59,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.73 |
 | Current ratio | 1.73 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 3.01 |
+| Altman Z | 3.02 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -8.8% / -14.7% / +23.9% |
-| vs. 200-day average | -12.9% |
-| RSI (14d) | 32 |
+| Return 1m / 6m / 12m | -6.5% / -15.0% / +23.2% |
+| vs. 200-day average | -11.9% |
+| RSI (14d) | 35 |
 | Volatility (1y) | 31.8% |
 | Financials as of | 2025-12-31 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/CMRE
 - Full deep dive: run `python scout.py stock CMRE` → `research/CMRE.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

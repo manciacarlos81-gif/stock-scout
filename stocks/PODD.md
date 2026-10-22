@@ -3,17 +3,17 @@ ticker: "PODD"
 company: "Insulet Corporation"
 sector: "Health Care"
 industry: "Medical/Dental Instruments"
-price: 141.96
-market_cap: "$9.8B"
+price: 142.64
+market_cap: "$9.9B"
 score: 60
 value: 71
 quality: 81
 growth: 76
 momentum: 8
 health: 62
-pe: 26.2
+pe: 26.4
 piotroski: 7
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -43,11 +43,11 @@ Health Care · Medical/Dental Instruments
 
 | | |
 |---|---:|
-| Price | $141.96 |
-| Market value | $9.8B |
-| P/E | 26.2 |
-| Price/Sales | 3.22 |
-| Price/Book | 6.92 |
+| Price | $142.64 |
+| Market value | $9.9B |
+| P/E | 26.4 |
+| Price/Sales | 3.24 |
+| Price/Book | 6.96 |
 | Free-cash-flow yield | 3.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $3.1B |
@@ -60,11 +60,11 @@ Health Care · Medical/Dental Instruments
 | Debt / equity | 0.67 |
 | Current ratio | 2.48 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 5.52 |
+| Altman Z | 5.54 |
 | Share count change (1y) | -1.8% |
-| Return 1m / 6m / 12m | +1.0% / -26.1% / -56.8% |
-| vs. 200-day average | -22.4% |
-| RSI (14d) | 57 |
+| Return 1m / 6m / 12m | +2.3% / -24.8% / -56.7% |
+| vs. 200-day average | -21.7% |
+| RSI (14d) | 58 |
 | Volatility (1y) | 44.8% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/PODD
 - Full deep dive: run `python scout.py stock PODD` → `research/PODD.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

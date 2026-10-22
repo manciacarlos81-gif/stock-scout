@@ -3,17 +3,17 @@ ticker: "PEGA"
 company: "Pegasystems Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 35.04
-market_cap: "$5.8B"
-score: 60
+price: 36.23
+market_cap: "$6.0B"
+score: 59
 value: 68
 quality: 85
 growth: 42
-momentum: 30
-health: 62
-pe: 17.8
+momentum: 27
+health: 63
+pe: 18.4
 piotroski: 9
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,24 +30,24 @@ Technology · EDP Services
 - Cheaper than about 68% of stocks in Technology (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 38% over 12 months (47% below its 52-week high).
+- Share price down 44% over 12 months (45% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 68 | 85 | 42 | 30 | 62 |
+| **59** | 68 | 85 | 42 | 27 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $35.04 |
-| Market value | $5.8B |
-| P/E | 17.8 |
-| Price/Sales | 3.32 |
-| Price/Book | 10.28 |
-| Free-cash-flow yield | 8.5% |
+| Price | $36.23 |
+| Market value | $6.0B |
+| P/E | 18.4 |
+| Price/Sales | 3.43 |
+| Price/Book | 10.63 |
+| Free-cash-flow yield | 8.2% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $1.7B |
 | Sales growth | +3.6% |
@@ -59,12 +59,12 @@ Technology · EDP Services
 | Debt / equity | – |
 | Current ratio | 1.06 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 6.40 |
+| Altman Z | 6.55 |
 | Share count change (1y) | -5.7% |
-| Return 1m / 6m / 12m | +0.3% / -0.1% / -38.2% |
-| vs. 200-day average | -6.9% |
-| RSI (14d) | 51 |
-| Volatility (1y) | 50.7% |
+| Return 1m / 6m / 12m | +4.5% / -2.5% / -44.4% |
+| vs. 200-day average | -3.4% |
+| RSI (14d) | 57 |
+| Volatility (1y) | 50.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PEGA
 - Full deep dive: run `python scout.py stock PEGA` → `research/PEGA.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

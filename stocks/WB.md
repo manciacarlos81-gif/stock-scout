@@ -3,17 +3,17 @@ ticker: "WB"
 company: "Weibo Corporation American Depositary Share"
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 6.47
+price: 6.54
 market_cap: "$1.6B"
 score: 54
 value: 98
 quality: 53
 growth: 37
-momentum: 13
+momentum: 12
 health: 54
-pe: 3.5
+pe: 3.6
 piotroski: 5
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 98% of stocks in Technology (value score).
 - Business quality ranks above 53% of all stocks scanned.
 - Sales grew 0% over the last 12 months.
-- Share price down 38% over 12 months (40% below its 52-week high).
+- Share price down 38% over 12 months (39% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 98 | 53 | 37 | 13 | 54 |
+| **54** | 98 | 53 | 37 | 12 | 54 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.47 |
+| Price | $6.54 |
 | Market value | $1.6B |
-| P/E | 3.5 |
-| Price/Sales | 0.90 |
+| P/E | 3.6 |
+| Price/Sales | 0.91 |
 | Price/Book | 0.41 |
-| Free-cash-flow yield | 30.0% |
-| Dividend yield | 12.3% |
+| Free-cash-flow yield | 29.7% |
+| Dividend yield | 12.2% |
 | Sales (12m) | $1.8B |
 | Sales growth | +0.1% |
 | Net profit (12m) | $449.0M |
@@ -59,11 +59,11 @@ Technology · Computer Software: Programming Data Processing
 | Debt / equity | 0.53 |
 | Current ratio | 3.39 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 1.70 |
+| Altman Z | 1.71 |
 | Share count change (1y) | +1.3% |
-| Return 1m / 6m / 12m | -4.0% / -22.3% / -38.3% |
-| vs. 200-day average | -19.9% |
-| RSI (14d) | 41 |
+| Return 1m / 6m / 12m | -2.2% / -22.2% / -37.7% |
+| vs. 200-day average | -18.8% |
+| RSI (14d) | 47 |
 | Volatility (1y) | 25.3% |
 | Financials as of | 2025-12-31 |
 
@@ -79,4 +79,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/WB
 - Full deep dive: run `python scout.py stock WB` → `research/WB.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

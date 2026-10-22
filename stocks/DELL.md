@@ -3,17 +3,17 @@ ticker: "DELL"
 company: "Dell Technologies Inc."
 sector: "Technology"
 industry: "Computer Manufacturing"
-price: 455.44
-market_cap: "$289.6B"
+price: 461.56
+market_cap: "$293.5B"
 score: 66
 value: 58
-quality: 49
+quality: 50
 growth: 89
 momentum: 98
 health: 42
-pe: 25.5
+pe: 25.8
 piotroski: 7
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -28,26 +28,26 @@ Technology · Computer Manufacturing
 ## In plain English
 
 - Cheaper than about 58% of stocks in Technology (value score).
-- Business quality ranks above 49% of all stocks scanned.
+- Business quality ranks above 50% of all stocks scanned.
 - Sales grew 49% over the last 12 months.
-- Share price up 208% over 12 months (23% below its 52-week high).
+- Share price up 211% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 58 | 49 | 89 | 98 | 42 |
+| **66** | 58 | 50 | 89 | 98 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $455.44 |
-| Market value | $289.6B |
-| P/E | 25.5 |
-| Price/Sales | 1.92 |
+| Price | $461.56 |
+| Market value | $293.5B |
+| P/E | 25.8 |
+| Price/Sales | 1.94 |
 | Price/Book | – |
-| Free-cash-flow yield | 3.0% |
+| Free-cash-flow yield | 2.9% |
 | Dividend yield | 0.5% |
 | Sales (12m) | $151.2B |
 | Sales growth | +49.0% |
@@ -59,11 +59,11 @@ Technology · Computer Manufacturing
 | Debt / equity | – |
 | Current ratio | 0.96 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 2.99 |
+| Altman Z | 3.00 |
 | Share count change (1y) | -5.0% |
-| Return 1m / 6m / 12m | -20.8% / +115.0% / +207.6% |
-| vs. 200-day average | +42.5% |
-| RSI (14d) | 34 |
+| Return 1m / 6m / 12m | -15.8% / +114.2% / +210.7% |
+| vs. 200-day average | +43.8% |
+| RSI (14d) | 36 |
 | Volatility (1y) | 75.7% |
 | Financials as of | 2026-07-31 |
 
@@ -78,4 +78,4 @@ Technology · Computer Manufacturing
 - Insider trades: http://openinsider.com/DELL
 - Full deep dive: run `python scout.py stock DELL` → `research/DELL.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

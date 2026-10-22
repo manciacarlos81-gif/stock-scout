@@ -3,17 +3,17 @@ ticker: "JEF"
 company: "Jefferies Financial Group Inc."
 sector: "Finance"
 industry: "Investment Bankers/Brokers/Service"
-price: 43.6
-market_cap: "$10.0B"
+price: 45.01
+market_cap: "$10.3B"
 score: 54
 value: 74
 quality: null
 growth: 63
-momentum: 32
+momentum: 31
 health: 49
-pe: 11.6
+pe: 12.0
 piotroski: 4
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -29,26 +29,26 @@ Finance · Investment Bankers/Brokers/Service
 
 - Cheaper than about 74% of stocks in Finance (value score).
 - Sales grew 14% over the last 12 months.
-- Share price down 18% over 12 months (33% below its 52-week high).
+- Share price down 16% over 12 months (31% below its 52-week high).
 - Insiders bought $324.0M of shares recently (Sumitomo Mitsui Financial Group, Inc. (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 74 | – | 63 | 32 | 49 |
+| **54** | 74 | – | 63 | 31 | 49 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $43.60 |
-| Market value | $10.0B |
-| P/E | 11.6 |
-| Price/Sales | 0.85 |
-| Price/Book | 0.95 |
+| Price | $45.01 |
+| Market value | $10.3B |
+| P/E | 12.0 |
+| Price/Sales | 0.87 |
+| Price/Book | 0.98 |
 | Free-cash-flow yield | – |
-| Dividend yield | 3.7% |
+| Dividend yield | 3.6% |
 | Sales (12m) | $11.8B |
 | Sales growth | +13.8% |
 | Net profit (12m) | $863.1M |
@@ -61,10 +61,10 @@ Finance · Investment Bankers/Brokers/Service
 | Piotroski F-score | 4/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.4% |
-| Return 1m / 6m / 12m | -8.9% / -3.1% / -18.4% |
-| vs. 200-day average | -14.4% |
-| RSI (14d) | 32 |
-| Volatility (1y) | 39.5% |
+| Return 1m / 6m / 12m | -5.0% / -3.7% / -15.8% |
+| vs. 200-day average | -11.4% |
+| RSI (14d) | 42 |
+| Volatility (1y) | 39.7% |
 | Financials as of | 2026-05-31 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Finance · Investment Bankers/Brokers/Service
 - Insider trades: http://openinsider.com/JEF
 - Full deep dive: run `python scout.py stock JEF` → `research/JEF.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

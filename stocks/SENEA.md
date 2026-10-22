@@ -3,17 +3,17 @@ ticker: "SENEA"
 company: "Seneca Foods Corp."
 sector: "Consumer Staples"
 industry: "Packaged Foods"
-price: 163.97
+price: 163.36
 market_cap: "$1.1B"
 score: 75
-value: 83
+value: 84
 quality: 69
 growth: 84
-momentum: 77
+momentum: 75
 health: 61
 pe: 9.3
 piotroski: 8
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -27,26 +27,26 @@ Consumer Staples · Packaged Foods
 
 ## In plain English
 
-- Cheaper than about 83% of stocks in Consumer Staples (value score).
+- Cheaper than about 84% of stocks in Consumer Staples (value score).
 - Business quality ranks above 69% of all stocks scanned.
-- Share price up 38% over 12 months (21% below its 52-week high).
+- Share price up 34% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 83 | 69 | 84 | 77 | 61 |
+| **75** | 84 | 69 | 84 | 75 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $163.97 |
+| Price | $163.36 |
 | Market value | $1.1B |
 | P/E | 9.3 |
 | Price/Sales | 0.69 |
 | Price/Book | 1.43 |
-| Free-cash-flow yield | 26.9% |
+| Free-cash-flow yield | 27.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.6B |
 | Sales growth | – |
@@ -60,10 +60,10 @@ Consumer Staples · Packaged Foods
 | Piotroski F-score | 8/9 |
 | Altman Z | 4.49 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -9.3% / +21.9% / +37.7% |
-| vs. 200-day average | +5.2% |
+| Return 1m / 6m / 12m | -11.1% / +22.5% / +33.6% |
+| vs. 200-day average | +4.6% |
 | RSI (14d) | 32 |
-| Volatility (1y) | 41.6% |
+| Volatility (1y) | 41.2% |
 | Financials as of | 2025-12-27 |
 
 ## Watch out
@@ -77,4 +77,4 @@ Consumer Staples · Packaged Foods
 - Insider trades: http://openinsider.com/SENEA
 - Full deep dive: run `python scout.py stock SENEA` → `research/SENEA.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

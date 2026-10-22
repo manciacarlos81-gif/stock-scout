@@ -3,17 +3,17 @@ ticker: "FLXS"
 company: "Flexsteel Industries Inc."
 sector: "Consumer Discretionary"
 industry: "Home Furnishings"
-price: 83.79
-market_cap: "$342.8M"
+price: 84.38
+market_cap: "$345.3M"
 score: 77
 value: 81
 quality: 72
 growth: 60
 momentum: 95
 health: 72
-pe: 10.3
+pe: 10.4
 piotroski: 8
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Discretionary · Home Furnishings
 - Cheaper than about 81% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price up 133% over 12 months (6% below its 52-week high).
+- Share price up 142% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Consumer Discretionary · Home Furnishings
 
 | | |
 |---|---:|
-| Price | $83.79 |
-| Market value | $342.8M |
-| P/E | 10.3 |
+| Price | $84.38 |
+| Market value | $345.3M |
+| P/E | 10.4 |
 | Price/Sales | 0.75 |
-| Price/Book | 2.57 |
-| Free-cash-flow yield | 13.9% |
+| Price/Book | 2.59 |
+| Free-cash-flow yield | 13.8% |
 | Dividend yield | 1.3% |
 | Sales (12m) | $459.2M |
 | Sales growth | +4.1% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Home Furnishings
 | Debt / equity | – |
 | Current ratio | 2.09 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 5.67 |
+| Altman Z | 5.68 |
 | Share count change (1y) | -3.9% |
-| Return 1m / 6m / 12m | +3.5% / +74.7% / +133.3% |
-| vs. 200-day average | +34.5% |
-| RSI (14d) | 47 |
+| Return 1m / 6m / 12m | +0.6% / +76.2% / +142.0% |
+| vs. 200-day average | +35.0% |
+| RSI (14d) | 49 |
 | Volatility (1y) | 47.5% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/FLXS
 - Full deep dive: run `python scout.py stock FLXS` → `research/FLXS.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

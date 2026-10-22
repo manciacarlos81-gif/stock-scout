@@ -3,17 +3,17 @@ ticker: "TWLO"
 company: "Twilio Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 257.29
-market_cap: "$39.5B"
-score: 68
+price: 258.69
+market_cap: "$39.7B"
+score: 69
 value: 47
 quality: 55
 growth: 84
 momentum: 96
 health: 75
-pe: 34.4
+pe: 34.6
 piotroski: 6
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,23 +30,23 @@ Technology · Computer Software: Prepackaged Software
 - More expensive than about 53% of Technology peers (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 18% over the last 12 months.
-- Share price up 132% over 12 months (15% below its 52-week high).
+- Share price up 136% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 47 | 55 | 84 | 96 | 75 |
+| **69** | 47 | 55 | 84 | 96 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $257.29 |
-| Market value | $39.5B |
-| P/E | 34.4 |
-| Price/Sales | 7.09 |
-| Price/Book | 4.40 |
+| Price | $258.69 |
+| Market value | $39.7B |
+| P/E | 34.6 |
+| Price/Sales | 7.13 |
+| Price/Book | 4.43 |
 | Free-cash-flow yield | 2.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.6B |
@@ -59,10 +59,10 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.11 |
 | Current ratio | 4.62 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 12.70 |
+| Altman Z | 12.77 |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | -3.3% / +81.7% / +131.6% |
-| vs. 200-day average | +39.2% |
+| Return 1m / 6m / 12m | -9.1% / +79.9% / +136.4% |
+| vs. 200-day average | +39.5% |
 | RSI (14d) | 46 |
 | Volatility (1y) | 64.0% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/TWLO
 - Full deep dive: run `python scout.py stock TWLO` → `research/TWLO.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

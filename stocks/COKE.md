@@ -3,17 +3,17 @@ ticker: "COKE"
 company: "Coca-Cola Consolidated Inc."
 sector: "Consumer Staples"
 industry: "Beverages (Production/Distribution)"
-price: 209.92
-market_cap: "$14.0B"
+price: 213.19
+market_cap: "$14.2B"
 score: 57
 value: 42
 quality: 70
 growth: 47
 momentum: 73
 health: 51
-pe: 25.4
+pe: 25.8
 piotroski: 6
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,7 +30,7 @@ Consumer Staples · Beverages (Production/Distribution)
 - More expensive than about 58% of Consumer Staples peers (value score).
 - Business quality ranks above 70% of all stocks scanned.
 - Sales grew 11% over the last 12 months.
-- Share price up 59% over 12 months (3% below its 52-week high).
+- Share price up 66% over 12 months (1% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,10 +42,10 @@ Consumer Staples · Beverages (Production/Distribution)
 
 | | |
 |---|---:|
-| Price | $209.92 |
-| Market value | $14.0B |
-| P/E | 25.4 |
-| Price/Sales | 1.82 |
+| Price | $213.19 |
+| Market value | $14.2B |
+| P/E | 25.8 |
+| Price/Sales | 1.84 |
 | Price/Book | – |
 | Free-cash-flow yield | 4.4% |
 | Dividend yield | 0.6% |
@@ -59,11 +59,11 @@ Consumer Staples · Beverages (Production/Distribution)
 | Debt / equity | – |
 | Current ratio | 1.21 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.06 |
+| Altman Z | 4.09 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | +10.5% / +9.2% / +59.1% |
-| vs. 200-day average | +13.7% |
-| RSI (14d) | 67 |
+| Return 1m / 6m / 12m | +11.6% / +9.2% / +66.0% |
+| vs. 200-day average | +15.2% |
+| RSI (14d) | 70 |
 | Volatility (1y) | 36.5% |
 | Financials as of | 2026-07-03 |
 
@@ -78,4 +78,4 @@ Consumer Staples · Beverages (Production/Distribution)
 - Insider trades: http://openinsider.com/COKE
 - Full deep dive: run `python scout.py stock COKE` → `research/COKE.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

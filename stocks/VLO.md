@@ -3,17 +3,17 @@ ticker: "VLO"
 company: "Valero Energy Corporation"
 sector: "Energy"
 industry: "Integrated oil Companies"
-price: 433.31
+price: 433.42
 market_cap: "$124.8B"
 score: 67
 value: 54
 quality: 48
 growth: 85
-momentum: 97
-health: 63
+momentum: 96
+health: 64
 pe: 17.3
 piotroski: 6
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,19 +30,19 @@ Energy · Integrated oil Companies
 - Cheaper than about 54% of stocks in Energy (value score).
 - Business quality ranks above 48% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 181% over 12 months (6% below its 52-week high).
+- Share price up 173% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 54 | 48 | 85 | 97 | 63 |
+| **67** | 54 | 48 | 85 | 96 | 64 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $433.31 |
+| Price | $433.42 |
 | Market value | $124.8B |
 | P/E | 17.3 |
 | Price/Sales | 0.90 |
@@ -61,10 +61,10 @@ Energy · Integrated oil Companies
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.8% |
-| Return 1m / 6m / 12m | +10.2% / +86.9% / +180.6% |
-| vs. 200-day average | +56.6% |
+| Return 1m / 6m / 12m | +14.9% / +85.4% / +173.4% |
+| vs. 200-day average | +55.9% |
 | RSI (14d) | 60 |
-| Volatility (1y) | 37.5% |
+| Volatility (1y) | 36.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/VLO
 - Full deep dive: run `python scout.py stock VLO` → `research/VLO.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

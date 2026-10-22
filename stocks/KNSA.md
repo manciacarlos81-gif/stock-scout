@@ -3,17 +3,17 @@ ticker: "KNSA"
 company: "Kiniksa Pharmaceuticals International plc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 79.48
-market_cap: "$6.2B"
+price: 83.17
+market_cap: "$6.5B"
 score: 78
 value: 56
 quality: 79
 growth: 90
 momentum: 95
 health: 76
-pe: 76.9
+pe: 80.5
 piotroski: 8
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,7 +31,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 56% of stocks in Health Care (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 59% over the last 12 months.
-- Share price up 105% over 12 months (2% below its 52-week high).
+- Share price up 114% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -43,12 +43,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | | |
 |---|---:|
-| Price | $79.48 |
-| Market value | $6.2B |
-| P/E | 76.9 |
-| Price/Sales | 7.38 |
-| Price/Book | 9.48 |
-| Free-cash-flow yield | 2.2% |
+| Price | $83.17 |
+| Market value | $6.5B |
+| P/E | 80.5 |
+| Price/Sales | 7.72 |
+| Price/Book | 9.92 |
+| Free-cash-flow yield | 2.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $840.8M |
 | Sales growth | +58.9% |
@@ -60,12 +60,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 3.90 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 16.70 |
+| Altman Z | 17.42 |
 | Share count change (1y) | +7.0% |
-| Return 1m / 6m / 12m | +1.7% / +84.6% / +104.6% |
-| vs. 200-day average | +35.5% |
-| RSI (14d) | 57 |
-| Volatility (1y) | 49.3% |
+| Return 1m / 6m / 12m | +6.6% / +94.4% / +113.8% |
+| vs. 200-day average | +41.3% |
+| RSI (14d) | 67 |
+| Volatility (1y) | 49.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/KNSA
 - Full deep dive: run `python scout.py stock KNSA` → `research/KNSA.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

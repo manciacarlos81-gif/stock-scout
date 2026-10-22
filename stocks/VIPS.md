@@ -3,17 +3,17 @@ ticker: "VIPS"
 company: "Vipshop Holdings Limited"
 sector: "Consumer Discretionary"
 industry: "Catalog/Specialty Distribution"
-price: 12.8
-market_cap: "$6.1B"
+price: 12.96
+market_cap: "$6.2B"
 score: 55
 value: 92
 quality: 49
 growth: 34
-momentum: 23
+momentum: 22
 health: 66
-pe: 5.9
+pe: 6.0
 piotroski: 6
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Catalog/Specialty Distribution
 - Cheaper than about 92% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 49% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 28% over 12 months (34% below its 52-week high).
+- Share price down 27% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 92 | 49 | 34 | 23 | 66 |
+| **55** | 92 | 49 | 34 | 22 | 66 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.80 |
-| Market value | $6.1B |
-| P/E | 5.9 |
+| Price | $12.96 |
+| Market value | $6.2B |
+| P/E | 6.0 |
 | Price/Sales | 0.41 |
-| Price/Book | 1.05 |
-| Free-cash-flow yield | 12.7% |
-| Dividend yield | 4.2% |
+| Price/Book | 1.06 |
+| Free-cash-flow yield | 12.6% |
+| Dividend yield | 4.1% |
 | Sales (12m) | $15.1B |
 | Sales growth | +2.0% |
 | Net profit (12m) | $1.0B |
@@ -59,11 +59,11 @@ Consumer Discretionary · Catalog/Specialty Distribution
 | Debt / equity | – |
 | Current ratio | 1.28 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 3.43 |
+| Altman Z | 3.44 |
 | Share count change (1y) | -5.1% |
-| Return 1m / 6m / 12m | +2.4% / -10.2% / -28.4% |
-| vs. 200-day average | -12.2% |
-| RSI (14d) | 49 |
+| Return 1m / 6m / 12m | +2.3% / -9.7% / -26.8% |
+| vs. 200-day average | -11.0% |
+| RSI (14d) | 54 |
 | Volatility (1y) | 31.2% |
 | Financials as of | 2025-12-31 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Catalog/Specialty Distribution
 - Insider trades: http://openinsider.com/VIPS
 - Full deep dive: run `python scout.py stock VIPS` → `research/VIPS.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

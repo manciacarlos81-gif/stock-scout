@@ -3,17 +3,17 @@ ticker: "KOD"
 company: "Kodiak Sciences Inc"
 sector: "Health Care"
 industry: "Biotechnology: Biological Products (No Diagnostic Substances)"
-price: 91.35
-market_cap: "$5.7B"
-score: 42
-value: 37
+price: 92.97
+market_cap: "$5.8B"
+score: 43
+value: 38
 quality: 23
 growth: 22
-momentum: 94
+momentum: 96
 health: 33
 pe: null
 piotroski: 3
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,27 +27,27 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 
 ## In plain English
 
-- More expensive than about 63% of Health Care peers (value score).
+- More expensive than about 62% of Health Care peers (value score).
 - Business quality ranks above 23% of all stocks scanned.
-- Share price up 381% over 12 months (9% below its 52-week high).
+- Share price up 415% over 12 months (7% below its 52-week high).
 - Insiders bought $157.0M of shares recently (Baker Bros. Advisors LP (Dir, 10%)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **42** | 37 | 23 | 22 | 94 | 33 |
+| **43** | 38 | 23 | 22 | 96 | 33 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $91.35 |
-| Market value | $5.7B |
+| Price | $92.97 |
+| Market value | $5.8B |
 | P/E | – |
 | Price/Sales | – |
-| Price/Book | 93.97 |
-| Free-cash-flow yield | -2.4% |
+| Price/Book | 95.64 |
+| Free-cash-flow yield | -2.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | – |
 | Sales growth | – |
@@ -61,10 +61,10 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 3/9 |
 | Altman Z | – |
 | Share count change (1y) | +18.7% |
-| Return 1m / 6m / 12m | +181.8% / +102.1% / +380.8% |
-| vs. 200-day average | +130.8% |
-| RSI (14d) | 64 |
-| Volatility (1y) | 206.4% |
+| Return 1m / 6m / 12m | +175.1% / +107.3% / +415.1% |
+| vs. 200-day average | +132.9% |
+| RSI (14d) | 65 |
+| Volatility (1y) | 206.3% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -80,4 +80,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/KOD
 - Full deep dive: run `python scout.py stock KOD` → `research/KOD.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "TGTX"
 company: "TG Therapeutics Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 53.3
-market_cap: "$8.2B"
-score: 68
+price: 54.53
+market_cap: "$8.3B"
+score: 69
 value: 57
 quality: 58
 growth: 90
-momentum: 88
+momentum: 89
 health: 56
-pe: 18.5
+pe: 18.9
 piotroski: 5
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,23 +30,23 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 57% of stocks in Health Care (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 76% over the last 12 months.
-- Share price up 51% over 12 months (10% below its 52-week high).
+- Share price up 58% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 57 | 58 | 90 | 88 | 56 |
+| **69** | 57 | 58 | 90 | 89 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $53.30 |
-| Market value | $8.2B |
-| P/E | 18.5 |
-| Price/Sales | 10.20 |
-| Price/Book | 13.51 |
+| Price | $54.53 |
+| Market value | $8.3B |
+| P/E | 18.9 |
+| Price/Sales | 10.44 |
+| Price/Book | 13.82 |
 | Free-cash-flow yield | -0.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $799.5M |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 1.23 |
 | Current ratio | 4.27 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 5.23 |
+| Altman Z | 5.34 |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | -6.8% / +44.4% / +51.3% |
-| vs. 200-day average | +24.2% |
-| RSI (14d) | 45 |
-| Volatility (1y) | 45.6% |
+| Return 1m / 6m / 12m | -6.2% / +48.9% / +57.6% |
+| vs. 200-day average | +26.7% |
+| RSI (14d) | 50 |
+| Volatility (1y) | 45.5% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/TGTX
 - Full deep dive: run `python scout.py stock TGTX` → `research/TGTX.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

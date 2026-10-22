@@ -3,17 +3,17 @@ ticker: "ARDT"
 company: "Ardent Health Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 11.69
-market_cap: "$1.6B"
-score: 56
+price: 12.12
+market_cap: "$1.7B"
+score: 57
 value: 93
 quality: 51
-growth: 23
-momentum: 53
+growth: 24
+momentum: 55
 health: 42
-pe: 21.1
+pe: 21.9
 piotroski: 6
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Hospital/Nursing Management
 - Cheaper than about 93% of stocks in Health Care (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price down 22% over 12 months (23% below its 52-week high).
+- Share price down 18% over 12 months (20% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 93 | 51 | 23 | 53 | 42 |
+| **57** | 93 | 51 | 24 | 55 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $11.69 |
-| Market value | $1.6B |
-| P/E | 21.1 |
-| Price/Sales | 0.26 |
-| Price/Book | 1.22 |
-| Free-cash-flow yield | 28.5% |
+| Price | $12.12 |
+| Market value | $1.7B |
+| P/E | 21.9 |
+| Price/Sales | 0.27 |
+| Price/Book | 1.27 |
+| Free-cash-flow yield | 27.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $6.4B |
 | Sales growth | +3.3% |
@@ -61,10 +61,10 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +1.1% |
-| Return 1m / 6m / 12m | +10.2% / +20.8% / -21.9% |
-| vs. 200-day average | +18.5% |
-| RSI (14d) | 61 |
-| Volatility (1y) | 53.8% |
+| Return 1m / 6m / 12m | +10.7% / +25.1% / -18.3% |
+| vs. 200-day average | +22.6% |
+| RSI (14d) | 67 |
+| Volatility (1y) | 53.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/ARDT
 - Full deep dive: run `python scout.py stock ARDT` → `research/ARDT.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

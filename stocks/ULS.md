@@ -3,17 +3,17 @@ ticker: "ULS"
 company: "UL Solutions Inc."
 sector: "Health Care"
 industry: "Precision Instruments"
-price: 73.01
-market_cap: "$14.7B"
+price: 73.36
+market_cap: "$14.8B"
 score: 59
-value: 64
+value: 65
 quality: 82
 growth: 53
-momentum: 23
+momentum: 22
 health: 67
-pe: 29.2
+pe: 29.3
 piotroski: 8
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,7 +27,7 @@ Health Care · Precision Instruments
 
 ## In plain English
 
-- Cheaper than about 64% of stocks in Health Care (value score).
+- Cheaper than about 65% of stocks in Health Care (value score).
 - Business quality ranks above 82% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
 - Share price down 4% over 12 months (30% below its 52-week high).
@@ -36,17 +36,17 @@ Health Care · Precision Instruments
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **59** | 64 | 82 | 53 | 23 | 67 |
+| **59** | 65 | 82 | 53 | 22 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $73.01 |
-| Market value | $14.7B |
-| P/E | 29.2 |
-| Price/Sales | 4.69 |
-| Price/Book | 9.24 |
+| Price | $73.36 |
+| Market value | $14.8B |
+| P/E | 29.3 |
+| Price/Sales | 4.71 |
+| Price/Book | 9.29 |
 | Free-cash-flow yield | 2.7% |
 | Dividend yield | 0.7% |
 | Sales (12m) | $3.1B |
@@ -59,12 +59,12 @@ Health Care · Precision Instruments
 | Debt / equity | 0.19 |
 | Current ratio | 1.42 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 7.98 |
+| Altman Z | 8.01 |
 | Share count change (1y) | +0.5% |
-| Return 1m / 6m / 12m | +10.1% / -18.1% / -3.8% |
-| vs. 200-day average | -11.8% |
-| RSI (14d) | 60 |
-| Volatility (1y) | 43.0% |
+| Return 1m / 6m / 12m | +10.1% / -18.4% / -4.2% |
+| vs. 200-day average | -11.3% |
+| RSI (14d) | 61 |
+| Volatility (1y) | 42.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Precision Instruments
 - Insider trades: http://openinsider.com/ULS
 - Full deep dive: run `python scout.py stock ULS` → `research/ULS.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

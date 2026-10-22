@@ -5,15 +5,15 @@ sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
 price: 3.45
 market_cap: "$869.8M"
-score: 67
+score: 66
 value: 97
 quality: 59
 growth: 77
-momentum: 39
+momentum: 35
 health: 56
 pe: 7.3
 piotroski: 7
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,13 +31,13 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 97% of stocks in Technology (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 7% over 12 months (38% below its 52-week high).
+- Share price up 4% over 12 months (38% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **67** | 97 | 59 | 77 | 39 | 56 |
+| **66** | 97 | 59 | 77 | 35 | 56 |
 
 ## Key numbers
 
@@ -62,8 +62,8 @@ Technology · Computer Software: Programming Data Processing
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -4.7% / -7.3% / +7.1% |
-| vs. 200-day average | -14.6% |
+| Return 1m / 6m / 12m | -3.6% / -9.2% / +3.9% |
+| vs. 200-day average | -14.5% |
 | RSI (14d) | 46 |
 | Volatility (1y) | 56.5% |
 | Financials as of | 2026-06-30 |
@@ -75,4 +75,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/TBLA
 - Full deep dive: run `python scout.py stock TBLA` → `research/TBLA.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

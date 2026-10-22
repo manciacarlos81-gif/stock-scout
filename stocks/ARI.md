@@ -3,17 +3,17 @@ ticker: "ARI"
 company: "Apollo Commercial Real Estate Finance Inc"
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 6.32
-market_cap: "$810.3M"
-score: 66
+price: 6.37
+market_cap: "$816.7M"
+score: 65
 value: 86
 quality: 64
 growth: 50
-momentum: 36
+momentum: 34
 health: 92
-pe: 6.1
+pe: 6.2
 piotroski: 8
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,25 +30,25 @@ Real Estate · Real Estate Investment Trusts
 - Cheaper than about 86% of stocks in Real Estate (value score).
 - Business quality ranks above 64% of all stocks scanned.
 - Sales fell 15% over the last 12 months.
-- Share price up 1% over 12 months (13% below its 52-week high).
+- Share price up 1% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 86 | 64 | 50 | 36 | 92 |
+| **65** | 86 | 64 | 50 | 34 | 92 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.32 |
-| Market value | $810.3M |
-| P/E | 6.1 |
-| Price/Sales | 3.41 |
+| Price | $6.37 |
+| Market value | $816.7M |
+| P/E | 6.2 |
+| Price/Sales | 3.43 |
 | Price/Book | 0.65 |
-| Free-cash-flow yield | 17.6% |
-| Dividend yield | 17.4% |
+| Free-cash-flow yield | 17.5% |
+| Dividend yield | 17.3% |
 | Sales (12m) | $237.9M |
 | Sales growth | -14.7% |
 | Net profit (12m) | $132.0M |
@@ -61,9 +61,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | -1.7% / -11.1% / +1.4% |
-| vs. 200-day average | -6.1% |
-| RSI (14d) | 45 |
+| Return 1m / 6m / 12m | -0.6% / -11.1% / +0.6% |
+| vs. 200-day average | -5.4% |
+| RSI (14d) | 49 |
 | Volatility (1y) | 19.2% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/ARI
 - Full deep dive: run `python scout.py stock ARI` → `research/ARI.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

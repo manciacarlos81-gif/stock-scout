@@ -3,17 +3,17 @@ ticker: "INGM"
 company: "Ingram Micro Holding Corporation"
 sector: "Technology"
 industry: "Retail: Computer Software & Peripheral Equipment"
-price: 26.67
+price: 27.07
 market_cap: "$6.2B"
 score: 58
 value: 94
 quality: 35
 growth: 65
-momentum: 48
+momentum: 50
 health: 42
-pe: 14.3
+pe: 14.5
 piotroski: 6
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Technology · Retail: Computer Software & Peripheral Equipment
 - Cheaper than about 94% of stocks in Technology (value score).
 - Business quality ranks above 35% of all stocks scanned.
 - Sales grew 12% over the last 12 months.
-- Share price up 22% over 12 months (15% below its 52-week high).
+- Share price up 28% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **58** | 94 | 35 | 65 | 48 | 42 |
+| **58** | 94 | 35 | 65 | 50 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $26.67 |
+| Price | $27.07 |
 | Market value | $6.2B |
-| P/E | 14.3 |
+| P/E | 14.5 |
 | Price/Sales | 0.11 |
-| Price/Book | 1.44 |
-| Free-cash-flow yield | 12.8% |
+| Price/Book | 1.46 |
+| Free-cash-flow yield | 12.6% |
 | Dividend yield | 1.3% |
 | Sales (12m) | $56.0B |
 | Sales growth | +11.5% |
@@ -59,11 +59,11 @@ Technology · Retail: Computer Software & Peripheral Equipment
 | Debt / equity | 0.89 |
 | Current ratio | 1.31 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 3.32 |
+| Altman Z | 3.33 |
 | Share count change (1y) | -1.1% |
-| Return 1m / 6m / 12m | -1.1% / -11.8% / +21.9% |
-| vs. 200-day average | +2.3% |
-| RSI (14d) | 44 |
+| Return 1m / 6m / 12m | -0.6% / -10.3% / +28.3% |
+| vs. 200-day average | +3.7% |
+| RSI (14d) | 48 |
 | Volatility (1y) | 43.5% |
 | Financials as of | 2026-06-27 |
 
@@ -74,4 +74,4 @@ Technology · Retail: Computer Software & Peripheral Equipment
 - Insider trades: http://openinsider.com/INGM
 - Full deep dive: run `python scout.py stock INGM` → `research/INGM.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

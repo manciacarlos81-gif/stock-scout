@@ -3,17 +3,17 @@ ticker: "CI"
 company: "The Cigna Group"
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 298.5
-market_cap: "$78.9B"
+price: 306.6
+market_cap: "$81.0B"
 score: 63
 value: 94
 quality: 59
 growth: 53
-momentum: 51
+momentum: 52
 health: 42
-pe: 12.3
+pe: 12.6
 piotroski: 7
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Medical Specialities
 - Cheaper than about 94% of stocks in Health Care (value score).
 - Business quality ranks above 59% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price down 1% over 12 months (1% below its 52-week high).
+- Share price up 2% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **63** | 94 | 59 | 53 | 51 | 42 |
+| **63** | 94 | 59 | 53 | 52 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $298.50 |
-| Market value | $78.9B |
-| P/E | 12.3 |
-| Price/Sales | 0.28 |
-| Price/Book | 1.85 |
-| Free-cash-flow yield | 12.2% |
+| Price | $306.60 |
+| Market value | $81.0B |
+| P/E | 12.6 |
+| Price/Sales | 0.29 |
+| Price/Book | 1.90 |
+| Free-cash-flow yield | 11.9% |
 | Dividend yield | 2.0% |
 | Sales (12m) | $282.4B |
 | Sales growth | +7.8% |
@@ -59,12 +59,12 @@ Health Care · Medical Specialities
 | Debt / equity | 0.75 |
 | Current ratio | 0.85 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 2.80 |
+| Altman Z | 2.82 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +8.8% / +7.9% / -0.7% |
-| vs. 200-day average | +7.3% |
-| RSI (14d) | 68 |
-| Volatility (1y) | 32.3% |
+| Return 1m / 6m / 12m | +12.0% / +12.5% / +1.8% |
+| vs. 200-day average | +10.1% |
+| RSI (14d) | 73 |
+| Volatility (1y) | 32.4% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/CI
 - Full deep dive: run `python scout.py stock CI` → `research/CI.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

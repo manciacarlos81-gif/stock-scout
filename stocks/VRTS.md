@@ -3,17 +3,17 @@ ticker: "VRTS"
 company: "Virtus Investment Partners Inc."
 sector: "Finance"
 industry: "Investment Managers"
-price: 117.74
-market_cap: "$779.8M"
+price: 120.08
+market_cap: "$795.3M"
 score: 49
 value: 90
 quality: 40
 growth: 20
 momentum: 20
 health: 63
-pe: 6.7
+pe: 6.9
 piotroski: 3
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,7 +30,7 @@ Finance · Investment Managers
 - Cheaper than about 90% of stocks in Finance (value score).
 - Business quality ranks above 40% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price down 30% over 12 months (31% below its 52-week high).
+- Share price down 28% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,13 +42,13 @@ Finance · Investment Managers
 
 | | |
 |---|---:|
-| Price | $117.74 |
-| Market value | $779.8M |
-| P/E | 6.7 |
-| Price/Sales | 0.94 |
-| Price/Book | 0.82 |
+| Price | $120.08 |
+| Market value | $795.3M |
+| P/E | 6.9 |
+| Price/Sales | 0.96 |
+| Price/Book | 0.84 |
 | Free-cash-flow yield | – |
-| Dividend yield | 8.3% |
+| Dividend yield | 8.1% |
 | Sales (12m) | $825.3M |
 | Sales growth | -7.2% |
 | Net profit (12m) | $116.0M |
@@ -61,9 +61,9 @@ Finance · Investment Managers
 | Piotroski F-score | 3/9 |
 | Altman Z | – |
 | Share count change (1y) | -2.1% |
-| Return 1m / 6m / 12m | -9.3% / -14.8% / -29.5% |
-| vs. 200-day average | -18.3% |
-| RSI (14d) | 21 |
+| Return 1m / 6m / 12m | -7.9% / -13.4% / -28.0% |
+| vs. 200-day average | -16.6% |
+| RSI (14d) | 28 |
 | Volatility (1y) | 35.3% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Finance · Investment Managers
 - Insider trades: http://openinsider.com/VRTS
 - Full deep dive: run `python scout.py stock VRTS` → `research/VRTS.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

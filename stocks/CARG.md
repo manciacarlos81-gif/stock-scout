@@ -3,17 +3,17 @@ ticker: "CARG"
 company: "CarGurus Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 31.02
+price: 31.66
 market_cap: "$2.8B"
 score: 69
 value: 79
 quality: 91
-growth: 55
-momentum: 28
+growth: 56
+momentum: 26
 health: 83
-pe: 15.7
+pe: 16.0
 piotroski: 8
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "💎 Quality at a fair price"
   - "💵 Dividends & buybacks"
@@ -31,24 +31,24 @@ Technology · EDP Services
 - Cheaper than about 79% of stocks in Technology (value score).
 - Business quality ranks above 91% of all stocks scanned.
 - Sales grew 14% over the last 12 months.
-- Share price down 14% over 12 months (21% below its 52-week high).
+- Share price down 12% over 12 months (19% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 79 | 91 | 55 | 28 | 83 |
+| **69** | 79 | 91 | 56 | 26 | 83 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $31.02 |
+| Price | $31.66 |
 | Market value | $2.8B |
-| P/E | 15.7 |
-| Price/Sales | 2.86 |
-| Price/Book | 10.45 |
-| Free-cash-flow yield | 10.5% |
+| P/E | 16.0 |
+| Price/Sales | 2.92 |
+| Price/Book | 10.67 |
+| Free-cash-flow yield | 10.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $967.3M |
 | Sales growth | +13.9% |
@@ -60,12 +60,12 @@ Technology · EDP Services
 | Debt / equity | 0.00 |
 | Current ratio | 1.85 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 9.70 |
+| Altman Z | 9.82 |
 | Share count change (1y) | -9.1% |
-| Return 1m / 6m / 12m | -6.5% / -17.2% / -13.9% |
-| vs. 200-day average | -6.1% |
-| RSI (14d) | 50 |
-| Volatility (1y) | 39.2% |
+| Return 1m / 6m / 12m | -0.9% / -15.8% / -12.3% |
+| vs. 200-day average | -4.1% |
+| RSI (14d) | 54 |
+| Volatility (1y) | 39.3% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/CARG
 - Full deep dive: run `python scout.py stock CARG` → `research/CARG.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

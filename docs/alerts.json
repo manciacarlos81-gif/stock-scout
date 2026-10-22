@@ -1,13 +1,13 @@
 {
- "date": "2026-10-21",
- "scanned": 2535,
+ "date": "2026-10-22",
+ "scanned": 2543,
  "top": [
   {
    "rank": 1,
    "ticker": "MU",
    "name": "Micron Technology Inc.",
    "score": 86,
-   "price": 904.9,
+   "price": 896.07,
    "flags": ""
   },
   {
@@ -15,7 +15,7 @@
    "ticker": "SNDK",
    "name": "Sandisk Corporation",
    "score": 81,
-   "price": 1371.12,
+   "price": 1365.38,
    "flags": ""
   },
   {
@@ -23,31 +23,31 @@
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 100.62,
+   "price": 103.16,
    "flags": "heavy debt"
   },
   {
    "rank": 4,
-   "ticker": "LPG",
-   "name": "Dorian LPG Ltd.",
-   "score": 80,
-   "price": 52.5,
-   "flags": ""
-  },
-  {
-   "rank": 5,
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 191.25,
+   "price": 198.99,
    "flags": "shares up 17% in a year"
+  },
+  {
+   "rank": 5,
+   "ticker": "LPG",
+   "name": "Dorian LPG Ltd.",
+   "score": 80,
+   "price": 52.07,
+   "flags": ""
   },
   {
    "rank": 6,
    "ticker": "INSW",
    "name": "International Seaways Inc.",
    "score": 80,
-   "price": 104.83,
+   "price": 104.76,
    "flags": ""
   },
   {
@@ -55,7 +55,7 @@
    "ticker": "EXEL",
    "name": "Exelixis Inc.",
    "score": 80,
-   "price": 62.68,
+   "price": 64.39,
    "flags": ""
   },
   {
@@ -63,7 +63,7 @@
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 80,
-   "price": 113.25,
+   "price": 116.62,
    "flags": ""
   },
   {
@@ -71,15 +71,15 @@
    "ticker": "CDNA",
    "name": "CareDx Inc.",
    "score": 79,
-   "price": 67.08,
+   "price": 69.2,
    "flags": ""
   },
   {
    "rank": 10,
    "ticker": "AUPH",
    "name": "Aurinia Pharmaceuticals Inc",
-   "score": 78,
-   "price": 16.49,
+   "score": 79,
+   "price": 16.74,
    "flags": "profits not backed by cash"
   }
  ],

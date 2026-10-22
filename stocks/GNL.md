@@ -3,17 +3,17 @@ ticker: "GNL"
 company: "Global Net Lease Inc."
 sector: "Real Estate"
 industry: "Real Estate Investment Trusts"
-price: 7.32
+price: 7.36
 market_cap: "$1.7B"
 score: 52
-value: 60
+value: 59
 quality: 51
 growth: 55
-momentum: 36
+momentum: 35
 health: 58
 pe: null
 piotroski: 5
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,27 +27,27 @@ Real Estate · Real Estate Investment Trusts
 
 ## In plain English
 
-- Cheaper than about 60% of stocks in Real Estate (value score).
+- Cheaper than about 59% of stocks in Real Estate (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales fell 14% over the last 12 months.
-- Share price up 5% over 12 months (22% below its 52-week high).
+- Share price up 6% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 60 | 51 | 55 | 36 | 58 |
+| **52** | 59 | 51 | 55 | 35 | 58 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $7.32 |
+| Price | $7.36 |
 | Market value | $1.7B |
 | P/E | – |
-| Price/Sales | 3.68 |
-| Price/Book | 1.12 |
-| Free-cash-flow yield | 13.2% |
+| Price/Sales | 3.70 |
+| Price/Book | 1.13 |
+| Free-cash-flow yield | 13.1% |
 | Dividend yield | 11.3% |
 | Sales (12m) | $459.7M |
 | Sales growth | -13.9% |
@@ -61,9 +61,9 @@ Real Estate · Real Estate Investment Trusts
 | Piotroski F-score | 5/9 |
 | Altman Z | – |
 | Share count change (1y) | -5.2% |
-| Return 1m / 6m / 12m | -14.2% / -19.1% / +4.8% |
-| vs. 200-day average | -16.3% |
-| RSI (14d) | 11 |
+| Return 1m / 6m / 12m | -13.4% / -19.0% / +5.7% |
+| vs. 200-day average | -15.8% |
+| RSI (14d) | 15 |
 | Volatility (1y) | 21.1% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Real Estate · Real Estate Investment Trusts
 - Insider trades: http://openinsider.com/GNL
 - Full deep dive: run `python scout.py stock GNL` → `research/GNL.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_

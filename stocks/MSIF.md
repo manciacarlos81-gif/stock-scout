@@ -3,17 +3,17 @@ ticker: "MSIF"
 company: "MSC Income Fund Inc."
 sector: "Finance"
 industry: "Finance/Investors Services"
-price: 11.48
-market_cap: "$520.6M"
-score: 70
+price: 11.47
+market_cap: "$520.1M"
+score: 69
 value: 96
 quality: null
 growth: 77
-momentum: 43
+momentum: 41
 health: 88
 pe: 5.3
 piotroski: 6
-updated: "2026-10-21"
+updated: "2026-10-22"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -35,17 +35,17 @@ Finance · Finance/Investors Services
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **70** | 96 | – | 77 | 43 | 88 |
+| **69** | 96 | – | 77 | 41 | 88 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $11.48 |
-| Market value | $520.6M |
+| Price | $11.47 |
+| Market value | $520.1M |
 | P/E | 5.3 |
 | Price/Sales | – |
-| Price/Book | 0.70 |
+| Price/Book | 0.69 |
 | Free-cash-flow yield | – |
 | Dividend yield | 13.0% |
 | Sales (12m) | – |
@@ -60,8 +60,8 @@ Finance · Finance/Investors Services
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.6% |
-| Return 1m / 6m / 12m | -7.8% / -3.0% / -5.4% |
-| vs. 200-day average | -3.1% |
+| Return 1m / 6m / 12m | -8.1% / -3.4% / -5.3% |
+| vs. 200-day average | -3.2% |
 | RSI (14d) | 38 |
 | Volatility (1y) | 26.9% |
 | Financials as of | 2026-06-30 |
@@ -73,4 +73,4 @@ Finance · Finance/Investors Services
 - Insider trades: http://openinsider.com/MSIF
 - Full deep dive: run `python scout.py stock MSIF` → `research/MSIF.md`
 
-_Updated 2026-10-21 · [latest report](../reports/latest.md)_
+_Updated 2026-10-22 · [latest report](../reports/latest.md)_
