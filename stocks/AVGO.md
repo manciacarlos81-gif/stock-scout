@@ -3,7 +3,7 @@ ticker: "AVGO"
 company: "Broadcom Inc."
 sector: "Technology"
 industry: "Semiconductors"
-price: 334.37
+price: 337.8
 market_cap: "$1.6T"
 score: 59
 value: 39
@@ -11,9 +11,9 @@ quality: 81
 growth: 83
 momentum: 31
 health: 66
-pe: 41.7
+pe: 42.1
 piotroski: 8
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -42,11 +42,11 @@ Technology · Semiconductors
 
 | | |
 |---|---:|
-| Price | $334.37 |
+| Price | $337.80 |
 | Market value | $1.6T |
-| P/E | 41.7 |
-| Price/Sales | 17.91 |
-| Price/Book | 16.01 |
+| P/E | 42.1 |
+| Price/Sales | 18.10 |
+| Price/Book | 16.18 |
 | Free-cash-flow yield | 1.7% |
 | Dividend yield | 0.7% |
 | Sales (12m) | $89.1B |
@@ -59,12 +59,12 @@ Technology · Semiconductors
 | Debt / equity | 0.60 |
 | Current ratio | 2.50 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 12.42 |
+| Altman Z | 12.53 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -8.3% / -20.6% / -1.0% |
-| vs. 200-day average | -9.0% |
-| RSI (14d) | 39 |
-| Volatility (1y) | 45.7% |
+| Return 1m / 6m / 12m | -4.8% / -19.0% / -1.2% |
+| vs. 200-day average | -8.1% |
+| RSI (14d) | 41 |
+| Volatility (1y) | 45.6% |
 | Financials as of | 2026-08-02 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · Semiconductors
 - Insider trades: http://openinsider.com/AVGO
 - Full deep dive: run `python scout.py stock AVGO` → `research/AVGO.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

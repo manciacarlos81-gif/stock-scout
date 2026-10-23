@@ -3,17 +3,17 @@ ticker: "PYPL"
 company: "PayPal Holdings Inc."
 sector: "Industrials"
 industry: "Diversified Commercial Services"
-price: 57.14
+price: 57.2
 market_cap: "$48.9B"
 score: 65
 value: 87
 quality: 77
 growth: 44
-momentum: 50
+momentum: 51
 health: 48
 pe: 10.0
 piotroski: 9
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,19 +30,19 @@ Industrials · Diversified Commercial Services
 - Cheaper than about 87% of stocks in Industrials (value score).
 - Business quality ranks above 77% of all stocks scanned.
 - Sales grew 6% over the last 12 months.
-- Share price down 15% over 12 months (21% below its 52-week high).
+- Share price down 17% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 87 | 77 | 44 | 50 | 48 |
+| **65** | 87 | 77 | 44 | 51 | 48 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $57.14 |
+| Price | $57.20 |
 | Market value | $48.9B |
 | P/E | 10.0 |
 | Price/Sales | 1.43 |
@@ -61,8 +61,8 @@ Industrials · Diversified Commercial Services
 | Piotroski F-score | 9/9 |
 | Altman Z | 1.90 |
 | Share count change (1y) | -9.7% |
-| Return 1m / 6m / 12m | +8.0% / +13.8% / -15.1% |
-| vs. 200-day average | +14.9% |
+| Return 1m / 6m / 12m | +8.9% / +15.6% / -17.0% |
+| vs. 200-day average | +15.1% |
 | RSI (14d) | 62 |
 | Volatility (1y) | 42.6% |
 | Financials as of | 2026-06-30 |
@@ -74,4 +74,4 @@ Industrials · Diversified Commercial Services
 - Insider trades: http://openinsider.com/PYPL
 - Full deep dive: run `python scout.py stock PYPL` → `research/PYPL.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

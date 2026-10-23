@@ -3,17 +3,17 @@ ticker: "RDDT"
 company: "Reddit Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 155.65
-market_cap: "$29.9B"
-score: 64
-value: 47
+price: 153.28
+market_cap: "$29.5B"
+score: 63
+value: 48
 quality: 81
 growth: 90
-momentum: 34
+momentum: 29
 health: 76
-pe: 34.4
+pe: 33.8
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,26 +27,26 @@ Technology · EDP Services
 
 ## In plain English
 
-- More expensive than about 53% of Technology peers (value score).
+- More expensive than about 52% of Technology peers (value score).
 - Business quality ranks above 81% of all stocks scanned.
 - Sales grew 67% over the last 12 months.
-- Share price down 21% over 12 months (40% below its 52-week high).
+- Share price down 24% over 12 months (41% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 47 | 81 | 90 | 34 | 76 |
+| **63** | 48 | 81 | 90 | 29 | 76 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $155.65 |
-| Market value | $29.9B |
-| P/E | 34.4 |
-| Price/Sales | 10.78 |
-| Price/Book | 9.11 |
+| Price | $153.28 |
+| Market value | $29.5B |
+| P/E | 33.8 |
+| Price/Sales | 10.61 |
+| Price/Book | 8.98 |
 | Free-cash-flow yield | 2.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $2.8B |
@@ -61,10 +61,10 @@ Technology · EDP Services
 | Piotroski F-score | 7/9 |
 | Altman Z | 30.00 |
 | Share count change (1y) | +1.3% |
-| Return 1m / 6m / 12m | -0.0% / +0.5% / -21.0% |
-| vs. 200-day average | -4.2% |
-| RSI (14d) | 52 |
-| Volatility (1y) | 70.0% |
+| Return 1m / 6m / 12m | +0.9% / -4.3% / -23.7% |
+| vs. 200-day average | -5.4% |
+| RSI (14d) | 49 |
+| Volatility (1y) | 69.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/RDDT
 - Full deep dive: run `python scout.py stock RDDT` → `research/RDDT.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

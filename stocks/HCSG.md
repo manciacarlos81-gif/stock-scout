@@ -3,17 +3,17 @@ ticker: "HCSG"
 company: "Healthcare Services Group Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 21.5
+price: 21.71
 market_cap: "$1.5B"
-score: 70
-value: 89
+score: 71
+value: 88
 quality: 76
 growth: 65
-momentum: 48
+momentum: 52
 health: 64
-pe: 12.0
+pe: 12.1
 piotroski: 8
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -27,27 +27,27 @@ Health Care · Hospital/Nursing Management
 
 ## In plain English
 
-- Cheaper than about 89% of stocks in Health Care (value score).
+- Cheaper than about 88% of stocks in Health Care (value score).
 - Business quality ranks above 76% of all stocks scanned.
 - Sales grew 5% over the last 12 months.
-- Share price up 14% over 12 months (15% below its 52-week high).
+- Share price up 17% over 12 months (14% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **70** | 89 | 76 | 65 | 48 | 64 |
+| **71** | 88 | 76 | 65 | 52 | 64 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $21.50 |
+| Price | $21.71 |
 | Market value | $1.5B |
-| P/E | 12.0 |
-| Price/Sales | 0.79 |
-| Price/Book | 2.84 |
-| Free-cash-flow yield | 9.4% |
+| P/E | 12.1 |
+| Price/Sales | 0.80 |
+| Price/Book | 2.87 |
+| Free-cash-flow yield | 9.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.9B |
 | Sales growth | +5.2% |
@@ -61,9 +61,9 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -4.5% |
-| Return 1m / 6m / 12m | -0.3% / -4.1% / +14.1% |
-| vs. 200-day average | +1.3% |
-| RSI (14d) | 55 |
+| Return 1m / 6m / 12m | +2.2% / +0.0% / +16.7% |
+| vs. 200-day average | +2.2% |
+| RSI (14d) | 58 |
 | Volatility (1y) | 39.1% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/HCSG
 - Full deep dive: run `python scout.py stock HCSG` → `research/HCSG.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

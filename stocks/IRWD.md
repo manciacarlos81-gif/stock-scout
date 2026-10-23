@@ -3,17 +3,17 @@ ticker: "IRWD"
 company: "Ironwood Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 3.63
-market_cap: "$599.8M"
-score: 75
+price: 3.55
+market_cap: "$586.6M"
+score: 74
 value: 84
 quality: 91
 growth: 91
-momentum: 58
+momentum: 55
 health: 41
-pe: 4.6
+pe: 4.5
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 84% of stocks in Health Care (value score).
 - Business quality ranks above 91% of all stocks scanned.
 - Sales grew 26% over the last 12 months.
-- Share price up 131% over 12 months (33% below its 52-week high).
+- Share price up 118% over 12 months (34% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 84 | 91 | 91 | 58 | 41 |
+| **74** | 84 | 91 | 91 | 55 | 41 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $3.63 |
-| Market value | $599.8M |
-| P/E | 4.6 |
-| Price/Sales | 1.54 |
+| Price | $3.55 |
+| Market value | $586.6M |
+| P/E | 4.5 |
+| Price/Sales | 1.51 |
 | Price/Book | – |
-| Free-cash-flow yield | 21.2% |
+| Free-cash-flow yield | 21.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $389.3M |
 | Sales growth | +26.2% |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 6.06 |
 | Piotroski F-score | 7/9 |
-| Altman Z | -2.19 |
+| Altman Z | -2.20 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | -19.9% / -7.6% / +131.2% |
-| vs. 200-day average | -9.5% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | -16.9% / -12.1% / +117.8% |
+| vs. 200-day average | -11.4% |
+| RSI (14d) | 40 |
 | Volatility (1y) | 90.6% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/IRWD
 - Full deep dive: run `python scout.py stock IRWD` → `research/IRWD.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "DELL"
 company: "Dell Technologies Inc."
 sector: "Technology"
 industry: "Computer Manufacturing"
-price: 461.56
-market_cap: "$293.5B"
+price: 485.88
+market_cap: "$308.9B"
 score: 66
-value: 58
-quality: 50
+value: 57
+quality: 49
 growth: 89
 momentum: 98
-health: 42
-pe: 25.8
+health: 43
+pe: 27.2
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · Computer Manufacturing
 
 ## In plain English
 
-- Cheaper than about 58% of stocks in Technology (value score).
-- Business quality ranks above 50% of all stocks scanned.
+- Cheaper than about 57% of stocks in Technology (value score).
+- Business quality ranks above 49% of all stocks scanned.
 - Sales grew 49% over the last 12 months.
-- Share price up 211% over 12 months (21% below its 52-week high).
+- Share price up 218% over 12 months (17% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **66** | 58 | 50 | 89 | 98 | 42 |
+| **66** | 57 | 49 | 89 | 98 | 43 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $461.56 |
-| Market value | $293.5B |
-| P/E | 25.8 |
-| Price/Sales | 1.94 |
+| Price | $485.88 |
+| Market value | $308.9B |
+| P/E | 27.2 |
+| Price/Sales | 2.04 |
 | Price/Book | – |
-| Free-cash-flow yield | 2.9% |
+| Free-cash-flow yield | 2.8% |
 | Dividend yield | 0.5% |
 | Sales (12m) | $151.2B |
 | Sales growth | +49.0% |
@@ -59,12 +59,12 @@ Technology · Computer Manufacturing
 | Debt / equity | – |
 | Current ratio | 0.96 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.00 |
+| Altman Z | 3.08 |
 | Share count change (1y) | -5.0% |
-| Return 1m / 6m / 12m | -15.8% / +114.2% / +210.7% |
-| vs. 200-day average | +43.8% |
-| RSI (14d) | 36 |
-| Volatility (1y) | 75.7% |
+| Return 1m / 6m / 12m | -11.5% / +125.7% / +218.4% |
+| vs. 200-day average | +50.4% |
+| RSI (14d) | 42 |
+| Volatility (1y) | 75.8% |
 | Financials as of | 2026-07-31 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Technology · Computer Manufacturing
 - Insider trades: http://openinsider.com/DELL
 - Full deep dive: run `python scout.py stock DELL` → `research/DELL.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

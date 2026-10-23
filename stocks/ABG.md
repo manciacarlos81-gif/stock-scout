@@ -3,17 +3,17 @@ ticker: "ABG"
 company: "Asbury Automotive Group Inc"
 sector: "Consumer Discretionary"
 industry: "Retail-Auto Dealers and Gas Stations"
-price: 172.13
-market_cap: "$3.1B"
+price: 164.05
+market_cap: "$2.9B"
 score: 50
-value: 94
+value: 95
 quality: 43
 growth: 35
-momentum: 18
+momentum: 17
 health: 44
-pe: 6.1
+pe: 5.8
 piotroski: 6
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -27,27 +27,27 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 
 ## In plain English
 
-- Cheaper than about 94% of stocks in Consumer Discretionary (value score).
+- Cheaper than about 95% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 43% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price down 31% over 12 months (33% below its 52-week high).
+- Share price down 32% over 12 months (36% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 94 | 43 | 35 | 18 | 44 |
+| **50** | 95 | 43 | 35 | 17 | 44 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $172.13 |
-| Market value | $3.1B |
-| P/E | 6.1 |
-| Price/Sales | 0.17 |
-| Price/Book | 0.79 |
-| Free-cash-flow yield | 25.1% |
+| Price | $164.05 |
+| Market value | $2.9B |
+| P/E | 5.8 |
+| Price/Sales | 0.16 |
+| Price/Book | 0.75 |
+| Free-cash-flow yield | 26.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $18.0B |
 | Sales growth | +4.1% |
@@ -61,11 +61,15 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -7.1% |
-| Return 1m / 6m / 12m | -8.0% / -15.2% / -30.8% |
-| vs. 200-day average | -16.3% |
-| RSI (14d) | 42 |
-| Volatility (1y) | 32.8% |
+| Return 1m / 6m / 12m | -9.6% / -18.0% / -31.9% |
+| vs. 200-day average | -20.1% |
+| RSI (14d) | 34 |
+| Volatility (1y) | 33.1% |
 | Financials as of | 2026-06-30 |
+
+## Watch out
+
+- well below 200-day average
 
 ## Dig deeper
 
@@ -74,4 +78,4 @@ Consumer Discretionary · Retail-Auto Dealers and Gas Stations
 - Insider trades: http://openinsider.com/ABG
 - Full deep dive: run `python scout.py stock ABG` → `research/ABG.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

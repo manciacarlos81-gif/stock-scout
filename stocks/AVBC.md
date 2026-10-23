@@ -3,17 +3,17 @@ ticker: "AVBC"
 company: "Avidia Bancorp Inc."
 sector: "Finance"
 industry: "Banks"
-price: 22.08
-market_cap: "$440.9M"
+price: 22.2
+market_cap: "$443.3M"
 score: 54
-value: 41
+value: 40
 quality: null
 growth: null
-momentum: 72
-health: 63
-pe: 25.1
+momentum: 71
+health: 62
+pe: 25.2
 piotroski: null
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,25 +27,25 @@ Finance · Banks
 
 ## In plain English
 
-- More expensive than about 59% of Finance peers (value score).
-- Share price up 50% over 12 months (2% below its 52-week high).
+- More expensive than about 60% of Finance peers (value score).
+- Share price up 53% over 12 months (2% below its 52-week high).
 - Insiders bought $643.8K of shares recently (Murphy Michael Dennis (Chairman of the Board); Nelson Jonathan Michael (CFO, Treasurer); Grimaldo Joseph F (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 41 | – | – | 72 | 63 |
+| **54** | 40 | – | – | 71 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $22.08 |
-| Market value | $440.9M |
-| P/E | 25.1 |
+| Price | $22.20 |
+| Market value | $443.3M |
+| P/E | 25.2 |
 | Price/Sales | – |
-| Price/Book | 1.13 |
+| Price/Book | 1.14 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | – |
@@ -60,9 +60,9 @@ Finance · Banks
 | Piotroski F-score | – |
 | Altman Z | – |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | +1.4% / +10.5% / +50.5% |
-| vs. 200-day average | +9.6% |
-| RSI (14d) | 54 |
+| Return 1m / 6m / 12m | +2.6% / +6.7% / +53.5% |
+| vs. 200-day average | +10.0% |
+| RSI (14d) | 56 |
 | Volatility (1y) | 24.4% |
 | Financials as of | 2026-06-30 |
 
@@ -73,4 +73,4 @@ Finance · Banks
 - Insider trades: http://openinsider.com/AVBC
 - Full deep dive: run `python scout.py stock AVBC` → `research/AVBC.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

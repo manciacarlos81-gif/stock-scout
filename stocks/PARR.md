@@ -3,17 +3,17 @@ ticker: "PARR"
 company: "Par Pacific Holdings Inc."
 sector: "Energy"
 industry: "Oil & Gas Production"
-price: 85.11
-market_cap: "$4.3B"
+price: 84.7
+market_cap: "$4.2B"
 score: 74
 value: 78
-quality: 59
+quality: 60
 growth: 84
-momentum: 90
+momentum: 89
 health: 61
 pe: 5.0
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -28,25 +28,25 @@ Energy · Oil & Gas Production
 ## In plain English
 
 - Cheaper than about 78% of stocks in Energy (value score).
-- Business quality ranks above 59% of all stocks scanned.
+- Business quality ranks above 60% of all stocks scanned.
 - Sales grew 13% over the last 12 months.
-- Share price up 131% over 12 months (5% below its 52-week high).
+- Share price up 110% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **74** | 78 | 59 | 84 | 90 | 61 |
+| **74** | 78 | 60 | 84 | 89 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $85.11 |
-| Market value | $4.3B |
+| Price | $84.70 |
+| Market value | $4.2B |
 | P/E | 5.0 |
 | Price/Sales | 0.49 |
-| Price/Book | 2.15 |
+| Price/Book | 2.14 |
 | Free-cash-flow yield | 7.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $8.6B |
@@ -59,11 +59,11 @@ Energy · Oil & Gas Production
 | Debt / equity | 0.37 |
 | Current ratio | 1.84 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.38 |
+| Altman Z | 4.37 |
 | Share count change (1y) | -2.7% |
-| Return 1m / 6m / 12m | +7.6% / +32.6% / +130.8% |
-| vs. 200-day average | +34.8% |
-| RSI (14d) | 53 |
+| Return 1m / 6m / 12m | +10.0% / +31.6% / +110.3% |
+| vs. 200-day average | +33.6% |
+| RSI (14d) | 52 |
 | Volatility (1y) | 57.0% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Energy · Oil & Gas Production
 - Insider trades: http://openinsider.com/PARR
 - Full deep dive: run `python scout.py stock PARR` → `research/PARR.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "SCHL"
 company: "Scholastic Corporation"
 sector: "Consumer Discretionary"
 industry: "Books"
-price: 38.71
-market_cap: "$712.6M"
+price: 38.67
+market_cap: "$711.9M"
 score: 53
 value: 61
-quality: 46
+quality: 47
 growth: 49
-momentum: 53
+momentum: 52
 health: 52
-pe: 12.6
+pe: 12.5
 piotroski: 8
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -28,23 +28,23 @@ Consumer Discretionary · Books
 ## In plain English
 
 - Cheaper than about 61% of stocks in Consumer Discretionary (value score).
-- Business quality ranks above 46% of all stocks scanned.
+- Business quality ranks above 47% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 42% over 12 months (18% below its 52-week high).
+- Share price up 37% over 12 months (18% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 61 | 46 | 49 | 53 | 52 |
+| **53** | 61 | 47 | 49 | 52 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $38.71 |
-| Market value | $712.6M |
-| P/E | 12.6 |
+| Price | $38.67 |
+| Market value | $711.9M |
+| P/E | 12.5 |
 | Price/Sales | 0.45 |
 | Price/Book | 0.95 |
 | Free-cash-flow yield | 7.1% |
@@ -61,10 +61,10 @@ Consumer Discretionary · Books
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -12.3% |
-| Return 1m / 6m / 12m | +9.8% / -2.9% / +41.6% |
-| vs. 200-day average | +0.4% |
+| Return 1m / 6m / 12m | +9.4% / -3.9% / +37.3% |
+| vs. 200-day average | +0.2% |
 | RSI (14d) | 56 |
-| Volatility (1y) | 35.1% |
+| Volatility (1y) | 35.0% |
 | Financials as of | 2026-05-31 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Consumer Discretionary · Books
 - Insider trades: http://openinsider.com/SCHL
 - Full deep dive: run `python scout.py stock SCHL` → `research/SCHL.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

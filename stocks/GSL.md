@@ -3,17 +3,17 @@ ticker: "GSL"
 company: "Global Ship Lease Inc New"
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 41.22
+price: 41.83
 market_cap: "$1.5B"
-score: 72
+score: 73
 value: 90
 quality: 78
 growth: 51
-momentum: 72
+momentum: 73
 health: 55
 pe: 3.6
 piotroski: 6
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 90% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 8% over the last 12 months.
-- Share price up 56% over 12 months (11% below its 52-week high).
+- Share price up 56% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **72** | 90 | 78 | 51 | 72 | 55 |
+| **73** | 90 | 78 | 51 | 73 | 55 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $41.22 |
+| Price | $41.83 |
 | Market value | $1.5B |
 | P/E | 3.6 |
-| Price/Sales | 1.93 |
-| Price/Book | 0.82 |
-| Free-cash-flow yield | 35.2% |
+| Price/Sales | 1.96 |
+| Price/Book | 0.83 |
+| Free-cash-flow yield | 34.7% |
 | Dividend yield | 5.1% |
 | Sales (12m) | $766.5M |
 | Sales growth | +7.8% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.38 |
 | Current ratio | 2.04 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.28 |
+| Altman Z | 2.29 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -8.1% / +10.2% / +56.5% |
-| vs. 200-day average | +4.1% |
-| RSI (14d) | 34 |
+| Return 1m / 6m / 12m | -6.1% / +10.1% / +56.3% |
+| vs. 200-day average | +5.5% |
+| RSI (14d) | 38 |
 | Volatility (1y) | 28.5% |
 | Financials as of | 2025-12-31 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/GSL
 - Full deep dive: run `python scout.py stock GSL` → `research/GSL.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

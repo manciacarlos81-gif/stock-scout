@@ -3,17 +3,17 @@ ticker: "PAYS"
 company: "Paysign Inc."
 sector: "Technology"
 industry: "EDP Services"
-price: 15.21
-market_cap: "$858.8M"
+price: 15.62
+market_cap: "$881.9M"
 score: 70
 value: 50
 quality: 70
 growth: 84
 momentum: 98
 health: 50
-pe: 54.4
+pe: 55.9
 piotroski: 6
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,10 +27,10 @@ Technology · EDP Services
 
 ## In plain English
 
-- Cheaper than about 50% of stocks in Technology (value score).
+- More expensive than about 50% of Technology peers (value score).
 - Business quality ranks above 70% of all stocks scanned.
 - Sales grew 47% over the last 12 months.
-- Share price up 175% over 12 months (3% below its 52-week high).
+- Share price up 175% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Technology · EDP Services
 
 | | |
 |---|---:|
-| Price | $15.21 |
-| Market value | $858.8M |
-| P/E | 54.4 |
-| Price/Sales | 8.53 |
-| Price/Book | 14.28 |
-| Free-cash-flow yield | 6.0% |
+| Price | $15.62 |
+| Market value | $881.9M |
+| P/E | 55.9 |
+| Price/Sales | 8.76 |
+| Price/Book | 14.66 |
+| Free-cash-flow yield | 5.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $100.6M |
 | Sales growth | +46.8% |
@@ -59,12 +59,12 @@ Technology · EDP Services
 | Debt / equity | 0.09 |
 | Current ratio | 1.14 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.75 |
+| Altman Z | 2.81 |
 | Share count change (1y) | +7.1% |
-| Return 1m / 6m / 12m | +17.8% / +144.5% / +175.0% |
-| vs. 200-day average | +89.0% |
-| RSI (14d) | 60 |
-| Volatility (1y) | 69.5% |
+| Return 1m / 6m / 12m | +23.3% / +144.1% / +175.0% |
+| vs. 200-day average | +92.8% |
+| RSI (14d) | 63 |
+| Volatility (1y) | 69.4% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -74,4 +74,4 @@ Technology · EDP Services
 - Insider trades: http://openinsider.com/PAYS
 - Full deep dive: run `python scout.py stock PAYS` → `research/PAYS.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "PODD"
 company: "Insulet Corporation"
 sector: "Health Care"
 industry: "Medical/Dental Instruments"
-price: 142.64
-market_cap: "$9.9B"
+price: 141.9
+market_cap: "$9.8B"
 score: 60
 value: 71
 quality: 81
 growth: 76
-momentum: 8
+momentum: 9
 health: 62
-pe: 26.4
+pe: 26.2
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Medical/Dental Instruments
 - Cheaper than about 71% of stocks in Health Care (value score).
 - Business quality ranks above 81% of all stocks scanned.
 - Sales grew 29% over the last 12 months.
-- Share price down 57% over 12 months (59% below its 52-week high).
+- Share price down 56% over 12 months (59% below its 52-week high).
 - Insiders bought $162.2K of shares recently (McEvoy Ashley (Pres, CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 71 | 81 | 76 | 8 | 62 |
+| **60** | 71 | 81 | 76 | 9 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $142.64 |
-| Market value | $9.9B |
-| P/E | 26.4 |
-| Price/Sales | 3.24 |
-| Price/Book | 6.96 |
+| Price | $141.90 |
+| Market value | $9.8B |
+| P/E | 26.2 |
+| Price/Sales | 3.22 |
+| Price/Book | 6.92 |
 | Free-cash-flow yield | 3.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $3.1B |
@@ -60,11 +60,11 @@ Health Care · Medical/Dental Instruments
 | Debt / equity | 0.67 |
 | Current ratio | 2.48 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 5.54 |
+| Altman Z | 5.52 |
 | Share count change (1y) | -1.8% |
-| Return 1m / 6m / 12m | +2.3% / -24.8% / -56.7% |
-| vs. 200-day average | -21.7% |
-| RSI (14d) | 58 |
+| Return 1m / 6m / 12m | +4.0% / -24.6% / -56.1% |
+| vs. 200-day average | -21.8% |
+| RSI (14d) | 56 |
 | Volatility (1y) | 44.8% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/PODD
 - Full deep dive: run `python scout.py stock PODD` → `research/PODD.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "SLVM"
 company: "Sylvamo Corporation"
 sector: "Basic Materials"
 industry: "Paper"
-price: 31.88
-market_cap: "$1.3B"
+price: 31.31
+market_cap: "$1.2B"
 score: 50
 value: 93
 quality: 56
 growth: 17
-momentum: 20
+momentum: 18
 health: 42
-pe: 16.7
+pe: 16.4
 piotroski: 6
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,25 +30,25 @@ Basic Materials · Paper
 - Cheaper than about 93% of stocks in Basic Materials (value score).
 - Business quality ranks above 56% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price down 22% over 12 months (40% below its 52-week high).
+- Share price down 25% over 12 months (41% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **50** | 93 | 56 | 17 | 20 | 42 |
+| **50** | 93 | 56 | 17 | 18 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $31.88 |
-| Market value | $1.3B |
-| P/E | 16.7 |
+| Price | $31.31 |
+| Market value | $1.2B |
+| P/E | 16.4 |
 | Price/Sales | 0.38 |
-| Price/Book | 1.33 |
-| Free-cash-flow yield | 21.1% |
-| Dividend yield | 5.8% |
+| Price/Book | 1.30 |
+| Free-cash-flow yield | 21.5% |
+| Dividend yield | 5.9% |
 | Sales (12m) | $3.3B |
 | Sales growth | -7.1% |
 | Net profit (12m) | $76.0M |
@@ -61,11 +61,15 @@ Basic Materials · Paper
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | -12.3% / -20.6% / -21.6% |
-| vs. 200-day average | -19.5% |
-| RSI (14d) | 41 |
+| Return 1m / 6m / 12m | -13.4% / -25.3% / -24.7% |
+| vs. 200-day average | -20.8% |
+| RSI (14d) | 39 |
 | Volatility (1y) | 38.1% |
 | Financials as of | 2026-06-30 |
+
+## Watch out
+
+- well below 200-day average
 
 ## Dig deeper
 
@@ -74,4 +78,4 @@ Basic Materials · Paper
 - Insider trades: http://openinsider.com/SLVM
 - Full deep dive: run `python scout.py stock SLVM` → `research/SLVM.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

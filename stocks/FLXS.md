@@ -3,17 +3,17 @@ ticker: "FLXS"
 company: "Flexsteel Industries Inc."
 sector: "Consumer Discretionary"
 industry: "Home Furnishings"
-price: 84.38
-market_cap: "$345.3M"
+price: 83.56
+market_cap: "$341.9M"
 score: 77
 value: 81
-quality: 72
+quality: 73
 growth: 60
-momentum: 95
+momentum: 94
 health: 72
-pe: 10.4
+pe: 10.3
 piotroski: 8
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -28,26 +28,26 @@ Consumer Discretionary · Home Furnishings
 ## In plain English
 
 - Cheaper than about 81% of stocks in Consumer Discretionary (value score).
-- Business quality ranks above 72% of all stocks scanned.
+- Business quality ranks above 73% of all stocks scanned.
 - Sales grew 4% over the last 12 months.
-- Share price up 142% over 12 months (5% below its 52-week high).
+- Share price up 135% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **77** | 81 | 72 | 60 | 95 | 72 |
+| **77** | 81 | 73 | 60 | 94 | 72 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $84.38 |
-| Market value | $345.3M |
-| P/E | 10.4 |
-| Price/Sales | 0.75 |
-| Price/Book | 2.59 |
-| Free-cash-flow yield | 13.8% |
+| Price | $83.56 |
+| Market value | $341.9M |
+| P/E | 10.3 |
+| Price/Sales | 0.74 |
+| Price/Book | 2.56 |
+| Free-cash-flow yield | 13.9% |
 | Dividend yield | 1.3% |
 | Sales (12m) | $459.2M |
 | Sales growth | +4.1% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Home Furnishings
 | Debt / equity | – |
 | Current ratio | 2.09 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 5.68 |
+| Altman Z | 5.66 |
 | Share count change (1y) | -3.9% |
-| Return 1m / 6m / 12m | +0.6% / +76.2% / +142.0% |
-| vs. 200-day average | +35.0% |
-| RSI (14d) | 49 |
+| Return 1m / 6m / 12m | -1.7% / +54.3% / +135.3% |
+| vs. 200-day average | +33.2% |
+| RSI (14d) | 47 |
 | Volatility (1y) | 47.5% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Home Furnishings
 - Insider trades: http://openinsider.com/FLXS
 - Full deep dive: run `python scout.py stock FLXS` → `research/FLXS.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "KNSA"
 company: "Kiniksa Pharmaceuticals International plc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 83.17
-market_cap: "$6.5B"
+price: 79.7
+market_cap: "$6.2B"
 score: 78
-value: 56
+value: 57
 quality: 79
 growth: 90
-momentum: 95
-health: 76
-pe: 80.5
+momentum: 94
+health: 75
+pe: 77.1
 piotroski: 8
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -28,27 +28,27 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- Cheaper than about 56% of stocks in Health Care (value score).
+- Cheaper than about 57% of stocks in Health Care (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 59% over the last 12 months.
-- Share price up 114% over 12 months (0% below its 52-week high).
+- Share price up 106% over 12 months (4% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **78** | 56 | 79 | 90 | 95 | 76 |
+| **78** | 57 | 79 | 90 | 94 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $83.17 |
-| Market value | $6.5B |
-| P/E | 80.5 |
-| Price/Sales | 7.72 |
-| Price/Book | 9.92 |
-| Free-cash-flow yield | 2.1% |
+| Price | $79.70 |
+| Market value | $6.2B |
+| P/E | 77.1 |
+| Price/Sales | 7.40 |
+| Price/Book | 9.51 |
+| Free-cash-flow yield | 2.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $840.8M |
 | Sales growth | +58.9% |
@@ -60,12 +60,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 3.90 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 17.42 |
+| Altman Z | 16.75 |
 | Share count change (1y) | +7.0% |
-| Return 1m / 6m / 12m | +6.6% / +94.4% / +113.8% |
-| vs. 200-day average | +41.3% |
-| RSI (14d) | 67 |
-| Volatility (1y) | 49.5% |
+| Return 1m / 6m / 12m | +4.8% / +82.8% / +105.6% |
+| vs. 200-day average | +35.0% |
+| RSI (14d) | 54 |
+| Volatility (1y) | 49.7% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/KNSA
 - Full deep dive: run `python scout.py stock KNSA` → `research/KNSA.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

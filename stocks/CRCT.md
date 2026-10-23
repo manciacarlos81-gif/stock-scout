@@ -3,17 +3,17 @@ ticker: "CRCT"
 company: "Cricut Inc."
 sector: "Technology"
 industry: "Industrial Machinery/Components"
-price: 6.48
-market_cap: "$1.4B"
+price: 6.33
+market_cap: "$1.3B"
 score: 76
 value: 87
 quality: 84
 growth: 44
-momentum: 78
-health: 76
-pe: 15.5
+momentum: 77
+health: 75
+pe: 15.1
 piotroski: 8
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,25 +31,25 @@ Technology · Industrial Machinery/Components
 - Cheaper than about 87% of stocks in Technology (value score).
 - Business quality ranks above 84% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 33% over 12 months (3% below its 52-week high).
+- Share price up 26% over 12 months (6% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **76** | 87 | 84 | 44 | 78 | 76 |
+| **76** | 87 | 84 | 44 | 77 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.48 |
-| Market value | $1.4B |
-| P/E | 15.5 |
-| Price/Sales | 1.97 |
-| Price/Book | 3.69 |
-| Free-cash-flow yield | 14.8% |
-| Dividend yield | 14.9% |
+| Price | $6.33 |
+| Market value | $1.3B |
+| P/E | 15.1 |
+| Price/Sales | 1.92 |
+| Price/Book | 3.60 |
+| Free-cash-flow yield | 15.1% |
+| Dividend yield | 15.2% |
 | Sales (12m) | $689.8M |
 | Sales growth | -3.1% |
 | Net profit (12m) | $87.7M |
@@ -60,12 +60,12 @@ Technology · Industrial Machinery/Components
 | Debt / equity | – |
 | Current ratio | 2.49 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 6.24 |
+| Altman Z | 6.15 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | +11.5% / +49.0% / +33.2% |
-| vs. 200-day average | +36.7% |
-| RSI (14d) | 60 |
-| Volatility (1y) | 42.4% |
+| Return 1m / 6m / 12m | +7.5% / +46.2% / +25.7% |
+| vs. 200-day average | +33.3% |
+| RSI (14d) | 53 |
+| Volatility (1y) | 42.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Technology · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/CRCT
 - Full deep dive: run `python scout.py stock CRCT` → `research/CRCT.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

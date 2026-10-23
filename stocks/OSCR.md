@@ -3,17 +3,17 @@ ticker: "OSCR"
 company: "Oscar Health Inc."
 sector: "Health Care"
 industry: "Medical Specialities"
-price: 33.66
-market_cap: "$10.4B"
+price: 33.45
+market_cap: "$10.3B"
 score: 75
 value: 86
 quality: 57
 growth: 87
-momentum: 91
-health: 53
-pe: 18.9
+momentum: 92
+health: 52
+pe: 18.7
 piotroski: 3
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,24 +31,24 @@ Health Care · Medical Specialities
 - Cheaper than about 86% of stocks in Health Care (value score).
 - Business quality ranks above 57% of all stocks scanned.
 - Sales grew 43% over the last 12 months.
-- Share price up 65% over 12 months (2% below its 52-week high).
+- Share price up 70% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 86 | 57 | 87 | 91 | 53 |
+| **75** | 86 | 57 | 87 | 92 | 52 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $33.66 |
-| Market value | $10.4B |
-| P/E | 18.9 |
-| Price/Sales | 0.68 |
-| Price/Book | 5.06 |
-| Free-cash-flow yield | 10.5% |
+| Price | $33.45 |
+| Market value | $10.3B |
+| P/E | 18.7 |
+| Price/Sales | 0.67 |
+| Price/Book | 5.03 |
+| Free-cash-flow yield | 10.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $15.3B |
 | Sales growth | +42.8% |
@@ -62,10 +62,10 @@ Health Care · Medical Specialities
 | Piotroski F-score | 3/9 |
 | Altman Z | 2.02 |
 | Share count change (1y) | +30.5% |
-| Return 1m / 6m / 12m | +9.7% / +100.2% / +65.2% |
-| vs. 200-day average | +45.0% |
-| RSI (14d) | 58 |
-| Volatility (1y) | 66.9% |
+| Return 1m / 6m / 12m | +9.6% / +94.7% / +70.5% |
+| vs. 200-day average | +43.6% |
+| RSI (14d) | 56 |
+| Volatility (1y) | 66.8% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Medical Specialities
 - Insider trades: http://openinsider.com/OSCR
 - Full deep dive: run `python scout.py stock OSCR` → `research/OSCR.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "NUTX"
 company: "Nutex Health Inc."
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 198.99
+price: 197.61
 market_cap: "$1.4B"
 score: 80
 value: 82
 quality: 87
 growth: 62
-momentum: 93
+momentum: 92
 health: 69
-pe: 7.6
+pe: 7.5
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🏆 Top overall"
   - "💎 Quality at a fair price"
@@ -31,24 +31,24 @@ Consumer Discretionary · Business Services
 - Cheaper than about 82% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price up 74% over 12 months (12% below its 52-week high).
+- Share price up 68% over 12 months (12% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 82 | 87 | 62 | 93 | 69 |
+| **80** | 82 | 87 | 62 | 92 | 69 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $198.99 |
+| Price | $197.61 |
 | Market value | $1.4B |
-| P/E | 7.6 |
-| Price/Sales | 1.61 |
-| Price/Book | 3.46 |
-| Free-cash-flow yield | 18.0% |
+| P/E | 7.5 |
+| Price/Sales | 1.60 |
+| Price/Book | 3.43 |
+| Free-cash-flow yield | 18.1% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $846.7M |
 | Sales growth | +6.9% |
@@ -60,12 +60,12 @@ Consumer Discretionary · Business Services
 | Debt / equity | 0.10 |
 | Current ratio | 5.00 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.24 |
+| Altman Z | 4.23 |
 | Share count change (1y) | +17.1% |
-| Return 1m / 6m / 12m | -4.7% / +83.8% / +74.1% |
-| vs. 200-day average | +33.4% |
-| RSI (14d) | 48 |
-| Volatility (1y) | 89.6% |
+| Return 1m / 6m / 12m | -2.1% / +78.4% / +68.5% |
+| vs. 200-day average | +32.4% |
+| RSI (14d) | 47 |
+| Volatility (1y) | 89.3% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/NUTX
 - Full deep dive: run `python scout.py stock NUTX` → `research/NUTX.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

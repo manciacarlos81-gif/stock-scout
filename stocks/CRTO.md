@@ -3,17 +3,17 @@ ticker: "CRTO"
 company: "Criteo S.A."
 sector: "Consumer Discretionary"
 industry: "Advertising"
-price: 15.39
-market_cap: "$754.1M"
+price: 14.94
+market_cap: "$732.0M"
 score: 57
 value: 97
-quality: 71
+quality: 72
 growth: 25
-momentum: 18
+momentum: 17
 health: 53
-pe: 6.9
+pe: 6.7
 piotroski: 9
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -29,26 +29,26 @@ Consumer Discretionary · Advertising
 ## In plain English
 
 - Cheaper than about 97% of stocks in Consumer Discretionary (value score).
-- Business quality ranks above 71% of all stocks scanned.
+- Business quality ranks above 72% of all stocks scanned.
 - Sales fell 4% over the last 12 months.
-- Share price down 26% over 12 months (34% below its 52-week high).
+- Share price down 28% over 12 months (36% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 97 | 71 | 25 | 18 | 53 |
+| **57** | 97 | 72 | 25 | 17 | 53 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $15.39 |
-| Market value | $754.1M |
-| P/E | 6.9 |
-| Price/Sales | 0.40 |
-| Price/Book | 0.67 |
-| Free-cash-flow yield | 41.3% |
+| Price | $14.94 |
+| Market value | $732.0M |
+| P/E | 6.7 |
+| Price/Sales | 0.39 |
+| Price/Book | 0.65 |
+| Free-cash-flow yield | 42.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.9B |
 | Sales growth | -4.2% |
@@ -60,12 +60,12 @@ Consumer Discretionary · Advertising
 | Debt / equity | – |
 | Current ratio | 1.29 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 2.25 |
+| Altman Z | 2.23 |
 | Share count change (1y) | -8.3% |
-| Return 1m / 6m / 12m | -8.7% / -19.3% / -26.2% |
-| vs. 200-day average | -15.8% |
-| RSI (14d) | 44 |
-| Volatility (1y) | 55.8% |
+| Return 1m / 6m / 12m | -9.7% / -22.6% / -28.1% |
+| vs. 200-day average | -18.1% |
+| RSI (14d) | 40 |
+| Volatility (1y) | 55.9% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/CRTO
 - Full deep dive: run `python scout.py stock CRTO` → `research/CRTO.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "ULS"
 company: "UL Solutions Inc."
 sector: "Health Care"
 industry: "Precision Instruments"
-price: 73.36
-market_cap: "$14.8B"
+price: 74.28
+market_cap: "$15.0B"
 score: 59
-value: 65
+value: 64
 quality: 82
 growth: 53
-momentum: 22
+momentum: 23
 health: 67
-pe: 29.3
+pe: 29.7
 piotroski: 8
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -27,26 +27,26 @@ Health Care · Precision Instruments
 
 ## In plain English
 
-- Cheaper than about 65% of stocks in Health Care (value score).
+- Cheaper than about 64% of stocks in Health Care (value score).
 - Business quality ranks above 82% of all stocks scanned.
 - Sales grew 7% over the last 12 months.
-- Share price down 4% over 12 months (30% below its 52-week high).
+- Share price down 6% over 12 months (29% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **59** | 65 | 82 | 53 | 22 | 67 |
+| **59** | 64 | 82 | 53 | 23 | 67 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $73.36 |
-| Market value | $14.8B |
-| P/E | 29.3 |
-| Price/Sales | 4.71 |
-| Price/Book | 9.29 |
+| Price | $74.28 |
+| Market value | $15.0B |
+| P/E | 29.7 |
+| Price/Sales | 4.77 |
+| Price/Book | 9.40 |
 | Free-cash-flow yield | 2.7% |
 | Dividend yield | 0.7% |
 | Sales (12m) | $3.1B |
@@ -59,11 +59,11 @@ Health Care · Precision Instruments
 | Debt / equity | 0.19 |
 | Current ratio | 1.42 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 8.01 |
+| Altman Z | 8.08 |
 | Share count change (1y) | +0.5% |
-| Return 1m / 6m / 12m | +10.1% / -18.4% / -4.2% |
-| vs. 200-day average | -11.3% |
-| RSI (14d) | 61 |
+| Return 1m / 6m / 12m | +13.6% / -15.9% / -5.5% |
+| vs. 200-day average | -10.2% |
+| RSI (14d) | 63 |
 | Volatility (1y) | 42.9% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Precision Instruments
 - Insider trades: http://openinsider.com/ULS
 - Full deep dive: run `python scout.py stock ULS` → `research/ULS.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

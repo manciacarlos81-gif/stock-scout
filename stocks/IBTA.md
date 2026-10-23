@@ -3,17 +3,17 @@ ticker: "IBTA"
 company: "Ibotta Inc."
 sector: "Consumer Discretionary"
 industry: "Advertising"
-price: 48.13
+price: 48.98
 market_cap: "$1.1B"
 score: 47
 value: 25
 quality: 54
 growth: 16
-momentum: 79
+momentum: 80
 health: 59
 pe: null
 piotroski: 6
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Consumer Discretionary · Advertising
 - More expensive than about 75% of Consumer Discretionary peers (value score).
 - Business quality ranks above 54% of all stocks scanned.
 - Sales fell 7% over the last 12 months.
-- Share price up 47% over 12 months (2% below its 52-week high).
+- Share price up 47% over 12 months (0% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **47** | 25 | 54 | 16 | 79 | 59 |
+| **47** | 25 | 54 | 16 | 80 | 59 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $48.13 |
+| Price | $48.98 |
 | Market value | $1.1B |
 | P/E | – |
-| Price/Sales | 3.25 |
-| Price/Book | 4.62 |
-| Free-cash-flow yield | 6.7% |
+| Price/Sales | 3.31 |
+| Price/Book | 4.70 |
+| Free-cash-flow yield | 6.6% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $343.2M |
 | Sales growth | -6.6% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Advertising
 | Debt / equity | 0.00 |
 | Current ratio | 1.71 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 3.32 |
+| Altman Z | 3.37 |
 | Share count change (1y) | -23.5% |
-| Return 1m / 6m / 12m | +18.4% / +37.6% / +46.5% |
-| vs. 200-day average | +50.2% |
-| RSI (14d) | 72 |
+| Return 1m / 6m / 12m | +18.9% / +37.6% / +46.7% |
+| vs. 200-day average | +52.2% |
+| RSI (14d) | 74 |
 | Volatility (1y) | 82.5% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Advertising
 - Insider trades: http://openinsider.com/IBTA
 - Full deep dive: run `python scout.py stock IBTA` → `research/IBTA.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

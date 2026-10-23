@@ -3,17 +3,17 @@ ticker: "MOMO"
 company: "Hello Group Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 4.65
-market_cap: "$687.0M"
+price: 4.53
+market_cap: "$669.3M"
 score: 56
 value: 97
 quality: 50
 growth: 33
-momentum: 15
+momentum: 13
 health: 78
-pe: 6.0
+pe: 5.8
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🪙 Deep value"
   - "💵 Dividends & buybacks"
@@ -31,24 +31,24 @@ Technology · Computer Software: Prepackaged Software
 - Cheaper than about 97% of stocks in Technology (value score).
 - Business quality ranks above 50% of all stocks scanned.
 - Sales grew 2% over the last 12 months.
-- Share price down 28% over 12 months (31% below its 52-week high).
+- Share price down 31% over 12 months (33% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 97 | 50 | 33 | 15 | 78 |
+| **56** | 97 | 50 | 33 | 13 | 78 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $4.65 |
-| Market value | $687.0M |
-| P/E | 6.0 |
-| Price/Sales | 0.46 |
-| Price/Book | 0.43 |
-| Free-cash-flow yield | 14.4% |
+| Price | $4.53 |
+| Market value | $669.3M |
+| P/E | 5.8 |
+| Price/Sales | 0.45 |
+| Price/Book | 0.42 |
+| Free-cash-flow yield | 14.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.5B |
 | Sales growth | +2.4% |
@@ -60,17 +60,18 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.00 |
 | Current ratio | 4.68 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.53 |
+| Altman Z | 3.51 |
 | Share count change (1y) | -9.4% |
-| Return 1m / 6m / 12m | -7.6% / -24.4% / -28.0% |
-| vs. 200-day average | -19.9% |
-| RSI (14d) | 34 |
-| Volatility (1y) | 28.1% |
+| Return 1m / 6m / 12m | -8.1% / -26.5% / -31.1% |
+| vs. 200-day average | -21.8% |
+| RSI (14d) | 29 |
+| Volatility (1y) | 28.2% |
 | Financials as of | 2025-12-31 |
 
 ## Watch out
 
 - financials over 6 months old
+- well below 200-day average
 
 ## Dig deeper
 
@@ -79,4 +80,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/MOMO
 - Full deep dive: run `python scout.py stock MOMO` → `research/MOMO.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

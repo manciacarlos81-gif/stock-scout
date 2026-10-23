@@ -3,17 +3,17 @@ ticker: "ANIP"
 company: "ANI Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 72.67
+price: 72.24
 market_cap: "$1.7B"
 score: 68
 value: 88
 quality: 76
 growth: 87
-momentum: 28
+momentum: 26
 health: 56
-pe: 15.5
+pe: 15.4
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,23 +30,23 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 88% of stocks in Health Care (value score).
 - Business quality ranks above 76% of all stocks scanned.
 - Sales grew 31% over the last 12 months.
-- Share price down 22% over 12 months (23% below its 52-week high).
+- Share price down 24% over 12 months (24% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 88 | 76 | 87 | 28 | 56 |
+| **68** | 88 | 76 | 87 | 26 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $72.67 |
+| Price | $72.24 |
 | Market value | $1.7B |
-| P/E | 15.5 |
-| Price/Sales | 1.71 |
-| Price/Book | 2.79 |
+| P/E | 15.4 |
+| Price/Sales | 1.70 |
+| Price/Book | 2.78 |
 | Free-cash-flow yield | 10.3% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $978.4M |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.50 |
 | Current ratio | 2.91 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 2.57 |
+| Altman Z | 2.56 |
 | Share count change (1y) | +7.9% |
-| Return 1m / 6m / 12m | -6.7% / -7.6% / -22.5% |
-| vs. 200-day average | -6.8% |
-| RSI (14d) | 49 |
+| Return 1m / 6m / 12m | -2.9% / -9.2% / -23.9% |
+| vs. 200-day average | -7.3% |
+| RSI (14d) | 47 |
 | Volatility (1y) | 31.4% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ANIP
 - Full deep dive: run `python scout.py stock ANIP` → `research/ANIP.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

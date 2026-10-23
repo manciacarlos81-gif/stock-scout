@@ -3,17 +3,17 @@ ticker: "FICO"
 company: "Fair Isaac Corporation"
 sector: "Consumer Discretionary"
 industry: "Business Services"
-price: 799.73
-market_cap: "$17.3B"
+price: 795.21
+market_cap: "$17.2B"
 score: 53
 value: 35
 quality: 88
 growth: 74
-momentum: 11
+momentum: 10
 health: 60
-pe: 21.2
+pe: 21.1
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,22 +30,22 @@ Consumer Discretionary · Business Services
 - More expensive than about 65% of Consumer Discretionary peers (value score).
 - Business quality ranks above 88% of all stocks scanned.
 - Sales grew 24% over the last 12 months.
-- Share price down 49% over 12 months (57% below its 52-week high).
+- Share price down 51% over 12 months (57% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **53** | 35 | 88 | 74 | 11 | 60 |
+| **53** | 35 | 88 | 74 | 10 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $799.73 |
-| Market value | $17.3B |
-| P/E | 21.2 |
-| Price/Sales | 7.22 |
+| Price | $795.21 |
+| Market value | $17.2B |
+| P/E | 21.1 |
+| Price/Sales | 7.18 |
 | Price/Book | – |
 | Free-cash-flow yield | 4.5% |
 | Dividend yield | 0.0% |
@@ -59,11 +59,11 @@ Consumer Discretionary · Business Services
 | Debt / equity | – |
 | Current ratio | 1.18 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 8.53 |
+| Altman Z | 8.52 |
 | Share count change (1y) | -7.6% |
-| Return 1m / 6m / 12m | -12.5% / -20.4% / -49.2% |
-| vs. 200-day average | -30.4% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | -9.6% / -21.6% / -50.8% |
+| vs. 200-day average | -30.5% |
+| RSI (14d) | 49 |
 | Volatility (1y) | 62.3% |
 | Financials as of | 2026-06-30 |
 
@@ -79,4 +79,4 @@ Consumer Discretionary · Business Services
 - Insider trades: http://openinsider.com/FICO
 - Full deep dive: run `python scout.py stock FICO` → `research/FICO.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

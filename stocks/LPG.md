@@ -3,17 +3,17 @@ ticker: "LPG"
 company: "Dorian LPG Ltd."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 52.07
+price: 52.4
 market_cap: "$2.2B"
 score: 80
 value: 76
 quality: 80
 growth: 92
-momentum: 92
+momentum: 91
 health: 60
-pe: 6.9
+pe: 7.0
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,23 +31,23 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 76% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 80% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 110% over 12 months (11% below its 52-week high).
+- Share price up 104% over 12 months (10% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **80** | 76 | 80 | 92 | 92 | 60 |
+| **80** | 76 | 80 | 92 | 91 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $52.07 |
+| Price | $52.40 |
 | Market value | $2.2B |
-| P/E | 6.9 |
-| Price/Sales | 3.81 |
-| Price/Book | 1.80 |
+| P/E | 7.0 |
+| Price/Sales | 3.83 |
+| Price/Book | 1.81 |
 | Free-cash-flow yield | 9.4% |
 | Dividend yield | 4.7% |
 | Sales (12m) | $585.2M |
@@ -60,12 +60,12 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.41 |
 | Current ratio | 3.26 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 3.58 |
+| Altman Z | 3.59 |
 | Share count change (1y) | +0.6% |
-| Return 1m / 6m / 12m | -2.7% / +45.1% / +109.5% |
-| vs. 200-day average | +28.9% |
-| RSI (14d) | 39 |
-| Volatility (1y) | 41.9% |
+| Return 1m / 6m / 12m | -1.4% / +44.7% / +104.0% |
+| vs. 200-day average | +29.3% |
+| RSI (14d) | 41 |
+| Volatility (1y) | 41.8% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/LPG
 - Full deep dive: run `python scout.py stock LPG` → `research/LPG.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

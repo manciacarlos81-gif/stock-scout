@@ -3,17 +3,17 @@ ticker: "EVER"
 company: "EverQuote Inc."
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 22.72
-market_cap: "$800.6M"
-score: 75
+price: 22.11
+market_cap: "$779.2M"
+score: 74
 value: 92
 quality: 68
 growth: 83
-momentum: 64
+momentum: 59
 health: 64
-pe: 7.0
+pe: 6.8
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Technology · Computer Software: Programming Data Processing
 - Cheaper than about 92% of stocks in Technology (value score).
 - Business quality ranks above 68% of all stocks scanned.
 - Sales grew 23% over the last 12 months.
-- Share price up 13% over 12 months (18% below its 52-week high).
+- Share price up 11% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 92 | 68 | 83 | 64 | 64 |
+| **74** | 92 | 68 | 83 | 59 | 64 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $22.72 |
-| Market value | $800.6M |
-| P/E | 7.0 |
-| Price/Sales | 1.06 |
-| Price/Book | 3.12 |
-| Free-cash-flow yield | 11.9% |
+| Price | $22.11 |
+| Market value | $779.2M |
+| P/E | 6.8 |
+| Price/Sales | 1.03 |
+| Price/Book | 3.03 |
+| Free-cash-flow yield | 12.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $755.2M |
 | Sales growth | +22.7% |
@@ -59,11 +59,11 @@ Technology · Computer Software: Programming Data Processing
 | Debt / equity | – |
 | Current ratio | 3.33 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 9.23 |
+| Altman Z | 9.07 |
 | Share count change (1y) | -4.9% |
-| Return 1m / 6m / 12m | +16.2% / +43.1% / +13.1% |
-| vs. 200-day average | +10.8% |
-| RSI (14d) | 60 |
+| Return 1m / 6m / 12m | +25.4% / +39.8% / +10.6% |
+| vs. 200-day average | +8.0% |
+| RSI (14d) | 55 |
 | Volatility (1y) | 83.8% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/EVER
 - Full deep dive: run `python scout.py stock EVER` → `research/EVER.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

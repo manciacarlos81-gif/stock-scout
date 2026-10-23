@@ -3,17 +3,17 @@ ticker: "RIGL"
 company: "Rigel Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 48.11
-market_cap: "$898.7M"
+price: 48.88
+market_cap: "$913.1M"
 score: 75
 value: 89
 quality: 75
 growth: 43
-momentum: 89
+momentum: 90
 health: 64
 pe: 2.8
 piotroski: 6
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 89% of stocks in Health Care (value score).
 - Business quality ranks above 75% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price up 57% over 12 months (6% below its 52-week high).
+- Share price up 66% over 12 months (4% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 89 | 75 | 43 | 89 | 64 |
+| **75** | 89 | 75 | 43 | 90 | 64 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $48.11 |
-| Market value | $898.7M |
+| Price | $48.88 |
+| Market value | $913.1M |
 | P/E | 2.8 |
-| Price/Sales | 3.25 |
-| Price/Book | 2.11 |
-| Free-cash-flow yield | 8.4% |
+| Price/Sales | 3.30 |
+| Price/Book | 2.15 |
+| Free-cash-flow yield | 8.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $276.8M |
 | Sales growth | +3.3% |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.11 |
 | Current ratio | 1.94 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 4.25 |
+| Altman Z | 4.34 |
 | Share count change (1y) | +7.8% |
-| Return 1m / 6m / 12m | -1.5% / +58.8% / +56.8% |
-| vs. 200-day average | +30.8% |
-| RSI (14d) | 54 |
+| Return 1m / 6m / 12m | +1.6% / +60.2% / +66.3% |
+| vs. 200-day average | +32.8% |
+| RSI (14d) | 57 |
 | Volatility (1y) | 62.9% |
 | Financials as of | 2026-06-30 |
 
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/RIGL
 - Full deep dive: run `python scout.py stock RIGL` → `research/RIGL.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

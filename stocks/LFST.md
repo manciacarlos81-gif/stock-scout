@@ -3,7 +3,7 @@ ticker: "LFST"
 company: "LifeStance Health Group Inc."
 sector: "Health Care"
 industry: "Medical/Nursing Services"
-price: 12.22
+price: 12.33
 market_cap: "$4.7B"
 score: 72
 value: 64
@@ -11,9 +11,9 @@ quality: 62
 growth: 85
 momentum: 95
 health: 59
-pe: 92.3
+pe: 93.1
 piotroski: 9
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,7 +30,7 @@ Health Care · Medical/Nursing Services
 - Cheaper than about 64% of stocks in Health Care (value score).
 - Business quality ranks above 62% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 139% over 12 months (9% below its 52-week high).
+- Share price up 140% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
@@ -42,12 +42,12 @@ Health Care · Medical/Nursing Services
 
 | | |
 |---|---:|
-| Price | $12.22 |
+| Price | $12.33 |
 | Market value | $4.7B |
-| P/E | 92.3 |
-| Price/Sales | 2.95 |
-| Price/Book | 3.16 |
-| Free-cash-flow yield | 2.4% |
+| P/E | 93.1 |
+| Price/Sales | 2.97 |
+| Price/Book | 3.19 |
+| Free-cash-flow yield | 2.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.6B |
 | Sales growth | +20.4% |
@@ -59,11 +59,11 @@ Health Care · Medical/Nursing Services
 | Debt / equity | 0.19 |
 | Current ratio | 1.38 |
 | Piotroski F-score | 9/9 |
-| Altman Z | 4.39 |
+| Altman Z | 4.42 |
 | Share count change (1y) | +0.1% |
-| Return 1m / 6m / 12m | -2.6% / +73.3% / +139.1% |
-| vs. 200-day average | +33.4% |
-| RSI (14d) | 50 |
+| Return 1m / 6m / 12m | +2.1% / +69.6% / +139.9% |
+| vs. 200-day average | +34.2% |
+| RSI (14d) | 52 |
 | Volatility (1y) | 52.6% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Medical/Nursing Services
 - Insider trades: http://openinsider.com/LFST
 - Full deep dive: run `python scout.py stock LFST` → `research/LFST.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

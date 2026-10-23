@@ -3,17 +3,17 @@ ticker: "TWLO"
 company: "Twilio Inc."
 sector: "Technology"
 industry: "Computer Software: Prepackaged Software"
-price: 258.69
-market_cap: "$39.7B"
+price: 266.68
+market_cap: "$41.0B"
 score: 69
-value: 47
+value: 46
 quality: 55
 growth: 84
-momentum: 96
+momentum: 97
 health: 75
-pe: 34.6
+pe: 35.6
 piotroski: 6
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · Computer Software: Prepackaged Software
 
 ## In plain English
 
-- More expensive than about 53% of Technology peers (value score).
+- More expensive than about 54% of Technology peers (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 18% over the last 12 months.
-- Share price up 136% over 12 months (14% below its 52-week high).
+- Share price up 141% over 12 months (11% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 47 | 55 | 84 | 96 | 75 |
+| **69** | 46 | 55 | 84 | 97 | 75 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $258.69 |
-| Market value | $39.7B |
-| P/E | 34.6 |
-| Price/Sales | 7.13 |
-| Price/Book | 4.43 |
-| Free-cash-flow yield | 2.5% |
+| Price | $266.68 |
+| Market value | $41.0B |
+| P/E | 35.6 |
+| Price/Sales | 7.35 |
+| Price/Book | 4.56 |
+| Free-cash-flow yield | 2.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $5.6B |
 | Sales growth | +17.8% |
@@ -59,11 +59,11 @@ Technology · Computer Software: Prepackaged Software
 | Debt / equity | 0.11 |
 | Current ratio | 4.62 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 12.77 |
+| Altman Z | 13.16 |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | -9.1% / +79.9% / +136.4% |
-| vs. 200-day average | +39.5% |
-| RSI (14d) | 46 |
+| Return 1m / 6m / 12m | -8.3% / +87.0% / +140.6% |
+| vs. 200-day average | +43.3% |
+| RSI (14d) | 50 |
 | Volatility (1y) | 64.0% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Technology · Computer Software: Prepackaged Software
 - Insider trades: http://openinsider.com/TWLO
 - Full deep dive: run `python scout.py stock TWLO` → `research/TWLO.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

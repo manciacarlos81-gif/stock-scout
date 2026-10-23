@@ -3,17 +3,17 @@ ticker: "EMBC"
 company: "Embecta Corp."
 sector: "Health Care"
 industry: "Medical/Dental Instruments"
-price: 6.42
-market_cap: "$363.8M"
-score: 52
+price: 6.68
+market_cap: "$378.5M"
+score: 53
 value: 86
 quality: 78
 growth: 30
-momentum: 14
+momentum: 17
 health: 27
-pe: 4.2
+pe: 4.3
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,26 +30,26 @@ Health Care · Medical/Dental Instruments
 - Cheaper than about 86% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales fell 8% over the last 12 months.
-- Share price down 53% over 12 months (55% below its 52-week high).
+- Share price down 51% over 12 months (53% below its 52-week high).
 - Insiders bought $557.9K of shares recently (Kurdikar Devdatt (Pres, CEO); Elguicze Jacob (SVP, CFO); Mann Jeffrey Z (Pres, Pharm Svc, Prod Mgmt, CL)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **52** | 86 | 78 | 30 | 14 | 27 |
+| **53** | 86 | 78 | 30 | 17 | 27 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $6.42 |
-| Market value | $363.8M |
-| P/E | 4.2 |
-| Price/Sales | 0.36 |
+| Price | $6.68 |
+| Market value | $378.5M |
+| P/E | 4.3 |
+| Price/Sales | 0.37 |
 | Price/Book | – |
-| Free-cash-flow yield | 50.1% |
-| Dividend yield | 9.6% |
+| Free-cash-flow yield | 48.2% |
+| Dividend yield | 9.2% |
 | Sales (12m) | $1.0B |
 | Sales growth | -7.6% |
 | Net profit (12m) | $87.5M |
@@ -62,10 +62,10 @@ Health Care · Medical/Dental Instruments
 | Piotroski F-score | 7/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.0% |
-| Return 1m / 6m / 12m | +14.8% / -30.0% / -53.5% |
-| vs. 200-day average | -1.5% |
-| RSI (14d) | 66 |
-| Volatility (1y) | 81.3% |
+| Return 1m / 6m / 12m | +19.7% / -27.3% / -51.2% |
+| vs. 200-day average | +2.9% |
+| RSI (14d) | 70 |
+| Volatility (1y) | 81.4% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -79,4 +79,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/EMBC
 - Full deep dive: run `python scout.py stock EMBC` → `research/EMBC.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

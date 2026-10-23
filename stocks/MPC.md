@@ -3,17 +3,17 @@ ticker: "MPC"
 company: "Marathon Petroleum Corporation"
 sector: "Energy"
 industry: "Integrated oil Companies"
-price: 475.04
-market_cap: "$133.4B"
-score: 65
-value: 56
+price: 467.98
+market_cap: "$131.4B"
+score: 66
+value: 57
 quality: 55
 growth: 83
 momentum: 97
-health: 40
-pe: 15.6
+health: 39
+pe: 15.4
 piotroski: 7
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,26 +27,26 @@ Energy · Integrated oil Companies
 
 ## In plain English
 
-- Cheaper than about 56% of stocks in Energy (value score).
+- Cheaper than about 57% of stocks in Energy (value score).
 - Business quality ranks above 55% of all stocks scanned.
 - Sales grew 15% over the last 12 months.
-- Share price up 156% over 12 months (2% below its 52-week high).
+- Share price up 143% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **65** | 56 | 55 | 83 | 97 | 40 |
+| **66** | 57 | 55 | 83 | 97 | 39 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $475.04 |
-| Market value | $133.4B |
-| P/E | 15.6 |
-| Price/Sales | 0.87 |
-| Price/Book | 6.99 |
+| Price | $467.98 |
+| Market value | $131.4B |
+| P/E | 15.4 |
+| Price/Sales | 0.86 |
+| Price/Book | 6.89 |
 | Free-cash-flow yield | 3.6% |
 | Dividend yield | 0.9% |
 | Sales (12m) | $153.6B |
@@ -59,11 +59,11 @@ Energy · Integrated oil Companies
 | Debt / equity | 1.72 |
 | Current ratio | 1.25 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 4.04 |
+| Altman Z | 4.03 |
 | Share count change (1y) | -5.5% |
-| Return 1m / 6m / 12m | +21.9% / +113.3% / +156.2% |
-| vs. 200-day average | +68.8% |
-| RSI (14d) | 72 |
+| Return 1m / 6m / 12m | +20.5% / +107.3% / +142.8% |
+| vs. 200-day average | +65.4% |
+| RSI (14d) | 67 |
 | Volatility (1y) | 35.4% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Energy · Integrated oil Companies
 - Insider trades: http://openinsider.com/MPC
 - Full deep dive: run `python scout.py stock MPC` → `research/MPC.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_

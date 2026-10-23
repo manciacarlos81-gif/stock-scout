@@ -3,17 +3,17 @@ ticker: "KSS"
 company: "Kohl's Corporation"
 sector: "Consumer Discretionary"
 industry: "Department/Specialty Retail Stores"
-price: 21.74
+price: 22.16
 market_cap: "$2.5B"
 score: 64
 value: 96
 quality: 52
 growth: 35
-momentum: 76
+momentum: 74
 health: 47
-pe: 9.1
+pe: 9.3
 piotroski: 6
-updated: "2026-10-22"
+updated: "2026-10-23"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Cheaper than about 96% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 52% of all stocks scanned.
 - Sales fell 3% over the last 12 months.
-- Share price up 34% over 12 months (9% below its 52-week high).
+- Share price up 41% over 12 months (8% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 96 | 52 | 35 | 76 | 47 |
+| **64** | 96 | 52 | 35 | 74 | 47 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $21.74 |
+| Price | $22.16 |
 | Market value | $2.5B |
-| P/E | 9.1 |
+| P/E | 9.3 |
 | Price/Sales | 0.16 |
-| Price/Book | 0.59 |
-| Free-cash-flow yield | 56.0% |
-| Dividend yield | 2.3% |
+| Price/Book | 0.60 |
+| Free-cash-flow yield | 54.9% |
+| Dividend yield | 2.2% |
 | Sales (12m) | $15.4B |
 | Sales growth | -2.9% |
 | Net profit (12m) | $271.0M |
@@ -61,9 +61,9 @@ Consumer Discretionary · Department/Specialty Retail Stores
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +3.5% |
-| Return 1m / 6m / 12m | +19.0% / +50.2% / +34.4% |
-| vs. 200-day average | +30.9% |
-| RSI (14d) | 68 |
+| Return 1m / 6m / 12m | +30.0% / +47.3% / +40.9% |
+| vs. 200-day average | +33.4% |
+| RSI (14d) | 70 |
 | Volatility (1y) | 72.8% |
 | Financials as of | 2026-08-01 |
 
@@ -74,4 +74,4 @@ Consumer Discretionary · Department/Specialty Retail Stores
 - Insider trades: http://openinsider.com/KSS
 - Full deep dive: run `python scout.py stock KSS` → `research/KSS.md`
 
-_Updated 2026-10-22 · [latest report](../reports/latest.md)_
+_Updated 2026-10-23 · [latest report](../reports/latest.md)_
