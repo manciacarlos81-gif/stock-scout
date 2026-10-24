@@ -3,17 +3,17 @@ ticker: "CRMD"
 company: "CorMedix Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 7.79
-market_cap: "$607.2M"
-score: 71
+price: 8.1
+market_cap: "$631.3M"
+score: 73
 value: 97
 quality: 77
 growth: 81
-momentum: 33
-health: 59
-pe: 3.2
+momentum: 40
+health: 60
+pe: 3.4
 piotroski: 6
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "💎 Quality at a fair price"
   - "🪙 Deep value"
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 - Cheaper than about 97% of stocks in Health Care (value score).
 - Business quality ranks above 77% of all stocks scanned.
-- Share price down 31% over 12 months (39% below its 52-week high).
+- Share price down 27% over 12 months (36% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **71** | 97 | 77 | 81 | 33 | 59 |
+| **73** | 97 | 77 | 81 | 40 | 60 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $7.79 |
-| Market value | $607.2M |
-| P/E | 3.2 |
-| Price/Sales | 1.31 |
-| Price/Book | 1.32 |
-| Free-cash-flow yield | 28.5% |
+| Price | $8.10 |
+| Market value | $631.3M |
+| P/E | 3.4 |
+| Price/Sales | 1.37 |
+| Price/Book | 1.37 |
+| Free-cash-flow yield | 27.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $462.2M |
 | Sales growth | – |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 2.56 |
 | Piotroski F-score | 6/9 |
-| Altman Z | 2.34 |
+| Altman Z | 2.37 |
 | Share count change (1y) | +28.6% |
-| Return 1m / 6m / 12m | +1.3% / -0.4% / -31.1% |
-| vs. 200-day average | +1.6% |
-| RSI (14d) | 57 |
-| Volatility (1y) | 57.6% |
+| Return 1m / 6m / 12m | +4.2% / +7.0% / -27.5% |
+| vs. 200-day average | +5.5% |
+| RSI (14d) | 64 |
+| Volatility (1y) | 57.8% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/CRMD
 - Full deep dive: run `python scout.py stock CRMD` → `research/CRMD.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

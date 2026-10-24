@@ -3,17 +3,17 @@ ticker: "SENEA"
 company: "Seneca Foods Corp."
 sector: "Consumer Staples"
 industry: "Packaged Foods"
-price: 162.15
+price: 164.36
 market_cap: "$1.1B"
 score: 75
 value: 84
 quality: 69
 growth: 84
-momentum: 75
+momentum: 76
 health: 61
-pe: 9.2
+pe: 9.3
 piotroski: 8
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -29,24 +29,24 @@ Consumer Staples · Packaged Foods
 
 - Cheaper than about 84% of stocks in Consumer Staples (value score).
 - Business quality ranks above 69% of all stocks scanned.
-- Share price up 40% over 12 months (22% below its 52-week high).
+- Share price up 42% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **75** | 84 | 69 | 84 | 75 | 61 |
+| **75** | 84 | 69 | 84 | 76 | 61 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $162.15 |
+| Price | $164.36 |
 | Market value | $1.1B |
-| P/E | 9.2 |
-| Price/Sales | 0.68 |
-| Price/Book | 1.42 |
-| Free-cash-flow yield | 27.2% |
+| P/E | 9.3 |
+| Price/Sales | 0.69 |
+| Price/Book | 1.44 |
+| Free-cash-flow yield | 26.8% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.6B |
 | Sales growth | – |
@@ -58,11 +58,11 @@ Consumer Staples · Packaged Foods
 | Debt / equity | 0.30 |
 | Current ratio | 3.77 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 4.48 |
+| Altman Z | 4.50 |
 | Share count change (1y) | -1.6% |
-| Return 1m / 6m / 12m | -9.5% / +19.4% / +40.3% |
-| vs. 200-day average | +3.7% |
-| RSI (14d) | 31 |
+| Return 1m / 6m / 12m | -10.7% / +20.6% / +42.2% |
+| vs. 200-day average | +4.9% |
+| RSI (14d) | 34 |
 | Volatility (1y) | 41.2% |
 | Financials as of | 2025-12-27 |
 
@@ -77,4 +77,4 @@ Consumer Staples · Packaged Foods
 - Insider trades: http://openinsider.com/SENEA
 - Full deep dive: run `python scout.py stock SENEA` → `research/SENEA.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

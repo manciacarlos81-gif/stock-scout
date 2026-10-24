@@ -3,17 +3,17 @@ ticker: "PODD"
 company: "Insulet Corporation"
 sector: "Health Care"
 industry: "Medical/Dental Instruments"
-price: 141.9
-market_cap: "$9.8B"
-score: 60
+price: 148.12
+market_cap: "$10.3B"
+score: 61
 value: 71
 quality: 81
 growth: 76
-momentum: 9
+momentum: 11
 health: 62
-pe: 26.2
+pe: 27.4
 piotroski: 7
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🎯 Quality on sale"
 tags: [stock]
@@ -30,25 +30,25 @@ Health Care · Medical/Dental Instruments
 - Cheaper than about 71% of stocks in Health Care (value score).
 - Business quality ranks above 81% of all stocks scanned.
 - Sales grew 29% over the last 12 months.
-- Share price down 56% over 12 months (59% below its 52-week high).
+- Share price down 54% over 12 months (57% below its 52-week high).
 - Insiders bought $162.2K of shares recently (McEvoy Ashley (Pres, CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 71 | 81 | 76 | 9 | 62 |
+| **61** | 71 | 81 | 76 | 11 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $141.90 |
-| Market value | $9.8B |
-| P/E | 26.2 |
-| Price/Sales | 3.22 |
-| Price/Book | 6.92 |
-| Free-cash-flow yield | 3.8% |
+| Price | $148.12 |
+| Market value | $10.3B |
+| P/E | 27.4 |
+| Price/Sales | 3.36 |
+| Price/Book | 7.22 |
+| Free-cash-flow yield | 3.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $3.1B |
 | Sales growth | +29.4% |
@@ -60,17 +60,13 @@ Health Care · Medical/Dental Instruments
 | Debt / equity | 0.67 |
 | Current ratio | 2.48 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 5.52 |
+| Altman Z | 5.67 |
 | Share count change (1y) | -1.8% |
-| Return 1m / 6m / 12m | +4.0% / -24.6% / -56.1% |
-| vs. 200-day average | -21.8% |
-| RSI (14d) | 56 |
-| Volatility (1y) | 44.8% |
+| Return 1m / 6m / 12m | +9.1% / -19.0% / -53.8% |
+| vs. 200-day average | -18.1% |
+| RSI (14d) | 65 |
+| Volatility (1y) | 45.0% |
 | Financials as of | 2026-06-30 |
-
-## Watch out
-
-- well below 200-day average
 
 ## Dig deeper
 
@@ -79,4 +75,4 @@ Health Care · Medical/Dental Instruments
 - Insider trades: http://openinsider.com/PODD
 - Full deep dive: run `python scout.py stock PODD` → `research/PODD.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

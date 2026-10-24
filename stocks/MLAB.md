@@ -3,17 +3,17 @@ ticker: "MLAB"
 company: "Mesa Laboratories Inc."
 sector: "Industrials"
 industry: "Industrial Machinery/Components"
-price: 129.2
-market_cap: "$723.0M"
-score: 60
+price: 129.1
+market_cap: "$722.4M"
+score: 59
 value: 43
 quality: 64
 growth: 60
-momentum: 87
-health: 43
-pe: 150.6
+momentum: 86
+health: 44
+pe: 150.5
 piotroski: 8
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -30,23 +30,23 @@ Industrials · Industrial Machinery/Components
 - More expensive than about 57% of Industrials peers (value score).
 - Business quality ranks above 64% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price up 65% over 12 months (9% below its 52-week high).
+- Share price up 64% over 12 months (9% below its 52-week high).
 - Insiders bought $902.4K of shares recently (Kadia Siddhartha (Pres, CEO); Tripeny R Tony (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **60** | 43 | 64 | 60 | 87 | 43 |
+| **59** | 43 | 64 | 60 | 86 | 44 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $129.20 |
-| Market value | $723.0M |
-| P/E | 150.6 |
-| Price/Sales | 2.90 |
+| Price | $129.10 |
+| Market value | $722.4M |
+| P/E | 150.5 |
+| Price/Sales | 2.89 |
 | Price/Book | 3.83 |
 | Free-cash-flow yield | 5.5% |
 | Dividend yield | 0.5% |
@@ -62,10 +62,10 @@ Industrials · Industrial Machinery/Components
 | Piotroski F-score | 8/9 |
 | Altman Z | 2.17 |
 | Share count change (1y) | +3.7% |
-| Return 1m / 6m / 12m | -2.9% / +31.8% / +65.3% |
-| vs. 200-day average | +25.5% |
+| Return 1m / 6m / 12m | -6.1% / +30.2% / +64.1% |
+| vs. 200-day average | +25.1% |
 | RSI (14d) | 52 |
-| Volatility (1y) | 53.2% |
+| Volatility (1y) | 53.1% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Industrials · Industrial Machinery/Components
 - Insider trades: http://openinsider.com/MLAB
 - Full deep dive: run `python scout.py stock MLAB` → `research/MLAB.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

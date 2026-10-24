@@ -3,17 +3,17 @@ ticker: "INMD"
 company: "InMode Ltd."
 sector: "Health Care"
 industry: "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
-price: 14.03
-market_cap: "$806.5M"
+price: 14.05
+market_cap: "$807.6M"
 score: 62
 value: 93
 quality: 61
 growth: 22
-momentum: 38
+momentum: 39
 health: 85
 pe: 8.6
 piotroski: 4
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 - Cheaper than about 93% of stocks in Health Care (value score).
 - Business quality ranks above 61% of all stocks scanned.
 - Sales fell 6% over the last 12 months.
-- Share price down 9% over 12 months (16% below its 52-week high).
+- Share price down 8% over 12 months (15% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **62** | 93 | 61 | 22 | 38 | 85 |
+| **62** | 93 | 61 | 22 | 39 | 85 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $14.03 |
-| Market value | $806.5M |
+| Price | $14.05 |
+| Market value | $807.6M |
 | P/E | 8.6 |
 | Price/Sales | 2.18 |
 | Price/Book | 1.18 |
-| Free-cash-flow yield | 10.5% |
+| Free-cash-flow yield | 10.4% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $370.5M |
 | Sales growth | -6.2% |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 | Debt / equity | – |
 | Current ratio | 9.88 |
 | Piotroski F-score | 4/9 |
-| Altman Z | 9.42 |
+| Altman Z | 9.43 |
 | Share count change (1y) | -18.8% |
-| Return 1m / 6m / 12m | -1.1% / -2.0% / -9.4% |
-| vs. 200-day average | -2.2% |
-| RSI (14d) | 37 |
+| Return 1m / 6m / 12m | -1.0% / -1.1% / -8.2% |
+| vs. 200-day average | -2.1% |
+| RSI (14d) | 39 |
 | Volatility (1y) | 30.0% |
 | Financials as of | 2025-12-31 |
 
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Electromedical & Electrotherapeutic Apparatus
 - Insider trades: http://openinsider.com/INMD
 - Full deep dive: run `python scout.py stock INMD` → `research/INMD.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

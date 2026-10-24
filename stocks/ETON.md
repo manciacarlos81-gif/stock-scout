@@ -3,17 +3,17 @@ ticker: "ETON"
 company: "Eton Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 49.3
+price: 50.02
 market_cap: "$1.4B"
 score: 73
 value: 50
 quality: 72
 growth: 88
 momentum: 98
-health: 61
-pe: 111.1
+health: 62
+pe: 112.7
 piotroski: 5
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -30,23 +30,23 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 50% of stocks in Health Care (value score).
 - Business quality ranks above 72% of all stocks scanned.
 - Sales grew 81% over the last 12 months.
-- Share price up 166% over 12 months (23% below its 52-week high).
+- Share price up 171% over 12 months (22% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **73** | 50 | 72 | 88 | 98 | 61 |
+| **73** | 50 | 72 | 88 | 98 | 62 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $49.30 |
+| Price | $50.02 |
 | Market value | $1.4B |
-| P/E | 111.1 |
-| Price/Sales | 13.34 |
-| Price/Book | 30.25 |
+| P/E | 112.7 |
+| Price/Sales | 13.54 |
+| Price/Book | 30.69 |
 | Free-cash-flow yield | 0.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $105.6M |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.60 |
 | Current ratio | 1.52 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 12.63 |
+| Altman Z | 12.81 |
 | Share count change (1y) | +21.9% |
-| Return 1m / 6m / 12m | -11.3% / +110.2% / +165.9% |
-| vs. 200-day average | +41.2% |
-| RSI (14d) | 36 |
-| Volatility (1y) | 71.1% |
+| Return 1m / 6m / 12m | -15.9% / +107.0% / +171.0% |
+| vs. 200-day average | +42.5% |
+| RSI (14d) | 39 |
+| Volatility (1y) | 71.2% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ETON
 - Full deep dive: run `python scout.py stock ETON` → `research/ETON.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

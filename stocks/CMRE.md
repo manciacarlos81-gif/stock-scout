@@ -3,17 +3,17 @@ ticker: "CMRE"
 company: "Costamare Inc."
 sector: "Consumer Discretionary"
 industry: "Marine Transportation"
-price: 14.0
+price: 14.15
 market_cap: "$1.7B"
-score: 64
+score: 65
 value: 89
 quality: 85
 growth: 30
-momentum: 42
+momentum: 44
 health: 51
-pe: 4.6
+pe: 4.7
 piotroski: 8
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,25 +30,25 @@ Consumer Discretionary · Marine Transportation
 - Cheaper than about 89% of stocks in Consumer Discretionary (value score).
 - Business quality ranks above 85% of all stocks scanned.
 - Sales fell 1% over the last 12 months.
-- Share price up 23% over 12 months (20% below its 52-week high).
+- Share price up 27% over 12 months (19% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **64** | 89 | 85 | 30 | 42 | 51 |
+| **65** | 89 | 85 | 30 | 44 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $14.00 |
+| Price | $14.15 |
 | Market value | $1.7B |
-| P/E | 4.6 |
-| Price/Sales | 1.92 |
-| Price/Book | 0.81 |
-| Free-cash-flow yield | 31.9% |
-| Dividend yield | 4.7% |
+| P/E | 4.7 |
+| Price/Sales | 1.94 |
+| Price/Book | 0.82 |
+| Free-cash-flow yield | 31.5% |
+| Dividend yield | 4.6% |
 | Sales (12m) | $877.9M |
 | Sales growth | -1.2% |
 | Net profit (12m) | $364.6M |
@@ -59,11 +59,11 @@ Consumer Discretionary · Marine Transportation
 | Debt / equity | 0.73 |
 | Current ratio | 1.73 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 3.05 |
+| Altman Z | 3.07 |
 | Share count change (1y) | – |
-| Return 1m / 6m / 12m | -3.8% / -15.0% / +23.3% |
-| vs. 200-day average | -10.5% |
-| RSI (14d) | 39 |
+| Return 1m / 6m / 12m | -2.6% / -12.8% / +26.9% |
+| vs. 200-day average | -9.5% |
+| RSI (14d) | 42 |
 | Volatility (1y) | 31.7% |
 | Financials as of | 2025-12-31 |
 
@@ -78,4 +78,4 @@ Consumer Discretionary · Marine Transportation
 - Insider trades: http://openinsider.com/CMRE
 - Full deep dive: run `python scout.py stock CMRE` → `research/CMRE.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "ARDT"
 company: "Ardent Health Inc."
 sector: "Health Care"
 industry: "Hospital/Nursing Management"
-price: 12.06
+price: 12.36
 market_cap: "$1.7B"
-score: 56
+score: 57
 value: 93
 quality: 51
-growth: 23
-momentum: 53
-health: 41
-pe: 21.7
+growth: 24
+momentum: 54
+health: 42
+pe: 22.3
 piotroski: 6
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🪙 Deep value"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Hospital/Nursing Management
 - Cheaper than about 93% of stocks in Health Care (value score).
 - Business quality ranks above 51% of all stocks scanned.
 - Sales grew 3% over the last 12 months.
-- Share price down 19% over 12 months (21% below its 52-week high).
+- Share price down 19% over 12 months (18% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **56** | 93 | 51 | 23 | 53 | 41 |
+| **57** | 93 | 51 | 24 | 54 | 42 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $12.06 |
+| Price | $12.36 |
 | Market value | $1.7B |
-| P/E | 21.7 |
+| P/E | 22.3 |
 | Price/Sales | 0.27 |
-| Price/Book | 1.26 |
-| Free-cash-flow yield | 27.7% |
+| Price/Book | 1.29 |
+| Free-cash-flow yield | 27.0% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $6.4B |
 | Sales growth | +3.3% |
@@ -61,9 +61,9 @@ Health Care · Hospital/Nursing Management
 | Piotroski F-score | 6/9 |
 | Altman Z | – |
 | Share count change (1y) | +1.1% |
-| Return 1m / 6m / 12m | +13.3% / +20.1% / -18.6% |
-| vs. 200-day average | +21.9% |
-| RSI (14d) | 65 |
+| Return 1m / 6m / 12m | +17.9% / +27.3% / -18.7% |
+| vs. 200-day average | +24.7% |
+| RSI (14d) | 69 |
 | Volatility (1y) | 53.9% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Hospital/Nursing Management
 - Insider trades: http://openinsider.com/ARDT
 - Full deep dive: run `python scout.py stock ARDT` → `research/ARDT.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

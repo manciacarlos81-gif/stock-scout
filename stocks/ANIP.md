@@ -3,17 +3,17 @@ ticker: "ANIP"
 company: "ANI Pharmaceuticals Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 72.24
+price: 73.75
 market_cap: "$1.7B"
 score: 68
 value: 88
 quality: 76
 growth: 87
-momentum: 26
+momentum: 29
 health: 56
-pe: 15.4
+pe: 15.7
 piotroski: 7
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "💎 Quality at a fair price"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 88% of stocks in Health Care (value score).
 - Business quality ranks above 76% of all stocks scanned.
 - Sales grew 31% over the last 12 months.
-- Share price down 24% over 12 months (24% below its 52-week high).
+- Share price down 22% over 12 months (22% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **68** | 88 | 76 | 87 | 26 | 56 |
+| **68** | 88 | 76 | 87 | 29 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $72.24 |
+| Price | $73.75 |
 | Market value | $1.7B |
-| P/E | 15.4 |
-| Price/Sales | 1.70 |
-| Price/Book | 2.78 |
-| Free-cash-flow yield | 10.3% |
+| P/E | 15.7 |
+| Price/Sales | 1.73 |
+| Price/Book | 2.84 |
+| Free-cash-flow yield | 10.1% |
 | Dividend yield | 0.1% |
 | Sales (12m) | $978.4M |
 | Sales growth | +30.9% |
@@ -59,11 +59,11 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | 0.50 |
 | Current ratio | 2.91 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 2.56 |
+| Altman Z | 2.58 |
 | Share count change (1y) | +7.9% |
-| Return 1m / 6m / 12m | -2.9% / -9.2% / -23.9% |
-| vs. 200-day average | -7.3% |
-| RSI (14d) | 47 |
+| Return 1m / 6m / 12m | -0.4% / -6.1% / -21.7% |
+| vs. 200-day average | -5.3% |
+| RSI (14d) | 53 |
 | Volatility (1y) | 31.4% |
 | Financials as of | 2026-06-30 |
 
@@ -74,4 +74,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/ANIP
 - Full deep dive: run `python scout.py stock ANIP` → `research/ANIP.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

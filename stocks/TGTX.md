@@ -3,17 +3,17 @@ ticker: "TGTX"
 company: "TG Therapeutics Inc."
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 53.2
+price: 53.16
 market_cap: "$8.1B"
 score: 69
-value: 57
+value: 58
 quality: 58
 growth: 90
-momentum: 89
+momentum: 90
 health: 56
 pe: 18.4
 piotroski: 5
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🚀 Growth + momentum"
 tags: [stock]
@@ -27,7 +27,7 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 ## In plain English
 
-- Cheaper than about 57% of stocks in Health Care (value score).
+- Cheaper than about 58% of stocks in Health Care (value score).
 - Business quality ranks above 58% of all stocks scanned.
 - Sales grew 76% over the last 12 months.
 - Share price up 59% over 12 months (10% below its 52-week high).
@@ -36,17 +36,17 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 57 | 58 | 90 | 89 | 56 |
+| **69** | 58 | 58 | 90 | 90 | 56 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $53.20 |
+| Price | $53.16 |
 | Market value | $8.1B |
 | P/E | 18.4 |
 | Price/Sales | 10.18 |
-| Price/Book | 13.48 |
+| Price/Book | 13.47 |
 | Free-cash-flow yield | -0.3% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $799.5M |
@@ -61,8 +61,8 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Piotroski F-score | 5/9 |
 | Altman Z | 5.22 |
 | Share count change (1y) | -3.2% |
-| Return 1m / 6m / 12m | -5.0% / +50.4% / +58.9% |
-| vs. 200-day average | +23.3% |
+| Return 1m / 6m / 12m | -7.6% / +53.7% / +59.5% |
+| vs. 200-day average | +22.9% |
 | RSI (14d) | 45 |
 | Volatility (1y) | 45.6% |
 | Financials as of | 2026-06-30 |
@@ -79,4 +79,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/TGTX
 - Full deep dive: run `python scout.py stock TGTX` → `research/TGTX.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

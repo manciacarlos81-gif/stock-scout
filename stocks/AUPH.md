@@ -3,17 +3,17 @@ ticker: "AUPH"
 company: "Aurinia Pharmaceuticals Inc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 16.9
-market_cap: "$2.2B"
-score: 78
+price: 17.33
+market_cap: "$2.3B"
+score: 79
 value: 81
 quality: 78
 growth: 86
-momentum: 66
-health: 84
-pe: 7.2
+momentum: 69
+health: 85
+pe: 7.3
 piotroski: 7
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🏆 Top overall"
 tags: [stock]
@@ -30,24 +30,24 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 81% of stocks in Health Care (value score).
 - Business quality ranks above 78% of all stocks scanned.
 - Sales grew 20% over the last 12 months.
-- Share price up 46% over 12 months (9% below its 52-week high).
+- Share price up 46% over 12 months (7% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **78** | 81 | 78 | 86 | 66 | 84 |
+| **79** | 81 | 78 | 86 | 69 | 85 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $16.90 |
-| Market value | $2.2B |
-| P/E | 7.2 |
-| Price/Sales | 7.22 |
-| Price/Book | 3.66 |
-| Free-cash-flow yield | 6.0% |
+| Price | $17.33 |
+| Market value | $2.3B |
+| P/E | 7.3 |
+| Price/Sales | 7.40 |
+| Price/Book | 3.75 |
+| Free-cash-flow yield | 5.9% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $311.5M |
 | Sales growth | +19.8% |
@@ -59,12 +59,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 5.42 |
 | Piotroski F-score | 7/9 |
-| Altman Z | 8.27 |
+| Altman Z | 8.47 |
 | Share count change (1y) | -2.9% |
-| Return 1m / 6m / 12m | +3.0% / +3.2% / +45.9% |
-| vs. 200-day average | +8.4% |
-| RSI (14d) | 60 |
-| Volatility (1y) | 37.5% |
+| Return 1m / 6m / 12m | +4.4% / +8.0% / +45.8% |
+| vs. 200-day average | +11.0% |
+| RSI (14d) | 66 |
+| Volatility (1y) | 37.4% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/AUPH
 - Full deep dive: run `python scout.py stock AUPH` → `research/AUPH.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

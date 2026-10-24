@@ -3,19 +3,20 @@ ticker: "ECPG"
 company: "Encore Capital Group Inc"
 sector: "Finance"
 industry: "Finance Companies"
-price: 104.16
-market_cap: "$2.2B"
+price: 100.36
+market_cap: "$2.1B"
 score: 81
-value: 77
+value: 78
 quality: 86
 growth: 89
-momentum: 87
+momentum: 85
 health: 63
-pe: 7.3
+pe: 7.1
 piotroski: 8
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🏆 Top overall"
+  - "🚀 Growth + momentum"
 tags: [stock]
 ---
 
@@ -23,30 +24,30 @@ tags: [stock]
 
 Finance · Finance Companies
 
-**In screens today:** 🏆 Top overall
+**In screens today:** 🏆 Top overall, 🚀 Growth + momentum
 
 ## In plain English
 
-- Cheaper than about 77% of stocks in Finance (value score).
+- Cheaper than about 78% of stocks in Finance (value score).
 - Business quality ranks above 86% of all stocks scanned.
 - Sales grew 30% over the last 12 months.
-- Share price up 135% over 12 months (1% below its 52-week high).
+- Share price up 124% over 12 months (5% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **81** | 77 | 86 | 89 | 87 | 63 |
+| **81** | 78 | 86 | 89 | 85 | 63 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $104.16 |
-| Market value | $2.2B |
-| P/E | 7.3 |
-| Price/Sales | 1.16 |
-| Price/Book | 2.05 |
+| Price | $100.36 |
+| Market value | $2.1B |
+| P/E | 7.1 |
+| Price/Sales | 1.12 |
+| Price/Book | 1.97 |
 | Free-cash-flow yield | – |
 | Dividend yield | 0.0% |
 | Sales (12m) | $1.9B |
@@ -61,10 +62,10 @@ Finance · Finance Companies
 | Piotroski F-score | 8/9 |
 | Altman Z | – |
 | Share count change (1y) | -3.3% |
-| Return 1m / 6m / 12m | +10.3% / +23.6% / +135.1% |
-| vs. 200-day average | +26.7% |
-| RSI (14d) | 60 |
-| Volatility (1y) | 34.5% |
+| Return 1m / 6m / 12m | +2.8% / +19.4% / +124.1% |
+| vs. 200-day average | +21.8% |
+| RSI (14d) | 51 |
+| Volatility (1y) | 34.7% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +79,4 @@ Finance · Finance Companies
 - Insider trades: http://openinsider.com/ECPG
 - Full deep dive: run `python scout.py stock ECPG` → `research/ECPG.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

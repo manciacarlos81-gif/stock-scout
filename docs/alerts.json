@@ -1,37 +1,37 @@
 {
- "date": "2026-10-23",
- "scanned": 2545,
+ "date": "2026-10-24",
+ "scanned": 2548,
  "top": [
   {
    "rank": 1,
    "ticker": "MU",
    "name": "Micron Technology Inc.",
    "score": 86,
-   "price": 913.67,
+   "price": 856.49,
    "flags": ""
   },
   {
    "rank": 2,
-   "ticker": "SNDK",
-   "name": "Sandisk Corporation",
-   "score": 81,
-   "price": 1378.22,
-   "flags": ""
-  },
-  {
-   "rank": 3,
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "score": 81,
-   "price": 104.16,
+   "price": 100.36,
    "flags": "heavy debt"
+  },
+  {
+   "rank": 3,
+   "ticker": "SNDK",
+   "name": "Sandisk Corporation",
+   "score": 80,
+   "price": 1260.93,
+   "flags": ""
   },
   {
    "rank": 4,
    "ticker": "NUTX",
    "name": "Nutex Health Inc.",
    "score": 80,
-   "price": 197.61,
+   "price": 206.09,
    "flags": "shares up 17% in a year"
   },
   {
@@ -39,23 +39,23 @@
    "ticker": "LPG",
    "name": "Dorian LPG Ltd.",
    "score": 80,
-   "price": 52.4,
+   "price": 51.44,
    "flags": ""
   },
   {
    "rank": 6,
-   "ticker": "INSW",
-   "name": "International Seaways Inc.",
+   "ticker": "EXEL",
+   "name": "Exelixis Inc.",
    "score": 80,
-   "price": 111.15,
+   "price": 65.31,
    "flags": ""
   },
   {
    "rank": 7,
-   "ticker": "EXEL",
-   "name": "Exelixis Inc.",
+   "ticker": "INSW",
+   "name": "International Seaways Inc.",
    "score": 80,
-   "price": 64.58,
+   "price": 108.42,
    "flags": ""
   },
   {
@@ -63,24 +63,24 @@
    "ticker": "INCY",
    "name": "Incyte Corp.",
    "score": 79,
-   "price": 113.44,
+   "price": 116.93,
    "flags": ""
   },
   {
    "rank": 9,
-   "ticker": "CDNA",
-   "name": "CareDx Inc.",
+   "ticker": "AUPH",
+   "name": "Aurinia Pharmaceuticals Inc",
    "score": 79,
-   "price": 70.74,
-   "flags": ""
+   "price": 17.33,
+   "flags": "profits not backed by cash"
   },
   {
    "rank": 10,
-   "ticker": "AUPH",
-   "name": "Aurinia Pharmaceuticals Inc",
-   "score": 78,
-   "price": 16.9,
-   "flags": "profits not backed by cash"
+   "ticker": "CDNA",
+   "name": "CareDx Inc.",
+   "score": 79,
+   "price": 69.16,
+   "flags": ""
   }
  ],
  "new_top": [],

@@ -3,17 +3,17 @@ ticker: "JEF"
 company: "Jefferies Financial Group Inc."
 sector: "Finance"
 industry: "Investment Bankers/Brokers/Service"
-price: 45.03
-market_cap: "$10.3B"
+price: 45.64
+market_cap: "$10.5B"
 score: 54
 value: 74
 quality: null
 growth: 63
-momentum: 31
+momentum: 30
 health: 49
-pe: 12.0
+pe: 12.1
 piotroski: 4
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -29,24 +29,24 @@ Finance · Investment Bankers/Brokers/Service
 
 - Cheaper than about 74% of stocks in Finance (value score).
 - Sales grew 14% over the last 12 months.
-- Share price down 16% over 12 months (30% below its 52-week high).
+- Share price down 17% over 12 months (30% below its 52-week high).
 - Insiders bought $324.0M of shares recently (Sumitomo Mitsui Financial Group, Inc. (Dir)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **54** | 74 | – | 63 | 31 | 49 |
+| **54** | 74 | – | 63 | 30 | 49 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $45.03 |
-| Market value | $10.3B |
-| P/E | 12.0 |
-| Price/Sales | 0.87 |
-| Price/Book | 0.98 |
+| Price | $45.64 |
+| Market value | $10.5B |
+| P/E | 12.1 |
+| Price/Sales | 0.88 |
+| Price/Book | 0.99 |
 | Free-cash-flow yield | – |
 | Dividend yield | 3.6% |
 | Sales (12m) | $11.8B |
@@ -61,9 +61,9 @@ Finance · Investment Bankers/Brokers/Service
 | Piotroski F-score | 4/9 |
 | Altman Z | – |
 | Share count change (1y) | +0.4% |
-| Return 1m / 6m / 12m | -4.2% / -4.5% / -15.5% |
-| vs. 200-day average | -11.3% |
-| RSI (14d) | 42 |
+| Return 1m / 6m / 12m | -1.3% / -3.8% / -17.2% |
+| vs. 200-day average | -9.9% |
+| RSI (14d) | 46 |
 | Volatility (1y) | 39.5% |
 | Financials as of | 2026-05-31 |
 
@@ -74,4 +74,4 @@ Finance · Investment Bankers/Brokers/Service
 - Insider trades: http://openinsider.com/JEF
 - Full deep dive: run `python scout.py stock JEF` → `research/JEF.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

@@ -3,17 +3,17 @@ ticker: "GIII"
 company: "G-III Apparel Group LTD."
 sector: "Consumer Discretionary"
 industry: "Apparel"
-price: 28.44
-market_cap: "$1.2B"
-score: 57
-value: 87
-quality: 52
+price: 29.78
+market_cap: "$1.3B"
+score: 58
+value: 86
+quality: 51
 growth: 38
-momentum: 33
-health: 70
-pe: 17.9
+momentum: 38
+health: 71
+pe: 18.7
 piotroski: 5
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -27,28 +27,28 @@ Consumer Discretionary · Apparel
 
 ## In plain English
 
-- Cheaper than about 87% of stocks in Consumer Discretionary (value score).
-- Business quality ranks above 52% of all stocks scanned.
+- Cheaper than about 86% of stocks in Consumer Discretionary (value score).
+- Business quality ranks above 51% of all stocks scanned.
 - Sales fell 9% over the last 12 months.
-- Share price up 1% over 12 months (22% below its 52-week high).
+- Share price up 7% over 12 months (19% below its 52-week high).
 - Insiders bought $1.1M of shares recently (Goldfarb Morris (CEO)).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **57** | 87 | 52 | 38 | 33 | 70 |
+| **58** | 86 | 51 | 38 | 38 | 71 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $28.44 |
-| Market value | $1.2B |
-| P/E | 17.9 |
-| Price/Sales | 0.43 |
-| Price/Book | 0.67 |
-| Free-cash-flow yield | 24.5% |
+| Price | $29.78 |
+| Market value | $1.3B |
+| P/E | 18.7 |
+| Price/Sales | 0.45 |
+| Price/Book | 0.70 |
+| Free-cash-flow yield | 23.4% |
 | Dividend yield | 0.3% |
 | Sales (12m) | $2.9B |
 | Sales growth | -8.7% |
@@ -60,12 +60,12 @@ Consumer Discretionary · Apparel
 | Debt / equity | 0.00 |
 | Current ratio | 2.70 |
 | Piotroski F-score | 5/9 |
-| Altman Z | 3.22 |
+| Altman Z | 3.26 |
 | Share count change (1y) | +0.3% |
-| Return 1m / 6m / 12m | +5.6% / -9.6% / +1.4% |
-| vs. 200-day average | -7.3% |
-| RSI (14d) | 55 |
-| Volatility (1y) | 33.9% |
+| Return 1m / 6m / 12m | +10.1% / -4.7% / +6.8% |
+| vs. 200-day average | -2.9% |
+| RSI (14d) | 68 |
+| Volatility (1y) | 34.3% |
 | Financials as of | 2026-07-31 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Consumer Discretionary · Apparel
 - Insider trades: http://openinsider.com/GIII
 - Full deep dive: run `python scout.py stock GIII` → `research/GIII.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

@@ -3,8 +3,8 @@ ticker: "KOD"
 company: "Kodiak Sciences Inc"
 sector: "Health Care"
 industry: "Biotechnology: Biological Products (No Diagnostic Substances)"
-price: 87.72
-market_cap: "$5.5B"
+price: 85.78
+market_cap: "$5.4B"
 score: 42
 value: 37
 quality: 23
@@ -13,7 +13,7 @@ momentum: 95
 health: 33
 pe: null
 piotroski: 3
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🕵️ Insiders buying"
 tags: [stock]
@@ -29,7 +29,7 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 
 - More expensive than about 63% of Health Care peers (value score).
 - Business quality ranks above 23% of all stocks scanned.
-- Share price up 413% over 12 months (12% below its 52-week high).
+- Share price up 359% over 12 months (14% below its 52-week high).
 - Insiders bought $157.0M of shares recently (Baker Bros. Advisors LP (Dir, 10%)).
 
 ## Scores (0–100, higher is better)
@@ -42,11 +42,11 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 
 | | |
 |---|---:|
-| Price | $87.72 |
-| Market value | $5.5B |
+| Price | $85.78 |
+| Market value | $5.4B |
 | P/E | – |
 | Price/Sales | – |
-| Price/Book | 90.24 |
+| Price/Book | 88.24 |
 | Free-cash-flow yield | -2.5% |
 | Dividend yield | 0.0% |
 | Sales (12m) | – |
@@ -61,9 +61,9 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 | Piotroski F-score | 3/9 |
 | Altman Z | – |
 | Share count change (1y) | +18.7% |
-| Return 1m / 6m / 12m | +178.3% / +98.9% / +412.7% |
-| vs. 200-day average | +118.2% |
-| RSI (14d) | 60 |
+| Return 1m / 6m / 12m | +158.2% / +88.8% / +359.0% |
+| vs. 200-day average | +111.9% |
+| RSI (14d) | 58 |
 | Volatility (1y) | 206.3% |
 | Financials as of | 2026-06-30 |
 
@@ -80,4 +80,4 @@ Health Care · Biotechnology: Biological Products (No Diagnostic Substances)
 - Insider trades: http://openinsider.com/KOD
 - Full deep dive: run `python scout.py stock KOD` → `research/KOD.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

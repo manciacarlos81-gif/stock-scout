@@ -3,17 +3,17 @@ ticker: "GRND"
 company: "Grindr Inc."
 sector: "Technology"
 industry: "Computer Software: Programming Data Processing"
-price: 13.73
-market_cap: "$2.4B"
-score: 69
-value: 64
+price: 14.1
+market_cap: "$2.5B"
+score: 68
+value: 63
 quality: 87
 growth: 87
-momentum: 55
-health: 50
-pe: 25.0
+momentum: 51
+health: 51
+pe: 25.6
 piotroski: 8
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "💵 Dividends & buybacks"
 tags: [stock]
@@ -27,27 +27,27 @@ Technology · Computer Software: Programming Data Processing
 
 ## In plain English
 
-- Cheaper than about 64% of stocks in Technology (value score).
+- Cheaper than about 63% of stocks in Technology (value score).
 - Business quality ranks above 87% of all stocks scanned.
 - Sales grew 32% over the last 12 months.
-- Share price up 8% over 12 months (23% below its 52-week high).
+- Share price down 6% over 12 months (21% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **69** | 64 | 87 | 87 | 55 | 50 |
+| **68** | 63 | 87 | 87 | 51 | 51 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $13.73 |
-| Market value | $2.4B |
-| P/E | 25.0 |
-| Price/Sales | 4.68 |
+| Price | $14.10 |
+| Market value | $2.5B |
+| P/E | 25.6 |
+| Price/Sales | 4.81 |
 | Price/Book | – |
-| Free-cash-flow yield | 5.9% |
+| Free-cash-flow yield | 5.7% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $509.8M |
 | Sales growth | +32.4% |
@@ -59,12 +59,12 @@ Technology · Computer Software: Programming Data Processing
 | Debt / equity | – |
 | Current ratio | 1.10 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 5.06 |
+| Altman Z | 5.15 |
 | Share count change (1y) | -10.4% |
-| Return 1m / 6m / 12m | -11.1% / +1.3% / +8.4% |
-| vs. 200-day average | +0.7% |
-| RSI (14d) | 37 |
-| Volatility (1y) | 44.7% |
+| Return 1m / 6m / 12m | -11.2% / +4.9% / -6.4% |
+| vs. 200-day average | +3.3% |
+| RSI (14d) | 42 |
+| Volatility (1y) | 44.5% |
 | Financials as of | 2026-06-30 |
 
 ## Watch out
@@ -78,4 +78,4 @@ Technology · Computer Software: Programming Data Processing
 - Insider trades: http://openinsider.com/GRND
 - Full deep dive: run `python scout.py stock GRND` → `research/GRND.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_

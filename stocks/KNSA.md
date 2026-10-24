@@ -3,17 +3,17 @@ ticker: "KNSA"
 company: "Kiniksa Pharmaceuticals International plc"
 sector: "Health Care"
 industry: "Biotechnology: Pharmaceutical Preparations"
-price: 79.7
-market_cap: "$6.2B"
-score: 78
+price: 80.79
+market_cap: "$6.3B"
+score: 77
 value: 57
 quality: 79
 growth: 90
-momentum: 94
-health: 75
-pe: 77.1
+momentum: 92
+health: 76
+pe: 78.2
 piotroski: 8
-updated: "2026-10-23"
+updated: "2026-10-24"
 screens:
   - "🏆 Top overall"
   - "🚀 Growth + momentum"
@@ -31,23 +31,23 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Cheaper than about 57% of stocks in Health Care (value score).
 - Business quality ranks above 79% of all stocks scanned.
 - Sales grew 59% over the last 12 months.
-- Share price up 106% over 12 months (4% below its 52-week high).
+- Share price up 108% over 12 months (3% below its 52-week high).
 
 ## Scores (0–100, higher is better)
 
 | Overall | Value | Quality | Growth | Momentum | Health |
 |---:|---:|---:|---:|---:|---:|
-| **78** | 57 | 79 | 90 | 94 | 75 |
+| **77** | 57 | 79 | 90 | 92 | 76 |
 
 ## Key numbers
 
 | | |
 |---|---:|
-| Price | $79.70 |
-| Market value | $6.2B |
-| P/E | 77.1 |
-| Price/Sales | 7.40 |
-| Price/Book | 9.51 |
+| Price | $80.79 |
+| Market value | $6.3B |
+| P/E | 78.2 |
+| Price/Sales | 7.50 |
+| Price/Book | 9.64 |
 | Free-cash-flow yield | 2.2% |
 | Dividend yield | 0.0% |
 | Sales (12m) | $840.8M |
@@ -60,12 +60,12 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 | Debt / equity | – |
 | Current ratio | 3.90 |
 | Piotroski F-score | 8/9 |
-| Altman Z | 16.75 |
+| Altman Z | 16.96 |
 | Share count change (1y) | +7.0% |
-| Return 1m / 6m / 12m | +4.8% / +82.8% / +105.6% |
-| vs. 200-day average | +35.0% |
-| RSI (14d) | 54 |
-| Volatility (1y) | 49.7% |
+| Return 1m / 6m / 12m | +7.2% / +50.0% / +107.5% |
+| vs. 200-day average | +36.4% |
+| RSI (14d) | 57 |
+| Volatility (1y) | 49.5% |
 | Financials as of | 2026-06-30 |
 
 ## Dig deeper
@@ -75,4 +75,4 @@ Health Care · Biotechnology: Pharmaceutical Preparations
 - Insider trades: http://openinsider.com/KNSA
 - Full deep dive: run `python scout.py stock KNSA` → `research/KNSA.md`
 
-_Updated 2026-10-23 · [latest report](../reports/latest.md)_
+_Updated 2026-10-24 · [latest report](../reports/latest.md)_
